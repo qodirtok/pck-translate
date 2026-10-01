@@ -1,0 +1,17 @@
+---Material Library ID	Tip Message
+8	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+9	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+10	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+11	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+12	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+13	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+14	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+15	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+16	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+17	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+18	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+19	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+20	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+21	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+22	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
+23	When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can be returned.
