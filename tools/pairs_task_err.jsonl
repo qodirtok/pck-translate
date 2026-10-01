@@ -1,0 +1,56 @@
+{"source": "未知的任务错误", "english": "Unknown quest error"}
+{"source": "不是根任务", "english": "Not a root quest"}
+{"source": "已有相同任务", "english": "Duplicate quest already exists"}
+{"source": "已经到达任务列表上限", "english": "Quest list limit reached"}
+{"source": "任务列表已满", "english": "Quest list is full"}
+{"source": "不能重复做此任务", "english": "This quest cannot be repeated"}
+{"source": "人物等级不够", "english": "Character level too low"}
+{"source": "人物等级过高", "english": "Character level too high"}
+{"source": "没有需要的物品", "english": "Required item missing"}
+{"source": "声望不满足条件", "english": "Reputation requirement not met"}
+{"source": "军团不满足要求", "english": "Legion requirement not met"}
+{"source": "性别不满足要求", "english": "Gender requirement not met"}
+{"source": "兵种不满足要求", "english": "Troop requirement not met"}
+{"source": "没有达到所需修真阶段", "english": "Required Cultivation stage not reached"}
+{"source": "前提任务不满足", "english": "Prerequisite quest not met"}
+{"source": "任务已到达接收者上限", "english": "Quest receiver limit reached"}
+{"source": "金钱不够", "english": "Not enough Gold"}
+{"source": "无此任务", "english": "No such quest"}
+{"source": "任务要求队长", "english": "Quest requires a Captain"}
+{"source": "组队成员不满足要求", "english": "Party member requirement not met"}
+{"source": "发放任务的时间段不对", "english": "Wrong time period to issue this quest"}
+{"source": "无此子任务", "english": "No such sub-quest"}
+{"source": "互斥任务不满足要求", "english": "Mutually exclusive quest requirement not met"}
+{"source": "当前位置不能这样做", "english": "Cannot do this at the current position"}
+{"source": "错误的子任务", "english": "Wrong sub-quest"}
+{"source": "队员距离过远", "english": "Party member is too far away"}
+{"source": "包裹空间不够", "english": "Not enough Inventory space"}
+{"source": "生产技能不满足要求", "english": "Crafting skill requirement not met"}
+{"source": "特殊奖励不满足要求", "english": "Special reward requirement not met"}
+{"source": "PK值不满足要求", "english": "PK value requirement not met"}
+{"source": "称号不满足要求", "english": "Title requirement not met"}
+{"source": "军团贡献度不满足要求", "english": "Legion Contribution requirement not met"}
+{"source": "只有结义成员才能接此任务", "english": "Only Brotherhood members can accept this quest"}
+{"source": "只有结义族长才能接此任务", "english": "Only the Brotherhood Leader can accept this quest"}
+{"source": "结义技能等级不满足要求", "english": "Brotherhood skill level requirement not met"}
+{"source": "结义技能熟练度不满足要求", "english": "Brotherhood skill proficiency requirement not met"}
+{"source": "记录不满足要求", "english": "Record requirement not met"}
+{"source": "法宝血炼值不满足要求", "english": "Artifact Blood Refine value requirement not met"}
+{"source": "完成次数超出要求", "english": "Completion count exceeds the requirement"}
+{"source": "获取任务表失败", "english": "Failed to obtain the quest table"}
+{"source": "包裹空间不足", "english": "Not enough Inventory space"}
+{"source": "任务已满", "english": "Quest list is full"}
+{"source": "等级不满足要求", "english": "Level requirement not met"}
+{"source": "婚姻状况不满足要求", "english": "Marital status requirement not met"}
+{"source": "战车条件不满足要求", "english": "Chariot condition requirement not met"}
+{"source": "变身条件不满足要求", "english": "Transformation condition requirement not met"}
+{"source": "最高战魂等级不满足要求", "english": "Max War Soul level requirement not met"}
+{"source": "最高护卫等级不满足要求", "english": "Max Bodyguard level requirement not met"}
+{"source": "VIP等级不满足要求", "english": "VIP level requirement not met"}
+{"source": "完成战场状况不满足要求", "english": "Battlefield completion condition not met"}
+{"source": "账号信息完整性不满足要求", "english": "Account information integrity requirement not met"}
+{"source": "官渡阵营不满足要求", "english": "Guandu Faction requirement not met"}
+{"source": "军团状况不满足要求", "english": "Legion status requirement not met"}
+{"source": "阵营官职不满足要求", "english": "Faction official position requirement not met"}
+{"source": "已达上限，无法完成", "english": "Limit reached, cannot complete"}
+{"source": "声望不满足要求", "english": "Reputation requirement not met"}

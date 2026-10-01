@@ -1677,3 +1677,63 @@ Also expected: a province and its namesake capital city share the name
 | 生死情 | Life-and-Death Bond |
 | 真朋友 | True Friend |
 | 相思梦 | Dream of Longing |
+
+## Quest Error Messages
+| Source | English |
+| --- | --- |
+| 未知的任务错误 | Unknown quest error |
+| 不是根任务 | Not a root quest |
+| 已有相同任务 | Duplicate quest already exists |
+| 已经到达任务列表上限 | Quest list limit reached |
+| 任务列表已满 | Quest list is full |
+| 不能重复做此任务 | This quest cannot be repeated |
+| 人物等级不够 | Character level too low |
+| 人物等级过高 | Character level too high |
+| 没有需要的物品 | Required item missing |
+| 声望不满足条件 | Reputation requirement not met |
+| 军团不满足要求 | Legion requirement not met |
+| 性别不满足要求 | Gender requirement not met |
+| 兵种不满足要求 | Troop requirement not met |
+| 没有达到所需修真阶段 | Required Cultivation stage not reached |
+| 前提任务不满足 | Prerequisite quest not met |
+| 任务已到达接收者上限 | Quest receiver limit reached |
+| 金钱不够 | Not enough Gold |
+| 无此任务 | No such quest |
+| 任务要求队长 | Quest requires a Captain |
+| 组队成员不满足要求 | Party member requirement not met |
+| 发放任务的时间段不对 | Wrong time period to issue this quest |
+| 无此子任务 | No such sub-quest |
+| 互斥任务不满足要求 | Mutually exclusive quest requirement not met |
+| 当前位置不能这样做 | Cannot do this at the current position |
+| 错误的子任务 | Wrong sub-quest |
+| 队员距离过远 | Party member is too far away |
+| 包裹空间不够 | Not enough Inventory space |
+| 生产技能不满足要求 | Crafting skill requirement not met |
+| 特殊奖励不满足要求 | Special reward requirement not met |
+| PK值不满足要求 | PK value requirement not met |
+| 声望不满足要求 | Reputation requirement not met |
+| 称号不满足要求 | Title requirement not met |
+| 军团贡献度不满足要求 | Legion Contribution requirement not met |
+| 只有结义成员才能接此任务 | Only Brotherhood members can accept this quest |
+| 只有结义族长才能接此任务 | Only the Brotherhood Leader can accept this quest |
+| 结义技能等级不满足要求 | Brotherhood skill level requirement not met |
+| 结义技能熟练度不满足要求 | Brotherhood skill proficiency requirement not met |
+| 记录不满足要求 | Record requirement not met |
+| 法宝血炼值不满足要求 | Artifact Blood Refine value requirement not met |
+| 完成次数超出要求 | Completion count exceeds the requirement |
+| 获取任务表失败 | Failed to obtain the quest table |
+| 包裹空间不足 | Not enough Inventory space |
+| 任务已满 | Quest list is full |
+| 等级不满足要求 | Level requirement not met |
+| 婚姻状况不满足要求 | Marital status requirement not met |
+| 战车条件不满足要求 | Chariot condition requirement not met |
+| 变身条件不满足要求 | Transformation condition requirement not met |
+| 最高战魂等级不满足要求 | Max War Soul level requirement not met |
+| 最高护卫等级不满足要求 | Max Bodyguard level requirement not met |
+| VIP等级不满足要求 | VIP level requirement not met |
+| 完成战场状况不满足要求 | Battlefield completion condition not met |
+| 账号信息完整性不满足要求 | Account information integrity requirement not met |
+| 官渡阵营不满足要求 | Guandu Faction requirement not met |
+| 军团状况不满足要求 | Legion status requirement not met |
+| 阵营官职不满足要求 | Faction official position requirement not met |
+| 已达上限，无法完成 | Limit reached, cannot complete |
