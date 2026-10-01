@@ -85,6 +85,11 @@ CREATE INDEX IF NOT EXISTS idx_notes_section ON notes(section_id);
 -- table `terms` has no `section` or `subgroup` column, so declaring them here
 -- made every MATCH and every 'rebuild' fail with "no such column: T.section".
 -- Section and subgroup are derived from table_id at query time instead.
+--
+-- Tokenizer note: `trigram` cannot index strings shorter than 3 characters, so
+-- a MATCH on a one- or two-character CJK term (e.g. '宝物', '绑定') returns no
+-- rows even when the term is present. That is a property of the tokenizer, not
+-- a missing entry. Use an exact `WHERE source = ?` query for short terms.
 CREATE VIRTUAL TABLE IF NOT EXISTS terms_fts USING fts5(
   source, english,
   content='terms', content_rowid='id', tokenize='trigram'
