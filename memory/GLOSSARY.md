@@ -1771,6 +1771,178 @@ Also expected: a province and its namesake capital city share the name
 | 七擒孟`获 | Seven Captures of Meng Huo |
 | 车战无双 | Unmatched Chariot Battle |
 
+## Interface Terms - current/interfaces/
+| Source | English |
+| --- | --- |
+| 附魂 | Soul Attach |
+| 附魂服务 | Soul Attach Services |
+| 附魂材料 | Soul Attach Materials |
+| 符文 | Glyph |
+| 符文服务 | Glyph Services |
+| 装备成长 | Equipment Growth |
+| 成长 | Growth |
+| 成长值 | Growth Value |
+| 自动成长至 | Auto Grow To |
+| 消耗金币 | Gold Cost |
+| 目标装备 | Target Equipment |
+| 可附加属性 | Attachable Attributes |
+| 所需历练 | Required EXP |
+| 成功几率 | Success Rate |
+| 即将成长等级 | Next Growth Level |
+| 符玉服务 | Talisman Jade Services |
+| 符玉 | Talisman Jade |
+| 属性格数 | Attribute Slots |
+| 已用格数 | Used Slots |
+| 费用 | Cost |
+| 选择符玉 | Select Talisman Jade |
+| 转移至装备 | Transfer To Equipment |
+| 快捷购买 | Quick Buy |
+| 单价 | Unit Price |
+| 总计 | Total |
+| 金元宝 | Gold Ingots |
+| 总计元宝数量 | Total Gold Ingots |
+| 拥有元宝数量 | Gold Ingots Owned |
+| 点击进行充值 | Click to Recharge |
+| 拥有点卷数量 | Vouchers Owned |
+| 直接购买 | Direct Purchase |
+| 价格 | Price |
+| 下一页 | Next |
+| 上一页 | Previous |
+| 永久 | Permanent |
+| 装备强化 | Equipment Enhancement |
+| 强化材料 | Enhancement Materials |
+| 原始强化属性 | Original Enhancement Attributes |
+| 初始强化属性 | Initial Enhancement Attributes |
+| 装备属性 | Equipment Attributes |
+| 目标强化属性 | Target Enhancement Attributes |
+| 升级后强化属性 | Post-Upgrade Enhancement Attributes |
+| 推荐强化属性 | Recommended Enhancement Attributes |
+| 强化 | Enhance |
+| 成功概率 | Success Rate |
+| 所需物品 | Required Items |
+| 装备升级 | Equipment Upgrade |
+| 升级 | Upgrade |
+| 待升级装备 | Equipment to Upgrade |
+| 选择升级后的装备 | Select Upgraded Equipment |
+| 升级所需材料 | Required Upgrade Materials |
+| 升级所需成长等级 | Required Growth Level for Upgrade |
+| 一键移动设置 | One-Key Move Settings |
+| 普通状态说话信息 | Normal Chat Messages |
+| 普通聊天 | Normal Chat |
+| 喊话消息 | Shout Messages |
+| 世界聊天 | World Chat |
+| 队伍内的聊天信息 | Party Chat Messages |
+| 队伍聊天 | Party Chat |
+| 军团内的聊天信息 | Legion Chat Messages |
+| 军团聊天 | Legion Chat |
+| 密语信息 | Whisper Messages |
+| 伤害信息 | Damage Info |
+| 系统信息 | System Info |
+| 自动回复密语 | Auto-Reply Whisper |
+| 击杀信息 | Kill Info |
+| gm发布的消息 | GM Announcements |
+| 系统广播 | System Broadcast |
+| 系统保留信息 | System Reserved Messages |
+| 其它信息 | Other Info |
+| 聊天频道设置 | Chat Channel Settings |
+| 普通频道 | Normal Channel |
+| 组队频道 | Party Channel |
+| 军团频道 | Legion Channel |
+| 密语频道 | Whisper Channel |
+| 系统频道 | System Channel |
+| 世界频道 | World Channel |
+| 聊天文字设置 | Chat Text Settings |
+| 结义聊天 | Sworn Brotherhood Chat |
+| 聊天文字大小 | Chat Text Size |
+| 自动上线提示 | Auto Online Notification |
+| 其他设置 | Other Settings |
+| GM广播 | GM Broadcast |
+| 开启装备比对 | Enable Equipment Compare |
+| 阵营聊天信息 | Faction Chat Messages |
+| 阵营聊天 | Faction Chat |
+| 地区聊天信息 | Region Chat Messages |
+| 地区聊天 | Region Chat |
+| 系统设置 | System Settings |
+| 界面设置 | Interface Settings |
+| 快捷键设置 | Hotkey Settings |
+| 忽略刚才的更改并退出 | Discard Changes and Exit |
+| 应用刚才的更改并退出 | Apply Changes and Exit |
+| 应用刚才的更改 | Apply Changes |
+| 应用 | Apply |
+| 设为默认值 | Set as Default |
+| 恢复默认 | Restore Defaults |
+| 显示其他玩家伤害数 | Show Other Players' Damage |
+| 显示历练提示 | Show EXP Notifications |
+| 设置1号快捷键 | Set Hotkey 1 |
+| 设置快捷键1 | Set Hotkey 1 |
+| 设置2号快捷键 | Set Hotkey 2 |
+| 设置快捷键2 | Set Hotkey 2 |
+| 游戏功能 | Game Functions |
+| 快捷键1 | Hotkey 1 |
+| 快捷键2 | Hotkey 2 |
+| 聊天设置 | Chat Settings |
+| 小键盘 | Numpad |
+| 小提示 | Tip |
+| 是否开启呼叫机 | Enable Pager |
+| 视频选项 | Video Options |
+| 音频选项 | Audio Options |
+| 音频采样率 | Audio Sample Rate |
+| 视野距离 | View Distance |
+| 水面效果 | Water Effects |
+| 地面精度 | Ground Detail |
+| 树木细节度 | Tree Detail |
+| 影子显示 | Shadow Display |
+| 纹理锐化 | Texture Sharpening |
+| 视频总体设置 | Overall Video Settings |
+| 低 | Low |
+| 高 | High |
+| 近 | Near |
+| 远 | Far |
+| 分辨率 | Resolution |
+| 贴图精度 | Texture Quality |
+| 音乐音量 | Music Volume |
+| 音效音量 | Sound Effects Volume |
+| 游戏亮度 | Brightness |
+| 花草细节度 | Grass/Flower Detail |
+| 日月光晕 | Sun/Moon Halo |
+| 水面折射 | Water Refraction |
+| 云层细节 | Cloud Detail |
+| 垂直同步 | V-Sync |
+| 开启 | On |
+| 关闭 | Off |
+| 光华渲染 | Glow Rendering |
+| 环境音量 | Ambient Volume |
+| 开启NPC语音 | Enable NPC Voice |
+| 画面显示选项 | Display Options |
+| 玩家商店名称 | Player Shop Name |
+| 玩家称号 | Player Title |
+| 结义名称 | Sworn Brotherhood Name |
+| 玩家名字 | Player Name |
+| 其它玩家名字、标志 | Other Players' Names & Marks |
+| 玩家显示距离限制 | Player Display Distance Limit |
+| 怪物名字 | Monster Names |
+| NPC名字 | NPC Names |
+| 地面物品名字 | Ground Item Names |
+| 军团名称和标志 | Legion Name & Mark |
+| 自己的名字 | Own Name |
+| 暂未开放 | Not Yet Available |
+| 说话内容 | Speech Content |
+| 说话泡泡 | Speech Bubble |
+| 小地图设置 | Minimap Settings |
+| 显示周围怪物 | Show Nearby Monsters |
+| 显示周围NPC | Show Nearby NPCs |
+| 显示周围玩家 | Show Nearby Players |
+| 特效显示等级 | Effects Display Level |
+| 其它玩家个性化 | Other Players Customization |
+| 显示距离 | Display Distance |
+| 地图指向设置 | Map Direction Settings |
+| 显示正北指示器 | Show North Indicator |
+| 显示雷达图指示器 | Show Radar Indicator |
+| 显示任务NPC指示器 | Show Quest NPC Indicator |
+| 界面比例不改变 | Interface scale does not change |
+| 护卫名字 | Escort Names |
+| 不显示新手指引弹版 | Do Not Show Beginner Guide Popups |
+
 ## Title Definitions - current/configs/title_def.lua
 | Source | English |
 | --- | --- |
