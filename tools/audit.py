@@ -119,14 +119,23 @@ def main(argv: list[str]) -> int:
         dst = Path(argv[0])
         if not dst.is_absolute():
             dst = ROOT / dst
-        rel = dst.relative_to(ROOT / "Translate")
+        try:
+            rel = dst.relative_to(ROOT / "Translate")
+        except ValueError:
+            sys.stderr.write("not under Translate/: %s\n" % dst)
+            return 1
         src = ROOT / "current" / rel
         pairs = [(src, dst)]
 
     all_ok = True
     for src, dst in pairs:
         if not src.exists():
+            # A destination with no source is unverifiable, not clean. Failing
+            # here stops a mistyped or stray file from reporting a green audit.
             sys.stderr.write("no source for %s\n" % dst)
+            all_ok = False
+            print("FAIL  %s" % dst.relative_to(ROOT))
+            print("  missing_source: %s" % src)
             continue
         r = audit(src, dst)
         ok = (r["bom_match"] and r["enc_match"] and r["line_match"]
