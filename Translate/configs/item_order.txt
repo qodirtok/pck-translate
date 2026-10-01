@@ -1,0 +1,21 @@
+\\Items\Doll					15
+\\Items\Class Upgrade Item				86
+\\Items\Quest Random Generator				42
+\\Items\Recipe Scroll					56
+\\Items\Enhancement Upgrade Item				97
+\\Items\Inlay Stone					53
+\\Items\Attribute Stone					54
+\\Items\Enchant Stone					55
+\\Items\Production Material					11
+\\Items\Skill Item					65
+\\Items\War Soul Growth Item			74
+\\Items\War Soul Spirit Replenish Item				76
+\\Items\Fireworks					49
+\\Items\Medicine					8
+\\Items\Teleport Flag					90
+\\Items\Teleport Scroll					14
+\\Equipment						4
+\\War Soul						73
+\\Items\Vehicle					66
+\\Items\VIP Card					98
+\\Items\Lottery					68
