@@ -100,19 +100,26 @@ def main(argv):
 
     matches = 0
     total = 0
+    only_section = None
+    if "--section" in sys.argv:
+        i = sys.argv.index("--section")
+        only_section = sys.argv[i + 1]
     with sqlite3.connect(str(DB)) as conn:
         conn.row_factory = sqlite3.Row
         for i, head, payload, quoted in extract_payloads(text):
             total += 1
-            # try exact source match
-            row = conn.execute(
-                "SELECT english FROM terms"
-                " WHERE source = ? AND table_id IN"
-                " (SELECT id FROM tables"
-                "  WHERE section_id IN"
-                "   (SELECT id FROM sections WHERE slug IN"
-                "    ('fixed-msg-terms','fixed-msg-messages')))",
-                (payload,)).fetchone()
+            # try exact source match across every section
+            sql = (
+                "SELECT english, s.slug AS section FROM terms t"
+                " JOIN tables tb ON tb.id = t.table_id"
+                " JOIN sections s ON s.id = tb.section_id"
+                " WHERE t.source = ?"
+            )
+            params = [payload]
+            if only_section:
+                sql += " AND s.slug = ?"
+                params.append(only_section)
+            row = conn.execute(sql, params).fetchone()
             if row:
                 matches += 1
                 print("%s  %s -> %s  [%s line %d]" %

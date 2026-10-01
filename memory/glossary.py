@@ -80,34 +80,31 @@ CREATE TABLE IF NOT EXISTS notes (
 
 CREATE INDEX IF NOT EXISTS idx_notes_section ON notes(section_id);
 
+-- terms_fts is an EXTERNAL CONTENT table: every column it indexes must exist
+-- in the content table, and lookups read those columns directly. The content
+-- table `terms` has no `section` or `subgroup` column, so declaring them here
+-- made every MATCH and every 'rebuild' fail with "no such column: T.section".
+-- Section and subgroup are derived from table_id at query time instead.
 CREATE VIRTUAL TABLE IF NOT EXISTS terms_fts USING fts5(
-  source, english, section, subgroup,
+  source, english,
   content='terms', content_rowid='id', tokenize='trigram'
 );
 
 CREATE TRIGGER IF NOT EXISTS terms_ai AFTER INSERT ON terms BEGIN
-  INSERT INTO terms_fts(rowid, source, english, section, subgroup)
-  SELECT new.id, new.source, new.english, s.slug, tb.subgroup
-  FROM tables tb JOIN sections s ON s.id = tb.section_id
-  WHERE tb.id = new.table_id;
+  INSERT INTO terms_fts(rowid, source, english)
+  VALUES (new.id, new.source, new.english);
 END;
 
 CREATE TRIGGER IF NOT EXISTS terms_ad AFTER DELETE ON terms BEGIN
-  INSERT INTO terms_fts(terms_fts, rowid, source, english, section, subgroup)
-  SELECT old.id, old.source, old.english, s.slug, tb.subgroup
-  FROM tables tb JOIN sections s ON s.id = tb.section_id
-  WHERE tb.id = old.table_id;
+  INSERT INTO terms_fts(terms_fts, rowid, source, english)
+  VALUES ('delete', old.id, old.source, old.english);
 END;
 
 CREATE TRIGGER IF NOT EXISTS terms_au AFTER UPDATE ON terms BEGIN
-  INSERT INTO terms_fts(terms_fts, rowid, source, english, section, subgroup)
-  SELECT old.id, old.source, old.english, s.slug, tb.subgroup
-  FROM tables tb JOIN sections s ON s.id = tb.section_id
-  WHERE tb.id = old.table_id;
-  INSERT INTO terms_fts(rowid, source, english, section, subgroup)
-  SELECT new.id, new.source, new.english, s.slug, tb.subgroup
-  FROM tables tb JOIN sections s ON s.id = tb.section_id
-  WHERE tb.id = new.table_id;
+  INSERT INTO terms_fts(terms_fts, rowid, source, english)
+  VALUES ('delete', old.id, old.source, old.english);
+  INSERT INTO terms_fts(rowid, source, english)
+  VALUES (new.id, new.source, new.english);
 END;
 """
 
