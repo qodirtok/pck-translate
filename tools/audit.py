@@ -24,7 +24,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-TOK = re.compile(r'%[-+ #0]*\d*(?:\.\d+)?[sdf]|%\d+\$[sdf]|&%s&|\^\w{1,8}|\$%*')
+TOK = re.compile(r'%[-+ #0]*\d*(?:\.\d+)?[sdf]|%\d+\$[sdf]|&%s&|\^[0-9A-Fa-f]{6}|\$%*')
 ID = re.compile(r'^(\d+,?[ \t]*)')
 CJK0, CJK1 = 0x4E00, 0x9FFF
 CJK_RANGES = ((0x3400, 0x4DBF), (0xF900, 0xFAFF), (0xFF01, 0xFF5E))
@@ -104,7 +104,8 @@ def main(argv: list[str]) -> int:
         sys.stderr.write("usage: audit.py <dst-path> [--dir]\n")
         return 1
     if "--dir" in argv:
-        base = Path(argv[0])
+        rest = [a for a in argv if a != "--dir"]
+        base = Path(rest[0]) if rest else ROOT / "Translate"
         if not base.is_absolute():
             base = ROOT / base
         pairs = []
