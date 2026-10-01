@@ -1,0 +1,153 @@
+#_begin
+
+// 0
+Standing
+Battle Stand
+Walk
+Run
+JumpStart
+    
+// 5                                          
+JumpAirLoop
+JumpLand
+Swim
+Float
+WingTakeOff
+    
+// 10                                          
+WingHover
+WingForward
+WingHighAltitudeDescend
+WingLowAltitudeDescend
+WingLand
+    
+// 15                                          
+FlyingSwordTakeOff                                      
+FlyingSwordHover                                      
+FlyingSwordForward                                      
+FlyingSwordHighAltitudeDescend                                  
+FlyingSwordLowAltitudeDescend                                  
+      
+// 20                                        
+FlyingSwordLand                                      
+Meditate                                          
+MeditateLoop                                      
+MeditateStandUp                                      
+Injured                                          
+    
+// 25                                          
+GroundDeath                                      
+GroundDeathLoop                                  
+WaterDeath                                      
+DeathWaterLoop                                  
+AirDeath                                      
+      
+// 30                                        
+AirDeathFallLoop                              
+AirDeathLand                                  
+DeathLandLoop                                  
+Revive                                          
+EnterScene                                    
+      
+// 35                                        
+KnockedBack                                        
+KnockedDown                                        
+KnockedDownGroundLoop                                
+KnockedDownStandUp                                    
+Pick                                          
+      
+// 40                                        
+PickPlantLoop                                  
+PickStandUp                                      
+PickUpItem                                        
+Stretch                                        
+LookAround                                      
+      
+// 45                                        
+RotateWeapon                                      
+WaveHand                                          
+Nod                                          
+ShakeHead                                          
+Shrug                                        
+      
+// 50                                        
+Laugh                                          
+Angry                                          
+Faint                                          
+Dejected                                          
+BlowKiss                                          
+    
+// 55                                          
+Shy                                          
+FistSalute                                          
+SitDown                                          
+SitDownLoop                                      
+SitDownStandUp                                      
+      
+// 60                                        
+Charge                                          
+Think                                          
+Provoke                                          
+Victory                                          
+Kiss                                          
+      
+// 65                                        
+KissLoop                                      
+KissEnd                                      
+NormalAttack1                                         
+NormalAttack2                                         
+NormalAttack3                                         
+      
+// 70                                        
+NormalAttack4                                        
+ThrowHiddenWeapon 
+FancyRun
+FancyJump
+WingGlide
+
+// 75
+FlyingSwordGlide
+Combat
+Attack1
+Attack2
+Attack3
+
+// 80
+Attack4
+Defend
+FallDown
+Prone
+LookOut
+
+// 85
+Dance
+UseItem
+UseItemLoop
+DualKiss
+Blink
+
+// 90
+Victory
+LightSkillStart
+LightSkillLoop
+CombatJumpStart
+CombatJumpAirLoop
+
+// 95
+CombatJumpLand
+CombatRun
+CombatLightSkillLoop
+
+// suffix, total number is 10
+None
+Sword
+Saber
+Wheel
+Staff
+
+None
+None
+None
+None
+None
+

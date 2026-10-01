@@ -1,0 +1,13 @@
+Angelica File Module Error Log
+Created(or opened) on 18/01/2011 11:49:40
+
+[11:49:40.656] AFileImage::Can not open file [\\sourceserver\ChibiSource\Configs\Configs\angelica.cfg] from disk!
+[11:49:40.656] AIniFile::Open Can't open file [Configs\angelica.cfg].
+[11:49:40.687] AFileImage::Can not open file [\\sourceserver\ChibiSource\Configs\Configs\angelica.cfg] from disk!
+[11:49:40.687] AIniFile::Open Can't open file [Configs\angelica.cfg].
+[11:49:40.875] AFileImage::Can not open file [\\sourceserver\ChibiSource\Configs\Gfx\gfxlist.txt] from disk!
+[11:49:40.875] AFileImage::Can not open file [\\sourceserver\ChibiSource\Configs\Shaders\vs\stereo_vs.txt] from disk!
+[11:49:40.875] AFileImage::Can not open file [\\sourceserver\ChibiSource\Configs\shaders\vs\lm_refract_vs.txt] from disk!
+[11:49:41.921] AFileImage::Can not open file [\\sourceserver\ChibiSource\Configs\Shaders\vs\gfx_pallete_vs.txt] from disk!
+[11:49:41.953] AFileImage::Can not open file [Configs\font.ini] from disk!
+[11:49:42.015] Log file closed successfully!

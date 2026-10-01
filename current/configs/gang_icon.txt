@@ -1,0 +1,100 @@
+//这个配置文件每一次更新时，只能是在每一项的最后边加入新的，绝对不能修改以前的顺序或者索引
+//组合图标的文字字体
+[Font_Name]
+name1	= 字体一
+name2	= 字体二
+name3	= 字体三
+
+//组合图标的文字颜色
+[Text_Color]
+name1	= 颜色一
+color1	= 255,0,0,255
+name2	= 颜色二
+color2	= 0,255,0,255
+name3	= 颜色三
+color3	= 255,128,128,255
+name4	= 颜色四
+color4	= 255,255,128,255
+name5	= 颜色五
+color5	= 128,255,0,255
+name6	= 颜色六
+color6	= 255,0,255,255
+name7	= 颜色七
+color7	= 0,0,0,255
+name8	= 颜色八
+color8	= 255,128,0,255
+name9	= 颜色九
+color9	= 128,0,255,255
+name10	= 颜色十
+color10	= 255,255,255,255
+
+//组合图标的背景色
+[Back_Color]
+name1	= 无色
+color1	= 0,0,0,0
+name2	= 颜色一
+color2	= 255,0,0,255
+name3	= 颜色二
+color3	= 0,255,0,255
+name4	= 颜色三
+color4	= 255,128,128,255
+name5	= 颜色四
+color5	= 255,255,128,255
+name6	= 颜色五
+color6	= 128,255,0,255
+name7	= 颜色六
+color7	= 255,0,255,255
+name8	= 颜色七
+color8	= 0,0,0,255
+name9	= 颜色八
+color9	= 255,128,0,255
+name10	= 颜色九
+color10	= 128,0,255,255
+name11	= 颜色十
+color11	= 255,255,255,255
+
+//组合图标的中间层:index对应于“\Surfaces\InGame\GangIcon”目录下的资源索引
+[Mid_Icon]
+name1	= 图标1
+index1	= 1001
+name2	= 图标2
+index2	= 1002
+name3	= 图标3
+index3	= 1003
+name4	= 图标4
+index4	= 1004
+name5	= 图标5
+index5	= 1005
+name6	= 图标6
+index6	= 1006
+name7	= 图标7
+index7	= 1007
+name8	= 图标8
+index8	= 1008
+name9	= 图标9
+index9	= 1009
+name10	= 图标10
+index10	= 1010
+
+//组合图标的最上层:index对应于“\Surfaces\InGame\GangIcon”目录下的资源索引
+[Top_Icon]
+name1	= 图标1
+index1	= 2001
+name2	= 图标2
+index2	= 2002
+name3	= 图标3
+index3	= 2003
+name4	= 图标4
+index4	= 2004
+name5	= 图标5
+index5	= 2005
+name6	= 图标6
+index6	= 2006
+name7	= 图标7
+index7	= 2007
+name8	= 图标8
+index8	= 2008
+name9	= 图标9
+index9	= 2009
+name10	= 图标10
+index10	= 2010

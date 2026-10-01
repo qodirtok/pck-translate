@@ -1,0 +1,17 @@
+Angelica 3D Error Log
+Created(or opened) on 18/01/2011 11:49:40
+
+[11:49:40.812] A3DEngine::Init, Init Angelica Imm Wrapper Fail!
+[11:49:40.828] Chosen Device Format: BackBuffer [X8R8G8B8], DepthStencil [D24X8]
+[11:49:40.828] A3DDevice::Init(), Chosen SOFTWARE Vertex Processing...
+[11:49:40.859] A3DDevice::Init(), Create device 821x659x32
+[11:49:40.859] Max vertex blend matrix index: 255
+[11:49:40.859] VS version: 1.1
+[11:49:40.859] VS constant registers number: 96
+[11:49:40.859] PS version: 1.4
+[11:49:40.875] Skin model render method: Indexed Vertex Blend Matrix.
+[11:49:40.875] A3DGFXMan::Init() Can not open gfxlist.txt
+[11:49:40.875] A3DVertexShader::Load, Cannot open file \\sourceserver\ChibiSource\Configs\Shaders\vs\stereo_vs.txt!
+[11:49:40.875] A3DVertexShader::Load, Cannot open file \\sourceserver\ChibiSource\Configs\shaders\vs\lm_refract_vs.txt!
+[11:49:41.921] A3DVertexShader::Load, Cannot open file \\sourceserver\ChibiSource\Configs\Shaders\vs\gfx_pallete_vs.txt!
+[11:49:42.015] Log file closed successfully!

@@ -1,0 +1,4 @@
+POPUP "GroupNoTeam" 0 0 150 60 0 1 12 "Window\Window.tga" "" "" 0 0 0 0 "" 0 0 255 255 255 255 1
+HILIGHT "Listbox\Create_SelectR.tga"
+MENUITEM 101 "CreateTeam"
+MENUITEM 103 "ArrangeTeam"

@@ -1,0 +1,58 @@
+
+LoginServerList.xml		-1	-1	0
+Login.xml		-1	180	0
+LoginGfx.xml		-1	180	0
+Login_LeftDown.xml	0	-2	0
+Login_RightDown.xml	-1	-2	0
+Login_CurrentServer.xml	-1	-2	0
+Login_ReplaySelect.xml	-1	-1	0
+Softkb.xml		-380	-65	0
+PwdProtect.xml		-1	-1	0
+PwdProtect1.xml		-1	-1	0
+PwdProtect2.xml		-1	-1	0
+Restriction1.xml		-2	0	0
+ThirdPartyLogin.xml	-1	-1	0
+
+CharList.xml		1	-300	0
+Char_EnterWorld.xml		-1	-40	0
+Char_Create.xml		-65	-205	0
+Char_Delete.xml		-65	-155	0
+Char_Restore.xml		-65	-105	0
+Char_Return.xml		-65	-40	0
+Char_SelectLine.xml	-1	-1	0
+Char_ChangeLine.xml	1	-2	0
+Char_Rotate.xml		-1	-27	0
+
+Create.xml		1	1	0
+Create_Confirm.xml		-1	-40	0
+Create_Return.xml		-65	-40	0
+Create_SelectHome.xml		-1	-1	0
+Create_SelectFace.xml		-35	25	0
+Create_ProfInfo.xml		-27	25	0
+Create_Rotate.xml		-1	-27	0
+
+Prof_Info.xml		18	70	0
+Prof_Confirm.xml		-65	-90	0
+Prof_Cancel.xml		-65	-40	0
+Prof_Select1.xml		-2	0	0
+Prof_Select2.xml		0	-2	0
+
+CreateInfo0.xml		-2	-2	0
+CreateInfo1.xml		-2	-2	0
+CreateInfo3.xml		-2	-2	0
+CreateInfo4.xml		-2	-2	0
+CreateInfo6.xml		-2	-2	0
+CreateInfo7.xml		-2	-2	0
+Customize.xml		-1	-10	0
+Instruction.xml		-1	-1	0
+LoginWait.xml		-1	-1	0
+LoginPage.xml		-1	-1	0
+LoginAccountTime.xml 10 10 0
+
+RePassWord.xml	-1	-1	0
+
+LoginOtherServer.xml	-1 	-1	0
+Message5.xml		-1	-1	0
+
+
+CampSelect.xml	-1	-205	0

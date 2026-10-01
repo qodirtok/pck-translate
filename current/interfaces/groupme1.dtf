@@ -1,0 +1,6 @@
+POPUP "GroupMe1" 0 0 117 76 0 1 12 "Window\Window.tga" "" "" 0 0 0 0 "" 0 0 255 255 255 255 1
+HILIGHT "Listbox\Create_SelectR.tga"
+MENUITEM 101 "OpenT"
+MENUITEM 103 "GroupLeave"
+MENUITEM 105 "GroupDisband"
+MENUITEM 107 "Close"

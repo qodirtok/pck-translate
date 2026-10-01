@@ -1,0 +1,9 @@
+DIALOG "Win_Login" 0 0 226 423 0 1 10 "" "Window\Login.tga" "" 0 0 -1 -1 "" 0 0 242 242 242 255 1 1
+EDIT "DEFAULT_Txt_Account" "login" "" 48 87 133 18 "" 2 10 255 255 255 "TEXT" 0 0 20 1
+EDIT "Txt_PassWord" "login" "" 47 165 134 18 "" 3 10 255 255 255 "PASSWORD" 0 0 20 1
+STILLIMAGEBUTTON "Btn_Login" "login" "" 45 270 136 33 0 0 0 0 4 10 255 255 255 255 "Button\Login_Login.tga" "Button\Login_LoginDown.tga" "" 5 1 1
+STILLIMAGEBUTTON "Btn_ServerList" "changeserver" "" 45 319 136 33 0 0 0 0 6 10 255 255 255 255 "Button\Login_ServerList.tga" "Button\Login_ServerListDown.tga" "" 7 1 0
+LABEL "Txt_CurrentServer" "" "" 113 370 0 0 8 13 9 0 0 0 255
+CHECK "Chk_Forcelog" "" "" 57 199 24 24 "Extra\Login_Check.tga"
+LABEL "Txt_1" "" "" 92 200 0 0 10 14 11 255 255 255 255
+STILLIMAGEBUTTON "Btn_Link" "link" "" 56 231 113 18 0 0 0 0 12 10 0 128 192 255 "Frame\Clarity.bmp" "Frame\Clarity.bmp" "" 13 1 0

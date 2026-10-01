@@ -1,0 +1,7 @@
+POPUP "FriendOptionGroup" 0 0 150 60 0 1 12 "Window\Window.tga" "" "" 0 0 0 0 "" 0 0 255 255 255 255 1
+HILIGHT "Listbox\Create_SelectR.tga"
+MENUITEM 101 "AddFriend"
+MENUITEM 103 "AddGroup"
+MENUITEM 105 "RenameGroup"
+MENUITEM 107 "GroupColor"
+MENUITEM 109 "DeleteGroup"

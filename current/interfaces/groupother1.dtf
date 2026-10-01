@@ -1,0 +1,10 @@
+POPUP "GroupOther1" 0 0 117 76 0 1 12 "Window\Window.tga" "" "" 0 0 0 0 "" 0 0 255 255 255 255 1
+HILIGHT "Listbox\Create_SelectR.tga"
+MENUITEM 101 "Whisper"
+MENUITEM 103 "MakeLeader"
+MENUITEM 105 "Kick"
+MENUITEM 107 "Trade"
+MENUITEM 109 "Friend"
+MENUITEM 111 "Follow"
+MENUITEM 113 "Assist"
+MENUITEM 115 "Close"
