@@ -1,0 +1,100 @@
+//This config file can only append new entries at the end of each section on update. Never modify previous order or indices.
+//Composite icon text fonts
+[Font_Name]
+name1	= Font 1
+name2	= Font 2
+name3	= Font 3
+
+//Composite icon text colors
+[Text_Color]
+name1	= Color 1
+color1	= 255,0,0,255
+name2	= Color 2
+color2	= 0,255,0,255
+name3	= Color 3
+color3	= 255,128,128,255
+name4	= Color 4
+color4	= 255,255,128,255
+name5	= Color 5
+color5	= 128,255,0,255
+name6	= Color 6
+color6	= 255,0,255,255
+name7	= Color 7
+color7	= 0,0,0,255
+name8	= Color 8
+color8	= 255,128,0,255
+name9	= Color 9
+color9	= 128,0,255,255
+name10	= Color 10
+color10	= 255,255,255,255
+
+//组合图标的背景色
+[Back_Color]
+name1	= 无色
+color1	= 0,0,0,0
+name2	= Color 1
+color2	= 255,0,0,255
+name3	= Color 2
+color3	= 0,255,0,255
+name4	= Color 3
+color4	= 255,128,128,255
+name5	= Color 4
+color5	= 255,255,128,255
+name6	= Color 5
+color6	= 128,255,0,255
+name7	= Color 6
+color7	= 255,0,255,255
+name8	= Color 7
+color8	= 0,0,0,255
+name9	= Color 8
+color9	= 255,128,0,255
+name10	= Color 9
+color10	= 128,0,255,255
+name11	= Color 10
+color11	= 255,255,255,255
+
+//组合图标的中间层:index对应于“\Surfaces\InGame\GangIcon”目录下的资源索引
+[Mid_Icon]
+name1	= 图标1
+index1	= 1001
+name2	= 图标2
+index2	= 1002
+name3	= 图标3
+index3	= 1003
+name4	= 图标4
+index4	= 1004
+name5	= 图标5
+index5	= 1005
+name6	= 图标6
+index6	= 1006
+name7	= 图标7
+index7	= 1007
+name8	= 图标8
+index8	= 1008
+name9	= 图标9
+index9	= 1009
+name10	= 图标10
+index10	= 1010
+
+//组合图标的最上层:index对应于“\Surfaces\InGame\GangIcon”目录下的资源索引
+[Top_Icon]
+name1	= 图标1
+index1	= 2001
+name2	= 图标2
+index2	= 2002
+name3	= 图标3
+index3	= 2003
+name4	= 图标4
+index4	= 2004
+name5	= 图标5
+index5	= 2005
+name6	= 图标6
+index6	= 2006
+name7	= 图标7
+index7	= 2007
+name8	= 图标8
+index8	= 2008
+name9	= 图标9
+index9	= 2009
+name10	= 图标10
+index10	= 2010
