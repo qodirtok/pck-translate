@@ -53,32 +53,43 @@ def detect_encoding(head):
     return "utf-8"
 
 
+def payload_of(line: str):
+    """Return the translatable payload of a line, or None for headers/blank.
+
+    Mirrors tools/translate.py so both tools agree on what a payload is:
+    optional ID prefix, then quoted or bare text.
+    """
+    m = re.match(r"^(?:\d+,?[ \t]+)?(.*)$", line)
+    if not m:
+        return None
+    rest = m.group(1)
+    # Split payload from a trailing // comment first, per AGENTS.md: the
+    # comment must be mapped separately, never treated as payload.
+    ci = rest.find('//')
+    if ci >= 0:
+        rest = rest[:ci]
+    if '"' in rest:
+        first, last = rest.find('"'), rest.rfind('"')
+        if last > first:
+            return rest[first + 1:last]
+    return rest.rstrip() or None
+
+
 def extract_payloads(text):
-    """Given a UTF-16LE decoded text, yield (line_index, id, payload, quoted)"""
+    """Yield (line_index, id, payload, quoted) for each translatable line."""
     lines = text.split("\r\n")
     for i, line in enumerate(lines):
-        ma = ID_RE.match(line)
-        if not ma:
+        if not line.strip():
             continue
-        head = ma.group(0)
-        rest = line[len(head):]
+        ma = ID_RE.match(line)
+        head = ma.group(0) if ma else ''
+        payload = payload_of(line)
+        if payload is None:
+            continue
         # split body/comment
-        ci = rest.find('//')
-        if ci >= 0:
-            body, comment = rest[:ci], rest[ci:]
-        else:
-            body, comment = rest, ''
-        trailing = body[len(body.rstrip()):]
-        body = body.rstrip()
-        # quoted payload?
-        quoted = False
-        if body.startswith('"') and body.endswith('"'):
-            payload = body[1:-1]
-            quoted = True
-        else:
-            payload = body
-            quoted = False
-        yield (i, head, payload, quoted)
+        ci = line.rfind(payload)
+        trailing = line[ci + len(payload):] if ci >= 0 else ''
+        yield (i, head, payload, False)
 
 
 def main(argv):
@@ -97,6 +108,11 @@ def main(argv):
         text = raw.decode("utf-8")
     else:
         text = raw.decode("gbk", errors="replace")
+    # Strip a decoded BOM so the first line's payload matches the stored key.
+    # translate.py uses the utf-16 codec (which strips it); using the raw
+    # utf-16-le/utf-16-be codecs here would leave U+FEFF on line 1.
+    if text.startswith("\ufeff"):
+        text = text[1:]
 
     matches = 0
     total = 0

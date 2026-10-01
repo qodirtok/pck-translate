@@ -1737,3 +1737,36 @@ Also expected: a province and its namesake capital city share the name
 | 军团状况不满足要求 | Legion status requirement not met |
 | 阵营官职不满足要求 | Faction official position requirement not met |
 | 已达上限，无法完成 | Limit reached, cannot complete |
+
+## Team Types - current/configs/teamtypes.txt
+| Source | English |
+| --- | --- |
+| #NONE 无 | #NONE None |
+| #ALL 全部 | #ALL All |
+| #MAIN 活动与任务 | #MAIN Activities & Quests |
+| #MAIN 热门战场 | #MAIN Popular Battlefields |
+| 逍遥同游 | Carefree Journey |
+| 押镖护送 | Escort Convoy |
+| 英雄之路 | Hero's Path |
+| 莫问今朝 | Ask Not of Today |
+| 白帝城 | Baidi City |
+| 惩凶平叛 | Punish the Wicked, Quell the Rebellion |
+| 聚贤谷特殊事件 | Juxian Valley Special Event |
+| 水战之粮食采办 | Naval Battle: Grain Procurement |
+| 水战之战船建造 | Naval Battle: Warship Construction |
+| 水战之疫病救治 | Naval Battle: Plague Treatment |
+| 赤壁前哨战 | Chibi Skirmish |
+| 赤壁决战 | Chibi Decisive Battle |
+| 探索水贼岛 | Explore Bandit Island |
+| 国战 | National War |
+| 怪物攻城 | Monster Siege |
+| 英雄濮阳 | Hero Puyang |
+| 八阵休门 | Eight Formations: Rest Gate |
+| 八阵开门 | Eight Formations: Open Gate |
+| 英雄合肥 | Hero Hefei |
+| 华容道 | Huarong Road |
+| 北邙皇陵 | Beimang Imperial Tomb |
+| 甘露寺 | Ganlu Temple |
+| 英雄虎牢关 | Hero Hulao Pass |
+| 七擒孟`获 | Seven Captures of Meng Huo |
+| 车战无双 | Unmatched Chariot Battle |
