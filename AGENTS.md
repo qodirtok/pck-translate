@@ -385,24 +385,52 @@ Benefits:
 
 ## Translation Workflow
 
-Follow this order for every translation task.
+`tools/translate.py` does steps 4, 5 and 6 in one call. Use it. The manual
+sequence below is only the fallback for encodings the runner does not cover.
 
 1. **Inspect.** Check the file encoding and line endings first. Never assume UTF-8.
    Common in this project: UTF-16LE with BOM and CRLF.
    Use `python3 tools/scan.py --list` to confirm before you start.
 2. **Load memory.** Run `python3 tools/tm.py <source-path>` to see what glossary.db
    already knows. Do NOT read `memory/GLOSSARY.md` by hand.
+   It searches every section, so a file whose terms live outside `fixed-msg-*`
+   still reports its matches. Add `--section <slug>` to narrow it.
 3. **Decide unknowns.** Only the terms not in the glossary need your attention.
    Batch them into a single question when a decision is required.
-4. **Translate.** Replace only the human-readable text. Keep every other byte identical.
-   Build a payload→English dict (like `/tmp/translate_fm.py` does) and write with
-   the same encoding the source uses (`b'\xff\xfe' + text.encode('utf-16-le')`).
-5. **Verify structure.** Run `python3 tools/audit.py <output>`. It must print `OK`.
-6. **Write output.** Save to `Translate/` using the mirrored source path and the
-   same encoding as the source.
-7. **Update memory.** Ingest new terms into `memory/glossary.db` with
-   `python3 memory/glossary.py add-batch --file /tmp/pairs.jsonl`.
+4. **Write the pairs file.** One JSON object per line, UTF-8:
+   `{"source": "<chinese payload>", "english": "<english>"}`
+   The English must not contain CJK; the runner rejects it if it does.
+5. **Translate and verify in one call.**
+   ```
+   python3 tools/translate.py --src current/configs/<file> --pairs <pairs.jsonl>
+   ```
+   Add `--dry-run` first to check coverage without writing. The runner:
+   - writes to the mirrored path under `Translate/`
+   - preserves the source BOM, encoding and CRLF exactly
+   - **refuses to write** if any payload still contains CJK, so a half-translated
+     file can never land
+   - runs `tools/audit.py` itself and exits non-zero if the result is not `OK`
+6. **Update memory.** Ingest new terms into `memory/glossary.db`:
+   ```
+   python3 memory/glossary.py add-batch --file <pairs.jsonl> --section <slug>
+   python3 memory/glossary.py export   # regenerate memory/GLOSSARY.md
+   ```
+7. **Verify the batch.** `python3 tools/audit.py --dir Translate` must print `OK`
+   for every file, and `git status --porcelain current/` must be empty.
 8. **Push.** Run `python3 tools/push.py -m "<short description>"` to commit and push.
+
+### `translate.py` limitations
+
+The runner handles UTF-16LE, UTF-16BE and UTF-8. It does **not** handle
+GBK/CP936, which covers 397 files in this corpus (most `.xml`, `.lua`, `.stf`,
+`.dtf`). For those, decode with `raw.decode("gbk")` and write with
+`"gbk".encode()`, then run `audit.py` manually. Never guess: `scan.py --list`
+prints the encoding for every file.
+
+There is no batch mode. One file per invocation.
+
+Pairs files are committed under `tools/pairs_<name>.jsonl` so a batch is
+reproducible. They are inputs, not source: nothing reads them at runtime.
 
 Encoding rule: the output file must keep the same encoding, BOM, and line endings
 as the source file. When writing UTF-16LE output, use the `utf-16` codec in Python
@@ -573,13 +601,32 @@ whole line as payload.
 python3 tools/scan.py            # build/refresh tools/manifest.json
 python3 tools/scan.py --list     # list every translatable file with size + CJK count
 python3 tools/tm.py <source>    # dump payloads and show which are already in glossary.db
+python3 tools/translate.py --src <source> --pairs <pairs.jsonl> --dry-run
+python3 tools/translate.py --src <source> --pairs <pairs.jsonl>
 python3 tools/audit.py <output> # verify the result
+python3 tools/selftest.py       # regression-test audit.py itself
 python3 tools/push.py           # commit and push
 ```
 
 `tools/tm.py` answers the only question that matters before translating: how much
 of this file is already decided? If it reports a high match rate, most of the
-work is reuse, not new decisions.
+work is reuse, not new decisions. It searches every section, so a file whose terms
+live outside `fixed-msg-*` still reports its matches.
+
+`tools/translate.py` collapses translate + write + verify into one call and
+refuses to write a half-translated file. It handles UTF-16LE/BE and UTF-8 only;
+see the limitations note in the Translation Workflow section before using it on
+a GBK file.
+
+`tools/selftest.py` negative-tests `audit.py` itself. Run it after touching
+`audit.py` or `translate.py`; it must report every case behaving as expected.
+
+### Glossary lookup caveat
+
+The FTS index uses the `trigram` tokenizer, which cannot index strings shorter
+than 3 characters. A `MATCH` on a one- or two-character CJK term returns no rows
+even when the term is present. That is a tokenizer property, not a missing
+entry. Use an exact `WHERE source = ?` query for short terms.
 
 ---
 
