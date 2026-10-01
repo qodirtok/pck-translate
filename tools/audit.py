@@ -43,16 +43,18 @@ def ph_sig(line: str) -> tuple:
 def decode(p: Path) -> tuple[str, str, list[str], int]:
     """Return (bom, encoding, lines, crlf_count)."""
     raw = p.read_bytes()
-    crlf = raw.count(b"\r\n")
     if raw[:2] == b"\xff\xfe":
-        return raw[:2].decode("utf-16"), "utf-16-le", raw.decode("utf-16").split("\r\n"), crlf
+        return (raw[:2].decode("utf-16"), "utf-16-le",
+                raw.decode("utf-16").split("\r\n"), raw.decode("utf-16").count("\r\n"))
     if raw[:2] == b"\xfe\xff":
-        return raw[:2].decode("utf-16"), "utf-16-be", raw.decode("utf-16").split("\r\n"), crlf
+        return (raw[:2].decode("utf-16"), "utf-16-be",
+                raw.decode("utf-16").split("\r\n"), raw.decode("utf-16").count("\r\n"))
     if raw[:3] == b"\xef\xbb\xbf":
-        return raw[:3].decode("utf-8"), "utf-8", raw.decode("utf-8").split("\n"), crlf
+        return (raw[:3].decode("utf-8"), "utf-8",
+                raw.decode("utf-8").split("\n"), raw.count(b"\r\n"))
     # fallback
     return (raw[:3].decode("utf-8", errors="replace"), "unknown",
-            raw.decode("utf-8", errors="replace").split("\n"), crlf)
+            raw.decode("utf-8", errors="replace").split("\n"), raw.count(b"\r\n"))
 
 
 def audit(src: Path, dst: Path) -> dict:

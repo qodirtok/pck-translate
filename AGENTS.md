@@ -358,18 +358,18 @@ Rules:
 
 ## Translation Memory (Glossary)
 
-A permanent terminology store lives at `memory/GLOSSARY.md`. It is the single source of truth for every term already decided in this project.
+The permanent terminology store is `memory/glossary.db` (SQLite). `memory/GLOSSARY.md` is a generated mirror of it — do not edit the markdown by hand; it is rebuilt from the database.
 
 Before translating any file:
 
-1. Read `memory/GLOSSARY.md` first.
+1. Run `python3 tools/tm.py <source-path>` to see which payloads are already decided.
 2. Reuse every matching entry exactly as written there.
 3. Never re-invent a term that already exists in the glossary.
 4. If a source term is missing from the glossary and its translation is not obvious, ask before deciding.
 
 After translating a file:
 
-1. Append every newly translated term to the correct section of `memory/GLOSSARY.md`.
+1. Ingest every newly translated term into `memory/glossary.db` via `python3 memory/glossary.py add-batch` (or a small ingest script that calls `add_batch`).
 2. Include the source text, the English, and the source file path.
 3. Note any convention that applies to the whole section, not just one entry.
 4. Keep entries sorted so the file stays greppable.
@@ -379,6 +379,7 @@ Benefits:
 - Consistent terminology across all files.
 - Faster translation, since decided terms are reused instead of re-derived.
 - Fewer naming collisions such as 苏州 / 宿州 both becoming "Suzhou".
+- Sub-100ms lookups via FTS5 trigram index, even with thousands of terms.
 
 ---
 
@@ -388,15 +389,20 @@ Follow this order for every translation task.
 
 1. **Inspect.** Check the file encoding and line endings first. Never assume UTF-8.
    Common in this project: UTF-16LE with BOM and CRLF.
-2. **Load memory.** Read `memory/GLOSSARY.md` before translating anything.
+   Use `python3 tools/scan.py --list` to confirm before you start.
+2. **Load memory.** Run `python3 tools/tm.py <source-path>` to see what glossary.db
+   already knows. Do NOT read `memory/GLOSSARY.md` by hand.
 3. **Decide unknowns.** Only the terms not in the glossary need your attention.
    Batch them into a single question when a decision is required.
 4. **Translate.** Replace only the human-readable text. Keep every other byte identical.
-5. **Verify structure.** Confirm line count, IDs, placeholders, tabs, and trailing
-   spaces match the source exactly.
+   Build a payload→English dict (like `/tmp/translate_fm.py` does) and write with
+   the same encoding the source uses (`b'\xff\xfe' + text.encode('utf-16-le')`).
+5. **Verify structure.** Run `python3 tools/audit.py <output>`. It must print `OK`.
 6. **Write output.** Save to `Translate/` using the mirrored source path and the
    same encoding as the source.
-7. **Update memory.** Append all new terms to `memory/GLOSSARY.md`.
+7. **Update memory.** Ingest new terms into `memory/glossary.db` with
+   `python3 memory/glossary.py add-batch --file /tmp/pairs.jsonl`.
+8. **Push.** Run `python3 tools/push.py -m "<short description>"` to commit and push.
 
 Encoding rule: the output file must keep the same encoding, BOM, and line endings
 as the source file. When writing UTF-16LE output, use the `utf-16` codec in Python
@@ -420,7 +426,7 @@ May write:
 
 May not write:
 
-- `memory/GLOSSARY.md`. Concurrent writers would clobber each other. Workers
+- `memory/glossary.db`. Concurrent writers would clobber each other. Workers
   **return** new terms in their result instead, and the parent merges them.
 - Anything under `current/`. Source files are read-only, always.
 
@@ -464,7 +470,7 @@ The audit must confirm:
 - BOM presence matches the source.
 - `current/` is untouched.
 
-Then merge new terms into `memory/GLOSSARY.md`, and record any convention that
+Then merge new terms into `memory/glossary.db` via `python3 memory/glossary.py add-batch`, and record any convention that
 applies to a whole batch of files, not just single entries.
 
 ### When not to fan out
@@ -473,6 +479,124 @@ applies to a whole batch of files, not just single entries.
 - Files whose terminology is undecided. Settle the terms first, in one question,
   then fan out. Otherwise every worker invents its own translation.
 - Anything needing a judgement call mid-file. Ambiguity goes back to the parent.
+
+---
+
+## Encoding Facts (verified — do not re-discover)
+
+`python3 tools/scan.py` on the whole corpus produced:
+
+```
+files 1744
+translatable (text + has CJK) 1398
+encodings binary=227, gbk=397, utf-16-le=925, utf-8=195
+```
+
+| Encoding | Count | Typical locations |
+|----------|-------|-------------------|
+| UTF-16LE + BOM + CRLF | 925 | most `.txt` and `.dat` in `current/configs/` |
+| UTF-8 (no BOM) | 195 | some `.txt`, `.xml` |
+| GBK / CP936 | 397 | `.xml`, `.lua`, `.stf`, `.dtf` |
+| binary | 227 | `.dds` textures, `.dll`, `.lnk` — **never translate** |
+
+Binary files must be skipped. Translating them is impossible and destructive.
+
+---
+
+## Prebuilt Audit (do not rewrite — use the script)
+
+`tools/audit.py` runs the full per-pair structural check and prints `OK` or
+`FAIL`. Run it after every translation. It checks:
+
+- BOM presence matches source
+- encoding matches source
+- line count matches
+- CRLF count matches
+- per-line ID prefix matches (`\d+,?[ \t]*`)
+- per-line placeholder multiset matches (`%s`, `%d`, `%1$s`, `&%s&`, `^code`, `$%*`)
+- no CJK remaining in destination
+- per-line trailing-whitespace presence matches
+- per-line ASCII quote parity is 0 or 2
+- number of lines changed
+
+```
+python3 tools/audit.py Translate/configs/fixed_msg.txt
+python3 tools/audit.py --dir Translate/configs
+```
+
+Exit code 0 = OK, 1 = FAIL.
+
+---
+
+## Known Pitfalls (already hit — avoid repeating)
+
+### Placeholder order must not change
+
+Plain `%s` / `%d` are filled in argument order by the C runtime. If the English
+reorders them the player sees a swapped value (e.g. name printed as a number).
+Keep the source order. If a natural English sentence forces a reorder, use
+positional specifiers `%1$s` / `%2$d` — but only if the codebase already uses
+them. It does not: `fixed_msg.txt` has **zero** positional specifiers. So for
+this corpus, keep the order.
+
+Example from `fixed_msg.txt` line 642:
+
+```
+source:  3015  "你对 %s 造成了 %d 点伤害"
+correct: 3015  "You hit %s for %d damage"
+wrong:   3015  "You dealt %d damage to %s"   ← %d would print the name
+```
+
+### Non-ASCII quotes inside payloads
+
+If the source payload contains CJK curly quotes `“ ”` (U+201C/U+201D), keep
+them as curly quotes in the English. Using ASCII `"` inside the payload breaks
+the 0-or-2 quote parity the audit checks and confuses the parser.
+
+### Section-header comments
+
+Lines starting with `//` (with no ID prefix) are developer section markers such
+as `//  队伍 =============================`. They must be translated too. Pass them
+through the comment dictionary before writing.
+
+### The `//` inline-comment split
+
+The payload and the trailing comment share the line. Split at the first `//` in
+the remainder after the ID, then map the comment separately. Do not treat the
+whole line as payload.
+
+---
+
+## Fast Path (use before doing anything else)
+
+```
+python3 tools/scan.py            # build/refresh tools/manifest.json
+python3 tools/scan.py --list     # list every translatable file with size + CJK count
+python3 tools/tm.py <source>    # dump payloads and show which are already in glossary.db
+python3 tools/audit.py <output> # verify the result
+python3 tools/push.py           # commit and push
+```
+
+`tools/tm.py` answers the only question that matters before translating: how much
+of this file is already decided? If it reports a high match rate, most of the
+work is reuse, not new decisions.
+
+---
+
+## Git Push After Every Translation
+
+Every translation batch must be committed and pushed before the session ends.
+Run:
+
+```
+python3 tools/push.py -m "<short description>"
+```
+
+This stages only `Translate/`, `memory/`, `tools/`, and `AGENTS.md`. It never
+touches `current/`. The script prints the resulting commit hash on success.
+
+Do not skip the push. The remote is `git@github.com:qodirtok/pck-translate.git`,
+branch `main`. Losing work to an unpushed session is unacceptable.
 
 ---
 
