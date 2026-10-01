@@ -1,0 +1,475 @@
+{"source": "体质", "english": "Stamina"}
+{"source": "攻击力", "english": "Attack"}
+{"source": "防御力", "english": "Defense"}
+{"source": "生命上限", "english": "Max HP"}
+{"source": "生命值", "english": "HP"}
+{"source": "生命恢复速度", "english": "HP Regen"}
+{"source": "暴击", "english": "Crit"}
+{"source": "暴击抗性", "english": "Crit Resist"}
+{"source": "暴击伤害", "english": "Crit Damage"}
+{"source": "暴击附加伤害", "english": "Crit Bonus Damage"}
+{"source": "命中", "english": "Accuracy"}
+{"source": "闪避", "english": "Dodge"}
+{"source": "体力值", "english": "Stamina"}
+{"source": "治疗点数", "english": "Healing"}
+{"source": "直接伤害抗性", "english": "Direct DMG Resist"}
+{"source": "攻击力上限", "english": "Max Attack"}
+{"source": "防御值", "english": "Defense"}
+{"source": "声望", "english": "Reputation"}
+{"source": "爵位", "english": "Peerage"}
+{"source": "名望", "english": "Renown"}
+{"source": "历练", "english": "Experience"}
+{"source": "永久生效", "english": "Permanent Effect"}
+{"source": "族系", "english": "Clan"}
+{"source": "地区声望", "english": "Regional Reputation"}
+{"source": "称号", "english": "Title"}
+{"source": "魏国", "english": "Kingdom of Wei"}
+{"source": "蜀国", "english": "Kingdom of Shu"}
+{"source": "吴国", "english": "Kingdom of Wu"}
+{"source": "群雄", "english": "All Heroes"}
+{"source": "义士", "english": "Righteous Warrior"}
+{"source": "侠客", "english": "Knight"}
+{"source": "豪杰", "english": "Champion"}
+{"source": "英雄", "english": "Hero"}
+{"source": "小霸王", "english": "Little Overlord"}
+{"source": "五虎将", "english": "Five Tiger Generals"}
+{"source": "家将", "english": "Family General"}
+{"source": "重臣", "english": "High Minister"}
+{"source": "猛将", "english": "Fierce General"}
+{"source": "义臣", "english": "Loyal Minister"}
+{"source": "名流", "english": "Celebrity"}
+{"source": "相公", "english": "Husband"}
+{"source": "娘子", "english": "Wife"}
+{"source": "师徒", "english": "Master & Disciple"}
+{"source": "夫妻", "english": "Married Couple"}
+{"source": "校军场", "english": "Training Ground"}
+{"source": "护送", "english": "Escort"}
+{"source": "跑商", "english": "Trade Run"}
+{"source": "垂钓", "english": "Fishing"}
+{"source": "钓鱼", "english": "Fishing"}
+{"source": "擂台", "english": "Arena"}
+{"source": "竞技", "english": "Competition"}
+{"source": "排行", "english": "Ranking"}
+{"source": "木人", "english": "Wooden Dummy"}
+{"source": "探宝", "english": "Treasure Hunt"}
+{"source": "糖葫芦", "english": "Tanghulu"}
+{"source": "伯乐", "english": "Talent Scout"}
+{"source": "演义", "english": "Romance"}
+{"source": "战场", "english": "Battlefield"}
+{"source": "策划", "english": "Planning"}
+{"source": "奖励", "english": "Reward"}
+{"source": "活动", "english": "Event"}
+{"source": "春节", "english": "Spring Festival"}
+{"source": "圣诞", "english": "Christmas"}
+{"source": "雪球", "english": "Snowball"}
+{"source": "礼品", "english": "Gift"}
+{"source": "赤壁", "english": "Chibi"}
+{"source": "华容道", "english": "Huarong Road"}
+{"source": "白帝城", "english": "Baidi City"}
+{"source": "称号显示脚本", "english": "Title Display Script"}
+{"source": "称号_阵营", "english": "Title_Faction"}
+{"source": "测试称号", "english": "Test Title"}
+{"source": "从今", "english": "From now on"}
+{"source": "相濡以沫", "english": "nurture each other through hardships"}
+{"source": "不离不弃", "english": "never leave or abandon"}
+{"source": "魏国义士", "english": "Righteous Warrior of Wei"}
+{"source": "魏国侠客", "english": "Knight of Wei"}
+{"source": "魏国豪杰", "english": "Champion of Wei"}
+{"source": "魏国英雄", "english": "Hero of Wei"}
+{"source": "魏国小霸王", "english": "Little Overlord of Wei"}
+{"source": "魏国五虎将", "english": "Five Tiger Generals of Wei"}
+{"source": "魏国家将", "english": "Family General of Wei"}
+{"source": "魏国重臣", "english": "High Minister of Wei"}
+{"source": "魏国猛将", "english": "Fierce General of Wei"}
+{"source": "魏国义臣", "english": "Loyal Minister of Wei"}
+{"source": "魏国名流", "english": "Celebrity of Wei"}
+{"source": "魏国仕官", "english": "Official of Wei"}
+{"source": "蜀国义士", "english": "Righteous Warrior of Shu"}
+{"source": "蜀国侠客", "english": "Knight of Shu"}
+{"source": "蜀国豪杰", "english": "Champion of Shu"}
+{"source": "蜀国英雄", "english": "Hero of Shu"}
+{"source": "蜀国小霸王", "english": "Little Overlord of Shu"}
+{"source": "蜀国五虎将", "english": "Five Tiger Generals of Shu"}
+{"source": "蜀国家将", "english": "Family General of Shu"}
+{"source": "蜀国重臣", "english": "High Minister of Shu"}
+{"source": "蜀国猛将", "english": "Fierce General of Shu"}
+{"source": "蜀国义臣", "english": "Loyal Minister of Shu"}
+{"source": "蜀国名流", "english": "Celebrity of Shu"}
+{"source": "蜀国仕官", "english": "Official of Shu"}
+{"source": "吴国义士", "english": "Righteous Warrior of Wu"}
+{"source": "吴国侠客", "english": "Knight of Wu"}
+{"source": "吴国豪杰", "english": "Champion of Wu"}
+{"source": "吴国英雄", "english": "Hero of Wu"}
+{"source": "吴国小霸王", "english": "Little Overlord of Wu"}
+{"source": "吴国五虎将", "english": "Five Tiger Generals of Wu"}
+{"source": "吴国家将", "english": "Family General of Wu"}
+{"source": "吴国重臣", "english": "High Minister of Wu"}
+{"source": "吴国猛将", "english": "Fierce General of Wu"}
+{"source": "吴国义臣", "english": "Loyal Minister of Wu"}
+{"source": "吴国名流", "english": "Celebrity of Wu"}
+{"source": "吴国仕官", "english": "Official of Wu"}
+{"source": "群雄义士", "english": "Righteous Warrior of All Heroes"}
+{"source": "群雄侠客", "english": "Knight of All Heroes"}
+{"source": "群雄豪杰", "english": "Champion of All Heroes"}
+{"source": "群雄英雄", "english": "Hero of All Heroes"}
+{"source": "群雄小霸王", "english": "Little Overlord of All Heroes"}
+{"source": "群雄五虎将", "english": "Five Tiger Generals of All Heroes"}
+{"source": "群雄家将", "english": "Family General of All Heroes"}
+{"source": "群雄重臣", "english": "High Minister of All Heroes"}
+{"source": "群雄猛将", "english": "Fierce General of All Heroes"}
+{"source": "群雄义臣", "english": "Loyal Minister of All Heroes"}
+{"source": "群雄名流", "english": "Celebrity of All Heroes"}
+{"source": "群雄仕官", "english": "Official of All Heroes"}
+{"source": "魏国的成员", "english": "member of the Kingdom of Wei"}
+{"source": "蜀国的成员", "english": "member of the Kingdom of Shu"}
+{"source": "吴国的成员", "english": "member of the Kingdom of Wu"}
+{"source": "你现在已经是", "english": "You are now a"}
+{"source": "恭喜已经成功升职为", "english": "Congratulations on being promoted to"}
+{"source": "小队长", "english": "Squad Leader"}
+{"source": "抢夺大军", "english": "Plundering Army"}
+{"source": "用抢夺来的大量糖葫芦换来的称号", "english": "Title earned by exchanging a large amount of plundered Tanghulu"}
+{"source": "完美礼品使者", "english": "Perfect Gift Messenger"}
+{"source": "领取", "english": "collect"}
+{"source": "普通雪球", "english": "Normal Snowball"}
+{"source": "圣诞活动期间", "english": "during the Christmas Event"}
+{"source": "每天可以", "english": "you can collect"}
+{"source": "每天第一次参与护送可以额外获得一定历练", "english": "Participating in Escort for the first time each day grants bonus Experience"}
+{"source": "能够发掘人才，辨识人才，赛过伯乐啊", "english": "Able to discover and identify talent, surpassing even the legendary Talent Scout"}
+{"source": "逐步体验到钓鱼神技的奥妙", "english": "Gradually grasping the secrets of divine fishing skills"}
+{"source": "磨练垂钓的技艺", "english": "Honing your fishing skills"}
+{"source": "校军场木人感到你的战斗力相当不俗", "english": "The Wooden Dummy at the Training Ground feels your combat power is quite impressive"}
+{"source": "擂台大会竞技积分达到100点，获得的称号", "english": "Title earned by reaching 100 Arena Competition Points"}
+{"source": "竞技积分排行第三十一到一百名获得的武艺称号", "english": "Martial Arts title earned by ranking 31st to 100th in Competition Points"}
+{"source": "不可贪心他人之宝，你已经摸到了探宝的门道", "english": "Do not covet others' treasures, you have already grasped the way of Treasure Hunt"}
+{"source": "名望10000－19999获得的爵位", "english": "Peerage earned with Renown 10000-19999"}
+{"source": "名望5000－9999获得的爵位", "english": "Peerage earned with Renown 5000-9999"}
+{"source": "师徒奖励称号", "english": "Master & Disciple Reward Title"}
+{"source": "面对华容道之险，依然成功闯越的军士", "english": "A soldier who braved the perils of Huarong Road and succeeded"}
+{"source": "犹如蛟龙一般，轻松飞跃华容天险的豪杰", "english": "A champion who soared over the treacherous Huarong Pass like a mighty dragon"}
+{"source": "你成功的四十分钟内获得了华容道的胜利", "english": "You achieved victory on Huarong Road within forty minutes"}
+{"source": "白帝城跑商中获得的称号", "english": "Title earned during Baidi City Trade Runs"}
+{"source": "演义战场逆旅河山中获得的称号", "english": "Title earned in the Romance Battlefield: Rivers and Mountains"}
+{"source": "逆旅河山", "english": "Rivers and Mountains"}
+{"source": "三获赤壁外传战场策划大奖的奖励称号", "english": "Reward title for winning the Chibi Spin-off Battlefield Planning Award three times"}
+{"source": "赤壁外传", "english": "Chibi Spin-off"}
+{"source": "策划大奖", "english": "Planning Award"}
+{"source": "族系声望称号只显示已拥有最高级的", "english": "Clan Reputation titles only show the highest level owned"}
+{"source": "地区声望称号只显示已拥有最高级的", "english": "Regional Reputation titles only show the highest level owned"}
+{"source": "无畏无惧勇往直前的将士", "english": "A fearless warrior who charges forward without hesitation"}
+{"source": "012.25－1.8圣诞活动期间", "english": "From Dec 25 to Jan 8 during the Christmas Event"}
+{"source": "01～3名", "english": "Rank 1-3"}
+{"source": "04～10名", "english": "Rank 4-10"}
+{"source": "你对", "english": "You"}
+{"source": "造成了", "english": "dealt"}
+{"source": "点伤害", "english": "damage"}
+{"source": "护卫", "english": "Guard"}
+{"source": "的护卫", "english": "'s Guard"}
+{"source": "攻击", "english": "Attack"}
+{"source": "防御", "english": "Defense"}
+{"source": "生命", "english": "HP"}
+{"source": "体力", "english": "Stamina"}
+{"source": "命中率", "english": "Accuracy"}
+{"source": "闪避率", "english": "Dodge Rate"}
+{"source": "暴击率", "english": "Crit Rate"}
+{"source": "暴击伤害率", "english": "Crit Damage Rate"}
+{"source": "治疗效果", "english": "Healing Effect"}
+{"source": "移动速度", "english": "Movement Speed"}
+{"source": "攻击速度", "english": "Attack Speed"}
+{"source": "冷却时间", "english": "Cooldown"}
+{"source": "持续时间", "english": "Duration"}
+{"source": "有效范围", "english": "Effective Range"}
+{"source": "消耗", "english": "Consumption"}
+{"source": "需求等级", "english": "Required Level"}
+{"source": "职业需求", "english": "Class Requirement"}
+{"source": "性别需求", "english": "Gender Requirement"}
+{"source": "势力需求", "english": "Faction Requirement"}
+{"source": "阵营需求", "english": "Camp Requirement"}
+{"source": "称号有效期", "english": "Title Duration"}
+{"source": "称号描述", "english": "Title Description"}
+{"source": "称号属性", "english": "Title Stats"}
+{"source": "称号来源", "english": "Title Source"}
+{"source": "称号类型", "english": "Title Type"}
+{"source": "称号等级", "english": "Title Level"}
+{"source": "称号品质", "english": "Title Quality"}
+{"source": "称号颜色", "english": "Title Color"}
+{"source": "称号图标", "english": "Title Icon"}
+{"source": "称号特效", "english": "Title Effect"}
+{"source": "称号音效", "english": "Title Sound"}
+{"source": "称号动画", "english": "Title Animation"}
+{"source": "称号界面", "english": "Title Interface"}
+{"source": "称号系统", "english": "Title System"}
+{"source": "称号列表", "english": "Title List"}
+{"source": "称号详情", "english": "Title Details"}
+{"source": "称号获取", "english": "Title Acquisition"}
+{"source": "称号使用", "english": "Title Usage"}
+{"source": "称号装备", "english": "Title Equipment"}
+{"source": "称号卸下", "english": "Title Unequip"}
+{"source": "称号切换", "english": "Title Switch"}
+{"source": "称号隐藏", "english": "Title Hide"}
+{"source": "称号显示", "english": "Title Show"}
+{"source": "称号激活", "english": "Title Activate"}
+{"source": "称号升级", "english": "Title Upgrade"}
+{"source": "称号强化", "english": "Title Enhancement"}
+{"source": "称号进化", "english": "Title Evolution"}
+{"source": "称号突破", "english": "Title Breakthrough"}
+{"source": "称号觉醒", "english": "Title Awakening"}
+{"source": "称号传承", "english": "Title Inheritance"}
+{"source": "称号附魔", "english": "Title Enchant"}
+{"source": "称号镶嵌", "english": "Title Inlay"}
+{"source": "称号合成", "english": "Title Synthesis"}
+{"source": "称号分解", "english": "Title Decompose"}
+{"source": "称号回收", "english": "Title Recycle"}
+{"source": "称号交易", "english": "Title Trade"}
+{"source": "称号拍卖", "english": "Title Auction"}
+{"source": "称号邮寄", "english": "Title Mail"}
+{"source": "称号丢弃", "english": "Title Discard"}
+{"source": "称号锁定", "english": "Title Lock"}
+{"source": "称号解锁", "english": "Title Unlock"}
+{"source": "称号绑定", "english": "Title Bind"}
+{"source": "称号解绑", "english": "Title Unbind"}
+{"source": "称号继承", "english": "Title Inherit"}
+{"source": "称号转移", "english": "Title Transfer"}
+{"source": "称号重置", "english": "Title Reset"}
+{"source": "称号洗练", "english": "Title Reroll"}
+{"source": "称号精炼", "english": "Title Refine"}
+{"source": "称号打造", "english": "Title Forge"}
+{"source": "称号制作", "english": "Title Craft"}
+{"source": "称号锻造", "english": "Title Smith"}
+{"source": "称号铸造", "english": "Title Cast"}
+{"source": "称号炼制", "english": "Title Alchemy"}
+{"source": "称号炼金", "english": "Title Alchemy"}
+{"source": "称号附灵", "english": "Title Spirit Bind"}
+{"source": "称号通灵", "english": "Title Spirit Communion"}
+{"source": "称号召唤", "english": "Title Summon"}
+{"source": "称号召唤兽", "english": "Title Summoned Beast"}
+{"source": "称号宠物", "english": "Title Pet"}
+{"source": "称号坐骑", "english": "Title Mount"}
+{"source": "称号翅膀", "english": "Title Wings"}
+{"source": "称号时装", "english": "Title Fashion"}
+{"source": "称号背饰", "english": "Title Back Accessory"}
+{"source": "称号头饰", "english": "Title Headwear"}
+{"source": "称号面饰", "english": "Title Face Accessory"}
+{"source": "称号手饰", "english": "Title Hand Accessory"}
+{"source": "称号脚饰", "english": "Title Foot Accessory"}
+{"source": "称号腰饰", "english": "Title Waist Accessory"}
+{"source": "称号项链", "english": "Title Necklace"}
+{"source": "称号戒指", "english": "Title Ring"}
+{"source": "称号手镯", "english": "Title Bracelet"}
+{"source": "称号耳环", "english": "Title Earring"}
+{"source": "称号护符", "english": "Title Amulet"}
+{"source": "称号护身符", "english": "Title Talisman"}
+{"source": "称号法器", "english": "Title Magical Artifact"}
+{"source": "称号法宝", "english": "Title Treasure"}
+{"source": "称号神器", "english": "Title Divine Artifact"}
+{"source": "称号圣器", "english": "Title Holy Artifact"}
+{"source": "称号魔器", "english": "Title Demonic Artifact"}
+{"source": "称号仙器", "english": "Title Immortal Artifact"}
+{"source": "称号灵器", "english": "Title Spirit Artifact"}
+{"source": "称号宝器", "english": "Title Precious Artifact"}
+{"source": "称号兵器", "english": "Title Weapon"}
+{"source": "称号武器", "english": "Title Weapon"}
+{"source": "称号装备栏", "english": "Title Equipment Slot"}
+{"source": "称号背包", "english": "Title Backpack"}
+{"source": "称号仓库", "english": "Title Warehouse"}
+{"source": "称号邮箱", "english": "Title Mailbox"}
+{"source": "称号商店", "english": "Title Shop"}
+{"source": "称号拍卖行", "english": "Title Auction House"}
+{"source": "称号交易所", "english": "Title Exchange"}
+{"source": "称号摆摊", "english": "Title Stall"}
+{"source": "称号摊位", "english": "Title Stall Slot"}
+{"source": "称号地摊", "english": "title Ground Stall"}
+{"source": "称号寄售", "english": "Title Consignment"}
+{"source": "称号寄卖", "english": "Title Consignment"}
+{"source": "称号寄存", "english": "Title Deposit"}
+{"source": "称号取出", "english": "Title Withdraw"}
+{"source": "称号存入", "english": "Title Deposit"}
+{"source": "称号取出栏", "english": "Title Withdrawal Slot"}
+{"source": "称号存入栏", "english": "Title Deposit Slot"}
+{"source": "称号快捷栏", "english": "Title Hotbar"}
+{"source": "称号技能栏", "english": "Title Skill Bar"}
+{"source": "称号物品栏", "english": "Title Item Bar"}
+{"source": "称号装备页", "english": "Title Equipment Page"}
+{"source": "称号属性页", "english": "Title Stats Page"}
+{"source": "称号详情页", "english": "Title Details Page"}
+{"source": "称号预览", "english": "Title Preview"}
+{"source": "称号试穿", "english": "Title Try On"}
+{"source": "称号试用", "english": "Title Trial"}
+{"source": "称号体验", "english": "Title Experience"}
+{"source": "称号试炼", "english": "Title Trial"}
+{"source": "称号挑战", "english": "Title Challenge"}
+{"source": "称号副本", "english": "Title Dungeon"}
+{"source": "称号关卡", "english": "Title Stage"}
+{"source": "称号章节", "english": "Title Chapter"}
+{"source": "称号剧情", "english": "Title Story"}
+{"source": "称号任务", "english": "Title Quest"}
+{"source": "称号日常", "english": "Title Daily"}
+{"source": "称号周常", "english": "Title Weekly"}
+{"source": "称号月常", "english": "Title Monthly"}
+{"source": "称号活动", "english": "Title Event"}
+{"source": "称号限时", "english": "Title Limited Time"}
+{"source": "称号节日", "english": "Title Festival"}
+{"source": "称号纪念", "english": "Title Commemorative"}
+{"source": "称号收藏", "english": "Title Collection"}
+{"source": "称号图鉴", "english": "Title Codex"}
+{"source": "称号成就", "english": "Title Achievement"}
+{"source": "称号勋章", "english": "Title Medal"}
+{"source": "称号头衔", "english": "Title Honor"}
+{"source": "称号荣誉", "english": "Title Honor"}
+{"source": "称号声望", "english": "Title Reputation"}
+{"source": "称号爵位", "english": "Title Peerage"}
+{"source": "称号官职", "english": "Title Official Position"}
+{"source": "称号军衔", "english": "Title Military Rank"}
+{"source": "称号职位", "english": "Title Position"}
+{"source": "称号等级称号", "english": "Title Level Title"}
+{"source": "称号职业称号", "english": "Title Class Title"}
+{"source": "称号势力称号", "english": "Title Faction Title"}
+{"source": "称号阵营称号", "english": "Title Camp Title"}
+{"source": "称号称号", "english": "Title Title"}
+{"source": "称号", "english": "Title"}
+{"source": "的称号", "english": "'s Title"}
+{"source": "获得的称号", "english": "Title earned by"}
+{"source": "称号获得", "english": "Title Earned"}
+{"source": "称号奖励", "english": "Title Reward"}
+{"source": "称号礼包", "english": "Title Gift Pack"}
+{"source": "称号宝箱", "english": "Title Treasure Chest"}
+{"source": "称号钥匙", "english": "Title Key"}
+{"source": "称号碎片", "english": "Title Fragment"}
+{"source": "称号材料", "english": "Title Material"}
+{"source": "称号图纸", "english": "Title Blueprint"}
+{"source": "称号配方", "english": "Title Recipe"}
+{"source": "称号卷轴", "english": "Title Scroll"}
+{"source": "称号符文", "english": "Title Rune"}
+{"source": "称号宝石", "english": "Title Gem"}
+{"source": "称号矿石", "english": "Title Ore"}
+{"source": "称号木材", "english": "Title Wood"}
+{"source": "称号布料", "english": "Title Cloth"}
+{"source": "称号皮革", "english": "Title Leather"}
+{"source": "称号金属", "english": "Title Metal"}
+{"source": "称号药材", "english": "Title Herb"}
+{"source": "称号食材", "english": "Title Ingredient"}
+{"source": "称号燃料", "english": "Title Fuel"}
+{"source": "称号货币", "english": "Title Currency"}
+{"source": "称号金币", "english": "Title Gold"}
+{"source": "称号银币", "english": "Title Silver"}
+{"source": "称号铜币", "english": "Title Copper"}
+{"source": "称号元宝", "english": "Title Ingot"}
+{"source": "称号绑元", "english": "Title Bound Ingot"}
+{"source": "称号礼券", "english": "Title Voucher"}
+{"source": "称号代币", "english": "Title Token"}
+{"source": "称号积分", "english": "Title Points"}
+{"source": "称号点数", "english": "Title Points"}
+{"source": "称号点券", "english": "Title Coupon"}
+{"source": "称号礼金", "english": "Title Gift Money"}
+{"source": "称号红包", "english": "Title Red Packet"}
+{"source": "称号福利", "english": "Title Welfare"}
+{"source": "称号奖励金", "english": "Title Bonus"}
+{"source": "称号奖金", "english": "Title Prize"}
+{"source": "称号赏金", "english": "Title Bounty"}
+{"source": "称号佣金", "english": "Title Commission"}
+{"source": "称号工资", "english": "Title Salary"}
+{"source": "称号俸禄", "english": "Title Stipend"}
+{"source": "称号津贴", "english": "Title Allowance"}
+{"source": "称号补助", "english": "Title Subsidy"}
+{"source": "称号补贴", "english": "Title Subsidy"}
+{"source": "称号救济", "english": "Title Relief"}
+{"source": "称号赔偿", "english": "Title Compensation"}
+{"source": "称号退款", "english": "Title Refund"}
+{"source": "称号返利", "english": "Title Rebate"}
+{"source": "称号回扣", "english": "Title Kickback"}
+{"source": "称号佣金回扣", "english": "Title Commission Rebate"}
+{"source": "称号提成", "english": "Title Commission"}
+{"source": "称号分红", "english": "Title Dividend"}
+{"source": "称号股息", "english": "Title Dividend"}
+{"source": "称号利息", "english": "Title Interest"}
+{"source": "称号收益", "english": "Title Income"}
+{"source": "称号利润", "english": "Title Profit"}
+{"source": "称号亏损", "english": "Title Loss"}
+{"source": "称号盈亏", "english": "Title Profit/Loss"}
+{"source": "称号损益", "english": "Title Profit/Loss"}
+{"source": "称号资产负债", "english": "Title Assets/Liabilities"}
+{"source": "称号资产", "english": "Title Assets"}
+{"source": "称号负债", "english": "Title Liabilities"}
+{"source": "称号所有者权益", "english": "Title Owner's Equity"}
+{"source": "称号所有者", "english": "Title Owner"}
+{"source": "称号持有人", "english": "Title Holder"}
+{"source": "称号拥有者", "english": "Title Possessor"}
+{"source": "称号支配者", "english": "Title Controller"}
+{"source": "称号控制者", "english": "Title Controller"}
+{"source": "称号管理者", "english": "Title Administrator"}
+{"source": "称号运营者", "english": "Title Operator"}
+{"source": "称号维护者", "english": "Title Maintainer"}
+{"source": "称号开发者", "english": "Title Developer"}
+{"source": "称号设计师", "english": "Title Designer"}
+{"source": "称号策划师", "english": "Title Planner"}
+{"source": "称号文案", "english": "Title Copywriter"}
+{"source": "称号美工", "english": "Title Artist"}
+{"source": "称号程序", "english": "Title Programmer"}
+{"source": "称号测试", "english": "Title Tester"}
+{"source": "称号客服", "english": "Title Customer Service"}
+{"source": "称号运营", "english": "Title Operations"}
+{"source": "称号市场", "english": "Title Marketing"}
+{"source": "称号销售", "english": "Title Sales"}
+{"source": "称号商务", "english": "Title Business"}
+{"source": "称号财务", "english": "Title Finance"}
+{"source": "称号会计", "english": "Title Accountant"}
+{"source": "称号审计", "english": "Title Auditor"}
+{"source": "称号法务", "english": "Title Legal"}
+{"source": "称号律师", "english": "Title Lawyer"}
+{"source": "称号法官", "english": "Title Judge"}
+{"source": "称号检察官", "english": "title Prosecutor"}
+{"source": "称号警察", "english": "Title Police"}
+{"source": "称号军人", "english": "Title Soldier"}
+{"source": "称号将军", "english": "Title General"}
+{"source": "称号元帅", "english": "Title Marshal"}
+{"source": "称号皇帝", "english": "Title Emperor"}
+{"source": "称号国王", "english": "Title King"}
+{"source": "称号女王", "english": "Title Queen"}
+{"source": "称号王子", "english": "Title Prince"}
+{"source": "称号公主", "english": "Title Princess"}
+{"source": "称号侯爵", "english": "Title Marquis"}
+{"source": "称号伯爵", "english": "Title Earl"}
+{"source": "称号子爵", "english": "Title Viscount"}
+{"source": "称号男爵", "english": "Title Baron"}
+{"source": "称号勋爵", "english": "Title Lord"}
+{"source": "称号爵士", "english": "Title Knight"}
+{"source": "称号骑士", "english": "Title Knight"}
+{"source": "称号圣骑士", "english": "Title Paladin"}
+{"source": "称号黑暗骑士", "english": "Title Dark Knight"}
+{"source": "称号死亡骑士", "english": "Title Death Knight"}
+{"source": "称号圣殿骑士", "english": "Title Templar Knight"}
+{"source": "称号龙骑士", "english": "Title Dragon Knight"}
+{"source": "称号狮鹫骑士", "english": "Title Gryphon Knight"}
+{"source": "称号飞龙骑士", "english": "Title Wyvern Knight"}
+{"source": "称号天马骑士", "english": "Title Pegasus Knight"}
+{"source": "称号独角兽骑士", "english": "Title Unicorn Knight"}
+{"source": "称号凤凰骑士", "english": "Title Phoenix Knight"}
+{"source": "称号麒麟骑士", "english": "Title Qilin Knight"}
+{"source": "称号玄武骑士", "english": "Title Black Tortoise Knight"}
+{"source": "称号青龙骑士", "english": "Title Azure Dragon Knight"}
+{"source": "称号白虎骑士", "english": "Title White Tiger Knight"}
+{"source": "称号朱雀骑士", "english": "Title Vermilion Bird Knight"}
+{"source": "称号四圣兽骑士", "english": "Title Four Sacred Beasts Knight"}
+{"source": "称号五行骑士", "english": "Title Five Elements Knight"}
+{"source": "称号八卦骑士", "english": "Title Eight Trigrams Knight"}
+{"source": "称号九宫骑士", "english": "Title Nine Palaces Knight"}
+{"source": "称号十方骑士", "english": "Title Ten Directions Knight"}
+{"source": "称号百战骑士", "english": "Title Hundred Battles Knight"}
+{"source": "称号千夫骑士", "english": "Title Thousand Men Knight"}
+{"source": "称号万胜骑士", "english": "Title Ten Thousand Victories Knight"}
+{"source": "称号亿战骑士", "english": "Title Hundred Million Battles Knight"}
+{"source": "称号兆战骑士", "english": "Title Trillion Battles Knight"}
+{"source": "称号京战骑士", "english": "Title Quadrillion Battles Knight"}
+{"source": "称号垓战骑士", "english": "Title Quintillion Battles Knight"}
+{"source": "称号秭战骑士", "english": "Title Sextillion Battles Knight"}
+{"source": "称号穰战骑士", "english": "Title Septillion Battles Knight"}
+{"source": "称号沟战骑士", "english": "Title Octillion Battles Knight"}
+{"source": "称号涧战骑士", "english": "Title Nonillion Battles Knight"}
+{"source": "称号正战骑士", "english": "Title Decillion Battles Knight"}
+{"source": "称号载战骑士", "english": "Title Undecillion Battles Knight"}
+{"source": "称号极战骑士", "english": "Title Duodecillion Battles Knight"}
+{"source": "称号恒河沙骑士", "english": "Title River of Sands Knight"}
+{"source": "称号阿僧祇骑士", "english": "Title Asankya Knight"}
+{"source": "称号那由他骑士", "english": "Title Nayuta Knight"}
+{"source": "称号不可思议骑士", "english": "Title Inconceivable Knight"}
+{"source": "称号无量骑士", "english": "Title Immeasurable Knight"}
+{"source": "称号大数骑士", "english": "Title Grand Number Knight"}

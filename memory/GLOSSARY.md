@@ -1770,3 +1770,482 @@ Also expected: a province and its namesake capital city share the name
 | 英雄虎牢关 | Hero Hulao Pass |
 | 七擒孟`获 | Seven Captures of Meng Huo |
 | 车战无双 | Unmatched Chariot Battle |
+
+## Title Definitions - current/configs/title_def.lua
+| Source | English |
+| --- | --- |
+| 体质 | Stamina |
+| 攻击力 | Attack |
+| 防御力 | Defense |
+| 生命上限 | Max HP |
+| 生命值 | HP |
+| 生命恢复速度 | HP Regen |
+| 暴击 | Crit |
+| 暴击抗性 | Crit Resist |
+| 暴击伤害 | Crit Damage |
+| 暴击附加伤害 | Crit Bonus Damage |
+| 命中 | Accuracy |
+| 闪避 | Dodge |
+| 体力值 | Stamina |
+| 治疗点数 | Healing |
+| 直接伤害抗性 | Direct DMG Resist |
+| 攻击力上限 | Max Attack |
+| 防御值 | Defense |
+| 声望 | Reputation |
+| 爵位 | Peerage |
+| 名望 | Renown |
+| 历练 | Experience |
+| 永久生效 | Permanent Effect |
+| 族系 | Clan |
+| 地区声望 | Regional Reputation |
+| 称号 | Title |
+| 魏国 | Kingdom of Wei |
+| 蜀国 | Kingdom of Shu |
+| 吴国 | Kingdom of Wu |
+| 群雄 | All Heroes |
+| 义士 | Righteous Warrior |
+| 侠客 | Knight |
+| 豪杰 | Champion |
+| 英雄 | Hero |
+| 小霸王 | Little Overlord |
+| 五虎将 | Five Tiger Generals |
+| 家将 | Family General |
+| 重臣 | High Minister |
+| 猛将 | Fierce General |
+| 义臣 | Loyal Minister |
+| 名流 | Celebrity |
+| 相公 | Husband |
+| 娘子 | Wife |
+| 师徒 | Master & Disciple |
+| 夫妻 | Married Couple |
+| 校军场 | Training Ground |
+| 护送 | Escort |
+| 跑商 | Trade Run |
+| 垂钓 | Fishing |
+| 钓鱼 | Fishing |
+| 擂台 | Arena |
+| 竞技 | Competition |
+| 排行 | Ranking |
+| 木人 | Wooden Dummy |
+| 探宝 | Treasure Hunt |
+| 糖葫芦 | Tanghulu |
+| 伯乐 | Talent Scout |
+| 演义 | Romance |
+| 战场 | Battlefield |
+| 策划 | Planning |
+| 奖励 | Reward |
+| 活动 | Event |
+| 春节 | Spring Festival |
+| 圣诞 | Christmas |
+| 雪球 | Snowball |
+| 礼品 | Gift |
+| 赤壁 | Chibi |
+| 华容道 | Huarong Road |
+| 白帝城 | Baidi City |
+| 称号显示脚本 | Title Display Script |
+| 称号_阵营 | Title_Faction |
+| 测试称号 | Test Title |
+| 从今 | From now on |
+| 相濡以沫 | nurture each other through hardships |
+| 不离不弃 | never leave or abandon |
+| 魏国义士 | Righteous Warrior of Wei |
+| 魏国侠客 | Knight of Wei |
+| 魏国豪杰 | Champion of Wei |
+| 魏国英雄 | Hero of Wei |
+| 魏国小霸王 | Little Overlord of Wei |
+| 魏国五虎将 | Five Tiger Generals of Wei |
+| 魏国家将 | Family General of Wei |
+| 魏国重臣 | High Minister of Wei |
+| 魏国猛将 | Fierce General of Wei |
+| 魏国义臣 | Loyal Minister of Wei |
+| 魏国名流 | Celebrity of Wei |
+| 魏国仕官 | Official of Wei |
+| 蜀国义士 | Righteous Warrior of Shu |
+| 蜀国侠客 | Knight of Shu |
+| 蜀国豪杰 | Champion of Shu |
+| 蜀国英雄 | Hero of Shu |
+| 蜀国小霸王 | Little Overlord of Shu |
+| 蜀国五虎将 | Five Tiger Generals of Shu |
+| 蜀国家将 | Family General of Shu |
+| 蜀国重臣 | High Minister of Shu |
+| 蜀国猛将 | Fierce General of Shu |
+| 蜀国义臣 | Loyal Minister of Shu |
+| 蜀国名流 | Celebrity of Shu |
+| 蜀国仕官 | Official of Shu |
+| 吴国义士 | Righteous Warrior of Wu |
+| 吴国侠客 | Knight of Wu |
+| 吴国豪杰 | Champion of Wu |
+| 吴国英雄 | Hero of Wu |
+| 吴国小霸王 | Little Overlord of Wu |
+| 吴国五虎将 | Five Tiger Generals of Wu |
+| 吴国家将 | Family General of Wu |
+| 吴国重臣 | High Minister of Wu |
+| 吴国猛将 | Fierce General of Wu |
+| 吴国义臣 | Loyal Minister of Wu |
+| 吴国名流 | Celebrity of Wu |
+| 吴国仕官 | Official of Wu |
+| 群雄义士 | Righteous Warrior of All Heroes |
+| 群雄侠客 | Knight of All Heroes |
+| 群雄豪杰 | Champion of All Heroes |
+| 群雄英雄 | Hero of All Heroes |
+| 群雄小霸王 | Little Overlord of All Heroes |
+| 群雄五虎将 | Five Tiger Generals of All Heroes |
+| 群雄家将 | Family General of All Heroes |
+| 群雄重臣 | High Minister of All Heroes |
+| 群雄猛将 | Fierce General of All Heroes |
+| 群雄义臣 | Loyal Minister of All Heroes |
+| 群雄名流 | Celebrity of All Heroes |
+| 群雄仕官 | Official of All Heroes |
+| 魏国的成员 | member of the Kingdom of Wei |
+| 蜀国的成员 | member of the Kingdom of Shu |
+| 吴国的成员 | member of the Kingdom of Wu |
+| 你现在已经是 | You are now a |
+| 恭喜已经成功升职为 | Congratulations on being promoted to |
+| 小队长 | Squad Leader |
+| 抢夺大军 | Plundering Army |
+| 用抢夺来的大量糖葫芦换来的称号 | Title earned by exchanging a large amount of plundered Tanghulu |
+| 完美礼品使者 | Perfect Gift Messenger |
+| 领取 | collect |
+| 普通雪球 | Normal Snowball |
+| 圣诞活动期间 | during the Christmas Event |
+| 每天可以 | you can collect |
+| 每天第一次参与护送可以额外获得一定历练 | Participating in Escort for the first time each day grants bonus Experience |
+| 能够发掘人才，辨识人才，赛过伯乐啊 | Able to discover and identify talent, surpassing even the legendary Talent Scout |
+| 逐步体验到钓鱼神技的奥妙 | Gradually grasping the secrets of divine fishing skills |
+| 磨练垂钓的技艺 | Honing your fishing skills |
+| 校军场木人感到你的战斗力相当不俗 | The Wooden Dummy at the Training Ground feels your combat power is quite impressive |
+| 擂台大会竞技积分达到100点，获得的称号 | Title earned by reaching 100 Arena Competition Points |
+| 竞技积分排行第三十一到一百名获得的武艺称号 | Martial Arts title earned by ranking 31st to 100th in Competition Points |
+| 不可贪心他人之宝，你已经摸到了探宝的门道 | Do not covet others' treasures, you have already grasped the way of Treasure Hunt |
+| 名望10000－19999获得的爵位 | Peerage earned with Renown 10000-19999 |
+| 名望5000－9999获得的爵位 | Peerage earned with Renown 5000-9999 |
+| 师徒奖励称号 | Master & Disciple Reward Title |
+| 面对华容道之险，依然成功闯越的军士 | A soldier who braved the perils of Huarong Road and succeeded |
+| 犹如蛟龙一般，轻松飞跃华容天险的豪杰 | A champion who soared over the treacherous Huarong Pass like a mighty dragon |
+| 你成功的四十分钟内获得了华容道的胜利 | You achieved victory on Huarong Road within forty minutes |
+| 白帝城跑商中获得的称号 | Title earned during Baidi City Trade Runs |
+| 演义战场逆旅河山中获得的称号 | Title earned in the Romance Battlefield: Rivers and Mountains |
+| 逆旅河山 | Rivers and Mountains |
+| 三获赤壁外传战场策划大奖的奖励称号 | Reward title for winning the Chibi Spin-off Battlefield Planning Award three times |
+| 赤壁外传 | Chibi Spin-off |
+| 策划大奖 | Planning Award |
+| 族系声望称号只显示已拥有最高级的 | Clan Reputation titles only show the highest level owned |
+| 地区声望称号只显示已拥有最高级的 | Regional Reputation titles only show the highest level owned |
+| 无畏无惧勇往直前的将士 | A fearless warrior who charges forward without hesitation |
+| 012.25－1.8圣诞活动期间 | From Dec 25 to Jan 8 during the Christmas Event |
+| 01～3名 | Rank 1-3 |
+| 04～10名 | Rank 4-10 |
+| 你对 | You |
+| 造成了 | dealt |
+| 点伤害 | damage |
+| 护卫 | Guard |
+| 的护卫 | 's Guard |
+| 攻击 | Attack |
+| 防御 | Defense |
+| 生命 | HP |
+| 体力 | Stamina |
+| 命中率 | Accuracy |
+| 闪避率 | Dodge Rate |
+| 暴击率 | Crit Rate |
+| 暴击伤害率 | Crit Damage Rate |
+| 治疗效果 | Healing Effect |
+| 移动速度 | Movement Speed |
+| 攻击速度 | Attack Speed |
+| 冷却时间 | Cooldown |
+| 持续时间 | Duration |
+| 有效范围 | Effective Range |
+| 消耗 | Consumption |
+| 需求等级 | Required Level |
+| 职业需求 | Class Requirement |
+| 性别需求 | Gender Requirement |
+| 势力需求 | Faction Requirement |
+| 阵营需求 | Camp Requirement |
+| 称号有效期 | Title Duration |
+| 称号描述 | Title Description |
+| 称号属性 | Title Stats |
+| 称号来源 | Title Source |
+| 称号类型 | Title Type |
+| 称号等级 | Title Level |
+| 称号品质 | Title Quality |
+| 称号颜色 | Title Color |
+| 称号图标 | Title Icon |
+| 称号特效 | Title Effect |
+| 称号音效 | Title Sound |
+| 称号动画 | Title Animation |
+| 称号界面 | Title Interface |
+| 称号系统 | Title System |
+| 称号列表 | Title List |
+| 称号详情 | Title Details |
+| 称号获取 | Title Acquisition |
+| 称号使用 | Title Usage |
+| 称号装备 | Title Equipment |
+| 称号卸下 | Title Unequip |
+| 称号切换 | Title Switch |
+| 称号隐藏 | Title Hide |
+| 称号显示 | Title Show |
+| 称号激活 | Title Activate |
+| 称号升级 | Title Upgrade |
+| 称号强化 | Title Enhancement |
+| 称号进化 | Title Evolution |
+| 称号突破 | Title Breakthrough |
+| 称号觉醒 | Title Awakening |
+| 称号传承 | Title Inheritance |
+| 称号附魔 | Title Enchant |
+| 称号镶嵌 | Title Inlay |
+| 称号合成 | Title Synthesis |
+| 称号分解 | Title Decompose |
+| 称号回收 | Title Recycle |
+| 称号交易 | Title Trade |
+| 称号拍卖 | Title Auction |
+| 称号邮寄 | Title Mail |
+| 称号丢弃 | Title Discard |
+| 称号锁定 | Title Lock |
+| 称号解锁 | Title Unlock |
+| 称号绑定 | Title Bind |
+| 称号解绑 | Title Unbind |
+| 称号继承 | Title Inherit |
+| 称号转移 | Title Transfer |
+| 称号重置 | Title Reset |
+| 称号洗练 | Title Reroll |
+| 称号精炼 | Title Refine |
+| 称号打造 | Title Forge |
+| 称号制作 | Title Craft |
+| 称号锻造 | Title Smith |
+| 称号铸造 | Title Cast |
+| 称号炼制 | Title Alchemy |
+| 称号炼金 | Title Alchemy |
+| 称号附灵 | Title Spirit Bind |
+| 称号通灵 | Title Spirit Communion |
+| 称号召唤 | Title Summon |
+| 称号召唤兽 | Title Summoned Beast |
+| 称号宠物 | Title Pet |
+| 称号坐骑 | Title Mount |
+| 称号翅膀 | Title Wings |
+| 称号时装 | Title Fashion |
+| 称号背饰 | Title Back Accessory |
+| 称号头饰 | Title Headwear |
+| 称号面饰 | Title Face Accessory |
+| 称号手饰 | Title Hand Accessory |
+| 称号脚饰 | Title Foot Accessory |
+| 称号腰饰 | Title Waist Accessory |
+| 称号项链 | Title Necklace |
+| 称号戒指 | Title Ring |
+| 称号手镯 | Title Bracelet |
+| 称号耳环 | Title Earring |
+| 称号护符 | Title Amulet |
+| 称号护身符 | Title Talisman |
+| 称号法器 | Title Magical Artifact |
+| 称号法宝 | Title Treasure |
+| 称号神器 | Title Divine Artifact |
+| 称号圣器 | Title Holy Artifact |
+| 称号魔器 | Title Demonic Artifact |
+| 称号仙器 | Title Immortal Artifact |
+| 称号灵器 | Title Spirit Artifact |
+| 称号宝器 | Title Precious Artifact |
+| 称号兵器 | Title Weapon |
+| 称号武器 | Title Weapon |
+| 称号装备栏 | Title Equipment Slot |
+| 称号背包 | Title Backpack |
+| 称号仓库 | Title Warehouse |
+| 称号邮箱 | Title Mailbox |
+| 称号商店 | Title Shop |
+| 称号拍卖行 | Title Auction House |
+| 称号交易所 | Title Exchange |
+| 称号摆摊 | Title Stall |
+| 称号摊位 | Title Stall Slot |
+| 称号地摊 | title Ground Stall |
+| 称号寄售 | Title Consignment |
+| 称号寄卖 | Title Consignment |
+| 称号寄存 | Title Deposit |
+| 称号取出 | Title Withdraw |
+| 称号存入 | Title Deposit |
+| 称号取出栏 | Title Withdrawal Slot |
+| 称号存入栏 | Title Deposit Slot |
+| 称号快捷栏 | Title Hotbar |
+| 称号技能栏 | Title Skill Bar |
+| 称号物品栏 | Title Item Bar |
+| 称号装备页 | Title Equipment Page |
+| 称号属性页 | Title Stats Page |
+| 称号详情页 | Title Details Page |
+| 称号预览 | Title Preview |
+| 称号试穿 | Title Try On |
+| 称号试用 | Title Trial |
+| 称号体验 | Title Experience |
+| 称号试炼 | Title Trial |
+| 称号挑战 | Title Challenge |
+| 称号副本 | Title Dungeon |
+| 称号关卡 | Title Stage |
+| 称号章节 | Title Chapter |
+| 称号剧情 | Title Story |
+| 称号任务 | Title Quest |
+| 称号日常 | Title Daily |
+| 称号周常 | Title Weekly |
+| 称号月常 | Title Monthly |
+| 称号活动 | Title Event |
+| 称号限时 | Title Limited Time |
+| 称号节日 | Title Festival |
+| 称号纪念 | Title Commemorative |
+| 称号收藏 | Title Collection |
+| 称号图鉴 | Title Codex |
+| 称号成就 | Title Achievement |
+| 称号勋章 | Title Medal |
+| 称号头衔 | Title Honor |
+| 称号荣誉 | Title Honor |
+| 称号声望 | Title Reputation |
+| 称号爵位 | Title Peerage |
+| 称号官职 | Title Official Position |
+| 称号军衔 | Title Military Rank |
+| 称号职位 | Title Position |
+| 称号等级称号 | Title Level Title |
+| 称号职业称号 | Title Class Title |
+| 称号势力称号 | Title Faction Title |
+| 称号阵营称号 | Title Camp Title |
+| 称号称号 | Title Title |
+| 称号 | Title |
+| 的称号 | 's Title |
+| 获得的称号 | Title earned by |
+| 称号获得 | Title Earned |
+| 称号奖励 | Title Reward |
+| 称号礼包 | Title Gift Pack |
+| 称号宝箱 | Title Treasure Chest |
+| 称号钥匙 | Title Key |
+| 称号碎片 | Title Fragment |
+| 称号材料 | Title Material |
+| 称号图纸 | Title Blueprint |
+| 称号配方 | Title Recipe |
+| 称号卷轴 | Title Scroll |
+| 称号符文 | Title Rune |
+| 称号宝石 | Title Gem |
+| 称号矿石 | Title Ore |
+| 称号木材 | Title Wood |
+| 称号布料 | Title Cloth |
+| 称号皮革 | Title Leather |
+| 称号金属 | Title Metal |
+| 称号药材 | Title Herb |
+| 称号食材 | Title Ingredient |
+| 称号燃料 | Title Fuel |
+| 称号货币 | Title Currency |
+| 称号金币 | Title Gold |
+| 称号银币 | Title Silver |
+| 称号铜币 | Title Copper |
+| 称号元宝 | Title Ingot |
+| 称号绑元 | Title Bound Ingot |
+| 称号礼券 | Title Voucher |
+| 称号代币 | Title Token |
+| 称号积分 | Title Points |
+| 称号点数 | Title Points |
+| 称号点券 | Title Coupon |
+| 称号礼金 | Title Gift Money |
+| 称号红包 | Title Red Packet |
+| 称号福利 | Title Welfare |
+| 称号奖励金 | Title Bonus |
+| 称号奖金 | Title Prize |
+| 称号赏金 | Title Bounty |
+| 称号佣金 | Title Commission |
+| 称号工资 | Title Salary |
+| 称号俸禄 | Title Stipend |
+| 称号津贴 | Title Allowance |
+| 称号补助 | Title Subsidy |
+| 称号补贴 | Title Subsidy |
+| 称号救济 | Title Relief |
+| 称号赔偿 | Title Compensation |
+| 称号退款 | Title Refund |
+| 称号返利 | Title Rebate |
+| 称号回扣 | Title Kickback |
+| 称号佣金回扣 | Title Commission Rebate |
+| 称号提成 | Title Commission |
+| 称号分红 | Title Dividend |
+| 称号股息 | Title Dividend |
+| 称号利息 | Title Interest |
+| 称号收益 | Title Income |
+| 称号利润 | Title Profit |
+| 称号亏损 | Title Loss |
+| 称号盈亏 | Title Profit/Loss |
+| 称号损益 | Title Profit/Loss |
+| 称号资产负债 | Title Assets/Liabilities |
+| 称号资产 | Title Assets |
+| 称号负债 | Title Liabilities |
+| 称号所有者权益 | Title Owner's Equity |
+| 称号所有者 | Title Owner |
+| 称号持有人 | Title Holder |
+| 称号拥有者 | Title Possessor |
+| 称号支配者 | Title Controller |
+| 称号控制者 | Title Controller |
+| 称号管理者 | Title Administrator |
+| 称号运营者 | Title Operator |
+| 称号维护者 | Title Maintainer |
+| 称号开发者 | Title Developer |
+| 称号设计师 | Title Designer |
+| 称号策划师 | Title Planner |
+| 称号文案 | Title Copywriter |
+| 称号美工 | Title Artist |
+| 称号程序 | Title Programmer |
+| 称号测试 | Title Tester |
+| 称号客服 | Title Customer Service |
+| 称号运营 | Title Operations |
+| 称号市场 | Title Marketing |
+| 称号销售 | Title Sales |
+| 称号商务 | Title Business |
+| 称号财务 | Title Finance |
+| 称号会计 | Title Accountant |
+| 称号审计 | Title Auditor |
+| 称号法务 | Title Legal |
+| 称号律师 | Title Lawyer |
+| 称号法官 | Title Judge |
+| 称号检察官 | title Prosecutor |
+| 称号警察 | Title Police |
+| 称号军人 | Title Soldier |
+| 称号将军 | Title General |
+| 称号元帅 | Title Marshal |
+| 称号皇帝 | Title Emperor |
+| 称号国王 | Title King |
+| 称号女王 | Title Queen |
+| 称号王子 | Title Prince |
+| 称号公主 | Title Princess |
+| 称号侯爵 | Title Marquis |
+| 称号伯爵 | Title Earl |
+| 称号子爵 | Title Viscount |
+| 称号男爵 | Title Baron |
+| 称号勋爵 | Title Lord |
+| 称号爵士 | Title Knight |
+| 称号骑士 | Title Knight |
+| 称号圣骑士 | Title Paladin |
+| 称号黑暗骑士 | Title Dark Knight |
+| 称号死亡骑士 | Title Death Knight |
+| 称号圣殿骑士 | Title Templar Knight |
+| 称号龙骑士 | Title Dragon Knight |
+| 称号狮鹫骑士 | Title Gryphon Knight |
+| 称号飞龙骑士 | Title Wyvern Knight |
+| 称号天马骑士 | Title Pegasus Knight |
+| 称号独角兽骑士 | Title Unicorn Knight |
+| 称号凤凰骑士 | Title Phoenix Knight |
+| 称号麒麟骑士 | Title Qilin Knight |
+| 称号玄武骑士 | Title Black Tortoise Knight |
+| 称号青龙骑士 | Title Azure Dragon Knight |
+| 称号白虎骑士 | Title White Tiger Knight |
+| 称号朱雀骑士 | Title Vermilion Bird Knight |
+| 称号四圣兽骑士 | Title Four Sacred Beasts Knight |
+| 称号五行骑士 | Title Five Elements Knight |
+| 称号八卦骑士 | Title Eight Trigrams Knight |
+| 称号九宫骑士 | Title Nine Palaces Knight |
+| 称号十方骑士 | Title Ten Directions Knight |
+| 称号百战骑士 | Title Hundred Battles Knight |
+| 称号千夫骑士 | Title Thousand Men Knight |
+| 称号万胜骑士 | Title Ten Thousand Victories Knight |
+| 称号亿战骑士 | Title Hundred Million Battles Knight |
+| 称号兆战骑士 | Title Trillion Battles Knight |
+| 称号京战骑士 | Title Quadrillion Battles Knight |
+| 称号垓战骑士 | Title Quintillion Battles Knight |
+| 称号秭战骑士 | Title Sextillion Battles Knight |
+| 称号穰战骑士 | Title Septillion Battles Knight |
+| 称号沟战骑士 | Title Octillion Battles Knight |
+| 称号涧战骑士 | Title Nonillion Battles Knight |
+| 称号正战骑士 | Title Decillion Battles Knight |
+| 称号载战骑士 | Title Undecillion Battles Knight |
+| 称号极战骑士 | Title Duodecillion Battles Knight |
+| 称号恒河沙骑士 | Title River of Sands Knight |
+| 称号阿僧祇骑士 | Title Asankya Knight |
+| 称号那由他骑士 | Title Nayuta Knight |
+| 称号不可思议骑士 | Title Inconceivable Knight |
+| 称号无量骑士 | Title Immeasurable Knight |
+| 称号大数骑士 | Title Grand Number Knight |
