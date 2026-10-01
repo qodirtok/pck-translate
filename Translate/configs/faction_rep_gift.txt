@@ -1,0 +1,10 @@
+#Format: Activity TAB RewardID
+
+#No Reward
+0	0
+#Third Prize
+2000	74592
+#Second Prize
+3500	74591
+#First Prize
+5000	74590

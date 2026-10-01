@@ -1,0 +1,33 @@
+27    Event
+31    Rainforest  
+30    Desert
+29    Valley
+28    Snow Mountain
+12    Guanzhong
+11    Jingxiang
+10    Jiangnan
+9     Nanman
+8     Bashu
+7     Xiliang
+6     Hebei
+13    Class
+4     Official Rank
+1     Kingdom of Wei
+2     Kingdom of Shu
+3     Kingdom of Wu
+15    Battlefield
+17    Martial Arts
+18    Legend
+19    Anecdote
+24    Legion
+22    Oath
+25    Daily
+26    Escort
+23    Marriage
+5     Tavern
+0     Normal
+14    Commerce
+16    Hero
+20    Encyclopedia
+21    South Sichuan
+32    Chibi

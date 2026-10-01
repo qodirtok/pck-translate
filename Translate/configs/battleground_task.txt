@@ -1,0 +1,51 @@
+// BattleQuest.xml Interface Config Script
+// Format: Cross-server Enabled	BattlefieldID	QuestID1	QuestID2 ... 
+// ANSI encoding, fields separated by Tab, each line must have at least 3 config entries
+
+//Overcoming All Generals
+0	540	17503
+
+//Desert Sea Surprise Troops
+0	948	26669
+
+//Huarong Road
+0	759	31264
+
+//Eight Formations: Rest Gate
+0	904	23039
+
+//Beimang Imperial Tomb
+0	906	23260	23259	23095
+
+//Ganlu Temple
+0	907	23438
+
+// Heroes' Chronicles: Xu Chu
+0	950	24719
+
+//Heroes' Chronicles: Gan Ning
+0	952	24847
+
+//Heroes' Chronicles: Huang Zhong
+0	1007	26122
+
+//Hulao Pass Heroes Assembly
+0	933	31263
+
+//Battle of Hefei: Hero Level
+0	935	31262
+
+//Eight Formations: Seven Star Formation
+0	1008	27283	27284
+
+//Challenge Tower
+0	1280	29017
+
+// Battle of Puyang: Hero Level
+0	747	31401
+
+// Battle of Jieqiao
+0	1311	31117
+
+//Heroes Assembly
+0	1038	27861

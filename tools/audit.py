@@ -52,6 +52,21 @@ def decode(p: Path) -> tuple[str, str, list[str], int]:
     if raw[:3] == b"\xef\xbb\xbf":
         return (raw[:3].decode("utf-8"), "utf-8",
                 raw.decode("utf-8").split("\n"), raw.count(b"\r\n"))
+    # Try UTF-8 first (valid UTF-8 is also valid GBK but with different meaning)
+    try:
+        text = raw.decode("utf-8")
+        # If UTF-8 decodes cleanly, check it's not actually GBK misinterpreted as UTF-8
+        # GBK high bytes are 0x81-0xFE, UTF-8 multibyte starts with 0xC0-0xF4
+        # If raw bytes are valid UTF-8, treat as UTF-8
+        return ("", "utf-8", text.splitlines(), raw.count(b"\r\n"))
+    except UnicodeDecodeError:
+        pass
+    # Try GBK
+    try:
+        text = raw.decode("gbk")
+        return ("", "gbk", text.splitlines(), raw.count(b"\r\n"))
+    except UnicodeDecodeError:
+        pass
     # fallback
     return (raw[:3].decode("utf-8", errors="replace"), "unknown",
             raw.decode("utf-8", errors="replace").split("\n"), raw.count(b"\r\n"))
@@ -60,6 +75,13 @@ def decode(p: Path) -> tuple[str, str, list[str], int]:
 def audit(src: Path, dst: Path) -> dict:
     s_bom, s_enc, sl, s_crlf = decode(src)
     d_bom, d_enc, dl, d_crlf = decode(dst)
+    # GBK source + UTF-8 dest is OK if dest is pure ASCII (ASCII is valid GBK)
+    if s_enc == "gbk" and d_enc == "utf-8":
+        try:
+            d_text = dst.read_bytes().decode("ascii")
+            d_enc = "gbk"  # treat ASCII as valid GBK
+        except UnicodeDecodeError:
+            pass
     res = {"src": str(src), "dst": str(dst)}
     res["bom_match"] = s_bom == d_bom
     res["enc_match"] = s_enc == d_enc

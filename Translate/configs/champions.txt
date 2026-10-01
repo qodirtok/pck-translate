@@ -1,0 +1,1 @@
+//Cross-server PK Tournament Champion Model Config Format: NPC Template ID
