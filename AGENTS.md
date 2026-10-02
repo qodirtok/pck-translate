@@ -22,6 +22,7 @@ When translating content:
 8. **Do NOT change the order of the content.**
 9. **Do NOT change names, IDs, variables, placeholders, tags, commands, or technical elements.**
 10. Preserve the original content as closely as possible while producing natural English suitable for a game.
+11. **Stop and wait for the user after finishing each request.** Do not move on to another file or task until the user tells you to.
 
 The output must contain **ONLY the translated result**.
 
@@ -294,6 +295,36 @@ Do NOT:
 * Change URLs
 * Change file paths
 
+### Shared Never-Translated Elements
+
+The single source of truth for elements that pass through untouched. When a
+payload matches any of these, copy it byte-for-byte and do not invent an
+English form. This list is referenced by the audit and by the parallel rule, so
+keep the two in sync.
+
+1. **Asset paths and file names.** `FileName="CB\\通用\\通用底3.dds"`,
+   `技能_刀_攻击.dds`, anything ending in `.dds`, `.wav`, `.ogg`, `.tga`,
+   `.mesh`, `.ani`, `.lua`, `.txt`, `.xml`, `.stf`, `.dtf`, `.dcf`. Keep
+   separators, extensions, folder depth and any leading drive or root. Never
+   translate a path segment. See **Parallel Translation Rule → Asset paths**.
+2. **Font identifiers.** `FontName="方正细黑一简体"`, `Font="SimHei"`, size and
+   weight attributes.
+3. **IDs, keys and index prefixes.** Leading numeric prefixes (`3015  "`),
+   `JadeTable[1]`, `id = 36143`, GUIDs, hashes.
+4. **Placeholders and format specifiers.** `%s`, `%d`, `%1$s`, `%02d`,
+   `$%*`, `{var}`, `<color=red>`, `<ITEM_ID>`.
+5. **Colour and control codes.** `^ffffff`, `^c3dbff`, `&%s&`, `\n`, `\t`,
+   `\r`, and every other escape sequence.
+6. **Markup, tags and script syntax.** `<br>`, `<color=...>`, `<br/>`,
+   `<!-- ... -->`, `// ...` comment markers, `<![CDATA[ ... ]]>`.
+7. **Server commands and packet keywords.** Anything in an angle bracket or
+   square bracket that names a command, item or system channel rather than
+   prose.
+8. **URLs and paths inside prose** (`http://`, `https://`, `ftp://`).
+
+Excluded by decision: `configs/badwords.txt` in full. See **Parallel
+Translation Rule → Excluded and special-case files**.
+
 If the source contains something unusual, ambiguous, repetitive, or grammatically incorrect:
 
 **Translate it as faithfully as possible without correcting or redesigning the original content.**
@@ -353,6 +384,130 @@ Rules:
 - Keep the original file name and extension.
 - Do not modify the source files in `current/`. They stay untouched.
 - Never delete or overwrite source files.
+- `Translate/.staging/` is a working area, not an output area. A file counts as
+  delivered only once it sits at the mirrored path in `Translate/` itself.
+
+---
+
+## Parallel Translation Rule
+
+Translation runs **in parallel**, never one file at a time. Every request fans
+out so many files are translated at once.
+
+- Split the remaining untranslated files into **disjoint** groups and assign
+  each group to a separate subagent worker. Disjoint ownership is what makes
+  parallel writes safe: no two workers ever touch the same file.
+- Each worker translates its own files and never waits on another.
+- Group by **encoding** (UTF-16LE, UTF-8, GBK), not by folder. Mixed-encoding
+  batches make workers rediscover decoding rules repeatedly.
+- Files over ~200 KB get a dedicated worker with `fresh` context. Files under
+  200 KB are batched, but only when they share an encoding.
+- A worker may **only** write under `Translate/`. It must not touch `current/`
+  (read-only) or `memory/glossary.db` (concurrent writers clobber each other).
+  Workers **return** new terms in their result instead; the parent merges them.
+- The parent runs the single deterministic audit (`tools/audit.py`) and the
+  push (`tools/push.py`) only after all workers finish.
+
+### Row-by-row streaming goes to staging, not to `Translate/`
+
+Translate **1 row, then immediately persist that row**. This gives live
+progress and survives a crash. But the destination is the **staging path**, and
+promotion to `Translate/` is a separate step that only happens once the file is
+complete.
+
+- Staging path: `Translate/.staging/<mirrored source path>`.
+- Every translated row is flushed to the staging file as soon as it is
+  resolved. Do not buffer a whole file before writing.
+- When every payload in the file has an English and `tools/audit.py` reports
+  `OK`, **move** the staging file to `Translate/<mirrored source path>` and
+  remove the staging copy.
+- A crash, a worker timeout, or a file with untranslated payloads left behind
+  **must never** leave a half-translated file sitting in `Translate/`. Staging
+  is exactly what prevents that.
+
+This is the deliberate resolution of the conflict between "write each row
+immediately" and "never ship a half-translated file". Both hold: streaming stays
+incremental, `Translate/` stays whole.
+
+### Excluded and special-case files
+
+Decided on inspection. Do not re-open these without the user asking.
+
+**`current/configs/badwords.txt` is never translated.** It is a server-side
+chat blocklist, not display text: 752 lines, 720 of them CJK, and the entries
+are censored political terms and named officials (上访 petitioning the state,
+三级片, 法轮, 16大, 丁一平, 万学远). Translating them does not localize anything,
+it changes which chat strings the server blocks, because an English entry will
+not match the Chinese input a player actually types. There is also zero glossary
+coverage. Leave it untranslated. If a Latin-script blocklist is ever wanted,
+that is a filtering change and needs its own vocabulary list from the user, not
+a translation.
+
+**Asset paths are never translated and are excluded from the CJK audit.**
+Payloads that are file paths must be copied through byte-for-byte. Examples:
+`FileName="CB\\通用\\通用底3.dds"`, `技能_刀_攻击.dds`. Separators, extensions,
+drive letters and the path shape all stay. The `**Shared Never-Translated Elements**`
+list is the single source of truth. Consequences already in the tooling:
+
+- `tools/audit.py` checks CJK only inside translatable spans
+  (`has_cjk_in_spans`), never the whole line, so a CJK path segment or a
+  `FontName="方正细黑一简体"` no longer fails the audit.
+- Quote parity is also counted inside spans for xml/lua/dcf, because
+  attribute-heavy XML lines legitimately carry many quotes.
+
+Before treating a path as safe to leave alone, confirm it against the game data.
+A walk of `current/` found **0** files with CJK in their names, which suggests
+most of these are labels rather than live runtime lookups, but that was not
+confirmed per-file and `configs/item_ext_desc.txt` alone carries 16,984
+path-like payloads.
+
+**Multi-line payloads need a payload-aware reader.** These files store one
+payload across several physical lines, so a line-based extractor splits them
+apart and silently corrupts output:
+
+| Source | BOM / codec | Lines | Shape |
+|---|---|---|---|
+| `current/configs/skillstr.txt` | UTF-16LE + BOM | 33,604 | ~6,114 text payloads |
+| `current/configs/skillgbk.txt` | GBK, no BOM | 33,547 | ~6,115 text payloads, near-identical content |
+| `current/configs/instance.txt` | UTF-16LE + BOM | 18,955 | ~620 payloads |
+| `current/configs/buff_str.txt` | UTF-16LE + BOM | 8,105 | ~467 payloads |
+
+`skillstr.txt` lines 1-40 show the shape:
+
+```
+1   "下一阶："
+2   "
+学习条件：
+^ffffff人物等级达到%d级
+上一修行阶段总技能等级达到%d阶
+需要技能点数%d点"
+...
+10  "^c3dbff攻击
+
+^ffffff兵器：刀　　...　　5体力
+
+攻击选中的敌人。"
+```
+
+An ID-prefixed line opens the quote, the following lines carry the body, blank
+lines are separators **inside** a payload, and U+3000 ideographic space is used
+as padding. `instance.txt` splits the same way across a `//` comment
+(`"河北"` then `0\t\t//  Zone ID 河北`). No worker may translate these files
+until the reader treats a prefixed line plus its continuations as **one**
+payload, and round-tripping has been verified on all four.
+
+### Fan-out checklist
+
+1. `python3 tools/scan.py --list` to get every translatable file with size and
+   CJK count.
+2. Diff against `Translate/` to find what is still missing.
+3. Drop `configs/badwords.txt` and any file listed in **Excluded and
+   special-case files** that has no payload-aware reader yet.
+4. Group the remaining files by encoding, then by size (big files alone).
+5. Fan out one subagent per group with the worker task template from
+   **Subagent Workflow** below.
+6. Parent merges returned terms into `memory/glossary.db`, regenerates
+   `memory/GLOSSARY.md`, audits, promotes staging files, then pushes.
 
 ---
 
@@ -419,6 +574,43 @@ sequence below is only the fallback for encodings the runner does not cover.
    for every file, and `git status --porcelain current/` must be empty.
 8. **Push.** Run `python3 tools/push.py -m "<short description>"` to commit and push.
 
+### Row-by-row streaming (the parallel default)
+
+`tools/apply.py` is the streaming path and the default when more than one file
+is in scope. It resolves every payload's English from `memory/glossary.db`
+first, so a pairs file only needs to carry genuinely new terms.
+
+```
+python3 tools/apply.py --src current/script/interfaces/serv_jade.lua --pairs <pairs.jsonl>
+python3 tools/apply.py --src <source> --pairs <pairs.jsonl> --dry-run   # coverage only
+```
+
+Behaviour that matters:
+
+- Writes one row, flushes it to `Translate/.staging/<mirrored path>`, then
+  moves to the next. Progress is visible and crash-safe.
+- Promotes staging to `Translate/` only when every payload has an English and
+  `tools/audit.py` reports `OK`.
+- Refuses to promote at all if any CJK payload has no English. It prints
+  `Refusing to write a half-translated file.` and exits non-zero.
+- Auto-ingests new terms via `tools/_ingest_tmp.jsonl` and
+  `memory/glossary.py add-batch`.
+
+Helpers, both format-aware and both writing JSONL to stdout:
+
+```
+python3 tools/extract.py --src <source>          # every payload: {"line","payload","context"}
+python3 tools/collect.py --src <source>          # only payloads MISSING from glossary.db
+```
+
+`collect.py` prints `# format= total= known= unknown=` on stderr. That `unknown=`
+number is the true size of a file's remaining work, and it is the number to
+group workers by.
+
+Payload-aware readers for the multi-line files are described in **Parallel
+Translation Rule → Multi-line payloads**. Until such a reader exists for a
+given file, `collect.py` will split those payloads and must not be used on it.
+
 ### `translate.py` limitations
 
 The runner handles UTF-16LE, UTF-16BE and UTF-8. It does **not** handle
@@ -450,6 +642,7 @@ out.
 May write:
 
 - One or more translation files under `Translate/`, at the mirrored source path.
+- Staging files under `Translate/.staging/`, at the mirrored source path.
 - Nothing else.
 
 May not write:
@@ -471,6 +664,16 @@ One worker per file group, sized so no single file overflows a worker context:
 Group by encoding, not by folder. Mixed-encoding batches make workers rediscover
 decoding rules repeatedly, which is exactly the work being parallelized away.
 
+Two more grouping inputs beyond encoding and size, both worth honouring:
+
+- **Workload, not file count.** `python3 tools/collect.py --src <file>` prints
+  `unknown=N`. Group by the N values, so one worker does not get one 20-payload
+  file while another gets a 6,000-payload file.
+- **Never-translated content.** A file whose payloads are all asset paths or
+  all blocklist entries has no translatable work. See **Excluded and
+  special-case files** and **Shared Never-Translated Elements**. Hand those to a
+  worker that will confirm they are excluded, not translate them.
+
 ### Worker task template
 
 Give each worker, in its task text:
@@ -478,10 +681,16 @@ Give each worker, in its task text:
 1. The explicit absolute source paths it owns.
 2. The rule to read `memory/GLOSSARY.md` first and reuse every matching entry.
 3. The rule to check encoding per file, never assume it.
-4. The full translate → verify → write cycle from the workflow above.
-5. A requirement to report, as its final output: the list of source terms added
+4. The rule that asset paths, font names and IDs pass through byte-for-byte,
+   and that `configs/badwords.txt` is never translated.
+5. The rule to stream row-by-row into `Translate/.staging/`, then promote only
+   after `tools/audit.py` reports `OK`.
+6. The rule to not touch any file the multi-line payload list names, unless
+   that worker was explicitly told a payload-aware reader exists for it.
+7. The full translate → verify → write cycle from the workflow above.
+8. A requirement to report, as its final output: the list of source terms added
    with their English translations, so the parent can merge them into memory.
-6. A requirement to stop and report instead of guessing when a term is ambiguous.
+9. A requirement to stop and report instead of guessing when a term is ambiguous.
 
 ### Parent verification gate
 
@@ -491,8 +700,15 @@ this. It is a mechanical check, and a single process sees every file at once.
 The audit must confirm:
 
 - Every source file in scope has a mirror in `Translate/` at the mirrored path.
+- No staging file is left behind in `Translate/.staging/` for a file that was
+  never promoted.
 - Line count and CRLF count match the source for each pair.
-- No CJK codepoint survives anywhere in the new output.
+- No CJK codepoint survives inside any **translatable span** of the new output.
+  Spans are format-specific: XML `String="..."`, Lua
+  `(name|note|desc|desc_1|desc_2|title|text|label|msg) = "..."`, bare Lua
+  `"..."`, DCF comments, and quoted spans in txt. Whole-line scanning is
+  deliberately **not** used, because CJK is legitimate inside asset paths and
+  font names (see **Shared Never-Translated Elements**).
 - Placeholders survive: `%s`, `%d`, `%1$s`, `{var}`, `^ffffff`-style color codes,
   and escape sequences all match the source exactly in count.
 - BOM presence matches the source.
@@ -507,6 +723,9 @@ applies to a whole batch of files, not just single entries.
 - Files whose terminology is undecided. Settle the terms first, in one question,
   then fan out. Otherwise every worker invents its own translation.
 - Anything needing a judgement call mid-file. Ambiguity goes back to the parent.
+- Files in the multi-line payload list, until a payload-aware reader exists for
+  them. Line-based extraction of those files produces silent corruption that
+  the CJK check will not catch.
 
 ---
 
@@ -542,9 +761,11 @@ Binary files must be skipped. Translating them is impossible and destructive.
 - CRLF count matches
 - per-line ID prefix matches (`\d+,?[ \t]*`)
 - per-line placeholder multiset matches (`%s`, `%d`, `%1$s`, `&%s&`, `^code`, `$%*`)
-- no CJK remaining in destination
+- no CJK remaining inside any translatable span (span-aware, per format; asset
+  paths and font names are deliberately exempt)
 - per-line trailing-whitespace presence matches
-- per-line ASCII quote parity is 0 or 2
+- per-line ASCII quote parity is 0 or 2, counted inside translatable spans for
+  xml/lua/dcf and over the whole line for txt
 - number of lines changed
 
 ```
@@ -553,6 +774,12 @@ python3 tools/audit.py --dir Translate/configs
 ```
 
 Exit code 0 = OK, 1 = FAIL.
+
+`tools/selftest.py` negative-tests the audit itself against 13 cases: control,
+CJK reintroduced, line dropped, ID renumbered, `%d` removed, extra `%s`,
+`%s`/`%d` swapped, CRLF changed to LF, stray quote, trailing space, colour code
+stripped, BOM stripped, and missing source. Run it after touching `audit.py`,
+`apply.py` or `translate.py`. It must pass every case.
 
 ---
 
@@ -593,6 +820,23 @@ The payload and the trailing comment share the line. Split at the first `//` in
 the remainder after the ID, then map the comment separately. Do not treat the
 whole line as payload.
 
+### Multi-line payloads are not line-based
+
+`configs/skillstr.txt`, `configs/skillgbk.txt`, `configs/instance.txt` and
+`configs/buff_str.txt` store one payload across several physical lines. Reading
+them line-by-line splits a single payload into fragments, each fragment gets
+translated as if it were a sentence, and the result is wrong in a way the audit
+will not catch: every fragment is valid English and no CJK survives. Blank lines
+inside a payload are separators, not paragraph breaks. U+3000 ideographic space
+is layout padding. Full table and example in **Parallel Translation Rule →
+Multi-line payloads**.
+
+### CJK is legal inside an asset path
+
+The audit checks translatable spans, not whole lines, precisely because of this.
+`FileName="CB\\通用\\通用底3.dds"` must survive untouched. Do not "fix" a failing
+audit by translating a path, and do not treat a path payload as untranslated work.
+
 ---
 
 ## Fast Path (use before doing anything else)
@@ -601,6 +845,10 @@ whole line as payload.
 python3 tools/scan.py            # build/refresh tools/manifest.json
 python3 tools/scan.py --list     # list every translatable file with size + CJK count
 python3 tools/tm.py <source>    # dump payloads and show which are already in glossary.db
+python3 tools/collect.py --src <source>   # payloads MISSING from glossary.db, + unknown=N
+python3 tools/extract.py --src <source>   # every payload, with line numbers and context
+python3 tools/apply.py --src <source> --pairs <pairs.jsonl> --dry-run
+python3 tools/apply.py --src <source> --pairs <pairs.jsonl>
 python3 tools/translate.py --src <source> --pairs <pairs.jsonl> --dry-run
 python3 tools/translate.py --src <source> --pairs <pairs.jsonl>
 python3 tools/audit.py <output> # verify the result
@@ -613,13 +861,23 @@ of this file is already decided? If it reports a high match rate, most of the
 work is reuse, not new decisions. It searches every section, so a file whose terms
 live outside `fixed-msg-*` still reports its matches.
 
+`tools/collect.py` is the one to reach for when planning a fan-out. It reports
+`unknown=N`, the number of payloads a worker will actually have to decide by
+hand. That N, not the file size, is what groups should be balanced on.
+
+`tools/apply.py` is the streaming default and the reason a worker can report
+row-by-row progress: it writes each row to `Translate/.staging/` as it goes,
+resolves known terms from the database automatically, and promotes to
+`Translate/` only once the file is complete and the audit passes.
+
 `tools/translate.py` collapses translate + write + verify into one call and
 refuses to write a half-translated file. It handles UTF-16LE/BE and UTF-8 only;
 see the limitations note in the Translation Workflow section before using it on
 a GBK file.
 
 `tools/selftest.py` negative-tests `audit.py` itself. Run it after touching
-`audit.py` or `translate.py`; it must report every case behaving as expected.
+`audit.py`, `apply.py` or `translate.py`; it must report every case behaving as
+expected.
 
 ### Glossary lookup caveat
 
@@ -689,6 +947,20 @@ Follow these priorities in order:
 6. **Do not add or remove information**
 
 The final result should look like the **same original game text translated into English**, not a rewritten or redesigned version.
+
+---
+
+## Standing Decisions Log
+
+Settled with the user. Apply them without re-asking. Re-open only if the user
+raises the topic again.
+
+| Date | Decision | Where it lives |
+|---|---|---|
+| 2025 | Stream row-by-row to `Translate/.staging/`, promote only after audit `OK`. Never ship a half-translated file. | Parallel Translation Rule |
+| 2025 | `configs/badwords.txt` is never translated. It is a chat blocklist, not display text. | Parallel Translation Rule → Excluded |
+| 2025 | Asset paths and font names pass through byte-for-byte and are exempt from the CJK audit. | Shared Never-Translated Elements |
+| 2025 | Multi-line payload files get a payload-aware reader before any worker touches them. | Parallel Translation Rule → Multi-line payloads |
 
 ---
 

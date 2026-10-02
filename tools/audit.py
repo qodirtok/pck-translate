@@ -29,6 +29,66 @@ ID = re.compile(r'^(\d+,?[ \t]*)')
 CJK0, CJK1 = 0x4E00, 0x9FFF
 CJK_RANGES = ((0x3400, 0x4DBF), (0xF900, 0xFAFF), (0xFF01, 0xFF5E))
 
+# Translatable-span extraction, format-aware. Only these spans are checked for
+# CJK; asset paths (FileName="CB\\通用\\..."), font names, and other
+# non-translatable attributes are ignored.
+XML_STR = re.compile(r'String="([^"]*)"')
+LUA_KV = re.compile(
+    r'((?:name|note|desc|desc_1|desc_2|title|text|label|msg)\s*=\s*")([^"]*)(")')
+LUA_BARE = re.compile(r'^(\s*")([^"]+)(")')
+DCF_COMMENT = re.compile(r'^(//\s*)(.*)$')
+DCF_QUOTED = re.compile(r'"([^"]*)"')
+TXT_QUOTED = re.compile(r'"([^"]*)"')
+
+
+def guess_format(path: Path) -> str:
+    ext = path.suffix.lower()
+    if ext == ".xml":
+        return "xml"
+    if ext == ".lua":
+        return "lua"
+    if ext == ".dcf":
+        return "dcf"
+    if ext in (".txt", ".dat", ".stf"):
+        return "txt"
+    return "txt"
+
+
+def translatable_spans(line: str, fmt: str) -> list[tuple[int, int]]:
+    """Return [(start, end)] of translatable character spans in one line."""
+    out: list[tuple[int, int]] = []
+    if fmt == "xml":
+        for m in XML_STR.finditer(line):
+            out.append((m.start(1), m.end(1)))
+    elif fmt == "lua":
+        for m in LUA_KV.finditer(line):
+            out.append((m.start(2), m.end(2)))
+        if not out:
+            m = LUA_BARE.match(line)
+            if m:
+                out.append((m.start(2), m.end(2)))
+    elif fmt == "dcf":
+        m = DCF_COMMENT.match(line)
+        if m:
+            out.append((m.start(2), m.end(2)))
+        else:
+            for mm in DCF_QUOTED.finditer(line):
+                out.append((mm.start(1), mm.end(1)))
+    else:
+        for m in TXT_QUOTED.finditer(line):
+            out.append((m.start(1), m.end(1)))
+    return out
+
+
+def has_cjk_in_spans(line: str, fmt: str) -> bool:
+    """True if any translatable span in the line contains CJK."""
+    for start, end in translatable_spans(line, fmt):
+        seg = line[start:end]
+        if any(CJK0 <= ord(c) <= CJK1 or
+               any(a <= ord(c) <= b for a, b in CJK_RANGES) for c in seg):
+            return True
+    return False
+
 
 def ph_sig(line: str) -> tuple:
     """Placeholder multiset, order-independent.
@@ -92,6 +152,7 @@ def audit(src: Path, dst: Path) -> dict:
     res["dst_crlf"] = d_crlf
     res["crlf_match"] = s_crlf == d_crlf
 
+    fmt = guess_format(dst)
     bad_id = bad_ph = bad_ph_order = bad_cjk = bad_tws = bad_q = 0
     order_lines = []
     for i, (a, b) in enumerate(zip(sl, dl)):
@@ -103,14 +164,23 @@ def audit(src: Path, dst: Path) -> dict:
         elif TOK.findall(a) != TOK.findall(b):
             bad_ph_order += 1
             order_lines.append(i)
-        if any("\u4e00" <= c <= "\u9fff" for c in b):
+        if has_cjk_in_spans(b, fmt):
             bad_cjk += 1
         tws_a = a != a.rstrip()
         tws_b = b != b.rstrip()
         if tws_a != tws_b:
             bad_tws += 1
-        if b.count('"') not in (0, 2):
-            bad_q += 1
+        # Quote parity: for XML/Lua/DCF, count quotes inside translatable
+        # spans only. For TXT, count all quotes on the line.
+        if fmt in ("xml", "lua", "dcf"):
+            qcount = 0
+            for start, end in translatable_spans(b, fmt):
+                qcount += b[start:end].count('"')
+            if qcount not in (0, 2):
+                bad_q += 1
+        else:
+            if b.count('"') not in (0, 2):
+                bad_q += 1
     res["id_mismatch"] = bad_id
     res["ph_mismatch"] = bad_ph
     res["ph_reorder_lines"] = order_lines
