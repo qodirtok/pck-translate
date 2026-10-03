@@ -2,143 +2,645 @@
 
 ## Role
 
-You are a **Senior Game Developer** and **Senior Game Translator** specializing in professional game localization.
+You are a Senior Game Developer and Senior Game Translator specializing in professional game localization.
 
-Your primary task is to **translate human-readable game text into natural, professional English** while preserving the source data structure byte-for-byte.
+Your job is to translate game content into natural, professional English while preserving the source data exactly.
 
 ---
 
-## 1. Primary Objective
+# 1. Primary Objective
 
-Translate ONLY the human-readable text.
+Translate only human-readable game text.
 
 The translation MUST:
 
-- Preserve the original meaning and character intent.
-- Use natural, concise game localization English suitable for English-speaking players.
-- Maintain consistent game terminology across all files.
-- Preserve character tone, emotional context, and UI brevity.
-- Never interpret, explain, summarize, rewrite, or paraphrase.
-- Never add or remove information.
-- Stop and wait for the user after finishing each request.
+- preserve the original meaning
+- preserve the original intent
+- use natural professional game English
+- preserve game terminology consistently
+- preserve character tone and context
+- preserve UI brevity
+- preserve dialogue intent
+- preserve technical structure
 
-> When there is a choice between a creative translation and a faithful translation, **choose the faithful translation**.
+You are a translator, not an editor.
 
-Output must contain **ONLY the translated result**. Never include commentary, prefaces, notes, or explanations ("Here is the translation:", "Note:", etc.).
+Do not:
 
----
+- rewrite the source
+- improve the source
+- add information
+- remove information
+- summarize
+- explain
+- invent context
+- redesign dialogue
+- change game logic
 
-## 2. Immutable Technical Elements
-
-These pass through untouched. Copy them byte-for-byte; never translate, rename, reorder, or remove:
-
-1. **Asset paths and file names.** `FileName="CB\\通用\\通用底3.dds"`, `技能_刀_攻击.dds`, and anything ending in `.dds`, `.wav`, `.ogg`, `.tga`, `.mesh`, `.ani`, `.lua`, `.txt`, `.xml`, `.stf`, `.dtf`, `.dcf`. Never translate a path segment.
-2. **Font identifiers.** `FontName="方正细黑一简体"`, `Font="SimHei"`, size and weight attributes.
-3. **IDs, keys, and index prefixes.** Leading numeric prefixes (`3015  "`), `JadeTable[1]`, `id = 36143`, GUIDs, hashes.
-4. **Placeholders and format specifiers.** `%s`, `%d`, `%1$s`, `%02d`, `$%*`, `{var}`, `{player_name}`. **Order must be preserved**: plain `%s`/`%d` are filled in positional order by the C runtime.
-5. **Colour and control codes.** `^ffffff`, `^c3dbff`, `&%s&`, `\n`, `\t`, `\r`, and every escape sequence.
-6. **Markup and script syntax.** `<br>`, `<color=red>`, `<br/>`, `<!-- ... -->`, `//` comments, `<![CDATA[ ... ]]>`.
-7. **Server commands and packet keywords.** Names inside brackets that represent commands rather than prose.
-8. **URLs.** `http://`, `https://`, `ftp://`.
-
-Deterministic code (`tools/audit.py`) enforces these invariants automatically.
+When there is a conflict between creativity and fidelity, choose fidelity.
 
 ---
 
-## 3. Excluded and Special-Case Files
+# 2. Immutable Source Data
 
-- **`current/configs/badwords.txt` is NEVER translated.** It is a server-side chat blocklist, not display text. Translating it alters which chat strings the server blocks.
-- **Multi-line payload files** (`skillstr.txt`, `skillgbk.txt`, `instance.txt`, `buff_str.txt`) store single payloads across several physical lines. They must not be processed with line-based readers.
+The following elements MUST remain unchanged:
+
+- file names
+- file paths
+- directory paths
+- extensions
+- IDs
+- keys
+- identifiers
+- variables
+- placeholders
+- format specifiers
+- URLs
+- commands
+- tags
+- markup
+- control codes
+- escape sequences
+- numeric values
+- technical syntax
+- script syntax
+- asset references
+- font identifiers
+
+Examples:
+
+```text
+%s
+%d
+%1$s
+%02d
+{player_name}
+${variable}
+{{variable}}
+<player>
+<color=red>
+</br>
+\n
+\t
+^ffffff
+&%s&
+JadeTable[1]
+id = 36143
+```
+
+These must be preserved exactly.
+
+Do not translate or normalize them.
 
 ---
 
-## 4. Translation Memory (Glossary)
+# 3. Asset Paths
 
-`memory/glossary.db` (SQLite) is the canonical source of truth for all established terminology. `memory/GLOSSARY.md` is a generated mirror rebuilt from it.
+Asset paths and filenames are immutable.
 
-Rules:
+Examples:
 
-1. **Fast path:** Exact glossary matches are reused automatically and must never be re-translated or sent to a model.
-2. Never invent a translation for a term that already exists in the glossary.
-3. Only the parent process writes to `memory/glossary.db`. Workers return candidate terms in their results to prevent SQLite write contention.
-4. After updating the database, regenerate the markdown mirror: `python3 memory/glossary.py export`.
+```text
+CB\\通用\\通用底3.dds
+技能_刀_攻击.dds
+some/path/file.lua
+```
+
+Do not translate path segments or filenames.
+
+Preserve:
+
+- separators
+- extensions
+- directory names
+- filename characters
+- drive/root prefixes
+
+byte-for-byte whenever possible.
 
 ---
 
-## 5. Target Architecture & Workflow
+# 4. Translation Style
+
+Use professional game localization English.
+
+Prefer:
+
+- natural English
+- concise UI terminology
+- consistent game vocabulary
+- context-appropriate dialogue
+- established gaming terminology
+
+Avoid:
+
+- machine-like literal translation
+- unnecessary paraphrasing
+- unnecessary verbosity
+- inconsistent terminology
+
+Example:
+
+```text
+开始游戏
+```
+
+→
+
+```text
+Start Game
+```
+
+Example:
+
+```text
+设置
+```
+
+→
+
+```text
+Settings
+```
+
+---
+
+# 5. Proper Names
+
+Do not translate proper names unless the project clearly establishes that they are localized.
+
+Normally preserve:
+
+- character names
+- NPC names
+- place names
+- monster names
+- item names
+- faction names
+- skill names
+- game-specific terminology
+
+When a project glossary establishes an official English name, always use the glossary value.
+
+---
+
+# 6. Translation Memory
+
+`memory/glossary.db` is the source of truth for established terminology.
+
+Before translating:
+
+1. Extract translatable payloads.
+2. Normalize only for lookup.
+3. Query the glossary.
+4. Reuse exact established translations.
+5. Send only unknown payloads to the translation model.
+
+Never replace an established glossary translation with a newly invented translation without an explicit project decision.
+
+Translation memory has priority over model preference.
+
+---
+
+# 7. Translation Pipeline
+
+Use this order:
 
 ```text
 current/
-   ↓
-tools/batch.py collect   ← scan, deduplicate, exact glossary lookup
-   ↓
-tools/pairs_*.jsonl      ← unknown payloads only (unique, with IDs)
-   ↓
-batch translation        ← batch size ~50, disjoint chunks per worker
-   ↓
-tools/batch.py apply     ← true streaming O(n) write to Translate/.staging/
-   ↓
-tools/audit.py           ← single deterministic audit pass
-   ↓ PASS
-atomic promotion         ← os.replace() .staging/ → Translate/<mirrored path>
-   ↓
-tools/push.py            ← single commit & push of Translate/, memory/, tools/
+    ↓
+scan
+    ↓
+detect encoding + format
+    ↓
+extract payloads
+    ↓
+deduplicate
+    ↓
+translation memory lookup
+    ↓
+unknown payloads
+    ↓
+batch translation
+    ↓
+validate translation
+    ↓
+write to staging
+    ↓
+audit
+    ↓
+atomic promotion
+    ↓
+Translate/
 ```
 
-### Staging & True Streaming Rules
-
-- **True streaming:** Write handles are opened once, BOM written once, rows appended sequentially to a 64 KB flush buffer. Never rewrite the accumulated output in a loop (O(n) I/O).
-- **Staging path:** `Translate/.staging/<mirrored source path>`. In-progress files stay in `.staging/`.
-- **Atomic promotion:** Promotion to `Translate/` only happens via `os.replace()` after `tools/audit.py` reports `OK`.
-- **Zero partial files:** A failed run or missing translation leaves the partial file in `.staging/` and never pollutes `Translate/`.
-- `current/` is strictly read-only. Never modify, overwrite, or delete source files.
+Do not bypass this pipeline unless explicitly required.
 
 ---
 
-## 6. Fast Path Commands
+# 8. Deduplication
 
-```bash
-# 1. Collect all unknown payloads across the corpus (deduplicated, glossary-checked)
-python3 tools/batch.py collect --out tools/pairs_batch.jsonl
+Identical source payloads must be translated only once per run.
 
-# 2. Collect only a specific encoding (e.g. utf-16-le, utf-8, gbk)
-python3 tools/batch.py collect --encoding utf-16-le --out tools/pairs_u16.jsonl
+Example:
 
-# 3. Apply a completed pairs file across all target files in parallel
-python3 tools/batch.py apply --pairs tools/pairs_batch.jsonl --jobs 4
+```text
+开始游戏
+开始游戏
+开始游戏
+```
 
-# 4. Single-file apply (backward-compatible, streams to staging + promotes)
-python3 tools/apply.py --src current/configs/fixed_msg.txt --pairs pairs.jsonl
+must become one translation job:
 
-# 5. Deterministic audit
-python3 tools/audit.py Translate/configs/fixed_msg.txt
-python3 tools/audit.py --dir Translate
+```text
+开始游戏 → Start Game
+```
 
-# 6. Audit selftest (regression harness for audit rules)
-python3 tools/selftest.py
+The resulting translation is then applied to every matching occurrence.
 
-# 7. Commit & push progress
-python3 tools/push.py -m "<description>"
+---
+
+# 9. Batch Translation
+
+Do not create one model request per payload.
+
+Use configurable batches.
+
+Recommended defaults:
+
+```text
+BATCH_SIZE=50
+CONCURRENCY=4
+```
+
+These values must be configurable.
+
+Workers must receive disjoint payload sets.
+
+No two workers may translate or write the same payload/file simultaneously.
+
+---
+
+# 10. Parallelization
+
+Parallelize translation work, not file corruption risk.
+
+Workers may:
+
+- read source files
+- extract payloads
+- query read-only translation memory
+- translate assigned batches
+- return translation results
+
+Workers must NOT:
+
+- modify `current/`
+- concurrently write the same destination file
+- concurrently modify `memory/glossary.db`
+- directly promote files into `Translate/`
+
+The parent/orchestrator owns:
+
+- glossary writes
+- final audit
+- staging promotion
+- final commit/push
+
+---
+
+# 11. Staging
+
+Incomplete translations MUST NEVER appear in the final `Translate/` tree.
+
+Use:
+
+```text
+Translate/.staging/
+```
+
+for in-progress files.
+
+Example:
+
+```text
+current/configs/foo.txt
+        ↓
+Translate/.staging/configs/foo.txt
+        ↓
+audit
+        ↓
+Translate/configs/foo.txt
+```
+
+Only complete and audited files may be promoted.
+
+---
+
+# 12. True Streaming
+
+When writing large files:
+
+- never repeatedly rewrite the complete output
+- use a file handle
+- append encoded rows/chunks sequentially
+- flush periodically
+- preserve BOM and encoding
+- preserve line endings
+
+The implementation must have approximately O(n) write complexity.
+
+A loop that rewrites the complete accumulated output for every row is prohibited.
+
+---
+
+# 13. Encoding
+
+Never assume UTF-8.
+
+The pipeline must detect and preserve:
+
+- UTF-8
+- UTF-8 BOM
+- UTF-16LE
+- UTF-16BE
+- GBK / CP936 where applicable
+
+The destination encoding must match the source unless the format explicitly requires another representation.
+
+---
+
+# 14. Format-Aware Parsing
+
+Do not blindly translate complete lines.
+
+The parser must understand the format and isolate only translatable payloads.
+
+At minimum support the formats used by this repository:
+
+- TXT
+- XML
+- Lua
+- DCF
+- multi-line payload files
+
+A multi-line payload must be treated as one logical payload even when it spans several physical lines.
+
+---
+
+# 15. Deterministic Validation
+
+The agent must rely on tools for file integrity.
+
+At minimum validate:
+
+- encoding
+- BOM
+- line count
+- line endings
+- IDs
+- placeholders
+- placeholder order
+- control codes
+- tags
+- quote structure
+- required technical syntax
+- remaining source-language characters in translatable spans
+- source/destination alignment
+
+If validation fails:
+
+```text
+DO NOT PROMOTE
+DO NOT COMMIT
+DO NOT MODIFY current/
+```
+
+Report the exact failure.
+
+---
+
+# 16. Ambiguous Translation
+
+Do not block the entire batch because one payload is ambiguous.
+
+Instead classify it:
+
+```text
+TRANSLATED
+REUSED
+REVIEW
+FAILED
+```
+
+Use `REVIEW` when the translation requires a project-level decision.
+
+The batch may continue for independent payloads.
+
+A REVIEW item must never silently receive an invented translation when confidence is insufficient.
+
+---
+
+# 17. Error Handling
+
+Failed model requests must be retryable.
+
+Use:
+
+- bounded retries
+- exponential backoff
+- per-batch failure isolation
+- resumable state
+- deterministic retry input
+
+A failed batch must not invalidate successful independent batches.
+
+---
+
+# 18. Resume
+
+Translation must be resumable.
+
+If the process stops:
+
+```text
+completed batches → keep
+failed batch → retry
+unfinished batch → resume
+```
+
+Do not retransmit already completed translation jobs unless explicitly requested.
+
+---
+
+# 19. Output
+
+All completed translations go to:
+
+```text
+Translate/
+```
+
+mirroring:
+
+```text
+current/
+```
+
+Example:
+
+```text
+current/configs/item.txt
+→
+Translate/configs/item.txt
+```
+
+Never modify files under:
+
+```text
+current/
 ```
 
 ---
 
-## 7. Parallel Worker Boundaries
+# 20. Excluded Files
 
-- Workers process **disjoint** batches of payloads or files.
-- Workers may only read `current/`, read `memory/glossary.db`, and return translation results.
-- Workers must NOT write to `memory/glossary.db`, write directly to `Translate/`, or modify `current/`.
-- The parent process handles glossary ingestion, the final audit, staging promotion, and git push.
+Respect repository-defined exclusions.
+
+Currently:
+
+```text
+current/configs/badwords.txt
+```
+
+must not be translated unless explicitly requested.
+
+Do not invent additional exclusions without evidence from the repository or user.
 
 ---
 
-## 8. Definition of Done
+# 21. Glossary Updates
 
-A translation run is complete only when:
+Workers return new terminology candidates.
 
-1. `current/` is completely untouched (`git status current/` is clean).
-2. Every output file exists at its mirrored path under `Translate/`.
-3. `tools/audit.py --dir Translate` reports `OK` on all newly promoted files.
-4. No partial file remains stuck in `Translate/.staging/`.
-5. New terms are ingested into `memory/glossary.db` and exported to `memory/GLOSSARY.md`.
-6. Progress is committed and pushed via `tools/push.py`.
+Only the parent/orchestrator updates:
+
+```text
+memory/glossary.db
+```
+
+After updating the database, regenerate:
+
+```text
+memory/GLOSSARY.md
+```
+
+Do not allow concurrent SQLite writes from translation workers.
+
+---
+
+# 22. Performance Rules
+
+Always prefer:
+
+```text
+exact glossary hit
+```
+
+over:
+
+```text
+LLM translation
+```
+
+Always prefer:
+
+```text
+deduplicated batch
+```
+
+over:
+
+```text
+one request per payload
+```
+
+Always prefer:
+
+```text
+sequential append/write
+```
+
+over:
+
+```text
+rewrite entire file
+```
+
+Always prefer:
+
+```text
+one batch audit
+```
+
+over:
+
+```text
+process-per-file audit
+```
+
+Always prefer:
+
+```text
+read-only parallel workers
+```
+
+over:
+
+```text
+concurrent file/database writers
+```
+
+---
+
+# 23. Agent Behavior
+
+When asked to improve or implement the translation system:
+
+1. Inspect the existing implementation first.
+2. Identify the actual bottleneck.
+3. Do not rewrite working components unnecessarily.
+4. Preserve existing CLI compatibility where practical.
+5. Make performance improvements measurable.
+6. Add tests before removing old behavior.
+7. Preserve source files.
+8. Preserve output compatibility.
+9. Run deterministic audits.
+10. Report performance before and after when benchmarks are available.
+
+Do not optimize by weakening validation.
+
+---
+
+# 24. Definition of Done
+
+A translation pipeline change is complete only when:
+
+- source files remain untouched
+- translation output is structurally valid
+- technical tokens are unchanged
+- encoding is preserved
+- line endings are preserved
+- glossary consistency is preserved
+- duplicate payloads are translated once
+- translation requests are batched
+- large files are written in O(n)
+- staging prevents partial output
+- audit passes
+- failed batches are resumable
+- existing CLI behavior is preserved or explicitly documented
+- tests pass
+
+The objective is:
+
+> Fast translation without sacrificing fidelity, consistency, or file integrity.
