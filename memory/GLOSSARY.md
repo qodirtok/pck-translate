@@ -1556,7 +1556,6 @@ Also expected: a province and its namesake capital city share the name
 | 你悄悄对 &%s& 说：%s | You whisper to &%s&: %s |
 | $$$$$$$$$$你需要选择一个目标 | $$$$$$$$$$You need to select a target |
 | $$$$$$$$$$目标距离过远 | $$$$$$$$$$Target is too far away |
-| 你对 %s 造成了 %d 点伤害 | You dealt %d damage to %s |
 | %s 对你造成了 %d 点伤害 | %s dealt %d damage to you |
 | $$$$$$$$$$使用当前武器不能使用该招式 | $$$$$$$$$$This move cannot be used with your current weapon |
 | $$$$$$$$$$错误的目标 | $$$$$$$$$$Invalid target |
@@ -1599,11 +1598,8 @@ Also expected: a province and its namesake capital city share the name
 | $$$$$$$$$$与护送对象距离过远，%d秒后任务失败 | $$$$$$$$$$Too far from the escort target, quest fails in %d seconds |
 | $$$$$$$$$$和目标之间有障碍无法直接攻击 | $$$$$$$$$$An obstacle blocks the target, cannot attack directly |
 | 损失了 %.1f%% 的阅历 | Lost %.1f%% Insight |
-| 你的护卫对%s造成了%d点伤害 | Your Bodyguard dealt %d damage to %s |
 | %s对你的护卫造成了%d点伤害 | %s dealt %d damage to your Bodyguard |
-| 你的护卫对%s的护卫%s造成了%d点伤害 | Your Bodyguard dealt %d damage to %s's Bodyguard %s |
 | %s的护卫%s对你的护卫造成了%d点伤害 | %s's Bodyguard %s dealt %d damage to your Bodyguard |
-| 你对%s的护卫%s造成了%d点伤害 | You dealt %d damage to %s's Bodyguard %s |
 | %s的护卫%s对你造成了%d点伤害 | %s's Bodyguard %s dealt %d damage to you |
 | 你被 %s 的护卫 %s 杀死了 | You were killed by %s's Bodyguard %s |
 | 你的护卫被 %s 的护卫 %s 杀死了 | Your Bodyguard was killed by %s's Bodyguard %s |

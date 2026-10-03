@@ -22,70 +22,30 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+import core
+
 ROOT = Path(__file__).resolve().parent.parent
 
-TOK = re.compile(r'%[-+ #0]*\d*(?:\.\d+)?[sdf]|%\d+\$[sdf]|&%s&|\^[0-9A-Fa-f]{6}|\$%*')
-ID = re.compile(r'^(\d+,?[ \t]*)')
-CJK0, CJK1 = 0x4E00, 0x9FFF
-CJK_RANGES = ((0x3400, 0x4DBF), (0xF900, 0xFAFF), (0xFF01, 0xFF5E))
-
-# Translatable-span extraction, format-aware. Only these spans are checked for
-# CJK; asset paths (FileName="CB\\通用\\..."), font names, and other
-# non-translatable attributes are ignored.
-XML_STR = re.compile(r'String="([^"]*)"')
-LUA_KV = re.compile(
-    r'((?:name|note|desc|desc_1|desc_2|title|text|label|msg)\s*=\s*")([^"]*)(")')
-LUA_BARE = re.compile(r'^(\s*")([^"]+)(")')
-DCF_COMMENT = re.compile(r'^(//\s*)(.*)$')
-DCF_QUOTED = re.compile(r'"([^"]*)"')
-TXT_QUOTED = re.compile(r'"([^"]*)"')
-
-
-def guess_format(path: Path) -> str:
-    ext = path.suffix.lower()
-    if ext == ".xml":
-        return "xml"
-    if ext == ".lua":
-        return "lua"
-    if ext == ".dcf":
-        return "dcf"
-    if ext in (".txt", ".dat", ".stf"):
-        return "txt"
-    return "txt"
+# Encoding detection, format detection, translatable-span extraction and the
+# placeholder tokeniser all live in core.py so this file, apply.py, collect.py
+# and scan.py can never disagree about what a payload is or how a file is
+# encoded. Only the *checks* below live here.
+TOK = core.TOK
+ID = core.ID
 
 
 def translatable_spans(line: str, fmt: str) -> list[tuple[int, int]]:
     """Return [(start, end)] of translatable character spans in one line."""
-    out: list[tuple[int, int]] = []
-    if fmt == "xml":
-        for m in XML_STR.finditer(line):
-            out.append((m.start(1), m.end(1)))
-    elif fmt == "lua":
-        for m in LUA_KV.finditer(line):
-            out.append((m.start(2), m.end(2)))
-        if not out:
-            m = LUA_BARE.match(line)
-            if m:
-                out.append((m.start(2), m.end(2)))
-    elif fmt == "dcf":
-        m = DCF_COMMENT.match(line)
-        if m:
-            out.append((m.start(2), m.end(2)))
-        else:
-            for mm in DCF_QUOTED.finditer(line):
-                out.append((mm.start(1), mm.end(1)))
-    else:
-        for m in TXT_QUOTED.finditer(line):
-            out.append((m.start(1), m.end(1)))
-    return out
+    return [(s, e) for s, e, _ in core.spans(line, fmt)]
 
 
 def has_cjk_in_spans(line: str, fmt: str) -> bool:
     """True if any translatable span in the line contains CJK."""
     for start, end in translatable_spans(line, fmt):
         seg = line[start:end]
-        if any(CJK0 <= ord(c) <= CJK1 or
-               any(a <= ord(c) <= b for a, b in CJK_RANGES) for c in seg):
+        if core.count_cjk(seg):
             return True
     return False
 
@@ -101,35 +61,15 @@ def ph_sig(line: str) -> tuple:
 
 
 def decode(p: Path) -> tuple[str, str, list[str], int]:
-    """Return (bom, encoding, lines, crlf_count)."""
-    raw = p.read_bytes()
-    if raw[:2] == b"\xff\xfe":
-        return (raw[:2].decode("utf-16"), "utf-16-le",
-                raw.decode("utf-16").split("\r\n"), raw.decode("utf-16").count("\r\n"))
-    if raw[:2] == b"\xfe\xff":
-        return (raw[:2].decode("utf-16"), "utf-16-be",
-                raw.decode("utf-16").split("\r\n"), raw.decode("utf-16").count("\r\n"))
-    if raw[:3] == b"\xef\xbb\xbf":
-        return (raw[:3].decode("utf-8"), "utf-8",
-                raw.decode("utf-8").split("\n"), raw.count(b"\r\n"))
-    # Try UTF-8 first (valid UTF-8 is also valid GBK but with different meaning)
-    try:
-        text = raw.decode("utf-8")
-        # If UTF-8 decodes cleanly, check it's not actually GBK misinterpreted as UTF-8
-        # GBK high bytes are 0x81-0xFE, UTF-8 multibyte starts with 0xC0-0xF4
-        # If raw bytes are valid UTF-8, treat as UTF-8
-        return ("", "utf-8", text.splitlines(), raw.count(b"\r\n"))
-    except UnicodeDecodeError:
-        pass
-    # Try GBK
-    try:
-        text = raw.decode("gbk")
-        return ("", "gbk", text.splitlines(), raw.count(b"\r\n"))
-    except UnicodeDecodeError:
-        pass
-    # fallback
-    return (raw[:3].decode("utf-8", errors="replace"), "unknown",
-            raw.decode("utf-8", errors="replace").split("\n"), raw.count(b"\r\n"))
+    """Return (bom, encoding, lines, crlf_count).
+
+    `bom` is the BOM as the *character* U+FEFF, which is what the utf-16 and
+    utf-8-sig codecs both produce when they consume it. The raw BOM bytes are
+    not valid UTF-8 on their own, so they cannot be decoded blindly.
+    """
+    bom, enc, _eol, lines, crlf = core.read_text(p)
+    bom_str = "﻿" if bom else ""
+    return bom_str, enc, lines, crlf
 
 
 def audit(src: Path, dst: Path) -> dict:
@@ -152,7 +92,7 @@ def audit(src: Path, dst: Path) -> dict:
     res["dst_crlf"] = d_crlf
     res["crlf_match"] = s_crlf == d_crlf
 
-    fmt = guess_format(dst)
+    fmt = core.guess_format(dst, dl)
     bad_id = bad_ph = bad_ph_order = bad_cjk = bad_tws = bad_q = 0
     order_lines = []
     for i, (a, b) in enumerate(zip(sl, dl)):
