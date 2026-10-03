@@ -49,7 +49,8 @@ def main(argv: list[str]) -> int:
             print("  " + line)
         return 0
 
-    git("add", "Translate/", "memory/", "tools/", "AGENTS.md", "tools/")
+    # Stage safe paths (everything except current/)
+    git("add", "Translate/", "memory/", "tools/", "AGENTS.md", "PRD.md", ".gitignore")
     git("commit", "-m", msg)
     git("push", "origin", "main")
     log = git("log", "--oneline", "-1")

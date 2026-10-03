@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+Translate/.staging/
+*.db-shm
+*.db-wal
+tools/_ingest_tmp.jsonl
+tools/.batch_index.json
