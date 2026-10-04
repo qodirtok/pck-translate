@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="GB2312" standalone="no" ?>
+<object-array>
+  <ItemType id="90001" name="Teleport Item" group0="Teleport Item" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90002" name="Talisman Jade" group0="Equipment Enhancement" group1="Talisman Jade" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90003" name="Enhancement Upgrade Item" group0="Equipment Enhancement" group1="Enhancement Upgrade Item" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90004" name="Gift Bag" group0="Item" group1="Gift Bag" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90005" name="War Soul Related" group0="War Soul Related" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90006" name="Skill Book" group0="Item" group1="Skill Book" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90007" name="Food" group0="Consumable Item" group1="Food" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90008" name="Capture Item" group0="Guard Related" group1="Capture Item" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90009" name="Guard Skill Book" group0="Guard Related" group1="Guard Skill Book" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90010" name="Substitute Doll" group0="Item" group1="Substitute Doll" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90011" name="Miscellaneous" group0="Item" group1="Miscellaneous" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90012" name="Medicine" group0="Consumable Item" group1="Medicine" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90013" name="Recipe Scroll" group0="Item" group1="Recipe Scroll" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90014" name="Secret Text" group0="Equipment Enhancement" group1="Secret Text" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90015" name="Enhancement Stone" group0="Equipment Enhancement" group1="Enhancement Stone" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90016" name="Horse Gear" group0="Item" group1="Horse Gear" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90017" name="Mount" group0="Item" group1="Mount" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90018" name="Gift Pack" group0="Item" group1="Gift Pack" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90019" name="War Soul Related" group0="War Soul" group1="War Soul Related" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90020" name="Saber" group0="Weapon" group1="Saber" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90021" name="Sword" group0="Weapon" group1="Sword" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90022" name="Bow" group0="Weapon" group1="Bow" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90023" name="Halberd" group0="Weapon" group1="Halberd" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90024" name="Fan" group0="Weapon" group1="Fan" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90025" name="Axe" group0="Weapon" group1="Axe" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90026" name="Staff" group0="Weapon" group1="Staff" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90027" name="Spear" group0="Weapon" group1="Spear" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90028" name="Staff" group0="Weapon" group1="Staff" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90029" name="Claws" group0="Weapon" group1="Claws" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90030" name="Ring" group0="Weapon" group1="Ring" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90031" name="Shield" group0="Weapon" group1="Shield" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90032" name="Dance" group0="Weapon" group1="Dance" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90033" name="Hook" group0="Weapon" group1="Hook" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90034" name="Broadaxe" group0="Weapon" group1="Broadaxe" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90035" name="Iron Mace" group0="Weapon" group1="Iron Mace" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90036" name="Hammer" group0="Weapon" group1="Hammer" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90037" name="Fork" group0="Weapon" group1="Fork" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90038" name="Shoulder Armor" group0="Armor" group1="Shoulder Armor" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90039" name="Shoulder Armor" group0="Armor" group1="Shoulder Armor" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90040" name="Chest Armor" group0="Armor" group1="Chest Armor" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90041" name="Chest Armor" group0="Armor" group1="Chest Armor" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90042" name="Wrist Armor" group0="Armor" group1="Wrist Armor" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90043" name="Wrist Armor" group0="Armor" group1="Wrist Armor" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90044" name="Belt" group0="Armor" group1="Belt" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90045" name="Leg Armor" group0="Armor" group1="Leg Armor" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90046" name="Leg Armor" group0="Armor" group1="Leg Armor" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90047" name="Boots" group0="Armor" group1="Boots" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90048" name="Shoes" group0="Armor" group1="Shoes" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90049" name="Sash" group0="Armor" group1="Sash" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90050" name="Headgear" group0="Fashion" group1="Headgear" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90051" name="Face Accessory" group0="Fashion" group1="Face Accessory" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90052" name="Earrings" group0="Fashion" group1="Earrings" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90053" name="Emote" group0="Fashion" group1="Emote" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90054" name="Fashion Clothes" group0="Fashion" group1="Fashion Clothes" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90055" name="Right Ring" group0="Treasure" group1="Right Ring" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90056" name="Avatar Frame" group0="Treasure" group1="Avatar Frame" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90057" name="Helmet" group0="Treasure" group1="Helmet" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90058" name="Treasure" group0="Treasure" group1="Treasure" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90059" name="Left Ring" group0="Treasure" group1="Left Ring" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90060" name="Heart Guard" group0="Treasure" group1="Heart Guard" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90061" name="Saddle" group0="Treasure" group1="Saddle" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90062" name="Whip" group0="Treasure" group1="Whip" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90063" name="HP Potion" group0="Guard Related" group1="HP Potion" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90064" name="Loyalty Item" group0="Guard Related" group1="Loyalty Item" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90065" name="Skill Slot Item" group0="Guard Related" group1="Skill Slot Item" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90066" name="Morale Item" group0="Guard Related" group1="Morale Item" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="90067" name="Training Item" group0="Guard Related" group1="Training Item" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+  <ItemType id="91000" name="Gold Coins" group0="Virtual Currency" group1="Gold Coins" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+</object-array>
