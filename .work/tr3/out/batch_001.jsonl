@@ -1,0 +1,357 @@
+{"id": 1, "english": "^7fffffUse: 1125 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +60, For 10 min, HP Recovery +4\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 2, "english": "^7fffffUse: 1150 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +6\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 3, "english": "^7fffffUse: 11550 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 4, "english": "^7fffffUse: 11550 HP within 15 seconds.\\rIf you finish it: Attack +45, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 5, "english": "^7fffffUse: 115 Stamina within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 6, "english": "^7fffffUse: 11850 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 7, "english": "^7fffffUse: 1200 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 8, "english": "^7fffffUse: 1200 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +90\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 9, "english": "^7fffffUse: 120 Stamina within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 10, "english": "^7fffffUse: 12150 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 11, "english": "^7fffffUse: 12300 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 12, "english": "^7fffffUse: 125 Stamina within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 13, "english": "^7fffffUse: 12600 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 14, "english": "^7fffffUse: 12600 HP within 15 seconds.\\rIf you finish it: Defense +25, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 15, "english": "^7fffffUse: 12900 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 16, "english": "^7fffffUse: 1300 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 17, "english": "^7fffffUse: 13050 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 18, "english": "^7fffffUse: 130 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 19, "english": "^7fffffUse: 130 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Battle Qi\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 20, "english": "^7fffffUse: 13350 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 21, "english": "^7fffffUse: 13350 HP within 15 seconds.\\rIf you finish it: Max HP +469, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 22, "english": "^7fffffUse: 13350 HP within 15 seconds.\\rIf you finish it: Defense +26, HP Regen +30/sec, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 23, "english": "^7fffffUse: 13500 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 24, "english": "^7fffffUse: 13500 HP within 15 seconds.\\rIf you finish it: Max HP +474, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 25, "english": "^7fffffUse: 13500 HP within 15 seconds.\\rIf you finish it: HP Regen +31/sec, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 26, "english": "^7fffffUse: 1350 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +7\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 27, "english": "^7fffffUse: 1350 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +75, For 10 min, HP Recovery +5\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 28, "english": "^7fffffUse: 135 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 29, "english": "^7fffffUse: 135 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Battle Qi\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 30, "english": "^7fffffUse: 13650 HP within 15 seconds.\\rIf you finish it: Attack +55, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 31, "english": "^7fffffUse: 13650 HP within 15 seconds.\\rIf you finish it: Defense +27, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 32, "english": "^7fffffUse: 13800 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 33, "english": "^7fffffUse: 1400 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 34, "english": "^7fffffUse: 140 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 35, "english": "^7fffffUse: 140 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Battle Qi\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 36, "english": "^7fffffUse: 14400 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 37, "english": "^7fffffUse: 14400 HP within 15 seconds.\\rIf you finish it: Attack +58, HP Regen +33/sec, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 38, "english": "^7fffffUse: 14400 HP within 15 seconds.\\rIf you finish it: Max HP +507, Attack +58, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 39, "english": "^7fffffUse: 14400 HP within 15 seconds.\\rIf you finish it: Max HP +507, HP Regen +33/sec, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 40, "english": "^7fffffUse: 14400 HP within 15 seconds.\\rIf you finish it: Defense +29, HP Regen +33/sec, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 41, "english": "^7fffffUse: 145 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 42, "english": "^7fffffUse: 145 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Battle Qi\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 43, "english": "^7fffffUse: 1500 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 44, "english": "^7fffffUse: 1500 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +120\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 45, "english": "^7fffffUse: 150 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 46, "english": "^7fffffUse: 150 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Battle Qi\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 47, "english": "^7fffffUse: 150 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 48, "english": "^7fffffUse: 150 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +15\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 49, "english": "^7fffffUse: 150 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +15, For 10 min, HP Recovery +1\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 50, "english": "^7fffffUse: 155 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 51, "english": "^7fffffUse: 155 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Battle Qi\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 52, "english": "^7fffffUse: 155 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 35 Battle Qi and 35 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 53, "english": "^7fffffUse: 1575 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +90, For 10 min, HP Recovery +6\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 54, "english": "^7fffffUse: 1600 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 55, "english": "^7fffffUse: 160 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 56, "english": "^7fffffUse: 160 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Battle Qi\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 57, "english": "^7fffffUse: 160 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 35 Battle Qi and 35 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 58, "english": "^7fffffUse: 165 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 59, "english": "^7fffffUse: 165 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Battle Qi\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 60, "english": "^7fffffUse: 165 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 35 Battle Qi and 35 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 61, "english": "^7fffffUse: 1700 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 62, "english": "^7fffffUse: 1700 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +9\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 63, "english": "^7fffffUse: 170 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 64, "english": "^7fffffUse: 170 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Battle Qi\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 65, "english": "^7fffffUse: 170 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 35 Battle Qi and 35 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 66, "english": "^7fffffUse: 1725 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +90, For 10 min, HP Recovery +6\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 67, "english": "^7fffffUse: 1750 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 68, "english": "^7fffffUse: 175 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 69, "english": "^7fffffUse: 175 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 30 Battle Qi\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 70, "english": "^7fffffUse: 175 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 35 Battle Qi and 35 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 71, "english": "^7fffffUse: 1800 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 72, "english": "^7fffffUse: 1800 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +90, For 10 min, HP Recovery +6\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 73, "english": "^7fffffUse: 180 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 35 Battle Qi and 35 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 74, "english": "^7fffffUse: 1850 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 75, "english": "^7fffffUse: 1850 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +150\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 76, "english": "^7fffffUse: 185 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 35 Battle Qi and 35 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 77, "english": "^7fffffUse: 1900 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 78, "english": "^7fffffUse: 190 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 35 Battle Qi and 35 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 79, "english": "^7fffffUse: 1950 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 80, "english": "^7fffffUse: 195 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 35 Battle Qi and 35 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 81, "english": "^7fffffUse: 200 Stamina within 15 seconds.\\rIf you finish it: For 10 min, killing an enemy restores 35 Battle Qi and 35 Stamina\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 82, "english": "^7fffffUse: 200 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 83, "english": "^7fffffUse: 200 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +2\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 84, "english": "^7fffffUse: 2025 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +105, For 10 min, HP Recovery +7\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 85, "english": "^7fffffUse: 2050 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 86, "english": "^7fffffUse: 2100 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 87, "english": "^7fffffUse: 2150 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 88, "english": "^7fffffUse: 2200 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 89, "english": "^7fffffUse: 2200 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +11\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 90, "english": "^7fffffUse: 2250 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 91, "english": "^7fffffUse: 2250 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +120, For 10 min, HP Recovery +8\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 92, "english": "^7fffffUse: 225 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +15, For 10 min, HP Recovery +1\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 93, "english": "^7fffffUse: 2300 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 94, "english": "^7fffffUse: 2300 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +165\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 95, "english": "^7fffffUse: 2350 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +11\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 96, "english": "^7fffffUse: 2450 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 97, "english": "^7fffffUse: 2450 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +195\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 98, "english": "^7fffffUse: 2500 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 99, "english": "^7fffffUse: 250 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 100, "english": "^7fffffUse: 250 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +30\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 101, "english": "^7fffffUse: 2550 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +13\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 102, "english": "^7fffffUse: 2550 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +135, For 10 min, HP Recovery +9\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 103, "english": "^7fffffUse: 2550 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +195\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 104, "english": "^7fffffUse: 2700 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 105, "english": "^7fffffUse: 2750 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 106, "english": "^7fffffUse: 2750 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 107, "english": "^7fffffUse: 2775 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +150, For 10 min, HP Recovery +10\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 108, "english": "^7fffffUse: 2800 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 109, "english": "^7fffffUse: 2850 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +12\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects.\\rDisappears after leaving the battlefield."}
+{"id": 110, "english": "^7fffffUse: 2850 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 111, "english": "^7fffffUse: 2950 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 112, "english": "^7fffffUse: 2950 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 113, "english": "^7fffffUse: 3000 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 114, "english": "^7fffffUse: 3000 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 115, "english": "^7fffffUse: 300 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 116, "english": "^7fffffUse: 300 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +30, For 10 min, HP Recovery +2\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 117, "english": "^7fffffUse: 3050 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 118, "english": "^7fffffUse: 3100 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 119, "english": "^7fffffUse: 3100 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 120, "english": "^7fffffUse: 3150 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 121, "english": "^7fffffUse: 3200 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 122, "english": "^7fffffUse: 3200 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 123, "english": "^7fffffUse: 3250 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 124, "english": "^7fffffUse: 3300 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 125, "english": "^7fffffUse: 3300 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 126, "english": "^7fffffUse: 3300 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +165, For 10 min, HP Recovery +11\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 127, "english": "^7fffffUse: 3450 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +165, For 10 min, HP Recovery +11\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 128, "english": "^7fffffUse: 3500 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 129, "english": "^7fffffUse: 3500 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 130, "english": "^7fffffUse: 3500 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 131, "english": "^7fffffUse: 350 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 132, "english": "^7fffffUse: 3525 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +165, For 10 min, HP Recovery +11\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 133, "english": "^7fffffUse: 3550 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 134, "english": "^7fffffUse: 3550 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 135, "english": "^7fffffUse: 3600 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 136, "english": "^7fffffUse: 3650 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 137, "english": "^7fffffUse: 3675 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +195, For 10 min, HP Recovery +13\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 138, "english": "^7fffffUse: 375 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +30, For 10 min, HP Recovery +2\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 139, "english": "^7fffffUse: 3800 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 140, "english": "^7fffffUse: 3825 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +195, For 10 min, HP Recovery +13\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 141, "english": "^7fffffUse: 3850 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 142, "english": "^7fffffUse: 4000 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 143, "english": "^7fffffUse: 4000 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 144, "english": "^7fffffUse: 4000 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 145, "english": "^7fffffUse: 400 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 146, "english": "^7fffffUse: 400 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +3\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 147, "english": "^7fffffUse: 4050 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 148, "english": "^7fffffUse: 4050 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 149, "english": "^7fffffUse: 4050 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 150, "english": "^7fffffUse: 4100 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 151, "english": "^7fffffUse: 4125 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 152, "english": "^7fffffUse: 4150 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 153, "english": "^7fffffUse: 4150 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 154, "english": "^7fffffUse: 4150 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 155, "english": "^7fffffUse: 4200 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 156, "english": "^7fffffUse: 4250 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 157, "english": "^7fffffUse: 4250 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 158, "english": "^7fffffUse: 4250 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 159, "english": "^7fffffUse: 4275 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 160, "english": "^7fffffUse: 4350 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 161, "english": "^7fffffUse: 4350 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 162, "english": "^7fffffUse: 4400 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 163, "english": "^7fffffUse: 4425 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 164, "english": "^7fffffUse: 4450 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 165, "english": "^7fffffUse: 4500 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 166, "english": "^7fffffUse: 4500 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects.\\rDisappears after leaving the battlefield."}
+{"id": 167, "english": "^7fffffUse: 4500 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 168, "english": "^7fffffUse: 4550 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 169, "english": "^7fffffUse: 4600 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 170, "english": "^7fffffUse: 4650 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 171, "english": "^7fffffUse: 4750 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 172, "english": "^7fffffUse: 4800 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 173, "english": "^7fffffUse: 4850 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 174, "english": "^7fffffUse: 4875 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 175, "english": "^7fffffUse: 4950 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 176, "english": "^7fffffUse: 500 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 177, "english": "^7fffffUse: 500 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +45\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 178, "english": "^7fffffUse: 50 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 179, "english": "^7fffffUse: 5100 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 180, "english": "^7fffffUse: 5200 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 181, "english": "^7fffffUse: 5200 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +14, For 10 min, Max HP +210\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 182, "english": "^7fffffUse: 5250 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 183, "english": "^7fffffUse: 5300 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 184, "english": "^7fffffUse: 5325 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 185, "english": "^7fffffUse: 5400 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 186, "english": "^7fffffUse: 5450 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 187, "english": "^7fffffUse: 5550 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 188, "english": "^7fffffUse: 5625 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 189, "english": "^7fffffUse: 5650 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 190, "english": "^7fffffUse: 5700 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 191, "english": "^7fffffUse: 5700 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 192, "english": "^7fffffUse: 5775 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 193, "english": "^7fffffUse: 5850 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 194, "english": "^7fffffUse: 5850 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 195, "english": "^7fffffUse: 5925 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 196, "english": "^7fffffUse: 6000 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 197, "english": "^7fffffUse: 6000 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 198, "english": "^7fffffUse: 600 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 199, "english": "^7fffffUse: 600 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +4\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 200, "english": "^7fffffUse: 600 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +45, For 10 min, HP Recovery +3\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 201, "english": "^7fffffUse: 6075 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 202, "english": "^7fffffUse: 6100 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 203, "english": "^7fffffUse: 6150 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 204, "english": "^7fffffUse: 6200 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 205, "english": "^7fffffUse: 6250 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 206, "english": "^7fffffUse: 6300 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 207, "english": "^7fffffUse: 6400 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 208, "english": "^7fffffUse: 6450 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 209, "english": "^7fffffUse: 6500 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 210, "english": "^7fffffUse: 650 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +60\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 211, "english": "^7fffffUse: 6650 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 212, "english": "^7fffffUse: 6750 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 213, "english": "^7fffffUse: 6750 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +210, For 10 min, HP Recovery +14\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 214, "english": "^7fffffUse: 6800 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 215, "english": "^7fffffUse: 6950 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 216, "english": "^7fffffUse: 700 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 217, "english": "^7fffffUse: 700 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +4\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 218, "english": "^7fffffUse: 7050 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 219, "english": "^7fffffUse: 7100 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 220, "english": "^7fffffUse: 7200 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 221, "english": "^7fffffUse: 7200 HP within 15 seconds.\\rIf you finish it: Attack +24, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 222, "english": "^7fffffUse: 7350 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 223, "english": "^7fffffUse: 7500 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 224, "english": "^7fffffUse: 7500 HP within 15 seconds.\\rIf you finish it: Max HP +258, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 225, "english": "^7fffffUse: 7500 HP within 15 seconds.\\rIf you finish it: For 10 min, Hit +3\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 226, "english": "^7fffffUse: 7500 HP within 15 seconds.\\rIf you finish it: For 10 min, Attack +12\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 227, "english": "^7fffffUse: 7500 HP within 15 seconds.\\rIf you finish it: For 10 min, Crit +3\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 228, "english": "^7fffffUse: 7500 HP within 15 seconds.\\rIf you finish it: For 10 min, Dodge +3\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 229, "english": "^7fffffUse: 7500 HP within 15 seconds.\\rIf you finish it: For 10 min, Defense +6\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 230, "english": "^7fffffUse: 750 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +45, For 10 min, HP Recovery +3\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 231, "english": "^7fffffUse: 750 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +60\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 232, "english": "^7fffffUse: 7750 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 233, "english": "^7fffffUse: 7800 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 234, "english": "^7fffffUse: 7950 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 235, "english": "^7fffffUse: 800 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 236, "english": "^7fffffUse: 80 Stamina within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 237, "english": "^7fffffUse: 8100 HP within 15 seconds.\\rIf you finish it: Defense +14, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 238, "english": "^7fffffUse: 8250 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 239, "english": "^7fffffUse: 8250 HP within 15 seconds.\\rIf you finish it: Max HP +285, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 240, "english": "^7fffffUse: 8250 HP within 15 seconds.\\rIf you finish it: Max HP +285, HP Regen +18/sec, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 241, "english": "^7fffffUse: 8300 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 242, "english": "^7fffffUse: 8400 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 243, "english": "^7fffffUse: 8500 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 244, "english": "^7fffffUse: 850 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 245, "english": "^7fffffUse: 8550 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 246, "english": "^7fffffUse: 85 Stamina within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 247, "english": "^7fffffUse: 8700 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 248, "english": "^7fffffUse: 8700 HP within 15 seconds.\\rIf you finish it: HP Regen +19/sec, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 249, "english": "^7fffffUse: 8750 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 250, "english": "^7fffffUse: 9000 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 251, "english": "^7fffffUse: 900 HP within 15 seconds.\\rIf you finish it: For 10 min, HP Regen +5\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 252, "english": "^7fffffUse: 900 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +60, For 10 min, HP Recovery +4\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 253, "english": "^7fffffUse: 9050 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 254, "english": "^7fffffUse: 90 Stamina within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 255, "english": "^7fffffUse: 9150 HP within 15 seconds.\\rIf you finish it: Attack +34, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 256, "english": "^7fffffUse: 9300 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 257, "english": "^7fffffUse: 9300 HP within 15 seconds.\\rIf you finish it: Defense +17, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 258, "english": "^7fffffUse: 9400 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 259, "english": "^7fffffUse: 9450 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 260, "english": "^7fffffUse: 9450 HP within 15 seconds.\\rIf you finish it: Max HP +328, Defense +27, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 261, "english": "^7fffffUse: 95 Stamina within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 262, "english": "^7fffffUse: 9700 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 263, "english": "^7fffffUse: 9750 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 264, "english": "^7fffffUse: 975 HP within 15 seconds.\\rIf you finish it: For 10 min, Max HP +60, For 10 min, HP Recovery +4\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 265, "english": "^7fffffUse: 9850 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 266, "english": "^7fffffUse: 9900 HP within 15 seconds.\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 267, "english": "^7fffffUse: 9900 HP within 15 seconds.\\rIf you finish it: Attack +37, for 10 min\\r\\rRecovery is interrupted by attacking, taking damage, and similar effects."}
+{"id": 268, "english": "^7fffffUse:\\rRight-click to open\\rSends New Year greetings to nearby players"}
+{"id": 269, "english": "^7fffffUse: Teleports to the recorded destination point.^fff600\\rCannot be used to teleport into a battlefield"}
+{"id": 270, "english": "^7fffffUse: Revives the target with 10% HP."}
+{"id": 271, "english": "^7fffffUse: Revives the target with 20% HP."}
+{"id": 272, "english": "^7fffffUse: Revives the target with 30% HP."}
+{"id": 273, "english": "^7fffffUse: Revives the target with 40% HP."}
+{"id": 274, "english": "^7fffffUse: Revives the target with 50% HP."}
+{"id": 275, "english": "^7fffffUse: Grants 11 x Substitute Doll"}
+{"id": 276, "english": "^7fffffUse: Grants 11 x Wine Game Token"}
+{"id": 277, "english": "^7fffffUse: Grants 1 x Arena Entry Ticket - Red Team"}
+{"id": 278, "english": "^7fffffUse: Grants 1 x Arena Entry Ticket - Green Team"}
+{"id": 279, "english": "^7fffffUse: Grants 30 x Distant Whisper"}
+{"id": 280, "english": "^7fffffUse: Grants 30 x Potent Recovery Salve\\rCan be used to treat Jingxiang refugees."}
+{"id": 281, "english": "^7fffffUse: Grants 5 x Sacred Wine - Nu'er Hong"}
+{"id": 282, "english": "^7fffffUse: Grants 5 x Sacred Wine - Shaodaozi"}
+{"id": 283, "english": "^7fffffUse: Grants 5 x Sacred Wine - Laobaigan"}
+{"id": 284, "english": "^7fffffUse: Grants 5 x Fireworks - China Will Win"}
+{"id": 285, "english": "^7fffffUse: Grants 5 x Fireworks - Beijing 2008"}
+{"id": 286, "english": "^7fffffUse: Grants 5 x Fireworks - Sacred Flame"}
+{"id": 287, "english": "^7fffffUse: Grants 5 x Fireworks - Rise of a Great Nation"}
+{"id": 288, "english": "^7fffffUse: Grants 5 x Fireworks - Light of the Goddess"}
+{"id": 289, "english": "^7fffffUse: Grants 5 x Fireworks - Rainbow Garment"}
+{"id": 290, "english": "^7fffffUse: Grants 6 x Teleport Flag - Jizhou"}
+{"id": 291, "english": "^7fffffUse: Grants 6 x Teleport Flag - Liangzhou"}
+{"id": 292, "english": "^7fffffUse: Grants 6 x Teleport Flag - Nanzhong"}
+{"id": 293, "english": "^7fffffUse: Grants 6 x Teleport Flag - Chengdu"}
+{"id": 294, "english": "^7fffffUse: Grants 6 x Teleport Flag - Chaisang"}
+{"id": 295, "english": "^7fffffUse: Grants 6 x Teleport Flag - Xiangyang"}
+{"id": 296, "english": "^7fffffUse: Grants 6 x Teleport Flag - Chang'an"}
+{"id": 297, "english": "^7fffffUse: Grants the the Nanman Elephant mount mount\\rFaction Restriction: Shu.\\rMount Duration Limit: 6 hours."}
+{"id": 298, "english": "^7fffffUse: Grants the the Sika Deer mount mount\\rFaction Restriction: Wei.\\rMount Duration Limit: 6 hours."}
+{"id": 299, "english": "^7fffffUse: Grants the the Fire Spirit Fox mount mount\\rFaction Restriction: Wu.\\rMount Duration Limit: 6 hours."}
+{"id": 300, "english": "^7fffffUse: Right-click to use.\\r^ff7d2fOpening may randomly grant:\\r^fff60010 Gold Merchant Token\\r5 Star Chart Stone\\r20 Dream Fragment\\r5 Tiger Talisman\\rSecret Text - Ze\\rGift Pack - Tier 10 Battle God Armor Exchange Ticket (Hero)"}
+{"id": 301, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants:\\r1000 Han Dynasty Might"}
+{"id": 302, "english": "^7fffffUse: Right-click to use.\\r^fff600Adds one daily sign-in.\\rCan be used up to 5 times per month."}
+{"id": 303, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 10000 Han Dynasty Might"}
+{"id": 304, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 1000 Han Dynasty Might"}
+{"id": 305, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 100 Han Dynasty Might"}
+{"id": 306, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 100 Gold Merchant Token"}
+{"id": 307, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 10 Gold Merchant Token"}
+{"id": 308, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 1400 Han Dynasty Might"}
+{"id": 309, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 15000 Han Dynasty Might"}
+{"id": 310, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 1 Gold Merchant Token"}
+{"id": 311, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 2000 Han Dynasty Might"}
+{"id": 312, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 20 x Dream Fragment"}
+{"id": 313, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 20 Energy"}
+{"id": 314, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 20 Gold Merchant Token"}
+{"id": 315, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 250 Gold Merchant Token"}
+{"id": 316, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 2 Gold Merchant Token"}
+{"id": 317, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 30000 Han Dynasty Might"}
+{"id": 318, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3000 Han Dynasty Might"}
+{"id": 319, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 30 Gold Merchant Token"}
+{"id": 320, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3500 Zhongyuan Reputation"}
+{"id": 321, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3500 Guanzhong Reputation"}
+{"id": 322, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3500 Nanman Reputation"}
+{"id": 323, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3500 Southern Sichuan Reputation"}
+{"id": 324, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3500 Wunan Reputation"}
+{"id": 325, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3500 Bashu Reputation"}
+{"id": 326, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3500 Jiangnan Reputation"}
+{"id": 327, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3500 Hebei Reputation"}
+{"id": 328, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3500 Jingxiang Reputation"}
+{"id": 329, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3500 Xiliang Reputation"}
+{"id": 330, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 35 Gold Merchant Token"}
+{"id": 331, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 390 Gold Merchant Token"}
+{"id": 332, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 3 Gold Merchant Token"}
+{"id": 333, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 40 Gold Merchant Token"}
+{"id": 334, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 4 Gold Merchant Token"}
+{"id": 335, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 5000 Han Dynasty Might"}
+{"id": 336, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 50 Gold Merchant Token"}
+{"id": 337, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 50 Silver Merchant Token"}
+{"id": 338, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 5 Gold Merchant Token"}
+{"id": 339, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 6000 Han Dynasty Might"}
+{"id": 340, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 6 Gold Merchant Token"}
+{"id": 341, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 7 Gold Merchant Token"}
+{"id": 342, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 8000 Han Dynasty Might"}
+{"id": 343, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 888 Gold Merchant Token"}
+{"id": 344, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 88 Gold Merchant Token"}
+{"id": 345, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 8 Gold Merchant Token"}
+{"id": 346, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 900 Han Dynasty Might"}
+{"id": 347, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants 9 Gold Merchant Token"}
+{"id": 348, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants title:\\rDual * Identity"}
+{"id": 349, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants title:\\rPersistent Seeker"}
+{"id": 350, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants title:\\rTender as Water, Dreamlike Rendezvous"}
+{"id": 351, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants:\\r10 Han Zhu"}
+{"id": 352, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants:\\rLarge amounts of Experience and Insight\\rMay also have a chance to obtain: Jade Snow Rabbit (Permanent)\\r^7fffffPlease free up at least 1 slot in your inventory to claim the gift pack items."}
+{"id": 353, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants:\\rHeavenly Secret Scroll Exchange Card\\r^7fffffPlease free up at least 1 slot in your inventory to claim the gift pack items.\\rRequires 1 Tianji Scroll - Bing to use."}
+{"id": 354, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants:\\rHeavenly Secret Scroll Exchange Card\\r^7fffffPlease free up at least 1 slot in your inventory to claim the gift pack items.\\rRequires 1 Tianji Scroll - Yi to use."}
+{"id": 355, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants:\\rHeavenly Secret Scroll Exchange Card\\r^7fffffPlease free up at least 1 slot in your inventory to claim the gift pack items.\\rRequires 1 Tianji Scroll - Jia to use."}
+{"id": 356, "english": "^7fffffUse: Right-click to use.\\r^fff600Restores all HP and Stamina.\\r^7fffffFrom the operations event."}
+{"id": 357, "english": "^7fffffUse: Right-click to use.\\r^fff600Grants:\\rLingjue Cape (30 days)\\r^7fffffPlease free up at least 1 slot in your inventory to claim the gift pack items.\\rItems obtained after opening are bound"}

@@ -1,0 +1,648 @@
+584	生成奋勇	Generate Valor
+599	生成御风	Generate Windride
+886	电光石火	Lightning Spark
+887	电光石火·强攻	Lightning Spark·Power Attack
+888	电光石火·掠魂	Lightning Flash · Soul Snatch
+900	疾刺	Swift Thrust
+901	疾刺·力	Swift Thrust · Power
+902	疾刺·强攻	Swift Thrust · Fierce Attack
+903	疾刺·影	Swift Thrust · Shadow
+905	疾奔袭	Gale Rush
+906	疾电	Gale Lightning
+907	疾电·咒	Gale Lightning · Curse
+908	疾走	Gale Stride
+915	疾雷杀心	Thunder Gale Heartslayer
+916	疾风	Gale
+920	疾风千里	Gale of a Thousand Miles
+921	疾风回旋	Gale Cyclone
+922	疾风射	Gale Shot
+924	疾风弩	Gale Crossbow
+925	疾风弩·力	Gale Crossbow · Power
+926	疾风弩·技	Gale Crossbow · Technique
+927	疾风弩·连	Gale Crossbow · Combo
+928	疾风怒涛	Gale Rage Wave
+929	疾风怒涛·强攻	Gale Rage Wave · Fierce Attack
+930	疾风怒涛·黯灭	Gale Rage Wave · Dark Extinction
+931	疾风枪	Gale Spear
+932	疾风枪·冲刺	Gale Spear · Rush
+933	疾风枪·定身	Gale Spear · Immobilize
+934	疾风枪·技	Gale Spear · Technique
+936	疾风棍	Gale Staff
+937	疾风纹身	Gale Tattoo
+938	疾风纹身·技	Gale Tattoo · Technique
+939	疾风袭	Gale Assault
+940	疾风逆斩	Gale Reversal Slash
+941	疾风锤	Gale Hammer
+942	疾风锤·舞	Gale Hammer · Dance
+943	疾风锤·连打	Gale Hammer · Combo Strike
+955	白耳	White Ear
+956	白虎吼	White Tiger Roar
+957	白虎怒咆	White Tiger Fierce Roar
+958	白虹斩空	White Rainbow Sky Slash
+959	白马	White Horse
+960	百步	Hundred Paces
+961	百步定	Hundred Paces Lock
+962	百步穿杨	Pierce the Willow at a Hundred Paces
+963	百毒入髓	Hundred Poisons Marrow
+964	百毒入髓·加强	Hundred Poisons Marrow Penetration · Enhanced
+965	百毒入髓·战斗	Hundred Poisons Marrow Penetration · Battle
+966	百毒入髓·磐石	Hundred Poisons Marrow Penetration · Bedrock
+967	百毒入髓·血沸	Hundred Poisons Marrow Penetration · Bloodboil
+968	百炼刀决	Hundred-Forged Saber Art
+969	百花散	Hundred Blossoms Scatter
+970	百花散·强攻	Hundred Blossoms Scatter · Fierce Attack
+971	百花散·流离	Hundred Blossoms Scatter · Drift
+972	百裂伤	Hundred Splinter Wounds
+973	百裂伤·强攻	Hundred Splinter Wounds · Fierce Attack
+974	百裂伤·懈怠	Hundred Splinter Wounds · Lethargy
+975	百裂连棍	Hundred Splinter Continuous Staff
+976	百裂连棍·力	Hundred Splinter Continuous Staff · Power
+977	百裂连棍·技	Hundred Splinter Continuous Staff · Technique
+978	百骑劫营	Hundred Riders Raid the Camp
+980	皓冥凌绝	Pale Eclipse Ascendant
+987	直刺	Straight Thrust
+988	直刺·力	Straight Thrust · Power
+989	直刺·技	Straight Thrust · Technique
+990	直刺·迟缓	Straight Thrust · Slow
+991	直攻	Direct Strike
+992	直突	Straight Rush
+993	直突·力	Straight Rush · Power
+994	直突·强化	Straight Rush · Enhanced
+995	直突·影	Straight Rush · Shadow
+996	直突·技	Straight Rush · Technique
+997	直突·极速	Straight Rush · Extreme Speed
+1003	盾挡	Shield Block
+1005	盾魂	Shield Soul
+1007	看破	Insight
+1008	眠袭	Slumber Strike
+1009	眠袭·强攻	Slumber Strike · Fierce Attack
+1010	眠袭·易创	Slumber Strike · Vulnerable
+1011	眩光	Dazzling Light
+1014	眩阳	Blinding Sun
+1015	眩阳·冥气	Blinding Sun · Nether Qi
+1016	眩阳·强攻	Blinding Sun · Fierce Attack
+1017	眼疾手快	Quick Eye, Swift Hand
+1018	瞄准	Aim
+1019	瞬击	Swift Strike
+1020	瞬杀·军	Swift Kill · Army
+1021	瞬杀·怒	Swift Kill · Rage
+1022	瞬杀·破	Swift Kill · Break
+1023	瞬步	Swift Step
+1030	石流尘涛	Stone Stream, Dust Wave
+1031	石灵护体	Stone Spirit Protection
+1032	石破天惊	Shatters the Heavens
+1033	石破天惊·奇谋	Shatters the Heavens · Stratagem
+1034	石破天惊·强攻	Shatters the Heavens · Fierce Attack
+1036	破云斩	Cloud Break Slash
+1037	破云斩·刚	Cloud Break Slash · Fortitude
+1038	破云斩·烈	Cloud Break Slash · Fury
+1039	破元击	Origin Break Strike
+1040	破元击·伤	Origin Break Strike · Wound
+1041	破元击·怒	Origin Break Strike · Rage
+1042	破军	Army Breaker
+1043	破军弩	Army Breaker Crossbow
+1044	破军弩·力	Army Breaker Crossbow · Power
+1045	破军弩·技	Army Breaker Crossbow · Technique
+1054	破坚阵	Break Steadfast Formation
+1055	破天击	Heaven Break Strike
+1056	破天击·强攻	Heaven Break Strike · Fierce Attack
+1057	破天击·慑心	Heaven Break Strike · Heart Shudder
+1058	破子绽	Bursting Bloom
+1059	破岩	Rock Break
+1060	破岩·强攻	Rock Break · Fierce Attack
+1061	破岩·裂甲	Rock Break · Armor Split
+1062	破影击	Shadow Break Strike
+1063	破影击·刚	Shadow Break Strike · Fortitude
+1064	破影击·烈	Shadow Break Strike · Fury
+1065	破斩	Breaker Slash
+1066	破斩·伤	Breaker Slash · Wound
+1067	破斩·断防	Breaker Slash · Defense Break
+1068	破月袭	Moon Break Strike
+1069	破月袭·刚	Moon Break Strike · Fortitude
+1070	破月袭·烈	Moon Break Strike · Fury
+1072	破环式	Ring Break Stance
+1073	破环式·破	Ring Break Stance · Breaker
+1074	破环式·震慑	Ring Break Stance · Impose
+1078	破阵之舞	Formation Break Dance
+1079	破阵之舞·力	Formation Break Dance · Power
+1080	破阵之舞·辅	Formation Break Dance · Support
+1081	破阵舞	Formation Break
+1082	破阵锤	Formation Breaker
+1083	破魂刺	Soul-Shattering Thrust
+1084	砸击	Smash
+1085	砸击·破	Smash: Break
+1086	砸击·舞	Smash: Dance
+1087	碎兵	Shatter Arms
+1088	碎心锤	Heart Crusher
+1089	碎心锤·强化	Heart Crusher: Fortified
+1090	碎心锤·舞	Heart Crusher: Dance
+1091	碎环式	Ring-Shatter
+1092	碎环式·倒地	Ring-Shatter: Knockdown
+1093	碎环式·破	Ring-Shatter: Break
+1094	碎环式二式	Ring-Shatter Form II
+1095	碎石打	Boulder Strike
+1096	碎石打·力	Boulder Strike: Power
+1097	碎石打·影	Boulder Strike: Shadow
+1098	碎石打·猛击	Boulder Strike: Crush
+1099	碎石鞭	Boulder Whip
+1100	碎石鞭·影	Boulder Whip: Shadow
+1101	碎骨	Bone Crusher
+1102	碎骨·威摄	Bone Crusher: Intimidate
+1103	碎骨·强攻	Bone Crusher: Assault
+1104	碟呤	Butterfly Chime
+1105	碧波旋	Azure Wave Spin
+1106	磐石标记	Boulder Mark
+1107	磐石纹身	Boulder Tattoo
+1108	磐石纹身·力	Boulder Tattoo: Power
+1109	神伤之舞	Divine Wound Dance
+1110	神咒初	Divine Curse: Initiate
+1111	神威	Divine Might
+1112	神威一触	Divine Might Touch
+1113	神威一触·压制	Divine Might Touch: Suppress
+1114	神威一触·强攻	Divine Might Touch: Assault
+1115	神威乱舞	Divine Might Wild Dance
+1116	神威枪	Divine Might Spear
+1117	神威枪·技	Divine Might Spear: Technique
+1118	神定	Divine Focus
+1120	神枪破空	Divine Spear: Sky Pierce
+1121	神秘彩弹	Mystery Paint Ball
+1122	神罚	Divine Punishment
+1123	神舞倚天	Divine Dance: Heaven’s Lean
+1125	神速枪	Swift Divine Spear
+1126	神酒	Divine Wine
+1127	神龙探海	Divine Dragon Searches the Sea
+1128	神龙探海·强攻	Divine Dragon Searches the Sea: Assault
+1129	神龙探海·追杀	Divine Dragon Searches the Sea: Pursuit
+1131	禁字诀	Silence Mantra
+1133	禁络	Meridian Seal
+1134	禁骑	Riding Ban
+1138	离影刺	Shadow-Leave Thrust
+1139	离甲	Armor Sunder
+1140	离甲·伤	Armor Sunder: Wound
+1141	离甲·怒	Armor Sunder: Rage
+1142	离甲·衰弱	Armor Sunder: Weaken
+1143	秋风扫	Autumn Wind Sweep
+1144	秋风扫·影	Autumn Wind Sweep: Shadow
+1146	积芒	Accumulated Light
+1151	稳固	Steadfast
+1153	空刃	Void Blade
+1154	空刺	Void Thrust
+1160	空牙	Void Fang
+1161	穿云式	Cloud-Pierce Form
+1162	穿云袭	Cloud-Piercing Assault
+1163	穿云袭·强攻	Cloud-Piercing Assault: Assault
+1164	穿云袭·飞将	Cloud-Piercing Assault: Flying General
+1165	穿心击	Heart-Piercer
+1166	穿心击·强攻	Heart-Piercer: Assault
+1167	穿心击·飞将	Heart-Piercer: Flying General
+1168	穿杨射	Willow-Piercing Shot
+1169	穿橹	Oar Piercer
+1170	穿肠爪	Eviscerating Claw
+1171	穿肠爪·伏击	Eviscerating Claw: Ambush
+1172	穿肠爪·破	Eviscerating Claw: Break
+1173	突击	Charge
+1174	突击·乱舞	Charge: Wild Dance
+1175	突击·待伏	Charge: Ambush
+1176	突击·连击	Charge: Combo
+1177	突击·霸气	Charge: Dominance
+1178	突刺	Pierce
+1179	突刺·力	Pierce: Power
+1180	突刺·定身	Pierce: Immobilize
+1181	突刺·技	Pierce: Technique
+1182	突破	Breakthrough
+1183	突袭	Raid
+1184	突袭·乱舞	Raid: Wild Dance
+1185	突袭·强攻	Raid: Assault
+1186	突袭·神伤	Raid: Divine Wound
+1187	突袭·连击	Raid: Combo
+1189	突袭打	Raid Strike
+1192	突进矢	Advancing Bolt
+1193	突进矢·力	Advancing Bolt: Power
+1194	突进矢·技	Advancing Bolt: Technique
+1195	立马斩	Instant Mount Slash
+1209	竞技场限制效果	Arena Restriction Effect
+1214	笑红尘	Laughing at the Mortal World
+1215	笛音绝	Flute’s End
+1217	策马扬鞭	Spur the Horse, Raise the Whip
+1226	箭殇	Arrow Sorrow
+1227	箭袭	Arrow Assault
+1229	簧击	Reed Strike
+1230	粉碎一击	Shattering Blow
+1231	粉碎一击·弱战	Shattering Blow: Weakened Combat
+1233	粉碎一击·强攻	Shattering Blow: Assault
+1236	精准	Precision
+1237	精武	Martial Mastery
+1238	精锐	Elite
+1239	精魂	Spirit Soul
+1241	红颜	Beauty
+1242	红颜·影	Beauty: Shadow
+1243	红颜舞	Beauty Dance
+1244	纵横天下	Conquer the World
+1246	线风	Thread Wind
+1247	经国	Statecraft
+1250	绛纹蛇毒	Crimson-Striped Snake Venom
+1251	绝命击	Fatal Strike
+1252	绝情杀	Ruthless Kill
+1256	绪乱琢	Disordered Carve
+1257	续晴	Clearing Skies
+1258	缚心诀	Heart-Bind Mantra
+1259	缠颈打	Neck Lock Strike
+1260	缤纷百花雨	Colorful Hundred Flower Rain
+1261	缩地	Earth Step
+1264	缮甲治兵	Armor and Arms
+1265	罗刹	Rakshasa
+1266	罗刹·强攻	Rakshasa: Assault
+1267	罗刹·重创	Rakshasa: Devastate
+1268	罡魂	Vigor Soul
+1273	羁碟绊暮	Butterfly Tether at Dusk
+1294	翩翩起舞	Graceful Dance
+1296	翼扬斩	Wing Rend Slash
+1298	耀光	Radiant Light
+1299	耀光·强攻	Radiant Light · Force Attack
+1300	耀光·撕裂	Radiant Light · Rend
+1301	老当益壮	Hale and Hearty
+1305	职业屠夫	Butcher by Trade
+1306	聚元化气	Gather Essence, Transform Qi
+1308	聚精	Focused Spirit
+1325	聚雷式	Thunder Gathering Stance
+1326	聚雷式·力	Thunder Gathering Stance · Force
+1327	聚雷式·爆	Thunder Gathering Stance · Burst
+1329	背刺	Backstab
+1330	背刺·刺杀	Backstab · Assassination
+1331	背刺·力	Backstab · Force
+1332	背刺·技	Backstab · Skill
+1333	背水	Back to the River
+1335	背袭·绝杀	Ambush · Execution
+1338	胡贯·力	Hu Pierce · Force
+1339	胡贯·技	Hu Pierce · Skill
+1340	胡贯·混乱	Hu Pierce · Confusion
+1343	腾跃	Leap
+1346	腾跃打断	Leap Interrupt
+1362	致伤·力	Injury · Force
+1363	致伤之极	Apex of Injury
+1367	致命回旋	Fatal Spin
+1370	舞意	Dance Intent
+1371	舞魂	Dance Soul
+1372	花落溪	Petals on the Stream
+1374	苍云怜烟	Azure Cloud, Merciful Mist
+1375	苍煌爆炎	Azure Inferno
+1376	苍穹乱舞	Sky Wild Dance
+1377	苍穹乱舞·锁敌	Sky Wild Dance · Lock
+1378	苍雷落	Azure Thunderfall
+1379	苍雷落·强攻	Azure Thunderfall · Force Attack
+1380	苍雷落·飞将	Azure Thunderfall · Flying General
+1402	莲浣衣	Lotus-Rinsed Robe
+1404	落樱纷	Falling Cherry Blossoms
+1407	落缨射·力	Falling Tassel Shot · Force
+1408	落缨射·技	Falling Tassel Shot · Skill
+1409	落雁扫	Falling Wild Goose Sweep
+1410	落雁扫·影	Falling Wild Goose Sweep · Shadow
+1411	落雷术	Falling Thunder Technique
+1412	落雷术·咒	Falling Thunder Technique · Curse
+1414	落雷术·天雷	Falling Thunder Technique · Heavenly Thunder
+1415	落风变	Falling Wind Shift
+1416	落风变·烈	Falling Wind Shift · Fierce
+1420	蓄力	Charge
+1422	蓄劲	Charge Up
+1423	蓄怒	Store Rage
+1424	蓄意谋	Premeditated Stratagem
+1425	蔽月	Moon Veil
+1426	蕴怒	Bottled Rage
+1428	藏打	Hidden Strike
+1429	藏锋	Hidden Edge
+1430	虎入羊群	Tiger Among the Flock
+1431	虎卫	Tiger Guard
+1432	虎啸	Tiger Roar
+1433	虎啸焚云	Tiger's Roar, Burning Cloud
+1479	虚影之刺	Shadowstrike
+1480	虚影之怒	Wrath of the Shadow
+1481	虚杀式	Phantom Kill Stance
+1482	虚杀式·伤	Phantom Kill Stance · Wound
+1483	虚杀式·怒	Phantom Kill Stance · Rage
+1484	虚空斩	Void Slash
+1485	虚空斩·封锁	Void Slash · Seal
+1486	虚空斩·强攻	Void Slash · Force Attack
+1487	蚀日	Sun Erosion
+1488	蚀日·刚猛	Sun Erosion · Ferocity
+1489	蚀日·强攻	Sun Erosion · Force Attack
+1490	蛇影·军	Serpent Shadow · Legion
+1491	蛇影·怒	Serpent Shadow · Rage
+1492	蛇影·破	Serpent Shadow · Break
+1493	蛇矛点阵	Serpent Spear Formation
+1495	蛮荒之雷	Primordial Thunder
+1538	蜜月之期	Honeymoon Days
+1541	蝶扇之舞	Butterfly Fan Dance
+1542	蝶扇之舞·乱舞	Butterfly Fan Dance · Wild Dance
+1543	蝶舞	Butterfly Dance
+1544	蝶舞·强攻	Butterfly Dance · Force Attack
+1545	蝶舞·虚弱	Butterfly Dance · Frailty
+1546	血之狂乱	Blood Frenzy
+1547	血之饥渴	Thirst for Blood
+1548	血之饥渴·仇恨	Thirst for Blood · Hatred
+1549	血之饥渴·疾风	Thirst for Blood · Gale
+1550	血之饥渴·血沸	Thirst for Blood · Boiling Blood
+1551	血刹	Blood Slaughter
+1553	血刹·强攻	Blood Slaughter · Force Attack
+1554	血刹·虚弱	Blood Slaughter · Frailty
+1556	血怒	Blood Rage
+1557	血性狂舞	Blooded Wild Dance
+1558	血战千军	Blood Battle Against a Thousand
+1560	血沸纹身	Boiling Blood Tattoo
+1561	血沸纹身·技	Boiling Blood Tattoo · Skill
+1564	补给粮草	Supply Provisions
+1576	袭心诀	Heart-Striking Art
+1577	袭心诀·强攻	Heart-Striking Art · Force Attack
+1578	袭心诀·迟滞	Heart-Striking Art · Hinder
+1579	袭风盾	Wind Assault Shield
+1581	裂云击·刚	Cloud Rend Strike · Fortitude
+1582	裂云击·烈	Cloud Rend Strike · Fierce
+1583	裂土破空	Earth Rend, Sky Break
+1585	裂影袭	Shadow Rend Strike
+1586	裂影袭·刚	Shadow Rend Strike · Fortitude
+1587	裂影袭·烈	Shadow Rend Strike · Fierce
+1588	裂月斩	Moon Rend Slash
+1589	裂月斩·刚	Moon Rend Slash · Fortitude
+1590	裂月斩·烈	Moon Rend Slash · Fierce
+1591	裂炎术	Flame Rend Technique
+1592	裂炎术·咒	Flame Rend Technique · Curse
+1596	裹偃扑	Wrapped Collapse Pounce
+1626	要塞争夺参战	Fortress Contest Participation
+1627	要塞争夺平局	Fortress Contest Draw
+1628	要塞争夺胜利	Fortress Contest Victory
+1629	要害	Vital Point
+1630	觅心刺	Heart-Seeking Thrust
+1631	觅心刺·力	Heart-Seeking Thrust · Force
+1632	觅心刺·技	Heart-Seeking Thrust · Skill
+1633	觅心刺·锥心	Heart-Seeking Thrust · Heart-Piercing
+1637	解烦	Trouble Dispeller
+1638	解牛劈	Ox-Splitting Chop
+1639	解牛劈·力	Ox-Splitting Chop · Power
+1691	诅咒之力	Curse's Power
+1698	诡异施法	Eerie Casting
+1705	豪龙之舞	Majestic Dragon Dance
+1714	贪狼	Greedy Wolf
+1715	贯地击	Ground-Piercing Strike
+1716	贯矢射	Piercing Arrow Shot
+1717	贯矢射·力	Piercing Arrow Shot · Power
+1718	贯矢射·技	Piercing Arrow Shot · Technique
+1721	贯骨击	Bone-Piercing Strike
+1722	贯骨击·弱魂	Bone-Piercing Strike · Soul Rend
+1723	贯骨击·强攻	Bone-Piercing Strike · Assault
+1724	贺新禧	New Year's Greeting
+1835	赤蛇剧毒	Red Snake Venom
+1836	赤龙啸月	Red Dragon Howl at the Moon
+1872	踏燕	Treading the Swallow
+1873	踏破关山	Trampling the Passes
+1874	身法	Body Technique
+1897	软骨香	Mollifying Fragrance
+1900	轰雷锤	Thunderous Hammer
+1901	轰雷锤·断喝	Thunderous Hammer · Warcry
+1902	轰雷锤·破	Thunderous Hammer · Break
+1903	轻弩	Light Crossbow
+1904	轻狂·军	Wild · Army
+1905	轻狂·怒	Wild · Rage
+1906	轻狂·破	Wild · Break
+1907	轻舞飞扬	Dance of Light and Grace
+1908	轻遮花伞	Lightly Veiled Flower Parasol
+1911	辅佐	Assist
+1912	辅佐·咒	Assist · Curse
+1913	辅佐·策	Assist · Tactics
+1915	辕门射·力	Camp Gate Shot · Power
+1916	辕门射·技	Camp Gate Shot · Technique
+1917	边塞情怀	Frontier Sentiment
+1918	迎春舞	Dance to Welcome Spring
+1919	迎面扫	Face Sweep
+1920	迎面斩	Head-on Slash
+1922	运筹	Strategize
+1923	运筹·净心	Strategize · Clear Mind
+1924	运筹·策	Strategize · Tactics
+1926	运筹千里	Strategize a Thousand Miles
+1931	进阶骑术	Advanced Riding
+1941	连中·力	Consecutive Bullseyes · Power
+1942	连中·技	Consecutive Bullseyes · Technique
+1945	连击	Combo
+1947	连劈·劈断	Flurry Chop · Sever
+1948	连劈·力	Flurry Chop · Power
+1949	连劈·技	Flurry Chop · Technique
+1950	连打	Rapid Strikes
+1951	连打·击破	Rapid Strikes · Shatter
+1952	连打·力	Rapid Strikes · Power
+1953	连打·技	Rapid Strikes · Technique
+1955	连环	Chain Link
+1956	连环击	Chained Strikes
+1959	连环射	Chained Shots
+1961	连环式	Chained Form
+1962	连环式·破	Chained Form · Break
+1963	连环式·连环	Chained Form · Chain
+1964	连环破	Chained Break
+1965	连环破·强攻	Chained Break · Assault
+1966	连环破·飞将	Chained Break · Flying General
+1967	连环神箭	Chained Divine Arrows
+1968	连环袭	Chained Assault
+1970	连矢射	Chain Arrow Shot
+1971	连矢射·力	Chain Arrow Shot · Power
+1973	连舞·技	Chained Dance · Technique
+1975	迷中	Confusion Strike
+1976	迷影鞭	Phantom Shadow Whip
+1977	迷踪影舞	Mist-Tracing Shadow Dance
+1978	追风	Windchase
+1979	追风升龙	Wind Chase Rising Dragon
+1982	追风连刺	Wind Chase Thrust
+1983	追风连刺·力	Wind Chase Thrust · Power
+1984	追风连刺·技	Wind Chase Thrust · Technique
+1986	追魂击	Soul-Chasing Strike
+1987	追魂戟	Soul-Chasing Halberd
+1988	追魂戟·技	Soul-Chasing Halberd · Technique
+1989	追魂戟·拦截	Soul-Chasing Halberd · Intercept
+1990	追魂戟·群战	Soul-Chasing Halberd · Group Battle
+1992	退避·策	Retreat · Tactics
+1993	逆天残刃	Heaven-Defying Broken Blade
+1994	逆天残刃·强攻	Heaven-Defying Broken Blade · Assault
+1995	逆天残刃·涣神	Heaven-Defying Broken Blade · Mind Scour
+1996	逆打	Reverse Strike
+1997	逆打·力	Reverse Strike · Power
+1998	逆打·打断	Reverse Strike · Interrupt
+1999	逆打·承接	Reverse Strike · Follow-up
+2000	逆打·技	Reverse Strike · Technique
+2001	逆袭棍	Counterattack Staff
+2002	逆袭棍·力	Counterattack Staff · Power
+2003	逆袭棍·技	Counterattack Staff · Technique
+2004	逆锋斩	Reverse Edge Slash
+2005	逆鳞	Reverse Scale
+2006	逆鳞·强攻	Reverse Scale · Assault
+2007	逆鳞·聚灵	Reverse Scale · Spirit Gather
+2017	逍遥	Carefree
+2018	逍遥一壶中	Carefree in a Jug
+2019	逍遥步	Carefree Step
+2021	透射	Piercing Shot
+2023	透矢·军	Piercing Arrow · Army
+2024	透矢·怒	Piercing Arrow · Rage
+2025	透矢·破	Piercing Arrow · Break
+2029	通用军团	Common Legion
+2030	通用历练	Universal Training
+2031	通用国战	Universal Kingdom War
+2032	通用图鉴	Universal Codex
+2033	通用官渡	Universal Guandu
+2034	通用官职	Universal Official Rank
+2035	通用成长	Universal Growth
+2036	通用护卫	Universal Guard
+2037	通用探宝	Universal Treasure Hunt
+2038	通用水战	Universal Naval Battle
+2040	通用濮阳	Universal Puyang
+2041	通用点卯	Universal Roll Call
+2042	通用玄石	Universal Mystic Stone
+2043	通用秘文	Universal Rune
+2044	通用符玉	Universal Talisman Jade
+2045	通用聚贤谷	Universal Sages Vale
+2046	通用英雄志	Universal Heroes Chronicle
+2047	通用葭萌关	Universal Jiameng Pass
+2050	通用钓鱼	Universal Fishing
+2051	通用阅历	Universal Insight
+2052	通用附魂	Universal Soul Imbue
+2055	速击	Swift Strike
+2056	速击·力	Swift Strike · Power
+2057	速击·强攻	Swift Strike · Onslaught
+2058	速击·打断	Swift Strike · Interrupt
+2059	速击·技	Swift Strike · Technique
+2060	速击·撕裂	Swift Strike · Rend
+2061	速射	Rapid Fire
+2063	速打	Swift Blow
+2064	速打·力	Swift Blow · Power
+2065	速打·打断	Swift Blow · Interrupt
+2066	速打·技	Swift Blow · Technique
+2067	速攻	Swift Assault
+2068	速攻·御	Swift Assault · Guard
+2069	速攻·打断	Swift Assault · Interrupt
+2070	速攻·破	Swift Assault · Break
+2072	速砍	Swift Slash
+2073	速砍·力	Swift Slash · Power
+2074	速砍·打断	Swift Slash · Interrupt
+2075	速砍·技	Swift Slash · Technique
+2076	逸群	Supremacy
+2077	遁形	Vanish
+2078	遁袭	Shadow Raid
+2079	遁走	Escape
+2091	邪气入体·强攻	Sinister Qi · Onslaught
+2092	邪气入体·归元	Sinister Qi · Reversion
+2102	醉云击	Drunken Cloud Strike
+2103	醉云击·强攻	Drunken Cloud Strike · Onslaught
+2104	醉云击·飞将	Drunken Cloud Strike · Flying General
+2105	醉舞补天	Drunken Mending Dance
+2106	重斩	Heavy Slash
+2108	重生丹	Rebirth Pill
+2109	重砸	Heavy Smash
+2111	重骑突进	Heavy Cavalry Charge
+2112	野火燎原	Prairie Wildfire
+2113	野火燎原·咒	Prairie Wildfire · Curse
+2114	野火燎原·引燃	Prairie Wildfire · Ignite
+2115	野火燎原·忽视	Prairie Wildfire · Pierce
+2116	野火燎原·策	Prairie Wildfire · Tactic
+2117	野蛮冲撞	Savage Charge
+2118	金丝炫舞	Golden Flash Dance
+2119	金丝缠	Golden Bind
+2120	金丝缠·魅	Golden Coil · Charm
+2121	金刀怒斩	Golden Saber Rage
+2124	金斑蛇毒	Gold-Spotted Snake Venom
+2127	金蛇乱舞	Golden Serpent Dance
+2128	金蛇乱舞·影	Golden Serpent Dance · Shadow
+2129	金蛇乱舞·魅	Golden Serpent Dance · Charm
+2130	金蛇剧毒	Golden Snake Deadly Poison
+2131	金蛇狂舞	Golden Serpent Rampage
+2132	金钟	Golden Bell
+2138	钓鱼驱散	Fishing Dispel
+2139	钝足	Dull Foot
+2146	钩意	Hook Intent
+2147	钩意诡谲	Hook Guile
+2150	钩镰	Hook Scythe
+2151	钩镰打	Hook Scythe Strike
+2152	钺魂	Axe Soul
+2153	铁卫	Iron Guard
+2154	铁壁	Iron Wall
+2155	铁壁·军	Iron Wall · Army
+2156	铁壁·怒	Iron Wall · Rage
+2157	铁壁·破	Iron Wall · Break
+2159	铁甲金汤	Ironclad Bulwark
+2160	铁胄	Iron Helm
+2161	铁血令	Iron Blood Token
+2162	铁门扣	Iron Gate Latch
+2163	铁鞋踏遍山河路	Iron Treads Across Mountains and Rivers
+2164	铁骑	Iron Cavalry
+2167	铭印	Inscription
+2171	铮铮之舞	Clanging Dance
+2172	铮铮之舞·策	Clanging Dance · Tactic
+2173	铮铮之舞·辅	Clanging Dance · Support
+2174	银蛇缚	Silver Serpent Bind
+2175	银蛇缚·魅	Silver Serpent Bind: Charm
+2176	锁灵术	Spirit Lock
+2177	锋刺	Sharp Thrust
+2182	锐金	Sharpened Metal
+2189	锦帆袭	Brocade Sail Strike
+2190	镇边	Border Guard
+2192	镜铠加攻	Mirror Armor Attack Boost
+2206	长驱	Long Drive
+2211	闭月	Moonhide
+2225	防护	Protection
+2251	隐伏	Stealth
+2256	隐而不发	Held in Reserve
+2261	雄才	Great Talent
+2262	雄烈	Fierce Valor
+2286	雷动九天	Thunder Shakes the Nine Heavens
+2288	雷甲术	Thunder Armor Art
+2296	震天吼	Sky-Shaking Roar
+2303	霸气	Dominance
+2308	霸王	Overlord
+2320	青环蛇毒	Green-Ringed Snake Venom
+2321	青蛇剧毒	Green Snake Deadly Poison
+2355	风卷残云	Wind Sweeps the Clouds
+2372	风甲术	Wind Armor Art
+2379	风行	Windwalk
+2384	风阵	Wind Formation
+2394	飞将	Flying General
+2428	驰电擢日	Sun-Scarring Gale
+2452	驻马息	Reined Rest
+2453	骁勇	Valor
+2470	骑姿切换	Riding Stance Switch
+2489	骤雨青荷	Sudden Rain, Green Lotus
+2490	骤雨青荷·力	Sudden Rain, Green Lotus · Strength
+2491	骤雨青荷·技	Sudden Rain, Green Lotus · Technique
+2492	高等骑术	Advanced Riding
+2497	高级骑术	Superior Riding
+2500	鬼魅之舞	Phantom Dance
+2501	鬼魅行踪	Phantom Trail
+2502	鬼魅行踪·技	Phantom Trail · Technique
+2503	鬼魅行踪·防御	Phantom Trail · Defense
+2504	魂佑	Soul Blessing
+2507	魂灭扫	Soul Sweep
+2509	魅力	Charisma
+2511	魅影鞭	Phantom Whip
+2554	鸟啄掠	Bird Peck Sweep
+2555	鸣天通	Heaven-Calling Cry
+2556	鸣镝射	Whistling Arrow Shot
+2557	鸣镝箭	Whistling Arrow
+2558	鸣镝箭·乱舞	Whistling Arrow · Wild Dance
+2559	鸣镝箭·力	Whistling Arrow · Strength
+2561	鹊桥相会	Reunion on the Magpie Bridge
+2562	麒麟一怒	Qilin's Wrath
+2563	麒麟焰	Qilin Flame
+2609	黄泉冥流	Yellow Springs Netherflow
+2610	黄泉冥流·破胆	Yellow Springs Netherflow · Heart-Sunder
+2611	黄焖蟒蛇胆	Braised Python Gall
+2678	鼓振之舞	War Drum Inspiring Dance
+2679	鼓振之舞·策	War Drum Inspiring Dance · Strategy
+2680	鼓振之舞·辅	War Drum Inspiring Dance · Support
+2681	鼓舞	Inspire
+2682	龙卷术	Tornado
+2683	龙卷术·咒	Tornado · Sorcery
+2684	龙卷术·破招	Tornado · Guard Break
+2685	龙卷术·策	Tornado · Strategy
+2686	龙卷气旋	Tornado Cyclone
+2687	龙吟泣血	Dragon's Cry, Weeping Blood
+2688	龙炎弹	Dragon Flame Bolt
+2690	龙牙碎金	Dragon Fang, Shattering Gold
+2691	龙牙碎金·伤	Dragon Fang, Shattering Gold · Wound
+2692	龙牙碎金·怒	Dragon Fang, Shattering Gold · Fury
+2694	龙翔枪舞	Dragon Soaring Spear Dance
+2695	龙胆	Dragon's Courage
+2696	龙腾跃	Dragon Soaring Leap
+2698	龙象	Dragon Elephant
+2699	龙骑突刺	Dragon Rider Thrust

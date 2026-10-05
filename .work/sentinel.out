@@ -1,0 +1,68 @@
+payloads with sentinels : 1712
+mismatched sentinels    : 30
+
+==== MISMATCHES (source_sent -> eng_sent) ====
+[4 -> 3] src='^c3dbff冰甲术<CRLF><CRLF>^ffffff使用扇的文官采用的一种护甲术，<CRLF>激活后防御提升，同时较大提升限制抗性。<'
+           eng='^c3dbffIce Armor Art<CRLF><CRLF>^ffffffAn armor technique used by civi'
+[1 -> 2] src='^c3dbff冲锋过度<CRLF>^ffffff你不能获得过多的能力提升。'
+           eng='^c3dbffOvercharged<CRLF><CRLF>^ffffffYou cannot gain too many Power bo'
+[4 -> 3] src='^c3dbff分享火鸡<CRLF><CRLF>^ffffff美味多汁的火鸡，<CRLF>快来和朋友一起分享吧。<CRLF>'
+           eng='^c3dbffShare the Turkey<CRLF><CRLF>^ffffffA delicious, juicy turkey.<C'
+[1 -> 2] src='^c3dbff印魂<CRLF>^ffffff直接抗性降低，闪避降低。'
+           eng='^c3dbffSoul Seal<CRLF><CRLF>^ffffffDirect resistance and evasion reduc'
+[4 -> 3] src='^c3dbff句芒之瞳<CRLF><CRLF>^ffffff祝福状态，每30秒钟获得一定的历练值。<CRLF>且有一定机率获得虎符宝匣。<C'
+           eng='^c3dbffEye of Jumang<CRLF><CRLF>^ffffffA blessing state; gain a certai'
+[6 -> 5] src='^c3dbff吞国战功<CRLF>^ffffff在赤壁决战中参与斩杀了三名敌方重要人物，<CRLF>斩杀一名重要人物，在决战结束后可获得斩将'
+           eng='^c3dbffSwallow the Nation Battle Merit<CRLF>^ffffffYou participated in'
+[2 -> 3] src='^c3dbff团结互助<CRLF>^ffffff您的队伍中各等级段人数<CRLF>平均，获得团结互助奖。'
+           eng='^c3dbffUnity and Mutual Aid<CRLF><CRLF>^ffffffYour team has a balanced'
+[3 -> 2] src='^c3dbff活跃<CRLF><CRLF>^ffffff命中提升，并在每次成功的<CRLF>击杀时可以获得一定生命值。'
+           eng='^c3dbffActive<CRLF><CRLF>^ffffffHit increased, and gain HP on each suc'
+[5 -> 4] src='^c3dbff灵动战法<CRLF><CRLF>^ffffff使用钩的武将采用的一种战法，<CRLF>激活后提升体力回复速度，<CRLF>并可'
+           eng='^c3dbffAgile Tactic<CRLF><CRLF>^ffffffA tactic used by hook-wielding g'
+[1 -> 2] src='^c3dbff灵巧<CRLF>^ffffff免疫减速定身效果。'
+           eng='^c3dbffNimble<CRLF><CRLF>^ffffffImmune to Slow and Immobilize effects.'
+[1 -> 0] src='^c3dbff金风签<CRLF>^ffffff冥冥之中，暗藏期盼。'
+           eng='^c3dbffGolden Wind Slip^ffffff Amid the unseen, a wish lies hidden.'
+[1 -> 0] src='^c3dbff铁甲<CRLF>^ffffff利用爆炸爆掉他的铁甲状态。'
+           eng='^c3dbffIron Armor^ffffff Use an explosion to blow away his Iron Armor '
+[3 -> 2] src='^c3dbff铭殇<CRLF>^ffffff直接抗性降低，闪避降低，<CRLF>无法进入隐伏状态！<CRLF>'
+           eng='^c3dbffInscribed Sorrow^ffffff Direct resistance reduced, Evasion redu'
+[1 -> 0] src='^c3dbff锦囊妙计<CRLF>^ffffff军师的密信让你茅塞顿开！。'
+           eng="^c3dbffBrilliant Stratagem^ffffff The strategist's secret letter gives"
+[1 -> 0] src='^c3dbff防护<CRLF>^ffffff增加队友生命值上限'
+           eng="^c3dbffProtection^ffffff Increases allies' Max HP"
+[1 -> 0] src='^c3dbff阵<CRLF>^ffffff鼓舞之术，增强战车属性。'
+           eng='^c3dbffFormation^ffffff An inspiring art that enhances chariot stats.'
+[1 -> 0] src='^c3dbff难以言表的味道<CRLF>^ffffff这味道让你恶心得简直无法动弹！'
+           eng='^c3dbffIndescribable Flavor^ffffff This smell makes you so sick you ca'
+[4 -> 3] src='^c3dbff青蛇剧毒<CRLF><CRLF>^ffffff受到青蛇剧毒的影响，<CRLF>攻击速度降低，最多叠加9层。<CRLF>需要用青'
+           eng='^c3dbffGreen Snake Deadly Poison<CRLF><CRLF>^ffffffAffected by green s'
+[2 -> 1] src='^c3dbff青铜击破<CRLF>^ffffff恭喜你闯过青铜殿，<CRLF>将为你颁发续关称号！'
+           eng='^c3dbffBronze Broken^ffffff Congratulations on clearing the Bronze Hal'
+[3 -> 4] src='^c3dbff鞭炮标记<CRLF><CRLF>^ffffff你已被熊孩子标记，小心点，若被杂耍艺人<CRLF>的火焰击中，你会很受伤'
+           eng="^c3dbffFirecracker Mark<CRLF><CRLF>^ffffffYou've been marked by a brat"
+[1 -> 0] src='^c3dbff额外奖励<CRLF>^ffffff获得额外奖励！'
+           eng='^c3dbffExtra Reward^ffffff Received an extra reward!'
+[1 -> 0] src='^c3dbff风行<CRLF>^ffffff增加队友闪避'
+           eng="^c3dbffWindwalk^ffffff Increases allies' Evasion"
+[1 -> 0] src='^c3dbff食物链<CRLF>^ffffff无法抗拒的本能。'
+           eng='^c3dbffFood Chain^ffffff An irresistible instinct.'
+[1 -> 0] src='^c3dbff饱和<CRLF>^ffffff目前状态已经是最好，无法再受到上限！'
+           eng='^c3dbffSaturated^ffffff Your condition is already at its best; it cann'
+[1 -> 0] src='^c3dbff饱食<CRLF>^ffffff由于军粮充裕，阵营内的官兵变得更加强壮了！。'
+           eng='^c3dbffWell Fed^ffffff With abundant army rations, the officers and so'
+[1 -> 0] src='^c3dbff高手难度<CRLF>^ffffff推荐英雄50级挑战。'
+           eng='^c3dbffExpert Difficulty^ffffff Recommended for heroes at Level 50.'
+[5 -> 3] src='^c3dbff鬼魅衰竭<CRLF><CRLF>^ffffff花费了太多精力，需要休<CRLF>息，目前无法集中精力。<CRLF><CRLF>'
+           eng='^c3dbffPhantom Exhaustion^ffffff Too much energy spent; you need to re'
+[2 -> 1] src='^c3dbff黄忠传胜利<CRLF>^ffffff恭喜挑战黄忠成功！<CRLF>'
+           eng='^c3dbffHuang Zhong Trial Victory^ffffff Congratulations on defeating H'
+[1 -> 0] src='^c3dbff黄金殿<CRLF>^ffffff实力超凡。'
+           eng='^c3dbffGolden Hall^ffffff Extraordinary power.'
+[1 -> 0] src='^c3dbff鼓命<CRLF>^ffffff队友被治疗时，效果提升'
+           eng='^c3dbffDrum of Life^ffffff Increases the healing effect on allies'
+
+dropped-sentinel payloads: 25
+added-sentinel payloads  : 5
+missing-translation       : 0

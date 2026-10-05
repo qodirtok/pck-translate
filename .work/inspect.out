@@ -1,0 +1,210 @@
+
+===== item_ext_desc.txt =====
+encoding=utf-16-le  bytes=4919090  lines=29892
+tabs=0  commas=2576
+id-prefixed lines=0
+odd-quote lines (multiline candidates)=202
+--- first 8 lines ---
+  //  Element item extend descriptions.
+  
+  #_index
+  #_begin
+  134 "^fff600GM神秘的装备，据说只有世界的维护者才能拥有。"
+  135 "^fff600GM神秘的装备，据说只有世界的维护者才能拥有。"
+  136 "^fff600GM神秘的装备，据说只有世界的维护者才能拥有。"
+  137 "^fff600GM神秘的装备，据说只有世界的维护者才能拥有。"
+
+===== skillstr.txt =====
+encoding=utf-16-le  bytes=1111862  lines=33603
+tabs=0  commas=30
+id-prefixed lines=0
+odd-quote lines (multiline candidates)=5104
+--- first 8 lines ---
+  // 技能文字资源
+  
+  #_index
+  #_begin
+  
+  1   "下一阶："
+  2   "
+  学习条件：
+
+===== skillgbk.txt =====
+encoding=gbk  bytes=767607  lines=33546
+tabs=0  commas=30
+id-prefixed lines=0
+odd-quote lines (multiline candidates)=5084
+--- first 8 lines ---
+  // 技能文字资源
+  
+  #_index
+  #_begin
+  
+  1   "下一阶："
+  2   "
+  学习条件：
+
+===== instance.txt =====
+encoding=utf-16-le  bytes=802422  lines=18954
+tabs=16510  commas=7071
+id-prefixed lines=5602
+odd-quote lines (multiline candidates)=50
+--- first 8 lines ---
+  // Client instance description file
+  
+  
+  version 2
+  
+  //////////////////////////////////////////////////////////////
+  "河北"
+  {
+
+===== buff_str.txt =====
+encoding=utf-16-le  bytes=223190  lines=8104
+tabs=0  commas=9
+id-prefixed lines=0
+odd-quote lines (multiline candidates)=3872
+--- first 8 lines ---
+  // 状态包资源
+  
+  #_index
+  #_begin
+  
+  1  ""
+  3  "^c3dbff劈伤
+  
+
+===== skillicon.txt =====
+encoding=gbk  bytes=88692  lines=5918
+tabs=0  commas=0
+id-prefixed lines=0
+odd-quote lines (multiline candidates)=0
+--- first 8 lines ---
+  1   技能_刀_攻击.dds
+  2   技能_刀_蓄力.dds
+  3   技能_刀_速砍.dds
+  4   技能_刀_猛劈.dds
+  5   技能_刀_断月斩.dds
+  6   技能_刀_半月斩.dds
+  7   技能_刀_守卫.dds
+  8   技能_刀_青龙偃月.dds
+
+===== buff_icon.txt =====
+encoding=gbk  bytes=74218  lines=3970
+tabs=0  commas=0
+id-prefixed lines=0
+odd-quote lines (multiline candidates)=0
+--- first 8 lines ---
+  // 状态包资源
+  
+  #_index
+  #_begin
+  
+  1  ""
+  3  "状态_劈伤.dds"
+  4  "状态_刺伤.dds"
+
+===== skillsgc.txt =====
+encoding=gbk  bytes=30322  lines=1832
+tabs=0  commas=0
+id-prefixed lines=0
+odd-quote lines (multiline candidates)=0
+--- first 8 lines ---
+  1   技能刀攻击.att
+  2   技能刀蓄力.att
+  3   技能刀速砍.att
+  4   技能刀猛劈.att
+  5   技能刀断月斩.att
+  6   技能刀半月斩.att
+  7   技能刀断月斩.att
+  8   技能刀青龙偃月.att
+
+===== gfxvehicle.txt =====
+encoding=gbk  bytes=23536  lines=2321
+tabs=2278  commas=0
+id-prefixed lines=43
+odd-quote lines (multiline candidates)=0
+--- first 8 lines ---
+  0	//默认坐骑光效
+  {	
+  //挂点	
+  "HH_Hip"	//马镫
+  ""	
+  ""	
+  ""	
+  "HH_lefteye"	//马笼头
+
+===== toptable.txt =====
+encoding=utf-16-le  bytes=16310  lines=179
+tabs=1746  commas=0
+id-prefixed lines=164
+odd-quote lines (multiline candidates)=0
+--- first 8 lines ---
+  6	"个人排行榜"		
+  	13	"个人综合排行榜"	
+  		1	-	-	-	-	等级排行	"个人排名："	"等级"	""	""	
+  		2	-	-	-	-	财富排行	"个人排名："	"财富（金）"	""	""	
+  		50	-	-	-	-	竞技排行	"个人排名："	"竞技积分"	"称号奖励"	""	
+  		24	-	-	-	-	仁义值排行	"个人排名："	"仁义值"	"称号奖励"	""	
+  		46	-	-	-	-	战功值排名	"个人排名："	"战功值"	""	""	
+  		47	-	-	-	-	博学值排名	"个人排名："	"博学值"	""	""	
+
+===== typedef_initial.xml =====
+encoding=gbk  bytes=11215  lines=71
+tabs=0  commas=0
+id-prefixed lines=0
+odd-quote lines (multiline candidates)=0
+--- first 8 lines ---
+  <?xml version="1.0" encoding="GB2312" standalone="no" ?>
+  <object-array>
+    <ItemType id="90001" name="传送道具" group0="传送道具" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+    <ItemType id="90002" name="符玉" group0="装备强化" group1="符玉" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+    <ItemType id="90003" name="强化升级道具" group0="装备强化" group1="强化升级道具" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="1
+    <ItemType id="90004" name="礼袋" group0="物品" group1="礼袋" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+    <ItemType id="90005" name="战魂相关" group0="战魂相关" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+    <ItemType id="90006" name="技能书" group0="物品" group1="技能书" postPeriod="20190" showPeriod="30" lockPeriod="30" freezePeriod="10080" taxRate="0.02" aid="12"/>
+
+===== item_ext_prop.txt =====
+encoding=gbk  bytes=9203  lines=595
+tabs=231  commas=1049
+id-prefixed lines=231
+odd-quote lines (multiline candidates)=0
+--- first 8 lines ---
+  /*  Element 附加属性表
+  
+  附加属性类型定义：
+  
+   0: 物理攻击
+   1: 物理攻击上限
+   2: 物理攻击(%)
+   3: 魔法攻击
+
+===== buff_gfx.txt =====
+encoding=gbk  bytes=5006  lines=220
+tabs=0  commas=0
+id-prefixed lines=0
+odd-quote lines (multiline candidates)=0
+--- first 8 lines ---
+  #_index 
+  #_begin
+  10 "程序联入\击中\角色被劈伤.gfx"
+  11 "HH_Spine"
+  20 "程序联入\击中\角色被刺伤.gfx"
+  21 "HH_Spine"
+  30 "程序联入\击中\角色被震伤.gfx"
+  31 "HH_Spine"
+
+===== skillacts.txt =====
+encoding=gbk  bytes=1177  lines=96
+tabs=0  commas=0
+id-prefixed lines=0
+odd-quote lines (multiline candidates)=0
+--- first 8 lines ---
+  #_begin
+  无
+  1s1d_短兵a
+  1s1d_短兵b
+  1s1d_长兵a
+  1s1d_长兵b
+  1s1d_短法
+  1s1d_长法

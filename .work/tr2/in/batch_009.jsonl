@@ -1,0 +1,147 @@
+{"id": 1, "source": "^c3dbff电光石火·掠魂<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff电光石火有几率降低目标暴击抗性，<CRLF>并增加自身暴击，持续10秒。"}
+{"id": 2, "source": "^c3dbff疾刺<CRLF><CRLF>^ffffff兵器：叉　　　　　　　　　5体力<CRLF>招式：瞬发　　　　　　　　 冷却3秒<CRLF><CRLF>用叉疾速刺击前方的敌人，<CRLF>造成90%%基础伤害，攻击可能造成刺伤效果，<CRLF>同时产生5点斗气。<CRLF><CRLF>^c3dbff注：打怪推荐技能，作为斗气积累技。"}
+{"id": 3, "source": "^c3dbff疾刺^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成85%%基础伤害。"}
+{"id": 4, "source": "^c3dbff疾刺·力<CRLF><CRLF>^ffffff提升“疾刺”给敌人造成的伤害。"}
+{"id": 5, "source": "^c3dbff疾刺·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升疾刺造成的伤害。"}
+{"id": 6, "source": "^c3dbff疾刺·影<CRLF><CRLF>^ffffff招式“疾刺”有一定的几率附带4秒减速效果。"}
+{"id": 7, "source": "^c3dbff疾奔袭<CRLF><CRLF>^ffffff兵器：枪、叉、剑<CRLF>^ffffff消耗：5体力 30斗气<CRLF>^ffffff冷却：20秒<CRLF>^ffffff骑术：立即出招<CRLF><CRLF>^ffffff策马前冲12米，<CRLF>对路径上的目标造成大量伤害。<CRLF>对马下目标造成冲倒效果。<CRLF>同时有低概率将敌人击落下马。<CRLF>每层冲阵状态提升技能伤害5%%<CRLF>但当冲阵多于五层时，马匹难以驾驭，<CRLF>每多一层有12%%概率使自身甩落马下。<CRLF><CRLF>^99ccff终极专精，只能学习一个。<CRLF>^99ccff只能在骑战状态下使用。"}
+{"id": 8, "source": "^c3dbff疾电<CRLF><CRLF>^ffffff兵器：杖　　　　　　　　　15体力<CRLF>招式：准备3秒，准备过程中可移动<CRLF><CRLF>向前方敌人施放一箭迅捷的雷电，<CRLF>对目标造成120%%的基础伤害，<CRLF>同时有较小机率使敌人陷入电击麻痹状态，<CRLF>命中可以获得15斗气。<CRLF>^99ccff电击麻痹将使目标减速3.5米/秒，<CRLF>^99ccff效果会在5秒内逐渐消失。"}
+{"id": 9, "source": "^c3dbff疾电·咒<CRLF><CRLF>^ffffff提升疾电造成的伤害<CRLF>提升疾电在雷甲术下的暴击率。"}
+{"id": 10, "source": "^c3dbff疾走<CRLF>^ffffff需要至少在御类专精上投入25点。<CRLF><CRLF>^ffffff兵器：环<CRLF>策略：瞬发　　　　　　　　冷却60秒<CRLF><CRLF>^ffffff快速奔跑以摆脱敌人或者追击敌人。<CRLF>提升移动速度，同时耗体力，<CRLF>最多持续30秒，过程中可以随时关掉，<CRLF>每层“御敌”状态，将获得0.2米/秒的额外速度提升，<CRLF>疾走状态中，每次成功闪避都将获得0.3米/秒的速度提升，<CRLF>持续10秒，最多叠加5层。"}
+{"id": 11, "source": "^c3dbff疾走<CRLF>^ffffff需要至少在技类专精上投入25点。<CRLF><CRLF>^ffffff兵器：弩<CRLF>策略：瞬发　　　　　　　　冷却60秒<CRLF><CRLF>^ffffff快速奔跑以摆脱敌人或者追击敌人。<CRLF>提升移动速度，同时耗体力，<CRLF>同时获得10秒疾遁效果，所受到的伤害不会超过<CRLF>自身防御值，被击中3次后，疾遁效果结束。<CRLF>疾走最多持续30秒，过程中可以随时关掉。"}
+{"id": 12, "source": "^c3dbff疾走<CRLF>^ffffff需要至少在技类专精上投入25点。<CRLF><CRLF>^ffffff兵器：斧<CRLF>策略：瞬发　　　　　　　　冷却60秒<CRLF><CRLF>^ffffff快速奔跑以摆脱敌人或者追击敌人。<CRLF>提升移动速度，同时耗体力，<CRLF>持续5秒后额外增加0.5米/秒移动速度，<CRLF>持续10秒后额外增加1.0米/秒移动速度。<CRLF>最多持续30秒，过程中可以随时关掉。"}
+{"id": 13, "source": "^c3dbff疾走<CRLF>^ffffff需要至少在技类专精投入25点。<CRLF><CRLF>^ffffff兵器：剑<CRLF>策略：瞬发　　　　　　　　冷却60秒<CRLF><CRLF>^ffffff快速奔跑以摆脱敌人或者追击敌人。<CRLF>提升移动速度，同时耗体力，<CRLF>每次击中敌人或被敌人击中，<CRLF>将额外增加0.1米/秒移动速度，最多叠加10层，<CRLF>最多持续30秒，过程中可以随时关掉。"}
+{"id": 14, "source": "^c3dbff疾雷杀心<CRLF>^ffffff需要至少在力类专精上投入25点。<CRLF><CRLF>^ffffff使用远程技能时，有几率获得疾雷状态，每层疾雷状态<CRLF>提升5%%近战技能暴击伤害，最多叠加4层，持续6秒。<CRLF>同时疾雷状态下使用直突，每层可降低1秒冷却时间。"}
+{"id": 15, "source": "^c3dbff疾风^ffffff<CRLF><CRLF>变身专用             冷却时间：5秒<CRLF><CRLF>掷出风弹，对选目标造成100%%基础伤害，<CRLF>并使其进入风袭状态，移动速度、攻击速度降低<CRLF>状态持续6秒，可叠加5层。"}
+{"id": 16, "source": "^c3dbff疾风之速<CRLF>^ffffff需要至少在力类专精上投入25点。<CRLF><CRLF>^ffffff兵器：钩　　　　　　　　30体力<CRLF>武技：瞬发　　　　　　　　冷却180秒<CRLF><CRLF>^ffffff每击中目标一次，提升5%%攻击速度，最多叠加5次，持续10秒<CRLF>使用疾风之速后可立即重置吴鸿扈稽和大卸八块的冷却时间"}
+{"id": 17, "source": "^c3dbff疾风千里<CRLF><CRLF>^ffffff结义兵法：瞬发　　　　　　冷却30分<CRLF><CRLF>往来如风，驰袭千里，<CRLF>提升结义内将士的移动速度。<CRLF><CRLF>当满足以下条件时触发兵法的中级效果：<CRLF>骁勇 ^c3dbff等级11^ffffff / 坚阵 ^c3dbff等级11^ffffff / 仁威 ^c3dbff等级11^ffffff / 强兵 ^c3dbff等级12^ffffff<CRLF><CRLF>当满足以下条件时触发兵法的高级效果：<CRLF>骁勇 ^c3dbff等级14^ffffff / 坚阵 ^c3dbff等级17^ffffff / 仁威 ^c3dbff等级18^ffffff / 强兵 ^c3dbff等级16^ffffff<CRLF> "}
+{"id": 18, "source": "^c3dbff疾风回旋<CRLF>^ffffff需要至少在影类专精上投入20点。<CRLF><CRLF>^ffffff降低所有回旋刀投掷招式的冷却时间。"}
+{"id": 19, "source": "^c3dbff疾风射^ffffff<CRLF><CRLF>战车专用             冷却时间：8秒<CRLF><CRLF>战车所载巨弩快速蓄力向前方发出弩箭，<CRLF>对前方最远25米，范围5米内目标造成110%%基础伤害。"}
+{"id": 20, "source": "^c3dbff疾风射^ffffff<CRLF><CRLF>战车专用             冷却时间：8秒<CRLF><CRLF>战车所载巨弩快速蓄力向前方发出弩箭，<CRLF>对前方最远25米，范围5米内目标造成110%%基础伤害。<CRLF><CRLF>^99ccff战车对人物只造成10%%伤害<CRLF>^99ccff战车对人物只造成50%%伤害<CRLF>战车对箭塔造成200%%伤害"}
+{"id": 21, "source": "^c3dbff疾风射^ffffff<CRLF><CRLF>战车专用             冷却时间：8秒<CRLF><CRLF>战车所载巨弩快速蓄力向前方发出弩箭，<CRLF>对前方最远25米，范围5米内目标造成110%%基础伤害。<CRLF><CRLF>^99ccff战车对人物只造成10%%伤害<CRLF>后羿对建筑造成20%%额外伤害"}
+{"id": 22, "source": "^c3dbff疾风弩<CRLF><CRLF>^ffffff兵器：弩　　　　　　　　5体力<CRLF>招式：移动攻击　　　　　　　　冷却5秒<CRLF><CRLF>持弩向敌人发动连续射击，<CRLF>每多射击一次额外消耗2体力，<CRLF>依次造成30%%、30%%、40%%、40%%、50%%、50%%基础伤害，<CRLF>并产生2、2、3、3、5、5点斗气。<CRLF><CRLF>^c3dbff注：轻弩状态下，基础总伤害最多增加60%%。<CRLF>^c3dbff注：打怪推荐技能，作为斗气积累技。"}
+{"id": 23, "source": "^c3dbff疾风弩·力<CRLF>^ffffff需要至少在力类专精上投入5点。<CRLF><CRLF>^ffffff疾风弩攻击次数增加。"}
+{"id": 24, "source": "^c3dbff疾风弩·技<CRLF><CRLF>^ffffff疾风弩有几率对目标造成箭伤。"}
+{"id": 25, "source": "^c3dbff疾风弩·连<CRLF>^ffffff需要至少在专精“疾风弩·力”上投入3点。<CRLF><CRLF>^ffffff疾风弩的额外攻击也可回复斗气。"}
+{"id": 26, "source": "^c3dbff疾风怒涛^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成299%%基础伤害。"}
+{"id": 27, "source": "^c3dbff疾风怒涛·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升疾风怒涛造成的伤害。"}
+{"id": 28, "source": "^c3dbff疾风怒涛·黯灭<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff疾风怒涛有几率牺牲自身1500点生命，<CRLF>并以一定比例减少目标体力值，<CRLF>此比例受计谋值影响。"}
+{"id": 29, "source": "^c3dbff疾风枪<CRLF><CRLF>^ffffff兵器：枪　　　　　　　　10斗气　10体力<CRLF>武技：瞬发　　　　　　　　冷却12秒<CRLF><CRLF>利用灵活的身法挺枪快速追击敌人，并攻击冲刺路径<CRLF>上的其它敌人。<CRLF>造成37%%基础伤害，同时造成迟缓效果，持续4秒，<CRLF>最多可攻击3个敌人。"}
+{"id": 30, "source": "^c3dbff疾风枪·冲刺<CRLF>^ffffff需要至少在力类专精上投入15点。<CRLF><CRLF>^ffffff使用疾风枪时，有概率驱散减速、定身状态。"}
+{"id": 31, "source": "^c3dbff疾风枪·冲刺<CRLF>^ffffff需要至少在力类专精上投入15点。<CRLF><CRLF>^ffffff提升招式的攻击人数。"}
+{"id": 32, "source": "^c3dbff疾风枪·定身<CRLF>^ffffff需要至少在“疾风枪·技”专精上投入5点。<CRLF><CRLF>疾风枪招式攻击带有刺伤效果的敌人造成定身效果。"}
+{"id": 33, "source": "^c3dbff疾风枪·技<CRLF>^ffffff需要至少在技类专精上投入15点。<CRLF><CRLF>^ffffff增加招式造成刺伤效果的几率。"}
+{"id": 34, "source": "^c3dbff疾风标记<CRLF>^ffffff需要至少在技类专精上投入30点。<CRLF><CRLF>^ffffff疾风纹身下使用技能，将给目标加上疾风标记，<CRLF>每层降低目标0.2米/秒移动速度，持续8秒，最多叠加3层，<CRLF>叠加至3层时使用相应技能（引雷钩、百毒入髓、吴鸿扈稽、<CRLF>血之饥渴、大卸八块），将使目标定身3秒，<CRLF>有一定几率使目标眩晕3秒。"}
+{"id": 35, "source": "^c3dbff疾风棍<CRLF><CRLF>^ffffff兵器：棍<CRLF>^ffffff消耗：10体力<CRLF>^ffffff冷却：10秒<CRLF>^ffffff骑术：瞬发<CRLF><CRLF>^ffffff持棍借势向前直突，对敌人造成伤害，<CRLF>并有60%概率使其定身3秒。出招时可驱散<CRLF>自身受到的移动限制效果。<CRLF><CRLF>^99ccff奋力攻击专精，只能学习一个。<CRLF>^99ccff只能在骑战状态下使用。<CRLF>只能在使用突袭打之后3秒内使用。"}
+{"id": 36, "source": "^c3dbff疾风纹身<CRLF><CRLF>^ffffff兵器：钩　　　　　　　　10体力<CRLF>策略：瞬发　　　　　　　　冷却5秒<CRLF><CRLF>使用疾风纹身，唤醒潜在力量<CRLF>增加移动速度，缩短10%%攻击间隔，持续1分钟。<CRLF>在疾风纹身作用下，其他技能会有额外效果"}
+{"id": 37, "source": "^c3dbff疾风纹身·技<CRLF><CRLF>^ffffff提升疾风纹身的移动速度加成，<CRLF>专精加满3级将获得“疾风印记”，<CRLF>闪避提升10点"}
+{"id": 38, "source": "^c3dbff疾风袭^ffffff<CRLF><CRLF>战车专用             冷却时间：12秒<CRLF><CRLF>战车两侧箭弩向前方急速发出弩箭，<CRLF>对前方最远25米，范围5米内目标造成120%%基础伤害。<CRLF><CRLF>^99ccff战车对人物只造成10%%伤害"}
+{"id": 39, "source": "^c3dbff疾风逆斩^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成100%%基础伤害。"}
+{"id": 40, "source": "^c3dbff疾风锤<CRLF><CRLF>^ffffff兵器：锤　　　　　　　　　15体力<CRLF>招式：瞬发  　  　　 冷却6秒<CRLF><CRLF>双锤如疾风一般扫打敌人，<CRLF>连续的攻击分别造成40%%/40%%/60%%/60%%基础伤害，<CRLF>攻击时有可能暂时定住敌人，使之无法逃脱。<CRLF>每次命中都会为自身回复5点斗气。<CRLF><CRLF>每个强攻点数会让招式的每段基础伤害增加2%%；<CRLF>每个乱舞点数增加10%%定住敌人的几率。"}
+{"id": 41, "source": "^c3dbff疾风锤·舞<CRLF>^ffffff需要至少在舞类专精上投入5点。<CRLF><CRLF>^ffffff提升招式“疾风锤”命中敌人的几率。"}
+{"id": 42, "source": "^c3dbff疾风锤·连打<CRLF>^ffffff需要至少在“疾风锤·舞”专精上投入5点。<CRLF><CRLF>^ffffff“疾风锤”的快速击打会打断敌人的出招动作。"}
+{"id": 43, "source": "^c3dbff白耳<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄50级<CRLF>^ffffff技能生效祖籍限制：荆州<CRLF><CRLF>蜀国近卫兵，多次救刘备于危难之间，<CRLF>破格挡技能有几率瞬发。<CRLF><CRLF>^99ccff源自白耳兵。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 44, "source": "^c3dbff白虎吼^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成38%%基础伤害。"}
+{"id": 45, "source": "^c3dbff白虎怒咆<CRLF><CRLF>^ffffff特技：被动<CRLF><CRLF>^ffffff在使用挑战时，将造成50点伤害和更高的仇恨。"}
+{"id": 46, "source": "^c3dbff白虹斩空<CRLF><CRLF>^ffffff跳起此舞，神迹相随，啸吟长空。"}
+{"id": 47, "source": "^c3dbff白马<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄50级<CRLF>^ffffff技能生效祖籍限制：幽州<CRLF><CRLF>公孙瓒手下亲兵，均骑白马，故以白马义从为名，<CRLF>骑战状态下使用冲锋、强袭可额外提升移动速度。<CRLF><CRLF>^99ccff源自白马义从。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 48, "source": "^c3dbff百步<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄36级<CRLF>^ffffff技能生效祖籍限制：荆州<CRLF><CRLF>射术无双，百步穿杨，<CRLF>被攻击有几率获得百步状态，<CRLF>穿透点数提升，生效一次。<CRLF><CRLF>^99ccff源自黄忠。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 49, "source": "^c3dbff百步定<CRLF><CRLF>^ffffff使用速射有一定概率造成减速。<CRLF><CRLF>^99ccff牵制技能专精，只能学习一个。"}
+{"id": 50, "source": "^c3dbff百步穿杨<CRLF>^ffffff需要至少在“连中·力”上投入3点。<CRLF><CRLF>^ffffff连中每层增加暴击，最后必中之箭增加更多暴击。"}
+{"id": 51, "source": "^c3dbff百毒入髓<CRLF><CRLF>^ffffff兵器：钩　　　　　　　　　15体力<CRLF>武技：瞬发　　　　　　　　冷却12秒<CRLF><CRLF>驱使百毒游入目标骨髓内。<CRLF>每2秒造成25%%最大攻击力伤害，持续10秒。<CRLF>有50%%几率获得一个仇恨点。<CRLF>获得20斗气。<CRLF>战斗纹身：对目标额外造成80%%最大攻击力伤害<CRLF>磐石纹身：造成目标被缴械4秒<CRLF>疾风纹身：降低目标20%%攻击速度、吟唱速度<CRLF>血沸纹身：百毒入髓造成的流血效果有50%%几率造成1.5倍伤害"}
+{"id": 52, "source": "^c3dbff百毒入髓·加强<CRLF>^ffffff需要至少在力类专精上投入15点。<CRLF><CRLF>^ffffff百毒入髓在“战斗纹身”、“磐石纹身”、<CRLF>“疾风纹身”、“血沸纹身”下将附加额外效果"}
+{"id": 53, "source": "^c3dbff百毒入髓·战斗<CRLF>^ffffff需要至少在力类专精上投入10点。<CRLF><CRLF>^ffffff提升百毒入髓在战斗纹身下的附加伤害量"}
+{"id": 54, "source": "^c3dbff百毒入髓·磐石<CRLF>^ffffff需要至少在力类专精上投入10点。<CRLF><CRLF>^ffffff目标檄械期间，攻击强度降低"}
+{"id": 55, "source": "^c3dbff百毒入髓·血沸<CRLF>^ffffff需要至少在技类专精上投入10点。<CRLF><CRLF>^ffffff百毒入髓在“血沸纹身”下将降低目标生命上限"}
+{"id": 56, "source": "^c3dbff百炼刀决<CRLF><CRLF>^ffffff挥舞此刀，身畔雷奔龙跃，震动四方，势不可挡。"}
+{"id": 57, "source": "^c3dbff百花散^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成180%%基础伤害。"}
+{"id": 58, "source": "^c3dbff百花散·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升百花散造成的伤害。"}
+{"id": 59, "source": "^c3dbff百花散·流离<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff百花散有一定几率使敌人进入流离状态，<CRLF>流失抗性降低10点，每次攻击减少生命，<CRLF>状态效果与护卫计谋值相关，状态持续10秒。"}
+{"id": 60, "source": "^c3dbff百裂伤^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成180%%基础伤害。"}
+{"id": 61, "source": "^c3dbff百裂伤·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升百裂伤造成的伤害。"}
+{"id": 62, "source": "^c3dbff百裂伤·懈怠<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff百裂伤有一定几率降低目标穿透能力，<CRLF>状态持续8秒。"}
+{"id": 63, "source": "^c3dbff百裂连棍<CRLF><CRLF>^ffffff兵器：棍　　　　　　　　　　　10体力<CRLF>专精：移动释放　　　　　　　　　　　冷却8秒<CRLF><CRLF>长棍综合了各种轻重攻击招式<CRLF>连贯而成的连续攻击招式。<CRLF>四段攻击，有可能震伤敌人。<CRLF>可以更快速的积累连击数和斗气。<CRLF>造成第1段50%%，第2段75%%，<CRLF>第3段75%%，第4段100%%基础伤害。"}
+{"id": 64, "source": "^c3dbff百裂连棍·力<CRLF>^ffffff需要至少在力类专精上投入10点。<CRLF><CRLF>^ffffff提升百裂连棍造成的伤害。"}
+{"id": 65, "source": "^c3dbff百裂连棍·技<CRLF>^ffffff需要至少在技类专精上投入15点。<CRLF><CRLF>^ffffff提升百裂连棍造成震伤的机率。加满5层后有20%%概率造成<CRLF>重伤效果，震伤效果持续时间高达30秒。"}
+{"id": 66, "source": "^c3dbff百骑劫营^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                      冷却：120秒<CRLF><CRLF>魂技类型：护佑类<CRLF>召唤融入体内的英雄魂魄，对自身施放百骑劫营状态。<CRLF>效果持续时间至少为40秒。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>移动速度提升%.1f米/秒，骑乘速度提升%.1f米/秒；<CRLF>觉醒下施放时提升移动速度调整为%.1f米/秒，提升骑乘速度<CRLF>调整为%.1f米/秒。"}
+{"id": 67, "source": "^c3dbff百鬼禁足"}
+{"id": 68, "source": "^c3dbff皓冥凌绝<CRLF>^ffffff属性：被动<CRLF><CRLF>心神合一，被攻击由有机率生成“浊浪摧云”状态，<CRLF>下一次攻击必中，状态持续5秒。"}
+{"id": 69, "source": "^c3dbff盲夏侯^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                  初始冷却：20秒<CRLF><CRLF>魂技类型：攻击类<CRLF>召唤融入体内的英雄魂魄，对身前7米距离内的<CRLF>单个敌人施放一次附带吸血效果的灵魂攻击。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>1. 攻击将对敌人造成一次灵魂伤害，觉醒状态下<CRLF>施放的伤害加倍；攻击同时为自身回复至少为20%%<CRLF>灵魂伤害的生命值；<CRLF>2. 觉醒状态下施放会延长敌人的攻击间隔%d%%，效<CRLF>果持续至少5秒。"}
+{"id": 70, "source": "^c3dbff直刺<CRLF><CRLF>^ffffff兵器：剑　　　　　　　　　　　5体力<CRLF>招式：瞬发　　　　　　　　冷却6秒<CRLF><CRLF>挥剑攻击前方敌人的招式。<CRLF>产生15点斗气。<CRLF>有一定几率溅射敌人。<CRLF>造成100%%基础伤害。<CRLF><CRLF>每个疾风点数为招式额外增加7%%基础伤害<CRLF>每个连击点数为招式额外增加3%%基础伤害<CRLF><CRLF>^c3dbff注：打怪推荐技能，作为斗气积累技。"}
+{"id": 71, "source": "^c3dbff直刺·力<CRLF><CRLF>^ffffff提升直刺造成的伤害。"}
+{"id": 72, "source": "^c3dbff直刺·技<CRLF><CRLF>^ffffff提升直刺造成溅射的机率与持续时间。<CRLF>并且直刺后也有几率触发连击模式。<CRLF>^c3dbff注：连击模式的状态效果需在以下三个25点以上的专精技能<CRLF>剑罡·御心、追风、剑落·弑中，点出其中一个，才可生效。"}
+{"id": 73, "source": "^c3dbff直刺·迟缓<CRLF>^ffffff需要至少在“直刺·技”上投入1点。<CRLF><CRLF>^ffffff用直刺从背后击中敌人会使其迟缓。<CRLF>从正面攻击敌人有几率使其迟缓。"}
+{"id": 74, "source": "^c3dbff直攻<CRLF><CRLF>^ffffff兵器：长距近战兵器（刀、枪、戟、钺、叉、棍、鞭、盾）<CRLF>^ffffff消耗：5体力<CRLF>^ffffff骑术：瞬发               冷却时间：6秒<CRLF><CRLF>^ffffff向前方的敌人攻击，主要用于牵制，<CRLF>距离较长，击中可使其骑乘速度降低1米/秒，<CRLF>移动速度降低0.5米/秒，持续3秒。<CRLF><CRLF>^ffcc00特效^ffffff - 命中修正+5，击中获得5斗气。<CRLF>处于“奋勇”状态时，可能造成两倍/三倍/四倍的伤害。<CRLF>处于“瞬杀”状态时，可以打出破坏一击，<CRLF>中断敌人吟唱，并且造成禁食，<CRLF>对敌造成100%%攻击力的无视防御伤害。<CRLF>此招可架开对方奋力攻击的破坏一击效果。<CRLF><CRLF>^99ccff只能在骑战状态下使用。"}
+{"id": 75, "source": "^c3dbff直攻<CRLF><CRLF>^ffffff兵器：长距近战兵器（刀、枪、戟、钺、棍）<CRLF>^ffffff消耗：5体力<CRLF>^ffffff骑术：瞬发               冷却时间：6秒<CRLF><CRLF>^ffffff向前方的敌人攻击，主要用于牵制，距离较长，<CRLF>击中可使其骑乘速度降低1.5米/秒，移动速度<CRLF>降低1米/秒，持续5秒,自身获得5斗气。<CRLF>此招可破除标准攻击的攻击叠加效果。<CRLF>并对使用标准攻击的目标造成克制效果。<CRLF><CRLF>^ffcc00特效^ffffff 处于“瞬杀”或“破天”状态时，<CRLF>可以打出破坏一击，中断敌人吟唱，<CRLF>并且造成100%%攻击力的无视防御伤害。<CRLF><CRLF>^99ccff只能在骑战状态下使用。<CRLF>克制达到3层时，会触发落马特效。"}
+{"id": 76, "source": "^c3dbff直突<CRLF><CRLF>^ffffff兵器：叉　　　　　　　　    　20体力<CRLF>招式：瞬发  　　　　　　　 冷却15秒<CRLF><CRLF>双手持叉往身前直线方向高速穿掠15米，<CRLF>对经过路线上的所有敌人造成60%%基础伤害，<CRLF>攻击可能造成刺伤效果，同时产生5点斗气。<CRLF>招式结束后自身将获得5秒加速效果。<CRLF><CRLF>^c3dbff注：使用该技能不需要选择目标。"}
+{"id": 77, "source": "^c3dbff直突<CRLF><CRLF>^ffffff兵器：棍　　　　　　　　　　　5体力<CRLF>招式：瞬发　　　　　　　　冷却7秒<CRLF><CRLF>用长棍攻击前方敌人的招式。<CRLF>产生15点斗气。有一定几率震伤敌人。<CRLF>造成100%%基础伤害。<CRLF><CRLF>^c3dbff注：打怪推荐技能，作为斗气积累技。"}
+{"id": 78, "source": "^c3dbff直突·力<CRLF><CRLF>^ffffff提升直突造成的伤害。"}
+{"id": 79, "source": "^c3dbff直突·力<CRLF>^ffffff需要至少在力类专精上投入5点。<CRLF><CRLF>^ffffff提升招式“直突”的暴击几率。"}
+{"id": 80, "source": "^c3dbff直突·强化<CRLF>^ffffff需要至少在“直突·力”专精上投入3点。<CRLF><CRLF>^ffffff在招式“直突”造成的加速效果期间，<CRLF>自身的刺破点数会大幅提升。"}
+{"id": 81, "source": "^c3dbff直突·影<CRLF>^ffffff需要至少在影类专精上投入5点。<CRLF><CRLF>^ffffff提升施放招式“直突”后自身获得的加速效果。"}
+{"id": 82, "source": "^c3dbff直突·技<CRLF><CRLF>^ffffff提升直突造成震伤的机率。加满5层后有20%%概率造成<CRLF>重伤效果，震伤效果持续时间高达30秒。"}
+{"id": 83, "source": "^c3dbff直突·极速<CRLF>^ffffff需要至少在“直突·影”专精上投入3点。<CRLF><CRLF>^ffffff延长施放招式“直突”后的加速时间。"}
+{"id": 84, "source": "^c3dbff盾击<CRLF><CRLF>^ffffff兵器：盾　　　　　　　　　　　10体力<CRLF>武技：瞬发　　　　　　　　冷却8秒<CRLF><CRLF>盾的连贯攻击。<CRLF>四段攻击，有可能震伤敌人。<CRLF>每段获得5点斗气。<CRLF>造成第1段65%%，第2段100%%，<CRLF>第3段100%%，第4段200%%基础伤害。"}
+{"id": 85, "source": "^c3dbff盾挡<CRLF><CRLF>^ffffff兵器：盾　　　　　　　　　　　10体力<CRLF>武技：瞬发                   冷却时间：1秒<CRLF><CRLF>举起双盾抵御敌人的多次攻击。<CRLF>盾挡会抵挡伤害并抵御一些敌人攻击<CRLF>带来的击晕、限制效果。"}
+{"id": 86, "source": "^c3dbff盾砸·封印<CRLF>^ffffff需要在“盾砸·技”上投入5点<CRLF><CRLF>使用盾砸有一定几率获得“封印之力”状态，<CRLF>下次使用盾砸将造成目标3秒沉默。"}
+{"id": 87, "source": "^c3dbff盾突·打断<CRLF>^ffffff需要至少在技类专精上投入15点。<CRLF><CRLF>^ffffff盾突有几率会中断敌人招式的准备过程，造成3秒破招<CRLF>效果，效果影响下不能使用招式，只能普通攻击和移动。"}
+{"id": 88, "source": "^c3dbff盾魂<CRLF><CRLF>^ffffff属性：被动<CRLF><CRLF>完全领略了盾之精妙后领悟到的能力，<CRLF>即使没有持盾，也能发挥盾之极意。"}
+{"id": 89, "source": "^c3dbff看破<CRLF>^ffffff需要至少在“截脉刺·力”上投入3点。<CRLF><CRLF>^ffffff剑法的至高境界，寻找对方破绽，<CRLF>使截脉刺与封喉刺的出招时间大大减少。<CRLF>效果在10秒内只能生效一次。"}
+{"id": 90, "source": "^c3dbff眠袭^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成102%%基础伤害。"}
+{"id": 91, "source": "^c3dbff眠袭·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升眠袭造成的伤害。"}
+{"id": 92, "source": "^c3dbff眠袭·易创<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff眠袭有一定几率使目标进入易创状态，受伤抗性降低10点，<CRLF>并随机进入劈伤、刺伤、震伤状态，状态效果与护卫计谋值相关，<CRLF>持续10秒。"}
+{"id": 93, "source": "^c3dbff眩光<CRLF><CRLF>^ffffff兵器：舞　　　　　　　　50体力　　　　　　　　　　<CRLF>招式：瞬发　　　　　　　冷却40秒<CRLF><CRLF>乱舞迷人眼、心神皆破伤<CRLF>对目标造成伤害的同时，并对目标造成诅咒<CRLF>目标每次攻击都会对自己造成一定反弹伤害"}
+{"id": 94, "source": "^c3dbff眩阳^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成87%%基础伤害。"}
+{"id": 95, "source": "^c3dbff眩阳·冥气<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff眩阳有一定几率使敌人进入冥气状态，<CRLF>持续流失生命，状态持续10秒。"}
+{"id": 96, "source": "^c3dbff眩阳·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升眩阳造成的伤害。"}
+{"id": 97, "source": "^c3dbff瞄准<CRLF><CRLF>^ffffff兵器：弓　　　　　　　　　　　10体力<CRLF>^ffffff策略：3秒施放　　　　　　　　8秒冷却<CRLF><CRLF>预先瞄准目标以增强下一次其它射击招式的<CRLF>威力和效果。<CRLF>瞄准动作中射击命中率和暴击率有逐渐提升（可<CRLF>叠加三次），每次提升1点命中和10点暴击。<CRLF>瞄准同时会减少目标闪避3点，也可叠加三次。"}
+{"id": 98, "source": "^c3dbff瞬击<CRLF><CRLF>^ffffff兵器：双手轻型近战兵器（钩、锏、爪、舞）<CRLF>^ffffff消耗：10体力<CRLF>^ffffff骑术：瞬发<CRLF><CRLF>^ffffff用武器对敌人猛烈的砍击，出招速度较慢，<CRLF>击中后可对敌人造成150%%基础伤害。<CRLF>有几率将敌人震落马下。<CRLF><CRLF>^ffcc00特效^ffffff -  命中修正-35，击中获得15斗气。<CRLF>如果紧接牵制攻击使用，招式命中提升30；<CRLF>如果紧接标准攻击使用，招式命中提升50。<CRLF>在人物处于“破天”状态时，<CRLF>可以打出破坏一击，中断敌人吟唱，<CRLF>对敌造成150%%攻击力的无视防御伤害，<CRLF>且造成迟钝：8秒内吟唱速度下降10%%。<CRLF>此招可架开对方标准攻击的破坏一击效果。<CRLF><CRLF>^99ccff只能在骑战状态下使用。"}
+{"id": 99, "source": "^c3dbff瞬杀·军<CRLF><CRLF>^ffffff兵器：弩　　　　　　20斗气 10体力<CRLF>武技：瞬发　　　　　　　　冷却60秒<CRLF><CRLF>射出一箭，瞬息而至，对目标造成大量伤害。<CRLF>在习得对应的“怒”或“破”技能后，招<CRLF>式的伤害倍率将加倍。<CRLF><CRLF>^c3dbff注：技能在瞬杀·怒之后使用，可使技能<CRLF>对近身目标造成更高的伤害；<CRLF>技能在瞬杀·破之后使用，可使技能无视<CRLF>目标一定的暴击抗性。"}
+{"id": 100, "source": "^c3dbff瞬杀·怒<CRLF><CRLF>^ffffff兵器：弩　　　　　　　　15体力<CRLF>武技：瞬发　　　　　　　　冷却60秒<CRLF><CRLF>凝视敌人，积蓄自身杀意，使自身穿透<CRLF>在10秒内逐渐提升。<CRLF><CRLF>^c3dbff注：技能在瞬杀·破之后使用，可使自身<CRLF>穿透提升额外增加；<CRLF>技能在瞬杀·军之后使用，可使目标移动速度<CRLF>大幅降低，但效果会逐渐削弱。"}
+{"id": 101, "source": "^c3dbff瞬杀·破<CRLF><CRLF>^ffffff兵器：弩　　　　　　　　15体力<CRLF>武技：瞬发　　　　　　　　冷却60秒<CRLF><CRLF>弩箭射入目标护甲之中，对其造成大量伤害，<CRLF>同时降低防御20点、暴击抗性2点，持续10秒。<CRLF><CRLF>^c3dbff注：技能在瞬杀·怒之后使用，可使目标<CRLF>流血，持续损失生命；<CRLF>技能在瞬杀·军之后使用，可使目标防御<CRLF>大幅降低。"}
+{"id": 102, "source": "^c3dbff瞬步<CRLF>^ffffff需要至少在“隐伏·敏锐”专精投入5点。<CRLF><CRLF>^ffffff兵器：爪　　　　　　　　10体力<CRLF>武技：瞬发　　　　　　　　冷却8秒<CRLF><CRLF>^ffffff专精招式。<CRLF>高超的步法，15米距离内瞬间移动到对方身边以便展开攻击。<CRLF>招式只能在隐伏中使用。"}
+{"id": 103, "source": "^c3dbff知人之眼<CRLF><CRLF>^ffffff特技：瞬发　　　　　冷却5分<CRLF><CRLF>^ffffff识破一定的伪装，8秒内命中提升100。"}
+{"id": 104, "source": "^c3dbff石流尘涛^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成92%%基础伤害。"}
+{"id": 105, "source": "^c3dbff石灵护体^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>召唤石灵护体，提升自生命上限。"}
+{"id": 106, "source": "^c3dbff石破天惊^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成226%%基础伤害。"}
+{"id": 107, "source": "^c3dbff石破天惊·奇谋<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff石破天惊有几率使目标进入奇谋状态，<CRLF>奇谋状态下，每次被攻击则防御力降低10点，<CRLF>最多叠加10层，状态持续10秒。"}
+{"id": 108, "source": "^c3dbff石破天惊·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升石破天惊造成的伤害。"}
+{"id": 109, "source": "^c3dbff破云斩<CRLF><CRLF>^ffffff兵器：盾　　　　　　　　10斗气<CRLF>招式：瞬发　　　　　　　　冷却10秒<CRLF><CRLF>组合技，需要依次释放破月袭、裂云击、封影斩后方可使用。<CRLF>右手持刀迅速挥出，攻击敌人。<CRLF>招式迅捷有力，对敌人造成两段伤害。<CRLF>第一段造成100%%基础伤害，<CRLF>第二段造成150%%基础伤害。"}
+{"id": 110, "source": "^c3dbff破云斩·刚<CRLF>^ffffff需要至少在刚类专精上投入15点。<CRLF><CRLF>^ffffff刚毅状态下使用破云斩，<CRLF>将对目标附加无视防御伤害，<CRLF>伤害与目标防御值相关。"}
+{"id": 111, "source": "^c3dbff破云斩·烈<CRLF>^ffffff需要至少在烈类专精上投入15点。<CRLF><CRLF>^ffffff威烈状态下使用破云斩，<CRLF>提升技能暴击几率，若触发了裂云状态的暴击，<CRLF>则暴击伤害提升50%%。"}
+{"id": 112, "source": "^c3dbff破元击<CRLF><CRLF>^ffffff兵器：钺　　　　　　　　　10体力<CRLF>武技：瞬发                     冷却时间：6秒<CRLF><CRLF>攻击选中的敌人，造成100%%基础伤害。<CRLF>有机率造成劈伤。<CRLF>增加10点斗气。"}
+{"id": 113, "source": "^c3dbff破元击·伤<CRLF><CRLF>^ffffff提升破元击造成劈伤的机率。"}
+{"id": 114, "source": "^c3dbff破元击·怒<CRLF><CRLF>^ffffff提升破元击造成的伤害。"}
+{"id": 115, "source": "^c3dbff破军<CRLF><CRLF>^ffffff兵器：环　　　　　　　　　　　20体力<CRLF>策略：瞬发　　　　　　　　　　持续时间：10分钟<CRLF><CRLF>消耗体力进入“破军技法”，<CRLF>提升自身防御力，<CRLF>9级后，每级额外提升1点直接抗性。<CRLF><CRLF>^c3dbff注：自身属性强化推荐技能。<CRLF>“破军技法”及“御敌技法”切换冷却时间为5秒。"}
+{"id": 116, "source": "^c3dbff破军弩<CRLF><CRLF>^ffffff兵器：弩　　　　　　　　5体力<CRLF>招式：瞬发　　　　　　　　冷却4秒<CRLF><CRLF>持弩向敌人迅速射击。<CRLF>造成100%%基础伤害，产生5点斗气。<CRLF>一定几率将敌人击落下马。<CRLF><CRLF>^c3dbff注：轻弩状态下，基础伤害最多增加50%%。"}
+{"id": 117, "source": "^c3dbff破军弩·力<CRLF><CRLF>^ffffff提升破军弩造成的伤害。"}
+{"id": 118, "source": "^c3dbff破军弩·技<CRLF><CRLF>^ffffff使用破军弩有一定几率射伤敌人。"}
+{"id": 119, "source": "^c3dbff破坚阵^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成50%%基础伤害。"}
+{"id": 120, "source": "^c3dbff破天击^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成200%%基础伤害。"}
+{"id": 121, "source": "^c3dbff破天击·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升破天击造成的伤害。"}
+{"id": 122, "source": "^c3dbff破天击·慑心<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff破天击有一定几率降低目标穿透能力，<CRLF>持续8秒。"}
+{"id": 123, "source": "^c3dbff破子绽<CRLF><CRLF>^ffffff突袭打可驱散目标的马上加速状态。<CRLF><CRLF>^99ccff奋力攻击专精，只能学习一个。"}
+{"id": 124, "source": "^c3dbff破岩^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成94%%基础伤害。"}
+{"id": 125, "source": "^c3dbff破岩·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升破岩造成的伤害。"}
+{"id": 126, "source": "^c3dbff破岩·裂甲<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff破岩有一定几率使目标进入裂甲状态，<CRLF>防御力降低，状态持续10秒。"}
+{"id": 127, "source": "^c3dbff破影击<CRLF>^ffffff需要至少在刚类专精上投入15点。<CRLF><CRLF>^ffffff兵器：盾　　　　　　　15斗气<CRLF>武技：瞬发                 冷却时间：6秒<CRLF><CRLF>组合技，需要依次释放破月袭、封影斩、裂云击后方可使用。<CRLF>左手持盾重击目标，对其造成伤害。"}
+{"id": 128, "source": "^c3dbff破影击·刚<CRLF>^ffffff需要至少在专精“破影击”上投入3点。<CRLF><CRLF>^ffffff在刚毅状态下使用破影击，<CRLF>有几率使目标进入破影状态，<CRLF>防御力大幅降低，状态持续3秒。"}
+{"id": 129, "source": "^c3dbff破影击·烈<CRLF>^ffffff需要至少在烈类专精上投入15点。<CRLF><CRLF>^ffffff在威烈状态下使用破影击，<CRLF>可无视目标直接抗性。"}
+{"id": 130, "source": "^c3dbff破斩<CRLF><CRLF>^ffffff兵器：钺　　　　　　　　　　5体力<CRLF>招式：瞬发　　　　　　　　冷却6秒<CRLF><CRLF>用钺迅速攻击敌人，<CRLF>产生5点斗气。<CRLF>有较小机率劈伤敌人。<CRLF>造成50%%基础伤害。<CRLF>一定几率将敌人击落下马。"}
+{"id": 131, "source": "^c3dbff破斩^ffffff<CRLF><CRLF>技能品质：叁<CRLF>高阶招式<CRLF><CRLF>新手护卫专用技能，对敌人造成250%%基础伤害"}
+{"id": 132, "source": "^c3dbff破斩·伤<CRLF>^ffffff需要至少在伤类专精上投入10点。<CRLF><CRLF>^ffffff提升破斩造成劈伤的机率。"}
+{"id": 133, "source": "^c3dbff破斩·断防<CRLF>^ffffff需要至少在“破斩·伤”上投入5点。<CRLF><CRLF>^ffffff破斩有机率打断敌方格挡，并造成对方3秒内不能再使用格挡。"}
+{"id": 134, "source": "^c3dbff破月袭<CRLF><CRLF>^ffffff兵器：盾　　　　　　　　10斗气<CRLF>武技：瞬发　　　　　　　　冷却3秒<CRLF><CRLF>左手持盾快速挥出，<CRLF>对选中目标造成208%%基础伤害。<CRLF><CRLF>^c3dbff注：打怪推荐技能，作为斗气释放技。"}
+{"id": 135, "source": "^c3dbff破月袭·刚<CRLF>^ffffff需要至少在刚类专精上投入10点。<CRLF><CRLF>^ffffff在刚毅状态下使用破月袭，有几率获得破月状态，<CRLF>下一次使用组合技为自己获得一个回天盾，<CRLF>可吸收自身最大生命10%%的伤害。<CRLF><CRLF>^c3dbff注：本破月状态仅在刚毅状态下生效。"}
+{"id": 136, "source": "^c3dbff破月袭·刚<CRLF>^ffffff需要至少在技类专精上投入10点。<CRLF><CRLF>^ffffff提升刚盾打造成震伤的机率。"}
+{"id": 137, "source": "^c3dbff破月袭·烈<CRLF>^ffffff需要至少在烈类专精上投入10点。<CRLF><CRLF>^ffffff在威烈状态下使用破月袭，有几率获得破月状态，<CRLF>下一次使用组合技可获得一个逆天盾，<CRLF>可反弹50%%所受伤害，最多生效三次。<CRLF><CRLF>^c3dbff注：本破月状态仅在威烈状态下生效。"}
+{"id": 138, "source": "^c3dbff破煞<CRLF><CRLF>^ffffff兵器：剑　　　　　　　　　每2秒5体力<CRLF>策略：瞬发　　　　　　　　　<CRLF><CRLF>指明敌人的弱点所在，加强队友的暴击。<CRLF>周围20米范围内队友增加5点暴击，<CRLF>5%%的暴击伤害，<CRLF>不能和会心效果共存。<CRLF><CRLF>^c3dbff注：队伍属性强化推荐技能。"}
+{"id": 139, "source": "^c3dbff破环式<CRLF><CRLF>^ffffff兵器：环　　　　　　　　15体力　　　<CRLF>招式：持续释放　　　　　　　冷却8秒<CRLF><CRLF>身法辗转腾挪，招招致命，<CRLF>分三段向周围敌人攻击。<CRLF>分别造成44%%，61%%，78%%基础伤害。<CRLF>每段回复5点斗气。<CRLF><CRLF>^c3dbff注：破系技能，只能在破军技法下使用。"}
+{"id": 140, "source": "^c3dbff破环式·破<CRLF>^ffffff需要至少在破类专精上投入10点。<CRLF><CRLF>^ffffff提升破环式造成的基础伤害。"}
+{"id": 141, "source": "^c3dbff破环式·震慑<CRLF>^ffffff需要至少在破类专精上投入10点。<CRLF><CRLF>^ffffff破环式第三段攻击，将有一定几率<CRLF>使目标进入震慑状态，命中及攻击降低。<CRLF>命中及攻击降低值与破军点数相关。"}
+{"id": 142, "source": "^c3dbff破胆袭^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                  初始冷却：20秒<CRLF><CRLF>魂技类型：攻击类<CRLF>召唤融入体内的英雄魂魄，对身前7米距离内的<CRLF>单个敌人施放一次灵魂攻击。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>1. 攻击将对敌人造成一次灵魂伤害，觉醒状态下<CRLF>施放的伤害加倍；<CRLF>2. 攻击将对敌人附加破胆效果，使目标移动速度<CRLF>降低%.1f米/秒，破胆效果持续至少5秒；<CRLF>觉醒状态下释放，破胆目标将额外降低攻击%d点，<CRLF>攻强%d%%。"}
+{"id": 143, "source": "^c3dbff破釜沉舟<CRLF>^ffffff需要至少在影类专精上投入20点。<CRLF><CRLF>在“稳固”的效果持续时间内，<CRLF>只要遭受攻击就会获得短暂的抗性提升效果，<CRLF>最多可叠加5次。"}
+{"id": 144, "source": "^c3dbff破阵之舞<CRLF><CRLF>^ffffff兵器：舞　　　　　　　　15斗气，10体力<CRLF>策略：瞬发　　　　　　　　<CRLF><CRLF>舞师最为强劲的战斗招式，<CRLF>从表现宏大战斗场面的舞蹈中演化而来。<CRLF>招式攻击周围数个敌人，<CRLF>同时根据每次攻击的敌人数量回复<CRLF>自身生命值，最多攻击5个敌人。<CRLF>招式造成42%%基础伤害。<CRLF><CRLF>^c3dbff注：群体攻击推荐技能，推荐积累大量斗气后连续使用。"}
+{"id": 145, "source": "^c3dbff破阵之舞·力<CRLF>^ffffff需要至少在“战”类专精上投入20点。<CRLF><CRLF>^ffffff提升破阵之舞招式的暴击率。"}
+{"id": 146, "source": "^c3dbff破阵之舞·辅<CRLF>^ffffff需要至少在“辅”类专精上投入20点。<CRLF><CRLF>提升破阵之舞招式的回复效果。"}
+{"id": 147, "source": "^c3dbff破阵舞<CRLF><CRLF>^ffffff跳起此舞，身畔雷奔龙跃，震动四方，势不可挡。<CRLF><CRLF>^ffffff必须装备武器后才能使用。"}

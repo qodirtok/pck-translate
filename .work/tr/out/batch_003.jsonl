@@ -1,0 +1,253 @@
+{"id": 1, "english": "^c3dbffEnhanced Bravery<CRLF><CRLF>^ffffffUsing a Battle Qi skill reduces the target's resistance to Stun"}
+{"id": 2, "english": "^c3dbffEnhanced Light Crossbow<CRLF><CRLF>^ffffffIncreases the Crit Rate of your next skill."}
+{"id": 3, "english": "^c3dbffPower Strike<CRLF><CRLF>^ffffffBoosts Sword Attack."}
+{"id": 4, "english": "^c3dbffPower Strike<CRLF><CRLF>^ffffffBoosts Great Blade Attack."}
+{"id": 5, "english": "^c3dbffPower Strike<CRLF><CRLF>^ffffffBoosts Bow Attack."}
+{"id": 6, "english": "^c3dbffPower Strike<CRLF><CRLF>^ffffffBoosts Axe Attack."}
+{"id": 7, "english": "^c3dbffPower Strike<CRLF><CRLF>^ffffffBoosts Ring Attack."}
+{"id": 8, "english": "^c3dbffPower Strike<CRLF><CRLF>^ffffffBoosts Long Staff Attack."}
+{"id": 9, "english": "^c3dbffPower Strike<CRLF><CRLF>^ffffffAttack Power increased"}
+{"id": 10, "english": "^c3dbffPower Strike<CRLF><CRLF>^ffffffAttack Power increased."}
+{"id": 11, "english": "^c3dbffPower Strike<CRLF><CRLF>^ffffffAttack Points increased<CRLF>Attack strength rises after Level 9"}
+{"id": 12, "english": "^c3dbffPower Strike Tactic<CRLF><CRLF>^ffffffA tactic used by warlords who wield hammers.<CRLF>Once activated, dual-hammer attacks grant Power Strike Points."}
+{"id": 13, "english": "^c3dbffPower Strike Points<CRLF><CRLF>^ffffffAttack Power and Movement Speed increased<CRLF>Effects of certain hammer skills enhanced<CRLF>Stacks up to 10 points"}
+{"id": 14, "english": "^c3dbffDeadly Strike<CRLF>^ffffffHealing received is reduced."}
+{"id": 15, "english": "^c3dbffUnyielding<CRLF><CRLF>^ffffffReflects damage back to enemies on every attack you take"}
+{"id": 16, "english": "^c3dbffFierce Assault<CRLF><CRLF>^ffffffHit and Attack Power increased."}
+{"id": 17, "english": "^c3dbffFierce Assault<CRLF><CRLF>^ffffffMounted speed increased. Ignores movement-blocking effects."}
+{"id": 18, "english": "^c3dbffFierce Assault<CRLF><CRLF>^ffffffMounted combat speed increased."}
+{"id": 19, "english": "^c3dbffFierce Assault Tactic<CRLF><CRLF>^ffffffA tactic used by warlords who wield maces.<CRLF>Once activated, certain skills gain increased crit chance."}
+{"id": 20, "english": "^c3dbffFortify Body<CRLF><CRLF>^ffffffMax HP increased by 150"}
+{"id": 21, "english": "^c3dbffTenacity<CRLF><CRLF>^ffffffDefense increased by 5%."}
+{"id": 22, "english": "^c3dbffMighty Dragon<CRLF><CRLF>^ffffffAttack Power increased"}
+{"id": 23, "english": "^c3dbffReturn to Origin<CRLF><CRLF>^ffffffContinuously reduces Battle Qi."}
+{"id": 24, "english": "^c3dbffCrown Strike<CRLF>^ffffffCrit Resistance reduced."}
+{"id": 25, "english": "^c3dbffHead Crusher<CRLF><CRLF>^ffffffAttack Power reduced."}
+{"id": 26, "english": "^c3dbffPress Forward<CRLF><CRLF>^ffffffYou have recovered your strength. Press on!"}
+{"id": 27, "english": "^c3dbffCampaign Reward<CRLF>^ffffffSpend a Campaign Token to gain an extra reward."}
+{"id": 28, "english": "^c3dbffAmbush Ready<CRLF><CRLF>^ffffffBattle Qi increased."}
+{"id": 29, "english": "^c3dbffAmbush Tactic<CRLF><CRLF>^ffffffA tactic used by warlords who wield hammers.<CRLF>If an enemy strikes first, you gain extra Battle Qi.<CRLF>Ends once you attack or are attacked."}
+{"id": 30, "english": "^c3dbffAmbush Mode<CRLF><CRLF>^ffffffAutomatically recovers Battle Qi while this effect is active."}
+{"id": 31, "english": "^c3dbffIce Mastery<CRLF><CRLF>^ffffffAn effect granted by casting Ice spells in succession.<CRLF>Reduces the Stamina cost of Ice spells and increases Crit Rate."}
+{"id": 32, "english": "^c3dbffCold Guard<CRLF><CRLF>^ffffffReduces the effects of freezing snowy weather."}
+{"id": 33, "english": "^c3dbffHeart Ward<CRLF><CRLF>^ffffffDirect, indirect, and spell resistance increased.<CRLF>Effect decays over time."}
+{"id": 34, "english": "^c3dbffFoe Ward<CRLF><CRLF>^ffffffCooldown of Ward skills reduced."}
+{"id": 35, "english": "^c3dbffFoe Ward Technique<CRLF><CRLF>^ffffffActivate the Foe Ward Technique to use Ward skills.<CRLF>Attack Power increased."}
+{"id": 36, "english": "^c3dbffQi Ward<CRLF><CRLF>^ffffffEnter the Qi Ward state. Penetration Points increased."}
+{"id": 37, "english": "^c3dbffBee Commander<CRLF><CRLF>^ffffffAutomatically grants the “Bee Commander” Title"}
+{"id": 38, "english": "^c3dbffWind Ward<CRLF><CRLF>^ffffffEach stack increases your Attack Speed by 5%."}
+{"id": 39, "english": "^c3dbffWind Ward<CRLF><CRLF>^ffffffMovement Speed increased!"}
+{"id": 40, "english": "^c3dbffWind Mastery<CRLF><CRLF>^ffffffWhile under the effect of Wind Mastery,<CRLF>Wind skills are strengthened."}
+{"id": 41, "english": "^c3dbffRitual Bound<CRLF><CRLF>^ffffffCannot land critical hits"}
+{"id": 42, "english": "^c3dbffSlightly Sated<CRLF>^ffffffUp to five stacks of the Sated state. No bonus healing effects!"}
+{"id": 43, "english": "^c3dbffExhausted<CRLF>^ffffffYou collapsed from overwork!"}
+{"id": 44, "english": "^c3dbffTerrified<CRLF><CRLF>^ffffffRooted. Unable to move."}
+{"id": 45, "english": "^c3dbffHeart's Wish<CRLF>^ffffffYou received a blessing from a teammate."}
+{"id": 46, "english": "^c3dbffContent<CRLF><CRLF>^ffffffFlattered and in high spirits."}
+{"id": 47, "english": "^c3dbffSpent<CRLF><CRLF>^ffffffTarget's Attack Power is reduced while Disarmed"}
+{"id": 48, "english": "^c3dbffHeart Sutra<CRLF><CRLF>^ffffffDefense +30"}
+{"id": 49, "english": "^c3dbffSpirits Soaring<CRLF><CRLF>^ffffffThrilling! Absolutely thrilling!"}
+{"id": 50, "english": "^c3dbffSure Hit<CRLF><CRLF>^ffffffYour next attack is guaranteed to hit."}
+{"id": 51, "english": "^c3dbffDeathblow<CRLF><CRLF>^ffffffKilling intent lingers."}
+{"id": 52, "english": "^c3dbffDoomed<CRLF>^ffffffYou are intimidated by the warrior. At 3 stacks, you will fall prone."}
+{"id": 53, "english": "^c3dbffDance of Victory<CRLF><CRLF>^ffffffFirm belief in certain victory. Damage Resistance and Crit Resistance increased"}
+{"id": 54, "english": "^c3dbffPatient Angler<CRLF><CRLF>^ffffffA skill developed over years of fishing<CRLF>through great patience.<CRLF>Max HP increased by 3%."}
+{"id": 55, "english": "^c3dbffEndure!<CRLF><CRLF>^ffffffRestores 10 Stamina per second.<CRLF>This effect ends when HP is above 50%."}
+{"id": 56, "english": "^c3dbffEndure Humiliation<CRLF><CRLF>^ffffffDefeated in the Kingdom War. Visit Gu Yong,<CRLF>Quartermaster at the Wu HQ Command Tent,<CRLF>to claim supplies and grow stronger,<CRLF>defend your kingdom's honor."}
+{"id": 57, "english": "^c3dbffEndure Humiliation<CRLF><CRLF>^ffffffDefeated in the Kingdom War. Visit Jiang Wan,<CRLF>Quartermaster at the Shu HQ Command Tent,<CRLF>to claim supplies and grow stronger,<CRLF>defend your kingdom's honor."}
+{"id": 58, "english": "^c3dbffEndure Humiliation<CRLF><CRLF>^ffffffDefeated in the Kingdom War. Visit Jia Xu,<CRLF>Quartermaster at the Wei HQ Command Tent,<CRLF>to claim supplies and grow stronger,<CRLF>defend your kingdom's honor."}
+{"id": 59, "english": "^c3dbffLoyal and Upright<CRLF><CRLF>^ffffffDirect Resistance increased"}
+{"id": 60, "english": "^c3dbffSpur On<CRLF><CRLF>^ffffffMounted Movement Speed increased for a time.<CRLF>Rapidly spurring your horse triggers a Gallop effect,<CRLF>raising your speed further and further."}
+{"id": 61, "english": "^c3dbffQuick!<CRLF><CRLF>^ffffffTime is short!"}
+{"id": 62, "english": "^c3dbffCasting Curse<CRLF>^ffffffAn ominous portent."}
+{"id": 63, "english": "^c3dbffRoar of Fury<CRLF><CRLF>^ffffffDamage taken reduced.<CRLF>Immune to all Stun-type control effects."}
+{"id": 64, "english": "^c3dbffWrath<CRLF><CRLF>^ffffffMounted Crit Rate increased."}
+{"id": 65, "english": "^c3dbffConsumed by Wrath<CRLF><CRLF>^ffffffConsumed by intense fury. Attack and Casting Speed reduced."}
+{"id": 66, "english": "^c3dbffWrath Verdict<CRLF><CRLF>^ffffffIf Battle Qi is below 50 after 5 seconds, you suffer judgment damage."}
+{"id": 67, "english": "^c3dbffRage Buildup<CRLF><CRLF>^ffffffWhile in the Invincible state, each enemy attack builds 1 point of Rage for you."}
+{"id": 68, "english": "^c3dbffFury<CRLF><CRLF>^ffffffNext attack's damage and Hit increased."}
+{"id": 69, "english": "^c3dbffFury<CRLF><CRLF>^ffffffUsing a “Break” or “Army” skill while this<CRLF>effect is active grants an additional effect."}
+{"id": 70, "english": "^c3dbffFury<CRLF><CRLF>^ffffffCrit Rate and Crit Damage increased"}
+{"id": 71, "english": "^c3dbffFury<CRLF><CRLF>^ffffffThis unit is in a frenzied state."}
+{"id": 72, "english": "^c3dbffFirst Aid<CRLF>^ffffffRestores 1% Max HP per second."}
+{"id": 73, "english": "^c3dbffQuick Wit<CRLF><CRLF>^ffffffCasting Speed increased."}
+{"id": 74, "english": "^c3dbffQuick Wit<CRLF><CRLF>^ffffffMovement Speed and Casting Speed increased"}
+{"id": 75, "english": "^c3dbffSwift Slayer<CRLF><CRLF>^ffffffAutomatically grants the “Swift Slayer” Title"}
+{"id": 76, "english": "^c3dbffEvasive Flash<CRLF><CRLF>^ffffffCompletely evades most attacks"}
+{"id": 77, "english": "^c3dbffEvasive Flash<CRLF><CRLF>^ffffffEvasion greatly increased"}
+{"id": 78, "english": "^c3dbffCowardice<CRLF><CRLF>^ffffffTakes extra damage when critically hit"}
+{"id": 79, "english": "^c3dbffFear<CRLF><CRLF>^ffffffHP cannot be restored."}
+{"id": 80, "english": "^c3dbffFear<CRLF><CRLF>^ffffffMay be Stunned when hit!"}
+{"id": 81, "english": "^c3dbffRecover<CRLF><CRLF>^ffffffWhen HP is below 70%,<CRLF>using Sword Aura Ward restores HP."}
+{"id": 82, "english": "^c3dbffGrudges<CRLF><CRLF>^ffffffReflects melee damage taken"}
+{"id": 83, "english": "^c3dbffCongratulations<CRLF><CRLF>^ffffffSpend a Purple Dawn Flash Pearl to receive a reward."}
+{"id": 84, "english": "^c3dbffCongratulations on defeating the City Defense Elite!<CRLF>"}
+{"id": 85, "english": "^c3dbffCongratulations on defeating Chunyu Qiong!<CRLF>"}
+{"id": 86, "english": "^c3dbffCongratulations on your victory!!"}
+{"id": 87, "english": "^c3dbffBad Weather<CRLF><CRLF>^ffffffYour side is affected by bad weather and struggles to attack."}
+{"id": 88, "english": "^c3dbffElai<CRLF><CRLF>^ffffffAttack Power increased."}
+{"id": 89, "english": "^c3dbffMark of Elai<CRLF><CRLF>^ffffffCursed by Elai."}
+{"id": 90, "english": "^c3dbffElai's Power Strike<CRLF><CRLF>^ffffffAttack Power increased."}
+{"id": 91, "english": "^c3dbffEvil Curse<CRLF><CRLF>^ffffffEach hit reduces Movement Speed by 0.5 m/s."}
+{"id": 92, "english": "^c3dbffYou have sent a gift to your sweetheart!"}
+{"id": 93, "english": "^c3dbffYou have received a gift from someone!"}
+{"id": 94, "english": "^c3dbffYou visited a friend!"}
+{"id": 95, "english": "^c3dbffYou have eliminated the Impostor Zhang Fei!<CRLF>"}
+{"id": 96, "english": "^c3dbffYou have eliminated the Impostor Zhao Yun!<CRLF>"}
+{"id": 97, "english": "^c3dbffYou have eliminated the traitor general Wang Qi!<CRLF>"}
+{"id": 98, "english": "^c3dbffYou received a gift from an admirer!<CRLF>"}
+{"id": 99, "english": "^c3dbffSorrow Curse<CRLF><CRLF>^ffffffGreatly reduces Attack and Defense"}
+{"id": 100, "english": "^c3dbffLament of Grief<CRLF><CRLF>An ancient fisherman's song chanted by the fisher girl Mei Xiang (Part 1)"}
+{"id": 101, "english": "^c3dbffSorrow-Softening Breeze<CRLF>Your Attack Power has increased!"}
+{"id": 102, "english": "^c3dbffMourning Gongjin<CRLF><CRLF>^ffffffZhuge Liang has begun his mourning. Protect him!"}
+{"id": 103, "english": "^c3dbffMutual Affection<CRLF><CRLF>^ffffffYour Movement Speed is reduced by 2 m/s.<CRLF>"}
+{"id": 104, "english": "^c3dbffDeep Affection<CRLF><CRLF>^ffffffRestores HP when you hit a target."}
+{"id": 105, "english": "^c3dbffSurprise<CRLF><CRLF>^ffffffSomeone tossed an Orchid Handkerchief to you."}
+{"id": 106, "english": "^c3dbffSurprise<CRLF><CRLF>^ffffffSomeone tossed a Peach Blossom Handkerchief to you."}
+{"id": 107, "english": "^c3dbffSurprise<CRLF><CRLF>^ffffffSomeone tossed a Plum Blossom Handkerchief to you."}
+{"id": 108, "english": "^c3dbffStartling Blaze<CRLF><CRLF>^ffffffThere is a chance the attacker's mount is spooked by flames,<CRLF>throwing them from the saddle. Triggers up to 10 times."}
+{"id": 109, "english": "^c3dbffSwift Grace<CRLF><CRLF>^ffffffCrit Chance increased!"}
+{"id": 110, "english": "^c3dbffMind Enthrall<CRLF><CRLF>If healed, you will suffer damage."}
+{"id": 111, "english": "^c3dbffCherish Talent<CRLF><CRLF>^ffffffExp and Insight gained increased by 30%."}
+{"id": 112, "english": "^c3dbffPunish the Traitor<CRLF><CRLF>^ffffffPierce Points increased"}
+{"id": 113, "english": "^c3dbffAnnoying Overseer"}
+{"id": 114, "english": "^c3dbffSurprise!<CRLF>^ffffffWatch the rocks in the scene. There is a chance to trigger a secret passage event."}
+{"id": 115, "english": "^c3dbffThank you for defending the Gate Soldier Formation!<CRLF>"}
+{"id": 116, "english": "^c3dbffThank you for defending the Gate Advisor Formation!<CRLF>"}
+{"id": 117, "english": "^c3dbffThank you for defending the Gate General Formation!<CRLF>"}
+{"id": 118, "english": "^c3dbffThank you for defending the Gate Cannon Formation!<CRLF>"}
+{"id": 119, "english": "^c3dbffAnger<CRLF><CRLF>^ffffffAngry state. Power increased."}
+{"id": 120, "english": "^c3dbffWilling Bait<CRLF><CRLF>^ffffffWhile in this state, use the Luoshui Fishing Rod near<CRLF>Sister Yuyan at Luoyang's Nine-Bend Crossing to start auto-fishing."}
+{"id": 121, "english": "^c3dbffWilling Bait<CRLF><CRLF>^ffffffWhile in this state, purchase the Taigong Fishing Rod<CRLF>from Dongfang Bubai to start auto-fishing."}
+{"id": 122, "english": "^c3dbffPre-Battle Rest<CRLF><CRLF>Gear up and rest briefly before the great battle to rally again.<CRLF>Up to 5 rewards can be earned per day.<CRLF>"}
+{"id": 123, "english": "^c3dbffBattle Merit Complete<CRLF><CRLF>^ffffffAttack Power increased."}
+{"id": 124, "english": "^c3dbffBattlefield Hero<CRLF><CRLF>^ffffffYou fought bravely on the battlefield. Only by<CRLF>keeping this state can you claim your battlefield<CRLF>reward. The state fades if you idle too long.<CRLF>"}
+{"id": 125, "english": "^c3dbffBattlefield Complete!!"}
+{"id": 126, "english": "^c3dbffBattlefield Ended<CRLF><CRLF>^ffffffBonus Reward"}
+{"id": 127, "english": "^c3dbffBattlefield Expert<CRLF>^ffffffCongratulations on earning the Battlefield Expert Codex Reward!"}
+{"id": 128, "english": "^c3dbffBattle Will<CRLF><CRLF>^ffffffIntense battle will radiating from an awakened battle spirit.<CRLF>Greatly stirs your fighting spirit. Max HP and Attack Power increased."}
+{"id": 129, "english": "^c3dbffBattle Will<CRLF><CRLF>^ffffffAttack Power increased"}
+{"id": 130, "english": "^c3dbffBattle Will<CRLF><CRLF>^ffffffAttack Power and Max HP increased"}
+{"id": 131, "english": "^c3dbffBattle Will<CRLF><CRLF>^ffffffThe heroic power of the battle spirit has awakened!"}
+{"id": 132, "english": "^c3dbffBattle Will<CRLF><CRLF>^ffffffMovement Speed greatly increased while mounted and in mounted combat.<CRLF>Damage from normal attacks greatly reduced.<CRLF><CRLF>Each level of Battle Will grants an extra 100 Attack Power,<CRLF>increases snowball damage by 20%,<CRLF>and reduces cooldown by 0.1s."}
+{"id": 133, "english": "^c3dbffBattle Will<CRLF><CRLF>^ffffffMovement Speed greatly increased while mounted and in mounted combat,<CRLF>and damage from normal attacks greatly reduced."}
+{"id": 134, "english": "^c3dbffBattle Will Awakened<CRLF><CRLF>^ffffffAttack and Defense increased,<CRLF>and HP increased by 10%.<CRLF>"}
+{"id": 135, "english": "^c3dbffBattle Mark<CRLF><CRLF>^ffffffBattle Will increased. Attack Power increased."}
+{"id": 136, "english": "^c3dbffBattle Marker<CRLF><CRLF>^ffffffYou have been marked"}
+{"id": 137, "english": "^c3dbffBattle Tattoo<CRLF><CRLF>^ffffffAttack Power increased; affects the effects of other skills;"}
+{"id": 138, "english": "^c3dbffGod of War<CRLF><CRLF>^ffffffBattle Will awakened. Attack Power and Attack Speed greatly increased"}
+{"id": 139, "english": "^c3dbffChariot Attack Power Increased"}
+{"id": 140, "english": "^c3dbffWar Drum<CRLF><CRLF>^ffffffGain 20 Battle Qi. This effect can trigger at most once every 4 seconds."}
+{"id": 141, "english": "^c3dbffSlaughter<CRLF><CRLF>^ffffffAttack +50, Crit Resistance +5"}
+{"id": 142, "english": "^c3dbffWrong Answer<CRLF><CRLF>^ffffffThe Grand Marshal is furious. The consequences are dire!"}
+{"id": 143, "english": "^c3dbffRobbery<CRLF><CRLF>^ffffffAttack the carriage."}
+{"id": 144, "english": "^c3dbffRobbery Successful<CRLF><CRLF>^ffffffYou successfully intercepted the carriage."}
+{"id": 145, "english": "^c3dbffDefeat Lady Night<CRLF><CRLF>^ffffffCongratulations on defeating Lady Night"}
+{"id": 146, "english": "^c3dbffHit! Rob!<CRLF><CRLF>^ffffffHeavily damaged the carriage."}
+{"id": 147, "english": "^c3dbffDisrupt<CRLF><CRLF>^ffffffYou are disrupted while casting a skill.<CRLF>Your casts are interrupted every 3 seconds.<CRLF>"}
+{"id": 148, "english": "^c3dbffResistance Up<CRLF><CRLF>^ffffffAll Resistances increased"}
+{"id": 149, "english": "^c3dbffDragon Snatch Resist<CRLF><CRLF>^ffffffImmune to Dragon Snatch damage.<CRLF>"}
+{"id": 150, "english": "^c3dbffBreakthrough<CRLF><CRLF>^ffffffBeing hit can trigger the Valor state."}
+{"id": 151, "english": "^c3dbffBlessing<CRLF><CRLF>^ffffffDamage taken from your next hit is reduced."}
+{"id": 152, "english": "^c3dbffProtection<CRLF><CRLF>The Guard loyally protects its master. The Master's<CRLF>bonus damage, healing points, and Max HP greatly increased."}
+{"id": 153, "english": "^c3dbffBody Shield<CRLF><CRLF>^ffffffDamage Resistance increased"}
+{"id": 154, "english": "^c3dbffBody Shield<CRLF>^ffffffDivine Body Shield."}
+{"id": 155, "english": "^c3dbffGuard<CRLF>^ffffffIncreases teammates' melee damage resistance"}
+{"id": 156, "english": "^c3dbffShield<CRLF><CRLF>^ffffffAbsorbs damage."}
+{"id": 157, "english": "^c3dbffSilence the Wind Chime<CRLF><CRLF>^ffffffAutomatically grants the “Silence the Wind Chime” Title"}
+{"id": 158, "english": "^c3dbffParry<CRLF><CRLF>^ffffffSuccessful parries increase Battle Qi."}
+{"id": 159, "english": "^c3dbffParry<CRLF><CRLF>^ffffffBlocks the next attack"}
+{"id": 160, "english": "^c3dbffParry Successful<CRLF><CRLF>^ffffffCounts as the next parry"}
+{"id": 161, "english": "^c3dbffContinuous Stamina Gain"}
+{"id": 162, "english": "^c3dbffContinuous Battle Qi Gain"}
+{"id": 163, "english": "^c3dbffContinuous HP Gain"}
+{"id": 164, "english": "^c3dbffContinuous Healing"}
+{"id": 165, "english": "^c3dbffContinuous Direct Damage Reflection<CRLF><CRLF>"}
+{"id": 166, "english": "^c3dbffContinuous HP Recovery"}
+{"id": 167, "english": "^c3dbffHanging Up the Seal and Leaving<CRLF>^ffffffUpon learning of Liu Bei's whereabouts, Guan Yu left Cao Cao,<CRLF>escorting his two sisters-in-law to find his brother.<CRLF>"}
+{"id": 168, "english": "^c3dbffHanging Up the Seal and Leaving<CRLF>^ffffffAfter many twists and turns, Zhang Fei and Guan Yu<CRLF>the two brothers finally reconciled."}
+{"id": 169, "english": "^c3dbffIdle 1<CRLF><CRLF>^ffffffWhile in a safe zone, gain a set amount of Exp each minute.<CRLF><CRLF>Idle 1 is overwritten by the Idle 2 or Idle 3 effect,<CRLF>and disappears when you log off."}
+{"id": 170, "english": "^c3dbffIdle 2<CRLF><CRLF>^ffffffWhile in a safe zone, gain a set amount of Exp each minute.<CRLF><CRLF>The Idle 2 effect is overwritten by the Idle effect,<CRLF>and disappears when you log off.<CRLF><CRLF>"}
+{"id": 171, "english": "^c3dbffIdle 3<CRLF><CRLF>^ffffffWhile in a safe zone, gain a set amount of Exp each minute<CRLF>and Merit Points every 5 minutes.<CRLF><CRLF>Only one of the Idle 1, Idle 2, and Idle 3 effects can exist at a time,<CRLF>and disappears when you log off."}
+{"id": 172, "english": "^c3dbffIdle Training 1<CRLF><CRLF>^ffffffHead to Chang'an East Market to gain the Training effect.<CRLF>During training, you will earn Training Points over time."}
+{"id": 173, "english": "^c3dbffIdle Training 2<CRLF><CRLF>^ffffffHead to Chang'an East Market to gain the Tempering effect.<CRLF>During training, you will earn Training Points over time."}
+{"id": 174, "english": "^c3dbffChallenge Complete<CRLF><CRLF>^ffffffTogether you overwhelmed Lu Bu and Diaochan. You have earned your reward.<CRLF><CRLF>"}
+{"id": 175, "english": "^c3dbffThrust Strike<CRLF><CRLF>^ffffffCan chain into Wild Pierce and Blade Sting."}
+{"id": 176, "english": "^c3dbffTaunt<CRLF><CRLF>^ffffffCrit Resistance greatly reduced. Stacks."}
+{"id": 177, "english": "^c3dbffTaunt<CRLF>^ffffffDefense greatly reduced."}
+{"id": 178, "english": "^c3dbffBreak Free<CRLF><CRLF>^ffffffImmune to Slow effects"}
+{"id": 179, "english": "^c3dbffTearful Strike<CRLF><CRLF>^ffffffEach attack reduces HP"}
+{"id": 180, "english": "^c3dbffMorale Break<CRLF><CRLF>^ffffffContinuously loses Battle Qi."}
+{"id": 181, "english": "^c3dbffMorale Break<CRLF><CRLF>^ffffffLoses Battle Qi per second."}
+{"id": 182, "english": "^c3dbffStep Forward<CRLF>^ffffffCao Cao has prepared warm wine to send you off.<CRLF>Go speak with him."}
+{"id": 183, "english": "^c3dbffHP Loss"}
+{"id": 184, "english": "^c3dbffBlessing from Treasure Hunting!<CRLF><CRLF>With this state, you can earn up to 5 rewards per day!"}
+{"id": 185, "english": "^c3dbffQuest Accepted<CRLF>^ffffffWuzhangyuan Plains Battle Quest!<CRLF>"}
+{"id": 186, "english": "^c3dbffStamina Recovery Speed Increased<CRLF>Max Stamina Increased"}
+{"id": 187, "english": "^c3dbffAttack and Crit Rate Increased"}
+{"id": 188, "english": "^c3dbffHP Recovery Speed Increased<CRLF>Max HP Increased"}
+{"id": 189, "english": "^c3dbffAid<CRLF>^ffffffReceived Aid"}
+{"id": 190, "english": "^c3dbffCover<CRLF><CRLF>^ffffffYou are taking damage for a teammate"}
+{"id": 191, "english": "^c3dbffCover<CRLF><CRLF>^ffffffA teammate is taking damage for you"}
+{"id": 192, "english": "^c3dbffMoon Grasp<CRLF><CRLF>^ffffffSubsequent skills ignore 5 points of the target's Direct Resistance"}
+{"id": 193, "english": "^c3dbffSea Churn<CRLF><CRLF>^ffffffAbsorbs damage"}
+{"id": 194, "english": "^c3dbffSea Churn<CRLF><CRLF>^ffffffEnter the Sea Churn state.<CRLF>Each time you are attacked, you are Stunned for 1 second."}
+{"id": 195, "english": "^c3dbffSea Churn Stance<CRLF><CRLF>^ffffffNearby targets rapidly lose HP."}
+{"id": 196, "english": "^c3dbffSea Churn Form<CRLF><CRLF>^ffffffTriggers the Sea Churn Form state. You can use the<CRLF>Sea Churn Form II combo within 2 seconds."}
+{"id": 197, "english": "^c3dbffSea Churn Form II<CRLF><CRLF>^ffffffTriggers the Sea Churn Form II state. You can use the<CRLF>Sea Churn Form III combo within 2 seconds."}
+{"id": 198, "english": "^c3dbffSea Churn Formation<CRLF><CRLF>^ffffffAttack Speed and Casting Speed reduced. The effect stacks multiple times,<CRLF>attempting to stop enemies from casting this skill."}
+{"id": 199, "english": "^c3dbffSoul Snatcher<CRLF><CRLF>Constitution reduced"}
+{"id": 200, "english": "^c3dbffCarry the Stone<CRLF><CRLF>^ffffffThe stone is heavy. Move quickly to reach your destination."}
+{"id": 201, "english": "^c3dbffRaise the Flag as a Signal<CRLF><CRLF>^ffffffRaise the flag as a signal!"}
+{"id": 202, "english": "^c3dbffFell from Horse<CRLF><CRLF>^ffffffThrown from your horse"}
+{"id": 203, "english": "^c3dbffRaze Cities and Camps<CRLF><CRLF>^ffffffCompleted the Raze Cities and Camps quest."}
+{"id": 204, "english": "^c3dbffRaze Cities and Camps<CRLF>^ffffffSuccessfully captured an enemy City. Rewards incoming!"}
+{"id": 205, "english": "^c3dbffHeart Crush<CRLF><CRLF>Max HP reduced"}
+{"id": 206, "english": "^c3dbffDestroyed the enemy arrow tower"}
+{"id": 207, "english": "^c3dbffRelease Ring<CRLF><CRLF>^ffffffTriggers the Release Ring state. You can use the<CRLF>Release Ring Whirl combo within 2 seconds."}
+{"id": 208, "english": "^c3dbffRend<CRLF><CRLF>^ffffffContinuously loses HP."}
+{"id": 209, "english": "^c3dbffRend<CRLF><CRLF>^ffffffLoses a set amount of HP per second"}
+{"id": 210, "english": "^c3dbffCloud Slam<CRLF><CRLF>^ffffffWhen hit, gain increased Hit and Damage."}
+{"id": 211, "english": "^c3dbffVolley<CRLF><CRLF>^ffffffIndirect Resistance decreased!"}
+{"id": 212, "english": "^c3dbffDetained<CRLF><CRLF>^ffffffYou have been found! Your movement will be restricted! Struggle is futile!<CRLF>"}
+{"id": 213, "english": "^c3dbffHarvest<CRLF><CRLF>^ffffffFinally caught it."}
+{"id": 214, "english": "^c3dbffBountiful Harvest"}
+{"id": 215, "english": "^c3dbffCollect Gifts<CRLF><CRLF>^ffffffHelp Santa collect as many gifts as possible"}
+{"id": 216, "english": "^c3dbffAttack Slow<CRLF><CRLF>^ffffffAttack slowed."}
+{"id": 217, "english": "^c3dbffAttack Slow<CRLF><CRLF>^ffffffAttack frequency and Casting Speed slowed."}
+{"id": 218, "english": "^c3dbffAttack Power Increased"}
+{"id": 219, "english": "^c3dbffAttack Power Reduced"}
+{"id": 220, "english": "^c3dbffAttack Speed Up<CRLF>"}
+{"id": 221, "english": "^c3dbffAttack Increased<CRLF><CRLF>"}
+{"id": 222, "english": "^c3dbffAttack Power and Crit Increased"}
+{"id": 223, "english": "^c3dbffAttack Power Increased"}
+{"id": 224, "english": "^c3dbffAttack Power Reduced"}
+{"id": 225, "english": "^c3dbffAttack Increased"}
+{"id": 226, "english": "^c3dbffAttack Points Increased"}
+{"id": 227, "english": "^c3dbffAttack Points Increased<CRLF>"}
+{"id": 228, "english": "^c3dbffAttack Speed Reduced"}
+{"id": 229, "english": "^c3dbffAttack Reduced"}
+{"id": 230, "english": "^c3dbffAttack Reduced<CRLF><CRLF>^ffffffHurry to the Taiji Yin-Yang Eye to remove this effect."}
+{"id": 231, "english": "^c3dbffSiege Warrior: The brave prevail before two armies! Slightly stronger forces cannot stop an unyielding will!"}
+{"id": 232, "english": "^c3dbffSiege Mode"}
+{"id": 233, "english": "^c3dbffAttack Power Up<CRLF>"}
+{"id": 234, "english": "^c3dbffTen-Thousand Foe<CRLF><CRLF>^ffffffHitting or being hit can trigger the Conquer Foe state."}
+{"id": 235, "english": "^c3dbffTen-Thousand Foe<CRLF><CRLF>^ffffffPierce Points increased"}
+{"id": 236, "english": "^c3dbffAcumen<CRLF><CRLF>^ffffffThe Insight Mastery effect takes effect after 10 seconds."}
+{"id": 237, "english": "^c3dbffRescue Response<CRLF><CRLF>^ffffffRestores HP"}
+{"id": 238, "english": "^c3dbffSave the Loyal<CRLF><CRLF>^ffffffSuccessfully rescued Old General Huang."}
+{"id": 239, "english": "^c3dbffRescue Aid<CRLF><CRLF>^ffffffWound Resistance increased"}
+{"id": 240, "english": "^c3dbffRescue Aid<CRLF><CRLF>^ffffffContinuously restores HP"}
+{"id": 241, "english": "^c3dbffTreatment Successful<CRLF><CRLF>^ffffffSuccessfully treated a plague-infected person."}
+{"id": 242, "english": "^c3dbffWings Folded<CRLF><CRLF>^ffffffSubsequent skills have a chance to instantly kill low-HP players"}
+{"id": 243, "english": "^c3dbffFighting Spirit<CRLF><CRLF>^ffffffSubsequent martial skills restore Battle Qi"}
+{"id": 244, "english": "^c3dbffShield of Battle Qi<CRLF><CRLF>^ffffffEach point of Battle Qi blocks 5 points of damage"}
+{"id": 245, "english": "^c3dbffMax Battle Qi Increased"}
+{"id": 246, "english": "^c3dbffMax Battle Qi Reduced"}
+{"id": 247, "english": "^c3dbffMax Battle Qi Reduced<CRLF>"}
+{"id": 248, "english": "^c3dbffBattle Qi Aura<CRLF><CRLF>^ffffffIncreases Battle Qi."}
+{"id": 249, "english": "^c3dbffBattle Qi Recovery Speed Reduced"}
+{"id": 250, "english": "^c3dbffBattle Qi Shield<CRLF><CRLF>^ffffffAbsorbs damage."}
+{"id": 251, "english": "^c3dbffBattle Qi Maintenance<CRLF><CRLF>Outside of combat, Battle Qi decays more slowly."}
+{"id": 252, "english": "^c3dbffBattle Break<CRLF><CRLF>^ffffffContinuously restores Battle Qi."}
+{"id": 253, "english": "^c3dbffAxe Spirit Possession<CRLF><CRLF>^ffffffCan block a large amount of damage"}

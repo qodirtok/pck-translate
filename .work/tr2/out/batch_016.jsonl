@@ -1,0 +1,434 @@
+{"id": 1, "english": "^ffcc00Level %d/2^ffffff - Damage increased by %d%%,<CRLF>%d%% chance to fire 1 extra Wind Bolt, %d%% chance to fire 2 extra Wind Bolts.<CRLF>Increases the %d%% chance for Wind Bolt to deal Splash damage."}
+{"id": 2, "english": "^ffcc00Level %d/2^ffffff - When using Cleave Smash, the wind-up time is reduced by “Current Combo Count × %.1f” seconds."}
+{"id": 3, "english": "^ffcc00Level %d/2^ffffff - Deals %d%%, %d%% and %d%% damage that Ignores Defense in turn."}
+{"id": 4, "english": "^ffcc00Level %d/2^ffffff - Cool-down time is %d seconds."}
+{"id": 5, "english": "^ffcc00Level %d/2^ffffff - Cool-down time reduced by %.1f seconds,"}
+{"id": 6, "english": "^ffcc00Level %d/2^ffffff - Cool-down time reduced by %d seconds."}
+{"id": 7, "english": "^ffcc00Level %d/2^ffffff - Preparation time reduced by %.1f seconds"}
+{"id": 8, "english": "^ffcc00Level %d/2^ffffff - Slows by 2 m/s for 4 seconds.<CRLF>Attacks from behind always Slow; attacks from the front have a %d%% chance to Slow."}
+{"id": 9, "english": "^ffcc00Level %d/2^ffffff - Slow effect increased by %.1f m/s.<CRLF>%d%% chance to reset your own Cool-down time.<CRLF>Increases the %d%% chance for Fire Seed to deal Splash damage."}
+{"id": 10, "english": "^ffcc00Level %d/2^ffffff - Slow duration increased by %.1f seconds<CRLF>Max Slow effect increased by %.1f m/s.<CRLF>%d%% chance to directly Immobilize the enemy."}
+{"id": 11, "english": "^ffcc00Level %d/2^ffffff - Focused Spirit Arrow base Damage increased by %d%%."}
+{"id": 12, "english": "^ffcc00Level %d/2^ffffff - Wind-up time reduced by %.1f seconds,<CRLF>and further reduced by %.1f seconds while in the Slash Will state."}
+{"id": 13, "english": "^ffcc00Level %d/2^ffffff - Slash Wound chance increased by %d%%."}
+{"id": 14, "english": "^ffcc00Level %d/2^ffffff - Slash Wound chance increased by %d%%."}
+{"id": 15, "english": "^ffcc00Level %d/2^ffffff - Crescent Moon Arrow Stun duration increased by %.1f seconds"}
+{"id": 16, "english": "^ffcc00Level %d/2^ffffff - Gain %d Battle Qi per second, lasting 3 ticks,<CRLF>each Store Power stack adds %.1f seconds to the knockdown time caused by Full Moon Slash."}
+{"id": 17, "english": "^ffcc00Level %d/2^ffffff - Can attack %d additional enemies."}
+{"id": 18, "english": "^ffcc00Level %d/2^ffffff - Can attack %d additional times, base Attack Power increased by %d%%, max number of enemies attacked increased by %d."}
+{"id": 19, "english": "^ffcc00Level %d/2^ffffff - Can ignore %d points of the target's Direct Resistance."}
+{"id": 20, "english": "^ffcc00Level %d/2^ffffff - Hit increased by %d."}
+{"id": 21, "english": "^ffcc00Level %d/2^ffffff - Devour Blood Cool-down time reduced by %d seconds."}
+{"id": 22, "english": "^ffcc00Level %d/2^ffffff - Damage dealt by Four Directions Slaughter to targets increases successively by %d%%."}
+{"id": 23, "english": "^ffcc00Level %d/2^ffffff - Base Damage increased by %d%%."}
+{"id": 24, "english": "^ffcc00Level %d/2^ffffff - Immobilize for %d seconds"}
+{"id": 25, "english": "^ffcc00Level %d/2^ffffff - Deals damage that Ignores Defense equal to %d%% of your own Max Attack Power to airborne targets."}
+{"id": 26, "english": "^ffcc00Level %d/2^ffffff - Deals %d%% base Damage to the target."}
+{"id": 27, "english": "^ffcc00Level %d/2^ffffff - In the Moon Seal state, the target loses %d%% of Max Attack Power as HP every second."}
+{"id": 28, "english": "^ffcc00Level %d/2^ffffff - Stun extended by %d seconds."}
+{"id": 29, "english": "^ffcc00Level %d/2^ffffff - Ambush Hold duration increased by %d seconds."}
+{"id": 30, "english": "^ffcc00Level %d/2^ffffff - When breaking the enemy's Block state, deals extra<CRLF>damage that Ignores Defense equal to %d%% of Max Attack Power."}
+{"id": 31, "english": "^ffcc00Level %d/2^ffffff - Distract chance increased by %d%%."}
+{"id": 32, "english": "^ffcc00Level %d/2^ffffff - Skill Cool-down time reduced by %.1f seconds,<CRLF>and %d%% of the Battle Qi spent is recovered after using Mooncleave Slash."}
+{"id": 33, "english": "^ffcc00Level %d/2^ffffff - Skill Crit increased by %d%%."}
+{"id": 34, "english": "^ffcc00Level %d/2^ffffff - Move Damage increased by %d%%."}
+{"id": 35, "english": "^ffcc00Level %d/2^ffffff - Move Damage increased by %d%%, Hit chance increased by %d%%."}
+{"id": 36, "english": "^ffcc00Level %d/2^ffffff - Lasts %d seconds."}
+{"id": 37, "english": "^ffcc00Level %d/2^ffffff - Damage increased by %d%%."}
+{"id": 38, "english": "^ffcc00Level %d/2^ffffff - Base Damage increased by %d%%."}
+{"id": 39, "english": "^ffcc00Level %d/2^ffffff - Crit Damage increased by %d%%"}
+{"id": 40, "english": "^ffcc00Level %d/2^ffffff - Attacks 3 enemies, dealing %d%% base Damage."}
+{"id": 41, "english": "^ffcc00Level %d/2^ffffff - Max number of enemies attacked increased by %d."}
+{"id": 42, "english": "^ffcc00Level %d/2^ffffff - Effect lasts %d seconds."}
+{"id": 43, "english": "^ffcc00Level %d/2^ffffff - Battle Qi reduced by %d;<CRLF>%d%% chance to Stun the target."}
+{"id": 44, "english": "^ffcc00Level %d/2^ffffff - Crit Resistance increased by %d points."}
+{"id": 45, "english": "^ffcc00Level %d/2^ffffff - Stacks up to %d times,<CRLF>when fully stacked, Cool-down time is reduced by %d seconds and wind-up time by %.1f seconds"}
+{"id": 46, "english": "^ffcc00Level %d/2^ffffff - Stacks up to %d times,<CRLF>when fully stacked, recovers %d Battle Qi"}
+{"id": 47, "english": "^ffcc00Level %d/2^ffffff - Stacks up to %d times,<CRLF>when fully stacked, adds %d Crit"}
+{"id": 48, "english": "^ffcc00Level %d/2^ffffff - Stacks up to %d times,<CRLF>when fully stacked, adds %d Hit"}
+{"id": 49, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to Immobilize the target for 3 seconds"}
+{"id": 50, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to Stun the target."}
+{"id": 51, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to put the target into the Paralyze state."}
+{"id": 52, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to reduce the target's Defense by %d%%."}
+{"id": 53, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to further increase Heartseeker Thrust's Crit Damage<CRLF>by 100%%"}
+{"id": 54, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to break the enemy's Block state."}
+{"id": 55, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to ignore the target's resistance effects"}
+{"id": 56, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to gain the Soulrend state."}
+{"id": 57, "english": "^ffcc00Level %d/2^ffffff - %d%% chance of Defense Break."}
+{"id": 58, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to gain the Heavenly Thunder Curse state."}
+{"id": 59, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to cause the Burning effect."}
+{"id": 60, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to break the Block state"}
+{"id": 61, "english": "^ffcc00Level %d/2^ffffff - Being attacked while Blocking has a %d%%<CRLF>chance to consume 5 Stamina and gain 5 Battle Qi."}
+{"id": 62, "english": "^ffcc00Level %d/2^ffffff - Each Shield Counter point reduces the Cool-down time of Savage Charge by %.1f seconds."}
+{"id": 63, "english": "^ffcc00Level %d/2^ffffff - Each “Piercing” stack reduces Indirect Resistance by %d points."}
+{"id": 64, "english": "^ffcc00Level %d/2^ffffff - Each stack reduces preparation time by %.1f seconds."}
+{"id": 65, "english": "^ffcc00Level %d/2^ffffff - Each Aiming stack adds %d points of Hit."}
+{"id": 66, "english": "^ffcc00Level %d/2^ffffff - Each stack of the Lash state deals %d%% Damage."}
+{"id": 67, "english": "^ffcc00Level %d/2^ffffff - Each consecutive hit increases Damage by %d%%."}
+{"id": 68, "english": "^ffcc00Level %d/2^ffffff - Each hit's Damage increased by %d%%."}
+{"id": 69, "english": "^ffcc00Level %d/2^ffffff - Each hit deals %d%% base Damage."}
+{"id": 70, "english": "^ffcc00Level %d/2^ffffff - Each point of Combo adds %d Crit.<CRLF>Using Wind Chase 2 times in a row raises the chance of triggering Combo Mode by %d%%, and its duration is extended by %d seconds."}
+{"id": 71, "english": "^ffcc00Level %d/2^ffffff - Each consecutive hit increases Spear skill Damage by %d%%."}
+{"id": 72, "english": "^ffcc00Level %d/2^ffffff - Each consecutive hit increases Damage by %d points."}
+{"id": 73, "english": "^ffcc00Level %d/2^ffffff - Meteor Bolt Crit chance increased by %d%%."}
+{"id": 74, "english": "^ffcc00Level %d/2^ffffff - Meteor Bolt has a %d%% chance to put the target into the Arrow Wound state."}
+{"id": 75, "english": "^ffcc00Level %d/2^ffffff - Bleed effect increased by %d%%, up to %d%%"}
+{"id": 76, "english": "^ffcc00Level %d/2^ffffff - Splash chance increased by %d%%."}
+{"id": 77, "english": "^ffcc00Level %d/2^ffffff - Frenzy effect duration increased by %d seconds."}
+{"id": 78, "english": "^ffcc00Level %d/2^ffffff - HP Recovery increased by %d%%."}
+{"id": 79, "english": "^ffcc00Level %d/2^ffffff - Each hit of Gale Crossbow has a %d%% chance to inflict Arrow Wound on the target."}
+{"id": 80, "english": "^ffcc00Level %d/2^ffffff - Gale Crossbow's extra hits recover %d Battle Qi."}
+{"id": 81, "english": "^ffcc00Level %d/2^ffffff - Shield Rush has a %d%% chance<CRLF>to interrupt the enemy's move preparation, inflicting a 3-second Move Break."}
+{"id": 82, "english": "^ffcc00Level %d/2^ffffff - Stuns the enemy for %d seconds."}
+{"id": 83, "english": "^ffcc00Level %d/2^ffffff - Cloud Break Slash adds damage that Ignores Defense equal to %d%% of 1000 + the target's Defense."}
+{"id": 84, "english": "^ffcc00Level %d/2^ffffff - Movement Speed increased by %.1f m/s."}
+{"id": 85, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to trigger a 10-second Domineering Aura effect after Assault;<CRLF>%d%% chance to trigger a 10-second Domineering Aura effect after Whirl Swing."}
+{"id": 86, "english": "^ffcc00Level %d/2^ffffff - Raid Cool-down reduced by %.1f seconds.<CRLF>%d%% chance to trigger a 15-second Combo Mode after Raid;<CRLF>Attack Speed increased to %.1f%% after Raid.<CRLF>Attack Speed increased to %.1f%% after Wind Chase."}
+{"id": 87, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to trigger a 15-second Backstrike effect after Raid."}
+{"id": 88, "english": "^ffcc00Level %d/2^ffffff - The first hit deals %d%% Damage,<CRLF>the second hit deals %d%% Damage."}
+{"id": 89, "english": "^ffcc00Level %d/2^ffffff - The first hit deals %d%% base Damage,<CRLF>the second hit deals %d%% base Damage,<CRLF>the third hit deals %d%% base Damage,<CRLF>the fourth hit deals %d%% base Damage."}
+{"id": 90, "english": "^ffcc00Level %d/2^ffffff - Thunder-Calling Hook Cool-down time reduced by %d seconds,<CRLF>Hundred Poisons Marrow by %d seconds,<CRLF>Wu Hong Hu Ji by %d seconds"}
+{"id": 91, "english": "^ffcc00Level %d/2^ffffff - Number of times Qi Gathering absorbs damage increased by %d."}
+{"id": 92, "english": "^ffcc00Level %d/2^ffffff - own Movement Speed increased by %.1f m/s"}
+{"id": 93, "english": "^ffcc00Level %d/2^ffffff - Cripple chance increased by %d%%."}
+{"id": 94, "english": "^ffcc00Level %d/2^ffffff - Gain a %d%% combat HP Recovery effect.<CRLF>Each hit's duration reduced by %.1f seconds"}
+{"id": 95, "english": "^ffcc00Level %d/2^ffffff - Falling Wind Shift Cool-down time reduced by %d seconds."}
+{"id": 96, "english": "^ffcc00Level %d/2^ffffff - Store Power effect increased by %d%%, with a %d%% chance of not being interrupted while charging,<CRLF>and own Damage Resistance while using Store Power increased by %d."}
+{"id": 97, "english": "^ffcc00Level %d/2^ffffff - Weakened chance is %d%%."}
+{"id": 98, "english": "^ffcc00Level %d/2^ffffff - When attacked, the next attack gains %d Crit,<CRLF>Level 1 can withstand %d%% of the damage from 2 attacks,<CRLF>Level 2 can withstand %d%% of the damage from 3 attacks."}
+{"id": 99, "english": "^ffcc00Level %d/2^ffffff - Moon Rend Slash deals up to %d%% of the target's Max HP as damage that Ignores Defense."}
+{"id": 100, "english": "^ffcc00Level %d/2^ffffff - Moon Rend Slash has a %d%% chance to Slow the target."}
+{"id": 101, "english": "^ffcc00Level %d/2^ffffff - Frontal Cleave has a %d%% chance to Intimidate the target;<CRLF>each Slash Will stack grants Half-Moon Cleave a %.1f-second Silence effect."}
+{"id": 102, "english": "^ffcc00Level %d/2^ffffff - Each stack of Consecutive Hits adds %d Crit"}
+{"id": 103, "english": "^ffcc00Level %d/2^ffffff - Lucid state duration extended by %d seconds."}
+{"id": 104, "english": "^ffcc00Level %d/2^ffffff - Swift Blow has a %d%% chance<CRLF>to interrupt the enemy's move preparation, inflicting a 3-second Move Break."}
+{"id": 105, "english": "^ffcc00Level %d/2^ffffff - Swift Attack has a %d%% chance to interrupt the enemy's wind-up."}
+{"id": 106, "english": "^ffcc00Level %d/2^ffffff - Deals %d%% base Damage."}
+{"id": 107, "english": "^ffcc00Level %d/2^ffffff - Deals %d%% base Damage,<CRLF>and reduces the target's Indirect Resistance by %d points."}
+{"id": 108, "english": "^ffcc00Level %d/2^ffffff - Deals damage that Ignores Defense equal to %d%% of Max Attack Power"}
+{"id": 109, "english": "^ffcc00Level %d/2^ffffff - Enemy Attack Intensity reduced by %d%%."}
+{"id": 110, "english": "^ffcc00Level %d/2^ffffff - Shock Wound chance increased by %d%%."}
+{"id": 111, "english": "^ffcc00Level %d/2^ffffff - Attack Power further reduced by %d%%."}
+{"id": 112, "english": "^ffcc00Level %d/2^ffffff - Defense further reduced by %d%%."}
+{"id": 113, "english": "^ffcc00Level %d/2^ffffff - Deals extra<CRLF>damage that Ignores Defense equal to (Combo Points * %d)%% of your own Defense."}
+{"id": 114, "english": "^ffcc00Level %d/2^ffffff - Damage dealt by Whistling Arrow increased by %d%%."}
+{"id": 115, "english": "^ffcc00Level %d/2^ffffff -Stormcloud Crossbow base Damage increased by %d%%."}
+{"id": 116, "english": "^ffcc00Level %d/2^ffffff -In the Shadow Rend state, the target's Attack Speed is reduced by %d%%,<CRLF>and Attack Intensity by %d%%."}
+{"id": 117, "english": "^ffcc00Level %d/3^ffffff<CRLF>Wisdom King state lasts %d seconds,<CRLF>each stack of the Focus effect increases HP Recovery Speed by “%d × Coefficient” points.<CRLF>(The Coefficient depends on character level)"}
+{"id": 118, "english": "^ffcc00Level %d/3^ffffff - %d%% base Damage, unable to attack or use skills for %d seconds."}
+{"id": 119, "english": "^ffcc00Level %d/3^ffffff - %d%% base Damage, unable to attack or use skills for %d seconds.<CRLF>^00FFFFSkill Modifications:<CRLF><CRLF>^00FF40Cost +30 Stamina<CRLF>Cost +15 Battle Qi<CRLF>^FFFF00Deals an extra 200%% base Damage to enemies"}
+{"id": 120, "english": "^ffcc00Level %d/3^ffffff - %d%% chance to break the enemy's Block state."}
+{"id": 121, "english": "^ffcc00Level %d/3^ffffff - 150%% base Damage, Stuns the enemy for %d seconds."}
+{"id": 122, "english": "^ffcc00Level %d/3^ffffff - Restores HP equal to %d%% of the target's total lost HP"}
+{"id": 123, "english": "^ffcc00Level %d/3^ffffff - Damage equals %d%% of your own Attack Power * (%d - the target's Movement Speed), capped at %d"}
+{"id": 124, "english": "^ffcc00Level %d/3^ffffff - Damage increased by %d%%."}
+{"id": 125, "english": "^ffcc00Level %d/3^ffffff - Damage increased by %d%%,<CRLF>Crit Rate under Thunder Armor Art increased by %d."}
+{"id": 126, "english": "^ffcc00Level %d/3^ffffff - Focused Spirit Arrow has a %d%% chance to put the target into the Arrow Wound state."}
+{"id": 127, "english": "^ffcc00Level %d/3^ffffff - Pierce points increased by %d."}
+{"id": 128, "english": "^ffcc00Level %d/3^ffffff - Slash Wound chance increased to %d%%."}
+{"id": 129, "english": "^ffcc00Level %d/3^ffffff - Acceleration effect duration extended by %d seconds."}
+{"id": 130, "english": "^ffcc00Level %d/3^ffffff - Acceleration effect increased to %.1f m/s."}
+{"id": 131, "english": "^ffcc00Level %d/3^ffffff - %d%% chance to put the target into the Frostbite state when attacked"}
+{"id": 132, "english": "^ffcc00Level %d/3^ffffff - %d%% chance to put the target into the Wind Assault state when attacked"}
+{"id": 133, "english": "^ffcc00Level %d/3^ffffff - Can hit %d additional enemies."}
+{"id": 134, "english": "^ffcc00Level %d/3^ffffff - Devour Blood Attack Power further increased by %d%%."}
+{"id": 135, "english": "^ffcc00Level %d/3^ffffff - Base Damage increased by %d%%."}
+{"id": 136, "english": "^ffcc00Level %d/3^ffffff - Duration increased by %d seconds."}
+{"id": 137, "english": "^ffcc00Level %d/3^ffffff - Increases the duration of the Crit Resistance reduction by<CRLF>%d seconds. %d%% chance to put the target into the Throat Seal state."}
+{"id": 138, "english": "^ffcc00Level %d/3^ffffff - Deals<CRLF>damage that Ignores Defense equal to %d%% of your own Max Attack Power to targets in the Paralyze state"}
+{"id": 139, "english": "^ffcc00Level %d/3^ffffff - Deals %d%% base Damage to the target."}
+{"id": 140, "english": "^ffcc00Level %d/3^ffffff - Deals 80%% base Damage to the target,<CRLF>costs %d Battle Qi and Immobilizes the enemy for %d seconds,<CRLF>%d%% chance to chain into a Windride Thrust Crit."}
+{"id": 141, "english": "^ffcc00Level %d/3^ffffff - Deals damage equal to %d%% of your own Max Attack Power to enemies attacking at close range."}
+{"id": 142, "english": "^ffcc00Level %d/3^ffffff - Duration extended by %d seconds."}
+{"id": 143, "english": "^ffcc00Level %d/3^ffffff - When interrupting an enemy's wind-up,<CRLF>the enemy cannot use this category of Move for %d seconds."}
+{"id": 144, "english": "^ffcc00Level %d/3^ffffff - Chance to inflict “Wound” increased by %d%%"}
+{"id": 145, "english": "^ffcc00Level %d/3^ffffff - When interrupting an enemy's wind-up, seals the enemy's Move for %.1f seconds."}
+{"id": 146, "english": "^ffcc00Level %d/3^ffffff - When breaking the enemy's Block state, deals extra<CRLF>damage that Ignores Defense equal to %d%% of Max Attack Power."}
+{"id": 147, "english": "^ffcc00Level %d/3^ffffff - In the Demoralize state, the target loses %d Battle Qi per second."}
+{"id": 148, "english": "^ffcc00Level %d/3^ffffff - Control skill success rate increased by %d%%."}
+{"id": 149, "english": "^ffcc00Level %d/3^ffffff - Damage increased by %d%%."}
+{"id": 150, "english": "^ffcc00Level %d/3^ffffff - Increases the %d%% continuous HP Recovery effect.<CRLF>Instant HP Recovery in the Strategize state is increased by %d%%."}
+{"id": 151, "english": "^ffcc00Level %d/3^ffffff - Crit chance increased by %d%%."}
+{"id": 152, "english": "^ffcc00Level %d/3^ffffff - Max number of enemies attacked increased by %d."}
+{"id": 153, "english": "^ffcc00Level %d/3^ffffff - Number of enemies attacked increased by %d%%."}
+{"id": 154, "english": "^ffcc00Level %d/3^ffffff - Attacks have a %d%% chance to interrupt enemy wind-ups."}
+{"id": 155, "english": "^ffcc00Level %d/3^ffffff - Attack Speed increased by %d%%."}
+{"id": 156, "english": "^ffcc00Level %d/3^ffffff - Attack Speed increased to %d%%."}
+{"id": 157, "english": "^ffcc00Level %d/3^ffffff - Damage that Ignores Defense increased by %d%%."}
+{"id": 158, "english": "^ffcc00Level %d/3^ffffff - Crit Damage increased by %d%%."}
+{"id": 159, "english": "^ffcc00Level %d/3^ffffff - Crit Damage increased by %d%%, Indirect and Magic Resistance increased by %d points."}
+{"id": 160, "english": "^ffcc00Level %d/3^ffffff - Crit increased by %d points."}
+{"id": 161, "english": "^ffcc00Level %d/3^ffffff - %d%% chance to inflict Shot Wound on the enemy."}
+{"id": 162, "english": "^ffcc00Level %d/3^ffffff - %d%% chance to gain the Power of Seal."}
+{"id": 163, "english": "^ffcc00Level %d/3^ffffff - %d%% chance to gain the Soulrend state."}
+{"id": 164, "english": "^ffcc00Level %d/3^ffffff - %d%% chance to gain the Thunder Gale state."}
+{"id": 165, "english": "^ffcc00Level %d/3^ffffff - %d%% chance to gain the Moon-Breaking state."}
+{"id": 166, "english": "^ffcc00Level %d/3^ffffff - %d%% chance to dispel Slow and Immobilize"}
+{"id": 167, "english": "^ffcc00Level %d/3^ffffff - During the airborne time caused by Lingering Dream Lift, target Defense is reduced by %d%%."}
+{"id": 168, "english": "^ffcc00Level %d/3^ffffff - Each point of Mastery adds one extra Gale Crossbow hit,<CRLF>dealing 60%% base Damage."}
+{"id": 169, "english": "^ffcc00Level %d/3^ffffff - Damage per arrow increased by %d%%."}
+{"id": 170, "english": "^ffcc00Level %d/3^ffffff - Meteor Bolt base Damage increased by %d%%."}
+{"id": 171, "english": "^ffcc00Level %d/3^ffffff - State duration increased by %d seconds."}
+{"id": 172, "english": "^ffcc00Level %d/3^ffffff - Target's Attack Intensity reduced by %d%%"}
+{"id": 173, "english": "^ffcc00Level %d/3^ffffff - Target Stunned for %.1f seconds."}
+{"id": 174, "english": "^ffcc00Level %d/3^ffffff - Cloud Break Slash Crit chance increased by %d%%."}
+{"id": 175, "english": "^ffcc00Level %d/3^ffffff - Move Break lasts %.1f seconds."}
+{"id": 176, "english": "^ffcc00Level %d/3^ffffff - Movement Speed increased by %.1f m/s."}
+{"id": 177, "english": "^ffcc00Level %d/3^ffffff - Gut-Piercer Claw: %d%% chance<CRLF>Neck-Piercer Talon: %d%% chance<CRLF>Heart-Breaker Claw: %d%% chance<CRLF>Claw Darting Dance: %d%% chance"}
+{"id": 178, "english": "^ffcc00Level %d/3^ffffff - Advancing Bolt base Damage increased by %d%%."}
+{"id": 179, "english": "^ffcc00Level %d/3^ffffff - Advancing Bolt has a %d%% chance to put the target into the Arrow Wound state."}
+{"id": 180, "english": "^ffcc00Level %d/3^ffffff - Arrow Wound chance increased by %d%%."}
+{"id": 181, "english": "^ffcc00Level %d/3^ffffff - Beauty Cool-down time reduced by %d seconds."}
+{"id": 182, "english": "^ffcc00Level %d/3^ffffff - Attacks launched from behind have a %d%% chance to Stun the target"}
+{"id": 183, "english": "^ffcc00Level %d/3^ffffff - Max number of enemies attacked by Falling Goose Sweep increased by %d,<CRLF>and it has a %d%% chance to reduce the target's Attack Speed."}
+{"id": 184, "english": "^ffcc00Level %d/3^ffffff - Deals damage that Ignores Defense equal to %d%% * the target's Max Attack Power"}
+{"id": 185, "english": "^ffcc00Level %d/3^ffffff - Deals %d%% base Damage."}
+{"id": 186, "english": "^ffcc00Level %d/3^ffffff - Base Damage dealt increased by %d%%."}
+{"id": 187, "english": "^ffcc00Level %d/3^ffffff - Silver Snake Bind has a %d%% chance to cost no Battle Qi."}
+{"id": 188, "english": "^ffcc00Level %d/3^ffffff - Dodge increased by %d%%, Crit Resistance increased by %d%%."}
+{"id": 189, "english": "^ffcc00Level %d/3^ffffff - Whip Block state lasts %d seconds."}
+{"id": 190, "english": "^ffcc00Level %d/3^ffffff - Extra %.1f m/s of Movement Speed."}
+{"id": 191, "english": "^ffcc00Level %d/3^ffffff - Extra %d%% HP Recovery."}
+{"id": 192, "english": "^ffcc00Level %d/3^ffffff - Extra %d seconds of duration."}
+{"id": 193, "english": "^ffcc00Level %d/3^ffffff - Duration extended by an extra %d seconds."}
+{"id": 194, "english": "^ffcc00Level %d/3^ffffff - Effect increased by %d%%."}
+{"id": 195, "english": "^ffcc00Level %d/3^ffffff - Adds %d%% Damage."}
+{"id": 196, "english": "^ffcc00Level %d/3^ffffff - Flying Coil Crit chance increased by %d%%."}
+{"id": 197, "english": "^ffcc00Level %d/3^ffffff -damage that Ignores Defense received while being healed is: %d%% of Max HP"}
+{"id": 198, "english": "^ffcc00Level %d/3^ffffff -%d%% chance to Stun the target for 3 seconds"}
+{"id": 199, "english": "^ffcc00Level %d/3^ffffff -%d%% chance to Silence the target for 2 extra seconds"}
+{"id": 200, "english": "^ffcc00Level %d/3^ffffff- Elai Mark duration extended by %d seconds."}
+{"id": 201, "english": "^ffcc00Level %d/4^ffffff <CRLF>Battle Tattoo: damage that Ignores Defense has a %d%% chance to be doubled<CRLF>Bedrock Tattoo: during Disarm, the target's Attack is reduced by %d and Hit by %d<CRLF>Gale Tattoo: %d%% chance to reduce the target's Movement Speed by 1.5 m/s for 3 seconds;<CRLF>Boiling Blood Tattoo: %d%% chance to reduce the target's Bleed Resistance by 20 for 8 seconds"}
+{"id": 202, "english": "^ffcc00Level %d/4^ffffff - <CRLF>Battle Tattoo: each Hate Point adds %d%% to success chance<CRLF>Bedrock Tattoo: each Hate Point reduces the target's Hit by %d<CRLF>Gale Tattoo: each Hate Point additionally reduces the target's Movement Speed by %.1f m/s<CRLF>Boiling Blood Tattoo: each Hate Point adds %.1f%% to the Bleed percentage"}
+{"id": 203, "english": "^ffcc00Level %d/4^ffffff - Restores %d%% of the current Combo count<CRLF>times 5 in Battle Qi."}
+{"id": 204, "english": "^ffcc00Level %d/4^ffffff - Cool-down time reduced by %d seconds, base Damage<CRLF>increased by %d%%, and bonus damage under Freeze increased by %d%%.<CRLF>Crit Rate increased by %d%% while under the effect of Ice Ward Art."}
+{"id": 205, "english": "^ffcc00Level %d/4^ffffff - Chance is %d%%."}
+{"id": 206, "english": "^ffcc00Level %d/4^ffffff - The Move has a %d%% chance<CRLF>to Stun the enemy for one extra second."}
+{"id": 207, "english": "^ffcc00Level %d/4^ffffff - Crit Rate increased by %d.<CRLF>Movement Speed increased by %.1f m/s."}
+{"id": 208, "english": "^ffcc00Level %d/4^ffffff - Hu Pierce has a %d%% chance to trigger the Confusion effect."}
+{"id": 209, "english": "^ffcc00Level %d/4^ffffff - Deals %d%% Damage."}
+{"id": 210, "english": "^ffcc00Level %d/4^ffffff - Chance to inflict Arrow Wound increased by %d%%."}
+{"id": 211, "english": "^ffcc00Level %d/4^ffffff - Extra %d%% Max HP."}
+{"id": 212, "english": "^ffcc00Level %d/5 ^ffffff - Cool-down time of the Shadow-Striking Claw move reduced by %d seconds."}
+{"id": 213, "english": "^ffcc00Level %d/5^ffffff -  Each point of extra Battle Qi increases base Damage by %.1f%%."}
+{"id": 214, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to Immobilize the enemy.<CRLF>%d%% chance to enter the Fire-Baptized state when Fire Armor Art is active,<CRLF>and Skill Damage increased by %d%%."}
+{"id": 215, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to increase melee and ranged damage Resistance by 5 points."}
+{"id": 216, "english": "^ffcc00Level %d/5^ffffff - %d%% chance of Weakened."}
+{"id": 217, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to interrupt the opponent's wind-up."}
+{"id": 218, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to keep Battle Tactic points."}
+{"id": 219, "english": "^ffcc00Level %d/5^ffffff - Stormcloud Crossbow has a %d%% chance to put the target into the Arrow Wound state."}
+{"id": 220, "english": "^ffcc00Level %d/5^ffffff - Chaotic Ring Form has a %d%% chance to put the target into the Confusion state."}
+{"id": 221, "english": "^ffcc00Level %d/5^ffffff - Wild Dance point duration increased to %d seconds."}
+{"id": 222, "english": "^ffcc00Level %d/5^ffffff - Max number of targets damaged increased by %d."}
+{"id": 223, "english": "^ffcc00Level %d/5^ffffff - Damage increased by %d%%."}
+{"id": 224, "english": "^ffcc00Level %d/5^ffffff - Damage Resistance increased by %d%%."}
+{"id": 225, "english": "^ffcc00Level %d/5^ffffff - Damage increased by %d%%."}
+{"id": 226, "english": "^ffcc00Level %d/5^ffffff - Damage increased by %d%%.<CRLF>Max number of targets damaged increased by %d."}
+{"id": 227, "english": "^ffcc00Level %d/5^ffffff - Damage increased by %d%%.<CRLF>Crit Rate for Skills under Thunder Armor Art increased by %d points.<CRLF>Increases the %d%% chance for Thunderclap Art to deal Splash damage."}
+{"id": 228, "english": "^ffcc00Level %d/5^ffffff - Damage increased by %d%%, %d%% chance to Immobilize."}
+{"id": 229, "english": "^ffcc00Level %d/5^ffffff - Overall Damage increased by %d%%."}
+{"id": 230, "english": "^ffcc00Level %d/5^ffffff - HP restored by moves increased by %d%%."}
+{"id": 231, "english": "^ffcc00Level %d/5^ffffff - Using Strike First has a %d%% chance to Immobilize the target."}
+{"id": 232, "english": "^ffcc00Level %d/5^ffffff - Using Sea-Stirring Stance has a %d%% chance to Slow the target."}
+{"id": 233, "english": "^ffcc00Level %d/5^ffffff - Using Mixed Ring Stance has a %d%% chance to Stun the target for 1 extra second."}
+{"id": 234, "english": "^ffcc00Level %d/5^ffffff - Crit Rate increased by %d when attacking with Fierce Thrust moves."}
+{"id": 235, "english": "^ffcc00Level %d/5^ffffff - Using Assault has a %d%% chance to gain the Ambush Hold effect,<CRLF>using Sweep has a %d%% chance to gain the Ambush Hold effect."}
+{"id": 236, "english": "^ffcc00Level %d/5^ffffff - Use interval reduced by %d seconds."}
+{"id": 237, "english": "^ffcc00Level %d/5^ffffff - Use interval reduced by %d seconds,<CRLF>this move's Crit increased by %d points,<CRLF>Crit Resistance reduction under Launch increased by %d%%."}
+{"id": 238, "english": "^ffcc00Level %d/5^ffffff - Using Flying Ring Move has a %d%% chance to enter the “Stillness” state."}
+{"id": 239, "english": "^ffcc00Level %d/5^ffffff - Keeps %d seconds of Battle Qi from draining."}
+{"id": 240, "english": "^ffcc00Level %d/5^ffffff - After Strike First, %d%% chance to trigger a 15-second Combo Mode;<CRLF>after Straight Rush, %d%% chance to trigger a 10-second Combo Mode."}
+{"id": 241, "english": "^ffcc00Level %d/5^ffffff - Base Damage of Strike First increased by %d%%."}
+{"id": 242, "english": "^ffcc00Level %d/5^ffffff - Deals %d%% base Damage in total"}
+{"id": 243, "english": "^ffcc00Level %d/5^ffffff - Cool-down time reduced by %.1f seconds.<CRLF>Crit Rate for Skills under Thunder Armor Art increased by %d.<CRLF>Increases the %d%% chance for Falling Thunder Technique to deal Splash damage."}
+{"id": 244, "english": "^ffcc00Level %d/5^ffffff - Cool-down time reduced by %d seconds."}
+{"id": 245, "english": "^ffcc00Level %d/5^ffffff - Cool-down time reduced by %d seconds, Stun Resistance increased by %d points."}
+{"id": 246, "english": "^ffcc00Level %d/5^ffffff - Preparation time reduced by %.1f seconds."}
+{"id": 247, "english": "^ffcc00Level %d/5^ffffff - Preparation time reduced by %.1f seconds."}
+{"id": 248, "english": "^ffcc00Level %d/5^ffffff - Preparation time reduced by %.1f seconds.<CRLF>Damage dealt by Flame Burst under Fire Armor Art increased by %d%%.<CRLF>Increases the %d%% chance for Flame Burst to deal Splash damage."}
+{"id": 249, "english": "^ffcc00Level %d/5^ffffff - Attack Intensity reduction increased by %d%%,<CRLF>Slow effect strengthened by %.1f m/s,<CRLF>after the move is cast, the duration of all negative effects is extended by %d seconds."}
+{"id": 250, "english": "^ffcc00Level %d/5^ffffff - The Attack Intensity reduction is reduced by %d%%."}
+{"id": 251, "english": "^ffcc00Level %d/5^ffffff - Direct Resistance reduced by %d"}
+{"id": 252, "english": "^ffcc00Level %d/5^ffffff - Cool-down time reduced by %d seconds"}
+{"id": 253, "english": "^ffcc00Level %d/5^ffffff - Max HP of the target reduced by %.1f%% + 0.75 * your own Max Attack Power."}
+{"id": 254, "english": "^ffcc00Level %d/5^ffffff - Slows by 2 m/s for 4 seconds.<CRLF>Attacks from behind always Slow; attacks from the front have a %d%% chance to Slow."}
+{"id": 255, "english": "^ffcc00Level %d/5^ffffff - Slow duration is %d seconds."}
+{"id": 256, "english": "^ffcc00Level %d/5^ffffff - Slow duration increased by %.1f seconds,<CRLF>%d%% chance to Freeze and Immobilize the target.<CRLF>Casting time of Ice Spike under Ice Armor Art reduced by %.1f seconds.<CRLF>At 5 stacks, increases the chance for Ice Spike to deal 30%% Splash damage."}
+{"id": 257, "english": "^ffcc00Level %d/5^ffffff - Chance increased by %d%%."}
+{"id": 258, "english": "^ffcc00Level %d/5^ffffff - While in the Steadfast state, using Cloud-Splitting Strike has a %d%% chance to gain the Cloud-Split state."}
+{"id": 259, "english": "^ffcc00Level %d/5^ffffff - Pierce Wound chance increased by %d%%."}
+{"id": 260, "english": "^ffcc00Level %d/5^ffffff - Pierce Wound chance increased to %d%%."}
+{"id": 261, "english": "^ffcc00Level %d/5^ffffff - Pierce Wound chance increased by %d%%."}
+{"id": 262, "english": "^ffcc00Level %d/5^ffffff - Pierce chance is %d%%, dealing damage that Ignores Defense equal to %d%% of Max Attack Power."}
+{"id": 263, "english": "^ffcc00Level %d/5^ffffff - Crit Damage of Neck-Piercer Talon increased by %d%%"}
+{"id": 264, "english": "^ffcc00Level %d/5^ffffff - Rend's Slash Wound chance raised to %d%%."}
+{"id": 265, "english": "^ffcc00Level %d/5^ffffff - Slash Wound chance increased by %d%%."}
+{"id": 266, "english": "^ffcc00Level %d/5^ffffff - Slash Wound chance increased by %d%%."}
+{"id": 267, "english": "^ffcc00Level %d/5^ffffff - Slash Wound chance increased by %d%%,"}
+{"id": 268, "english": "^ffcc00Level %d/5^ffffff - Twin Dragons Deathblow damage multiplier increased by %d%%"}
+{"id": 269, "english": "^ffcc00Level %d/5^ffffff - Use interval of Twin Dragons Deathblow<CRLF>reduced by %d seconds, with a %d%% chance to enter the Concealed state after use."}
+{"id": 270, "english": "^ffcc00Level %d/5^ffffff - Counter time increased by %d seconds."}
+{"id": 271, "english": "^ffcc00Level %d/5^ffffff - Reflected melee Damage increased by %d%%,<CRLF>and reflects %d%% of ranged Damage"}
+{"id": 272, "english": "^ffcc00Level %d/5^ffffff - When attacked, %d%% chance to dispel the Stun effect"}
+{"id": 273, "english": "^ffcc00Level %d/5^ffffff - Casting time reduced by %.1f seconds."}
+{"id": 274, "english": "^ffcc00Level %d/5^ffffff - Steals %d Crit."}
+{"id": 275, "english": "^ffcc00Level %d/5^ffffff - On hit, %d%% chance to recover 20 Battle Qi<CRLF>and add one stack of the Assassination effect."}
+{"id": 276, "english": "^ffcc00Level %d/5^ffffff - Bulwark's Defense effect increased by %d%%."}
+{"id": 277, "english": "^ffcc00Level %d/5^ffffff - Base Damage increased by %d%%."}
+{"id": 278, "english": "^ffcc00Level %d/5^ffffff - Movement Speed increased by %.1f m/s"}
+{"id": 279, "english": "^ffcc00Level %d/5^ffffff - Damage increased by %d%%,<CRLF>Cool-down generated by leaving Conceal reduced by %d seconds."}
+{"id": 280, "english": "^ffcc00Level %d/5^ffffff - %d%% increased chance to inflict the “Wound” effect"}
+{"id": 281, "english": "^ffcc00Level %d/5^ffffff - Duration increased by %d seconds."}
+{"id": 282, "english": "^ffcc00Level %d/5^ffffff - Duration increased by %d seconds."}
+{"id": 283, "english": "^ffcc00Level %d/5^ffffff - Damage dealt by the move increased by %d%%,<CRLF>Direct Resistance reduced by the move increased by %d points."}
+{"id": 284, "english": "^ffcc00Level %d/5^ffffff - Crit of the Rain of Pear Blossom move increased by %d points."}
+{"id": 285, "english": "^ffcc00Level %d/5^ffffff - Movement Speed while Concealed increased by %.1f m/s,<CRLF>Dodge while Concealed increased by %d."}
+{"id": 286, "english": "^ffcc00Level %d/5^ffffff - Rampart absorbs an additional amount of damage equal to %d%% of your own Max Attack Power."}
+{"id": 287, "english": "^ffcc00Level %d/5^ffffff - During the Valor state,<CRLF>using Battle Qi skills reduces the target's Stun Resistance by %d%%, stacking up to 4 times"}
+{"id": 288, "english": "^ffcc00Level %d/5^ffffff - Deals damage that Ignores Defense equal to %d%% of your own Max Attack Power<CRLF>to knocked-down targets; each Breaker point increases damage that Ignores Defense by %d%%"}
+{"id": 289, "english": "^ffcc00Level %d/5^ffffff - Healing received by the target is reduced by %d%%."}
+{"id": 290, "english": "^ffcc00Level %d/5^ffffff - Deals %d%% base Damage to enemies along the ring's path,<CRLF>and you have a %d%% chance to gain the Strong Troops state."}
+{"id": 291, "english": "^ffcc00Level %d/5^ffffff - In the Collapse state, target Defense is reduced by %d points,<CRLF>in the severe Collapse state, each Breaker point reduces the target's Direct Resistance by %d points,<CRLF>and reduces the target's Battle Qi by %d points."}
+{"id": 292, "english": "^ffcc00Level %d/5^ffffff - In the Weak Troops state, the target's Attack Intensity is greatly reduced by %d%%."}
+{"id": 293, "english": "^ffcc00Level %d/5^ffffff - Fierce Assault point duration increased to %d seconds."}
+{"id": 294, "english": "^ffcc00Level %d/5^ffffff - Impact increased by %d%%"}
+{"id": 295, "english": "^ffcc00Level %d/5^ffffff - When Foe Ward Combat Art is active, the Cool-down of Ward skills is reduced by %d%%,<CRLF>and using Ward skills has a %d%% chance to gain a Foe Ward point."}
+{"id": 296, "english": "^ffcc00Level %d/5^ffffff - Thunderclap Art Crit chance increased by %d"}
+{"id": 297, "english": "^ffcc00Level %d/5^ffffff - Skill Crit chance increased by %d%%."}
+{"id": 298, "english": "^ffcc00Level %d/5^ffffff - Resistance reduced by %d points."}
+{"id": 299, "english": "^ffcc00Level %d/5^ffffff - Move cast Speed increased by %d%%,<CRLF>under the Combo effect, each attack of a Move has a %d%% chance to recover 5 Battle Qi."}
+{"id": 300, "english": "^ffcc00Level %d/5^ffffff - Move cast Speed increased by %d%%, HP restored increased by %d."}
+{"id": 301, "english": "^ffcc00Level %d/5^ffffff - Move Crit increased by %d"}
+{"id": 302, "english": "^ffcc00Level %d/5^ffffff - Each point of the move's Combo count adds %d Crit."}
+{"id": 303, "english": "^ffcc00Level %d/5^ffffff - The move's Crit Damage and back attack Crit<CRLF>are both increased by %d points."}
+{"id": 304, "english": "^ffcc00Level %d/5^ffffff - Duration increased by %d seconds."}
+{"id": 305, "english": "^ffcc00Level %d/5^ffffff - Taunt has a 20%% chance to reduce the target's Battle Qi by %d points"}
+{"id": 306, "english": "^ffcc00Level %d/5^ffffff - Stamina and Battle Qi loss reduced by %d%%."}
+{"id": 307, "english": "^ffcc00Level %d/5^ffffff - Increased by %d%%"}
+{"id": 308, "english": "^ffcc00Level %d/5^ffffff - Increased by %d%%."}
+{"id": 309, "english": "^ffcc00Level %d/5^ffffff - Damage increased by %d%%."}
+{"id": 310, "english": "^ffcc00Level %d/5^ffffff - Base Damage increased by %d%%."}
+{"id": 311, "english": "^ffcc00Level %d/5^ffffff - Healing increased by %d%%."}
+{"id": 312, "english": "^ffcc00Level %d/5^ffffff - Hit increased by %d%%."}
+{"id": 313, "english": "^ffcc00Level %d/5^ffffff - Base Damage increased by %d%%."}
+{"id": 314, "english": "^ffcc00Level %d/5^ffffff - Stun Resistance increased by %d%%."}
+{"id": 315, "english": "^ffcc00Level %d/5^ffffff - Crit chance increased by %d%%."}
+{"id": 316, "english": "^ffcc00Level %d/5^ffffff - HP Recovery points increased by %d%%."}
+{"id": 317, "english": "^ffcc00Level %d/5^ffffff - HP Recovery increased by %d%%."}
+{"id": 318, "english": "^ffcc00Level %d/5^ffffff - Defense increased by %d%%"}
+{"id": 319, "english": "^ffcc00Level %d/5^ffffff - Duration increased by %d minutes."}
+{"id": 320, "english": "^ffcc00Level %d/5^ffffff - Max Stamina increased by %d points."}
+{"id": 321, "english": "^ffcc00Level %d/5^ffffff - Crit increased by %d points,<CRLF>Crit Damage by %d points, Crit Resistance by %d points"}
+{"id": 322, "english": "^ffcc00Level %d/5^ffffff - Duration increased by %d seconds."}
+{"id": 323, "english": "^ffcc00Level %d/5^ffffff - Damage increased by %d%%."}
+{"id": 324, "english": "^ffcc00Level %d/5^ffffff - Boost equal to %d%% of the Dancer's Attack Power."}
+{"id": 325, "english": "^ffcc00Level %d/5^ffffff - Each hit's base Damage increased by %d%%."}
+{"id": 326, "english": "^ffcc00Level %d/5^ffffff - Target's Defense increased by an amount equal to %d%% of the Dancer's own<CRLF>Attack Power."}
+{"id": 327, "english": "^ffcc00Level %d/5^ffffff - Flame Rend Technique's attack increased by %d%%,<CRLF>and has a %d%% chance to put the enemy into the Burning state."}
+{"id": 328, "english": "^ffcc00Level %d/5^ffffff - Attack Intensity increased by %d%%"}
+{"id": 329, "english": "^ffcc00Level %d/5^ffffff - Attack moves have a %d%% chance to carry the Break effect."}
+{"id": 330, "english": "^ffcc00Level %d/5^ffffff - Attack Speed increased to %d%%."}
+{"id": 331, "english": "^ffcc00Level %d/5^ffffff - %d%% of Battle Qi is left behind."}
+{"id": 332, "english": "^ffcc00Level %d/5^ffffff - Whirlwind Form's base damage multiplier increased by %d%%."}
+{"id": 333, "english": "^ffcc00Level %d/5^ffffff - Coma and Recovery state duration increased by %d seconds."}
+{"id": 334, "english": "^ffcc00Level %d/5^ffffff - Crit Damage increased by %d%%."}
+{"id": 335, "english": "^ffcc00Level %d/5^ffffff - Crit Resistance reduced by %d points."}
+{"id": 336, "english": "^ffcc00Level %d/5^ffffff - Crit Rate increased by %d."}
+{"id": 337, "english": "^ffcc00Level %d/5^ffffff - Rain of Pear Blossom's random damage increased to 1%%~%d%%."}
+{"id": 338, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to cost no Battle Qi.<CRLF>Damage dealt by Tornado under Wind Armor Art increased by %d%%.<CRLF>Increases the %d%% chance for Tornado to deal Splash damage."}
+{"id": 339, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to make the next use of Wind Ball cost nothing<CRLF>Damage dealt by Wind Ball under Wind Armor Art increased by %d%%.<CRLF>Increases the %d%% chance for Wind Ball to deal Splash damage."}
+{"id": 340, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to stop the target from using skills<CRLF>for the next 2 seconds."}
+{"id": 341, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to gain the Moon-Breaking state."}
+{"id": 342, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to reset your own Cool-down time"}
+{"id": 343, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to reset the Cool-down time of Wind Assault Spell,<CRLF>Crit chance under Wind Armor Art increased by %d."}
+{"id": 344, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to recover an extra 10 Battle Qi."}
+{"id": 345, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to trigger “Ice Ward Art”.<CRLF>%d%% chance to reduce Dodge by %d points"}
+{"id": 346, "english": "^ffcc00Level %d/5^ffffff - %d%% chance to gain the Recovery state."}
+{"id": 347, "english": "^ffcc00Level %d/5^ffffff - Targets with the Tidal Surge state<CRLF>have a %d%% chance to enter the “Sea-Surge” state."}
+{"id": 348, "english": "^ffcc00Level %d/5^ffffff - Sweep of a Thousand Armies damage multiplier increased by %d%%"}
+{"id": 349, "english": "^ffcc00Level %d/5^ffffff - Use interval of Sweep of a Thousand Armies<CRLF>reduced by %d seconds, and Crit increased by %d"}
+{"id": 350, "english": "^ffcc00Level %d/5^ffffff - Each swing increases base Damage by %d%%."}
+{"id": 351, "english": "^ffcc00Level %d/5^ffffff - Each Hate Point adds an extra %d%% base Damage."}
+{"id": 352, "english": "^ffcc00Level %d/5^ffffff - Each Foe Ward point gives Chaotic Ring Form a %d%% chance<CRLF>to ignore the target's %d Indirect Resistance."}
+{"id": 353, "english": "^ffcc00Level %d/5^ffffff - Each attack has a %d%% chance to gain a “Shield Counter” point."}
+{"id": 354, "english": "^ffcc00Level %d/5^ffffff - Each hit's Damage increased by %d%%."}
+{"id": 355, "english": "^ffcc00Level %d/5^ffffff - Each hit's duration reduced by %.1f seconds."}
+{"id": 356, "english": "^ffcc00Level %d/5^ffffff - Each Talent point adds 0.5 seconds of Immobilize."}
+{"id": 357, "english": "^ffcc00Level %d/5^ffffff - Each time you are hit, gain an extra %d Battle Qi"}
+{"id": 358, "english": "^ffcc00Level %d/5^ffffff - The damage added by each point of the Combo count equals %d%% bonus base Damage."}
+{"id": 359, "english": "^ffcc00Level %d/5^ffffff - Healing effect increased by %d%%."}
+{"id": 360, "english": "^ffcc00Level %d/5^ffffff - Total Bleed damage is %d%% of Attack Power"}
+{"id": 361, "english": "^ffcc00Level %d/5^ffffff - Damage dealt by Fireball under Fire Armor Art increased by %d%%.<CRLF>%d%% chance to cause the Burning effect, %d%% chance to fire one extra Fireball.<CRLF>Increases the %d%% chance for Fireball to deal Splash damage."}
+{"id": 362, "english": "^ffcc00Level %d/5^ffffff - Crit chance increased by %d."}
+{"id": 363, "english": "^ffcc00Level %d/5^ffffff - Claw Darting Dance effect adds an extra %d Pierce points."}
+{"id": 364, "english": "^ffcc00Level %d/5^ffffff - When Breaker Combat Art is active, it grants an extra %d points of Dodge.<CRLF>Using Break skills has a %d%% chance to gain a Breaker point."}
+{"id": 365, "english": "^ffcc00Level %d/5^ffffff - Break effect increased by %d%%."}
+{"id": 366, "english": "^ffcc00Level %d/5^ffffff - Ring Break Stance has a %d%% chance to put the target into the Impose state,<CRLF>and each Breaker point reduces Hit by %d and Attack by %d."}
+{"id": 367, "english": "^ffcc00Level %d/5^ffffff - Ring-Shatter base Damage increased by %d%%."}
+{"id": 368, "english": "^ffcc00Level %d/5^ffffff - Movement Speed increased by %.1f m/s."}
+{"id": 369, "english": "^ffcc00Level %d/5^ffffff - After Assault, %d%% chance to trigger a 15-second Combo Mode;<CRLF>after Pierce, %d%% chance to trigger a 10-second Combo Mode."}
+{"id": 370, "english": "^ffcc00Level %d/5^ffffff - Movement Speed increased by %.1f m/s after Earth-Stride"}
+{"id": 371, "english": "^ffcc00Level %d/5^ffffff - Preparation time shortened by %.1f seconds."}
+{"id": 372, "english": "^ffcc00Level %d/5^ffffff - Extra back attack Crit of %d points under the Backstrike effect."}
+{"id": 373, "english": "^ffcc00Level %d/5^ffffff - Hu Pierce has a %d%% chance to inflict Sweep Wound on the target."}
+{"id": 374, "english": "^ffcc00Level %d/5^ffffff - own Restriction Resistance increased by %d points."}
+{"id": 375, "english": "^ffcc00Level %d/5^ffffff - Fatal Blow Damage increased by %d%%<CRLF>%d%% chance to additionally increase Heartseeker Thrust's Crit Damage by 100%%"}
+{"id": 376, "english": "^ffcc00Level %d/5^ffffff - Battle Qi added by Rage Buildup increased by %d points,<CRLF>Cool-down time reduced by %d seconds, Battle Qi deducted when Rage Buildup ends by %d points<CRLF>Crit increased by %d points, Attack Intensity increased by %d%%."}
+{"id": 377, "english": "^ffcc00Level %d/5^ffffff - Defense reduction caused by Oxcleaver Split increased by %d%%,<CRLF>duration increased by %d seconds."}
+{"id": 378, "english": "^ffcc00Level %d/5^ffffff - Each stack of Consecutive Hits adds %d Crit;<CRLF>the final Certain-Hit Arrow adds %d Crit."}
+{"id": 379, "english": "^ffcc00Level %d/5^ffffff - Chained Form has a %d%% chance to inflict the Chain state."}
+{"id": 380, "english": "^ffcc00Level %d/5^ffffff - Soul-Chasing Halberd has a %d%% chance to deal damage twice to the target's area."}
+{"id": 381, "english": "^ffcc00Level %d/5^ffffff - Deals %.1f times Bleed Damage"}
+{"id": 382, "english": "^ffcc00Level %d/5^ffffff - Deals %d%% base Damage"}
+{"id": 383, "english": "^ffcc00Level %d/5^ffffff - Deals %d%% base Damage."}
+{"id": 384, "english": "^ffcc00Level %d/5^ffffff - Deals %d%% base Damage.<CRLF>Attacks from behind deal an extra %d%% base Damage and %d Crit."}
+{"id": 385, "english": "^ffcc00Level %d/5^ffffff - Deals %d%% base Damage in total"}
+{"id": 386, "english": "^ffcc00Level %d/5^ffffff - Dodge effect increased by %d,<CRLF>Acceleration effect increased by %.1f m/s."}
+{"id": 387, "english": "^ffcc00Level %d/5^ffffff - Grants %d points of Resistance for %d seconds."}
+{"id": 388, "english": "^ffcc00Level %d/5^ffffff - Applies a Slow of %.1f m/s,<CRLF>and the move affects up to %d enemies at once."}
+{"id": 389, "english": "^ffcc00Level %d/5^ffffff - Crit Resistance reduced by %d."}
+{"id": 390, "english": "^ffcc00Level %d/5^ffffff - Cool-down time reduced by %d seconds,<CRLF>using it under Ice Armor Art restores %d points of Stamina.<CRLF>Increases the %d%% chance for Ice Curse to deal Splash damage."}
+{"id": 391, "english": "^ffcc00Level %d/5^ffffff - The target's Crit Resistance reduction is increased by %d%%"}
+{"id": 392, "english": "^ffcc00Level %d/5^ffffff - Shock Wound chance increased by %d%%."}
+{"id": 393, "english": "^ffcc00Level %d/5^ffffff - Shock Wound chance increased by %d%%,<CRLF>extra Hatred increases as the Mastery level rises."}
+{"id": 394, "english": "^ffcc00Level %d/5^ffffff - Shock Wound chance increased to %d%%."}
+{"id": 395, "english": "^ffcc00Level %d/5^ffffff - Shock Wound chance increased by %d%%."}
+{"id": 396, "english": "^ffcc00Level %d/5^ffffff - Extra %d points of Defense drained."}
+{"id": 397, "english": "^ffcc00Level %d/5^ffffff - Absorbs an extra %d%% of your own Max Attack Power in damage.<CRLF>Instantly recovers HP equal to %d%% of Max HP,<CRLF>and loses %d%% of Max HP every 2 seconds."}
+{"id": 398, "english": "^ffcc00Level %d/5^ffffff - Extra %d%% Damage.<CRLF>Each Hate Point adds an extra %d%% base Damage."}
+{"id": 399, "english": "^ffcc00Level %d/5^ffffff - Extra %d%% damage resistance."}
+{"id": 400, "english": "^ffcc00Level %d/5^ffffff - Extra %d%% damage amount."}
+{"id": 401, "english": "^ffcc00Level %d/5^ffffff - Extra %d%% base Damage.<CRLF>Each Hate Point adds an extra %d%% base Damage."}
+{"id": 402, "english": "^ffcc00Level %d/5^ffffff - Extra %d Pierce points."}
+{"id": 403, "english": "^ffcc00Level %d/5^ffffff - Extra %d Battle Qi"}
+{"id": 404, "english": "^ffcc00Level %d/5^ffffff - Extra %d Crit rate checks."}
+{"id": 405, "english": "^ffcc00Level %d/5^ffffff - Extra %d Penetration."}
+{"id": 406, "english": "^ffcc00Level %d/5^ffffff - Damage multiplier increased by %d%%."}
+{"id": 407, "english": "^ffcc00Level %d/5^ffffff - Each Hate Point adds an extra %d%% base Damage."}
+{"id": 408, "english": "^ffcc00Level %d/5^ffffff - Gain %d Battle Qi."}
+{"id": 409, "english": "^ffcc00Level %d/5^ffffff - Wind Sweeps the Clouds damage multiplier increased by %d%%"}
+{"id": 410, "english": "^ffcc00Level %d/5^ffffff - Use interval of Wind Sweeps the Clouds reduced by %d seconds,<CRLF>Crit increased by %d points."}
+{"id": 411, "english": "^ffcc00Level %d/5^ffffff - Flying Ring Move has a %d%% chance to put the target into the Qi Stagnation state,<CRLF>reducing Attack Speed and Cast Speed by %d%%."}
+{"id": 412, "english": "^ffcc00Level %d/5^ffffff - Sudden Rain, Green Lotus damage multiplier increased by %d%%"}
+{"id": 413, "english": "^ffcc00Level %d/5^ffffff - Use interval of Sudden Rain, Green Lotus<CRLF>reduced by %d seconds, this move's Crit increased by %d points,<CRLF>Direct Resistance reduction increased by %d%%."}
+{"id": 414, "english": "^ffcc00Level %d/5^ffffff - Dragon Fang, Shattering Gold damage multiplier increased by %d%%"}
+{"id": 415, "english": "^ffcc00Level %d/5^ffffff -Slash Wound chance increased by %d%%."}
+{"id": 416, "english": "^ffcc00Level %d/5^ffffff -enemy Skill casting time increased by %d%%."}
+{"id": 417, "english": "^ffcc00Level %d/5^ffffff -enemy Crit Resistance reduced by %d."}
+{"id": 418, "english": "^ffcc00Level %d/5^ffffff -normal attack interval increased by %d%%."}
+{"id": 419, "english": "^ffcc00Level %d/5^ffffff %d%% chance to Immobilize the target for 3 seconds."}
+{"id": 420, "english": "^ffcc00Level %d^ffffff  - Deals %d%% Damage to the target"}
+{"id": 421, "english": "^ffcc00Level %d^ffffff  - Deals %d%% Damage to the target,<CRLF>-your own Crit Resistance increased by %d points."}
+{"id": 422, "english": "^ffcc00Level %d^ffffff - <CRLF>0 Assassination: adds %d points of Damage, deals %.1f%% base Damage;<CRLF>1 Assassination: adds %d points of Damage, deals %.1f%% base Damage;<CRLF>2 Assassination: adds %d points of Damage, deals %.1f%% base Damage;<CRLF>3 Assassination: adds %d points of Damage, deals %.1f%% base Damage;<CRLF>4 Assassination: adds %d points of Damage, deals %.1f%% base Damage;<CRLF>5 Assassination: adds %d points of Damage, deals %.1f%% base Damage."}
+{"id": 423, "english": "^ffcc00Level %d^ffffff - <CRLF>Max HP increased by %d points, plus an extra 5%%;<CRLF>Max Stamina increased by %d points."}
+{"id": 424, "english": "^ffcc00Level %d^ffffff -  In the Divine Wound state, the target loses %d%% of the Guardian's Max HP over 10 seconds"}
+{"id": 425, "english": "^ffcc00Level %d^ffffff - %d%% chance."}
+{"id": 426, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the enemy into the Return to Origin state"}
+{"id": 427, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the enemy into the Hesitation state."}
+{"id": 428, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target into the Holy Judgment state"}
+{"id": 429, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target into the Stratagem state."}
+{"id": 430, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target into the Weakened in Battle state"}
+{"id": 431, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target into the Mind Charm state."}
+{"id": 432, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target into the Exposed Wounds state"}
+{"id": 433, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target into the Soul Ruin state."}
+{"id": 434, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target into the Divine Punishment state."}

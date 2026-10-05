@@ -1,0 +1,21 @@
+### id=2 dots=1 req=0
+SRC : '^c3dbff锋刺·技^ffffff<CRLF>^ffffff需要至少在技类专精上投入5点。<CRLF><CRLF>锋刺有一定几率刺穿目标，造成大量失血，<CRLF>并在接下来的3秒内，每秒流失减少10体力。'
+OLD : '^c3dbffPiercing Thrust: Technique^ffffff<CRLF>^ffffffRequires at least 5 points invested in Technique-type Mastery.<CRLF><CRLF>Piercing Thrust has a chance to pierce the target, causing heavy blood loss,<CRLF>and drainin'
+NEW : '^c3dbffPiercing Thrust · <CRLF>^ffffffRequires at least 5 points invested in Technique-type Mastery.<CRLF><CRLF>Piercing Thrust has a chance to pierce the target, causing heavy blood loss,<CRLF>and draining 10 Stamina pe'
+
+   subn matches: []
+
+### id=97 dots=1 req=0
+SRC : '^c3dbff风弹·咒<CRLF><CRLF>^ffffff提升风弹造成的伤害。'
+OLD : '^c3dbffWind Shot: Spell^ffffff<CRLF><CRLF>Boosts the damage dealt by Wind Shot.'
+NEW : '^c3dbffWind Shot · <CRLF><CRLF>Boosts the damage dealt by Wind Shot.'
+
+   subn matches: []
+
+### id=103 dots=1 req=0
+SRC : '^c3dbff风球·咒<CRLF><CRLF>^ffffff提升风球造成的伤害。'
+OLD : '^c3dbffWind Ball: Spell^ffffff<CRLF><CRLF>Boosts the damage dealt by Wind Ball.'
+NEW : '^c3dbffWind Ball · <CRLF><CRLF>Boosts the damage dealt by Wind Ball.'
+
+   subn matches: []
+

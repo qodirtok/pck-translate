@@ -1,0 +1,47 @@
+records with a real numeric defect: 1226
+   383 x  missing=[('1', 1)] added=[]
+    87 x  missing=[('4', 1)] added=[]
+    84 x  missing=[('1000', 1)] added=[]
+    58 x  missing=[] added=[('2', 1)]
+    54 x  missing=[] added=[('1', 1)]
+    52 x  missing=[('1', 2)] added=[]
+    51 x  missing=[('2', 1)] added=[]
+    45 x  missing=[('100', 1)] added=[]
+    43 x  missing=[('5', 1)] added=[]
+    42 x  missing=[('1', 1), ('4', 1)] added=[]
+    28 x  missing=[] added=[('5', 1)]
+    24 x  missing=[('3', 1)] added=[]
+    24 x  missing=[('1', 1)] added=[('2', 1)]
+    15 x  missing=[('0', 1)] added=[]
+    14 x  missing=[('1', 1), ('3', 1)] added=[]
+
+### batch_000/3  missing={'1': 1} added={}
+   SRC: '<CRLF>学习条件：<CRLF>^ffffff人物等级达到%d级<CRLF>上一修行阶段总技能等级达到%d阶<CRLF>需要技能点数%d点'
+   DST: '<CRLF>Learning Requirements:<CRLF>^ffffffCharacter level reaches %d<CRLF>Total skill level of the previous cultivation stage reaches Rank %d<CRLF>Requires %d skill points'
+### batch_000/4  missing={'1': 2} added={}
+   SRC: ' ^c3dbff火种<CRLF><CRLF>^ffffff兵器：杖\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300015体力<CRLF>招式：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却10秒<CRLF><CRLF>向前方敌人扔出一颗火种，<CRLF>对其造成较小伤害并减速1.5米/秒，持续5秒。<CRLF>击中可以获得5点斗气。<CRLF>一定几率对目标造成溅射效果。'
+   DST: ' ^c3dbffFire Seed<CRLF><CRLF>^ffffffWeapon: Staff\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300015 Stamina<CRLF>Move: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000Cooldown 10 sec<CRLF><CRLF>Hurl a Fire Seed at the enemies ahead,<CRLF>deali'
+### batch_000/11  missing={'092': 1} added={'09': 1}
+   SRC: '09圣诞亲情卡片'
+   DST: '09 Christmas Family Card'
+### batch_000/12  missing={'092': 1} added={'09': 1}
+   SRC: '09圣诞假面舞会buff'
+   DST: '09 Christmas Masquerade Buff'
+### batch_000/13  missing={'092': 1} added={'09': 1}
+   SRC: '09圣诞友情卡片'
+   DST: '09 Christmas Friendship Card'
+### batch_000/14  missing={'0924': 1} added={'09': 1}
+   SRC: '09圣诞圣诞时装buff'
+   DST: '09 Christmas Christmas Costume Buff'
+### batch_000/15  missing={'0924': 1} added={'09': 1}
+   SRC: '09圣诞圣诞礼物'
+   DST: '09 Christmas Christmas Gift'
+### batch_000/16  missing={'0924': 1} added={'09': 1}
+   SRC: '09圣诞圣诞老人时装buff'
+   DST: '09 Christmas Santa Costume Buff'
+### batch_000/17  missing={'092': 1} added={'09': 1}
+   SRC: '09圣诞普通雪球击中'
+   DST: '09 Christmas Normal Snowball Hit'
+### batch_000/18  missing={'092': 1} added={'09': 1}
+   SRC: '09圣诞爱情卡片'
+   DST: '09 Christmas Love Card'

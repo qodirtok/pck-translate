@@ -1,0 +1,45 @@
+mode: DRY-RUN
+files=0 records=0 label edits=0  (records with unalignable colons: 295)
+
+=== renames applied (cn | current -> canonical) x count ===
+
+=== residual variance per chinese label ===
+  兵器       {'ffffffWeapon': 388, 'ffffffWeapons': 17, 'Weapon': 13, 'Weapons': 1}
+  冷却       {'Cool-down': 42, 'ffffffCool-down': 30, 'ffffffCooldown': 8, 'Cooldown': 6, 'ffffffMounted': 1}
+  冷却时间     {'Cool-down': 87, 'Cooldown': 28, 'Cool-down Time': 10, 'ffffffCool-down': 4, 'Transformation Only Cool-down': 1}
+  初始冷却     {'Initial Cool-down': 20, 'Initial Cooldown': 3}
+  刺杀       {'0 Assassination': 2, '1 Assassination': 2, '2 Assassination': 2, '3 Assassination': 2, '4 Assassination': 2, '5 Assassination': 2, '0 Assassin': 1, '1 Assassin': 1, '2 Assassin': 1, '3 Assassin': 1, '4 Assassin': 1, '5 Assassin': 1}
+  前提成就     {'99ccffPrerequisite Achievement': 54, '99ccffPrerequisite achievement': 3}
+  学习消耗     {'99ccffLearning Cost': 66, '99ccffLearning cost': 3}
+  学习等级需求   {'ffffffLevel Requirement': 39, 'ffffffRequired Level': 38, 'ffffffHero Level Requirement': 7, 'ffffffLearning Level Requirement': 6, 'ffffffRequired Hero Level': 6, 'ffffffLearn Level Requirement': 5, 'ffffffLevel requirement': 3, 'ffffffLearning Level Req': 3}
+  学习需求     {'Requirement': 196, 'Learning Requirement': 100, 'Learning Req': 33, '': 13, 'Learn Requirement': 11}
+  属性       {'ffffffType': 90, 'ffffffAttribute': 46, 'ffffffAttributes': 8, 'Type': 1}
+  必杀       {'Finisher': 11, 'Fatal': 3, 'Ultimate': 2, 'ffffffFinisher': 2, 'Finishing Move': 2}
+  战斗       {'Combat': 3, 'Battle': 1}
+  战法       {'Tactic': 3, 'War Art': 2, 'Battle Tactic': 1, 'Battle Art': 1, 'Stratagem': 1, 'War Tactic': 1}
+  技能修改     {'00FFFFSkill Mods': 9, '00FFFFSkill Modifications': 1}
+  技能品质     {'Skill Quality': 160, 'Skill Rank': 100, 'Quality': 40, 'Skill grade': 22, 'Skill Grade': 20, 'Skill Tier': 14}
+  技能类别     {'Skill Category': 246, 'Category': 37, 'Skill category': 20, 'Skill Class': 10}
+  普通施放     {'Normal cast': 2, 'Normal Cast': 1}
+  武技       {'Martial Art': 39, 'Martial Skill': 19, 'Move': 7, 'Martial Arts': 7, 'Martial Technique': 2, 'Skill': 1, 'Combat Technique': 1}
+  特技       {'ffffffSpecial': 3, 'ffffffSpecialty': 2, 'ffffffTrait': 2, 'ffffffSpecial Skill': 1, 'ffffffSpecial Art': 1, 'ffffffSpecial Move': 1}
+  生效祖籍限制   {'ffffffAncestry Requirement': 11, 'ffffffOrigin Restriction': 10, 'ffffffSkill Effect Ancestral Home Restriction': 7, 'ffffffSkill Origin Restriction': 7, 'ffffffSkill Region Restriction': 6, 'ffffffAncestral Origin Restriction': 6, 'ffffffSkill Origin Requirement': 6, 'ffffffAncestral Home Restriction': 5, 'ffffffRegion Restriction': 3, 'ffffffHeritage Restriction': 3, 'ffffffAncestry Requirement for Effect': 3}
+  策略       {'Tactic': 58, 'Strategy': 57, 'Tactics': 4, 'ffffffTactic': 1}
+  结义兵法     {'ffffffBrotherhood Stratagem': 6, 'ffffffSworn Military Art': 5, 'ffffffSworn Brotherhood Tactic': 3, 'ffffffSworn Stratagem': 2, 'Sworn Tactics': 1, 'ffffffOath Tactic': 1, 'ffffffSworn Alliance Stratagem': 1, 'ffffffSworn Brothers Art': 1}
+  觉醒状态施放   {'Awakened State Cast': 1, 'Awakened cast': 1, 'Awakened state cast': 1}
+  骑术       {'ffffffRiding': 42, 'ffffffMounted': 34, 'ffffffRiding Art': 12, 'ffffffMounted Art': 5, 'ffffffHorsemanship': 4, 'and imposing 3 seconds of Intimidation on dismounted enemies': 1, 'Riding': 1}
+  魂技效果     {'ffcc00Soul Skill Effect': 39, 'ffcc00Soul Art Effect': 6, 'ffcc00Soul Skill effects': 1}
+  魂技类型     {'Soul Skill Type': 47, 'Soul Art Type': 10, 'Soul Skill type': 10}
+  (21/47 labels fully consistent)
+
+=== REVIEW terms ===
+  属性       -> Type                       {'ffffffType': 90, 'ffffffAttribute': 46, 'ffffffAttributes': 8, 'Type': 1}
+  策略       -> Tactic                     {'Tactic': 58, 'Strategy': 57, 'Tactics': 4, 'ffffffTactic': 1}
+  战法       -> Tactic                     {'Tactic': 3, 'War Art': 2, 'Battle Tactic': 1, 'Battle Art': 1, 'Stratagem': 1, 'War Tactic': 1}
+  骑术       -> Riding                     {'ffffffRiding': 42, 'ffffffMounted': 34, 'ffffffRiding Art': 12, 'ffffffMounted Art': 5, 'ffffffHorsemanship': 4, 'and imposing 3 seconds of Intimidation on dismounted enemies': 1, 'Riding': 1}
+  必杀       -> Finisher                   {'Finisher': 11, 'Fatal': 3, 'Ultimate': 2, 'ffffffFinisher': 2, 'Finishing Move': 2}
+  特技       -> Special                    {'ffffffSpecial': 3, 'ffffffSpecialty': 2, 'ffffffTrait': 2, 'ffffffSpecial Skill': 1, 'ffffffSpecial Art': 1, 'ffffffSpecial Move': 1}
+  结义兵法     -> Brotherhood Stratagem      {'ffffffBrotherhood Stratagem': 6, 'ffffffSworn Military Art': 5, 'ffffffSworn Brotherhood Tactic': 3, 'ffffffSworn Stratagem': 2, 'Sworn Tactics': 1, 'ffffffOath Tactic': 1, 'ffffffSworn Alliance Stratagem': 1, 'ffffffSworn Brothers Art': 1}
+  生效祖籍限制   -> Ancestral Home Restriction {'ffffffAncestry Requirement': 11, 'ffffffOrigin Restriction': 10, 'ffffffSkill Effect Ancestral Home Restriction': 7, 'ffffffSkill Origin Restriction': 7, 'ffffffSkill Region Restriction': 6, 'ffffffAncestral Origin Restriction': 6, 'ffffffSkill Origin Requirement': 6, 'ffffffAncestral Home Restriction': 5, 'ffffffRegion Restriction': 3, 'ffffffHeritage Restriction': 3, 'ffffffAncestry Requirement for Effect': 3}
+  兵法       -> Stratagem                  (absent)
+  魂技能      -> Soul Skill                 (absent)

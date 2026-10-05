@@ -1,0 +1,8 @@
+### batch_005/70
+ src colors: ['^c3dbff', '^ffffff', '^ffffff']
+ dst colors: ['^c3dbff', '^ffffff', '^ffffff', '^ffffff']
+ notes: ['removed surplus ^ffffff at seq index 3']
+### batch_005/123
+ src colors: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff']
+ dst colors: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff']
+ notes: ['removed surplus ^c3dbff at seq index 4']

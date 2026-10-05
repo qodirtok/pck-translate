@@ -1,0 +1,265 @@
+{"id": 1, "english": "^c3dbffRide the Waters<CRLF><CRLF>^ffffffType: Passive<CRLF>^ffffffRequired Hero Level: 36<CRLF>^ffffffAncestral Home Restriction: Jiaozhou<CRLF><CRLF>A celebrated scholar of Jiaozhou who once routed Zhuge Liang's Fire Ox Formation,<CRLF>has a 5%% chance to gain the Ride the Waters state when attacked,<CRLF>reducing incoming Crit Damage; the state ends whenever you are hit by a Crit.<CRLF><CRLF>^99ccffDerived from Cheng Bing.<CRLF>^99ccffRequires the corresponding skill book to learn."}
+{"id": 2, "english": "^c3dbffSun-Scarring Gale<CRLF>^ffffffType: Passive<CRLF><CRLF>Excelling in mounted combat, you can ride your battle steed into striking positions the enemy never expects,<CRLF>increasing Crit for Mounted Combat skills."}
+{"id": 3, "english": "^c3dbffReined Rest^ffffff<CRLF><CRLF>Alternate tension and ease, balancing work and rest."}
+{"id": 4, "english": "^c3dbffValiant<CRLF><CRLF>^ffffffType: Passive<CRLF>^ffffffRequired Hero Level: 50<CRLF>^ffffffAncestral Home Restriction: Xuzhou<CRLF><CRLF>Leading the army as the finest troops of Wei,<CRLF>Movement Speed and indirect Resistance are increased while in Mounted Combat.<CRLF><CRLF>^99ccffDerived from Valiant Cavalry.<CRLF>^99ccffRequires the corresponding skill book to learn."}
+{"id": 5, "english": "^c3dbffValiant<CRLF><CRLF>^ffffffSworn Brothers Art: Instant　　　　　　Cool-down 30 min<CRLF><CRLF>Igniting battle spirit and trampling through legions,<CRLF>this boosts the Attack Power of the Sworn Brothers in your party.<CRLF>Lasts 10 minutes.<CRLF> "}
+{"id": 6, "english": "^c3dbffValiant<CRLF>^ffffffRequires at least 30 points in the Technique Mastery.<CRLF><CRLF>^ffffffThrash, Reverse Strike, Pointed Thrust and Wild Pierce can hit multiple enemies,<CRLF>up to 3 targets."}
+{"id": 7, "english": "^c3dbffValorous Resolve<CRLF><CRLF>^ffffffType: Passive<CRLF>^ffffffRequired Hero Level: 36<CRLF>^ffffffAncestral Home Restriction: Yanzhou<CRLF><CRLF>Bold and fierce, a great general of Cao Wei,<CRLF>has a chance to gain the Valorous Resolve state when attacked,<CRLF>increasing Attack Power for a single instance.<CRLF><CRLF>^99ccffDerived from Yue Jin.<CRLF>^99ccffRequires the corresponding skill book to learn."}
+{"id": 8, "english": "^c3dbffRiding Stance Switch<CRLF><CRLF>^ffffffWeapon: Any　　　　　　　　　　10 Stamina<CRLF>Riding: Instant　　　　　　　 Cool-down 3 sec<CRLF><CRLF>^ffffffFreely switch between the Mounted and Mounted Combat states on the battlefield;<CRLF>with a weapon slung, draw it into your hand to enter Mounted Combat,<CRLF>or stow it on your back to enter the Mounted state;<CRLF>switching then loses your Land or Mounted Combat enhancement states.<CRLF>^99ccffUse outside combat whenever possible;<CRLF>if used while in combat, you cannot switch again for 15 seconds."}
+{"id": 9, "english": "^c3dbffSudden Rain, Green Lotus<CRLF><CRLF>^ffffffWeapon: Spear　　　　　　　　60 Battle Qi　5 Stamina<CRLF>Finishing Move: Instant　　　　　　Cool-down 2 min<CRLF><CRLF>Releasing a torrent of Battle Qi, striking enemies as a downpour lashes green lotus leaves.<CRLF>Deals multiple instances of damage to multiple enemies within 8 meters of you,<CRLF>and applies a Piercing Wound effect to every enemy hit.<CRLF><CRLF>^99ccffAll struck targets are knocked down and their direct Resistance is reduced."}
+{"id": 10, "english": "^c3dbffSudden Rain, Green Lotus · Strength<CRLF>^ffffffRequires at least 30 points in the Strength Mastery.<CRLF><CRLF>^ffffffIncreases the damage dealt by Sudden Rain, Green Lotus."}
+{"id": 11, "english": "^c3dbffSudden Rain, Green Lotus · Technique<CRLF>^ffffffRequires at least 30 points in the Technique Mastery.<CRLF><CRLF>^ffffffShortens the interval between uses of Sudden Rain, Green Lotus<CRLF>and adds Crit to the Move,<CRLF>and strengthens the direct Resistance reduction while targets are knocked down."}
+{"id": 12, "english": "^c3dbffAdvanced Riding<CRLF><CRLF>^ffffffRiding: Permanent<CRLF><CRLF>^ffffffGranted to those who have mastered both martial arts and horsemanship,<CRLF>allowing you to draw your weapon and fight on horseback."}
+{"id": 13, "english": "^c3dbffSuperior Riding<CRLF><CRLF>^ffffffSuperior horsemanship lets you use the various Mounted Combat Moves."}
+{"id": 14, "english": "^c3dbffPhantom Dance<CRLF>^ffffffRequires at least 25 points in the “Combat” Mastery.<CRLF><CRLF>^ffffffWeapon: Dance　　　　　　　  　30 Stamina<CRLF>Martial Art: Sustained Cast　　　　　　　　Duration 10 sec<CRLF><CRLF>The dancer's motions are as mysterious and elusive as a phantom,<CRLF>and while the Move is cast, enemies around you lose their senses.<CRLF>Enemies who have lost their senses have their attack and casting intervals greatly extended,<CRLF>take greatly reduced healing, and cannot use instant recovery items.<CRLF>This Move also applies a Slow.<CRLF>After casting ten segments, you enter the 24-second “Phantom Exhaustion” state, during which you cannot use skills.<CRLF><CRLF>^c3dbffNote: The longer an enemy remains Bewildered, the stronger the negative effects they suffer.<CRLF>^c3dbffHas no effect on players more than 5 levels above you."}
+{"id": 15, "english": "^c3dbffPhantom Dance<CRLF>^ffffffRequires at least 25 points in the “Combat” Mastery.<CRLF><CRLF>^ffffffWeapon: Dance　　　　　　　　30 Stamina to activate<CRLF>Martial Art: Sustained Cast<CRLF><CRLF>Your motions are as mysterious and elusive as a phantom,<CRLF>and while the Move is cast, enemies over a wide area around you have their minds clouded.<CRLF>Enemies whose minds are clouded lose part of their Max HP and Max Stamina,<CRLF>and can barely recover HP or Stamina during this time.<CRLF>This Move also applies a Slow."}
+{"id": 16, "english": "^c3dbffPhantom Trail<CRLF><CRLF>^ffffffWeapon: Pair of Mace　　　　　　　　　25 Battle Qi 25 Stamina<CRLF>Move: Instant　　　　　　　　Cool-down 60 sec<CRLF><CRLF>Blur your form so enemies cannot read you<CRLF>+1.5 m Movement Speed for 10 sec<CRLF>+20 indirect Resistance, +10 Magic Resistance for 4 sec"}
+{"id": 17, "english": "^c3dbffPhantom Trail<CRLF>^ffffffRequires at least 20 points in the Strength Mastery.<CRLF><CRLF>^ffffffWeapon: Hooksword　　　　　　　　10 Battle Qi　20 Stamina<CRLF>Martial Art: Instant　　　　　　　　Cool-down 30 sec<CRLF><CRLF>^ffffff+200 Dodge; reverts to normal after a successful Dodge."}
+{"id": 18, "english": "^c3dbffPhantom Trail · Technique<CRLF>^ffffffRequires at least 20 points in the Technique Mastery.<CRLF><CRLF>^ffffffExtends the duration of the Phantom Trail speed boost."}
+{"id": 19, "english": "^c3dbffPhantom Trail · Defense<CRLF>^ffffffRequires 3 points invested in Phantom Trail · Technique.<CRLF><CRLF>^ffffffPhantom Trail now grants direct Resistance when you are hit;<CRLF>each hit grants +5 direct Resistance, stacking up to 5 times."}
+{"id": 20, "english": "^c3dbffSoul Blessing^ffffff                                        ^ffcc00Level %d^ffffff<CRLF><CRLF>Tactic: Instant                 Cool-down: 2 min<CRLF><CRLF>Soul Art Type: Protection<CRLF>Summon a hero spirit merged into your body to strengthen your attributes,<CRLF>greatly increasing Attack Power and Max HP;<CRLF>when attacked, you have a %d%% chance to enter the Nimble state,<CRLF>Dodging all incoming attacks<CRLF><CRLF>^99ccffTakes effect while Awakened"}
+{"id": 21, "english": "^c3dbffSoul Intent, Ravine<CRLF>^ffffffType: Passive<CRLF><CRLF>A heaven-breaking strike; interrupting skills have a chance to reduce enemy Movement Speed by 2 m/s for 5 sec."}
+{"id": 22, "english": "^c3dbffSoul Sweep<CRLF><CRLF>^ffffffWeapon: Ring Blade, Whip<CRLF>^ffffffCost: 5 Stamina 30 Battle Qi<CRLF>^ffffffCool-down: 20 sec<CRLF>^ffffffRiding: Cast While Moving<CRLF><CRLF>^ffffffSweep the enemies around you,<CRLF>dealing three instances of damage.<CRLF>Applies a Slow to targets on foot.<CRLF>Also has a low chance to knock enemies off their mounts.<CRLF>Each stack of Assault Charge adds 5%% skill damage<CRLF>but beyond five stacks the mount becomes hard to control,<CRLF>and each extra stack has a 12%% chance to throw you from the saddle.<CRLF><CRLF>^99ccffUltimate Mastery; only one can be learned.<CRLF>^99ccffCan only be used in the Mounted Combat state."}
+{"id": 23, "english": "^c3dbffCharisma<CRLF><CRLF>^ffffffRaises a character's social skills and luck.<CRLF>Reaching certain values unlocks the corresponding aptitude bonus,<CRLF>which cannot exceed its own level cap.<CRLF>^c3dbffRequires Riding Mastery to be fully maxed.<CRLF><CRLF>^ffcc00Value: ^00ff80%d^ffffff(%s)^ffcc00"}
+{"id": 24, "english": "^c3dbffPhantom Whip<CRLF><CRLF>^ffffffWeapon: Whip　　　　　　　　　　　15 Stamina<CRLF>Move: Instant　　　　　　　　Cool-down 8 sec<CRLF><CRLF>Strike the enemy rapidly with the whip for 135%% base damage,<CRLF>and restore 10 Battle Qi."}
+{"id": 25, "english": "^c3dbffPhantom Whip<CRLF>^ffffffRequires 3 points invested in “Soul-Severing Whip · Shadow”.<CRLF><CRLF>^ffffffWeapon: Whip　　　　　　　　　     15 Stamina<CRLF>Move: Cast While Moving　　　　　　　      Cool-down 8 sec<CRLF><CRLF>A combo follow-up used after Soul-Severing Whip;<CRLF>swing the whip quickly with your right hand to deal two instances of damage to up to 5 enemies ahead.<CRLF>Each instance of damage restores 10 Battle Qi.<CRLF><CRLF>^c3dbffNote: At 1/3/5 stacks of Phantom Shadow,<CRLF>^c3dbffskill damage is increased by 15%%/45%%/75%%,<CRLF>^c3dbffand two stacks of Phantom Shadow are consumed."}
+{"id": 26, "english": "^c3dbffBird Peck Sweep<CRLF><CRLF>^ffffffChain Divine Arrows have a chance to Immobilize enemies.<CRLF><CRLF>^99ccffFinishing Move Attack Mastery; only one can be learned."}
+{"id": 27, "english": "^c3dbffHeaven-Calling Cry<CRLF><CRLF>^ffffffAfter using Quick Strike, you have a chance to gain the Agile state:<CRLF>immune to riding Slow and Immobilize effects for a period of time.<CRLF><CRLF>^99ccffRestraint Skill Mastery; only one can be learned."}
+{"id": 28, "english": "^c3dbffWhistling Arrow Shot<CRLF>^ffffffRequires 2 points invested in “Whistling Arrow · Strength”.<CRLF><CRLF>^ffffffWeapon: Bow　　　　　　　　30 Battle Qi　5 Stamina<CRLF>Tactic: Wind-up 1 sec　　　　　　　Cool-down 15 sec<CRLF><CRLF>Attack enemies in combat with a whistling arrow.<CRLF>Reduces enemy Movement Speed while speeding up your own rate of fire.<CRLF>Immobilizes enemies that are not yet in combat."}
+{"id": 29, "english": "^c3dbffWhistling Arrow<CRLF><CRLF>^ffffffWeapon: Bow　　　　　　　　　　　15 Stamina<CRLF>Tactic:Move Time 1 sec　　　　　　　　Cool-down 4 sec<CRLF><CRLF>Must be used out of combat.<CRLF>Strike first to generate 10 Battle Qi.<CRLF>Immobilizes the enemy and reduces their Movement Speed.<CRLF>100%% base damage.<CRLF>On a successful hit, +15%% Attack Speed,<CRLF>lasting until the effect ends when any attack Move is used.<CRLF><CRLF>^c3dbffNote: Recommended grinding skill; best used as an opener."}
+{"id": 30, "english": "^c3dbffWhistling Arrow · Wild Dance<CRLF>^ffffffRequires at least 10 points in the Technique Mastery.<CRLF><CRLF>^ffffffEnhances the Attack Speed bonus granted after Whistling Arrow."}
+{"id": 31, "english": "^c3dbffWhistling Arrow · Strength<CRLF>^ffffffRequires at least 5 points in the Strength Mastery.<CRLF><CRLF>^ffffffIncreases the damage dealt by Whistling Arrow."}
+{"id": 32, "english": "^c3dbffLuan Soaring, Chasing the Moon<CRLF>^ffffffType: Passive<CRLF><CRLF>Focusing your spirit and gathering your qi, being attacked has a chance to generate the “Zero Rain Soul Net” state,<CRLF>which guarantees a Crit on your next attack and lasts 5 sec."}
+{"id": 33, "english": "^c3dbffQilin's Wrath<CRLF><CRLF>^ffffffSwing this saber with the wrath of the qilin, shaking the four quarters, unstoppable."}
+{"id": 34, "english": "^c3dbffQilin Flame^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded<CRLF>Skill Quality: I<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>A quick strike that deals 41%% base damage<CRLF>to 3 enemies in a straight line ahead."}
+{"id": 35, "english": "^c3dbffYellow Springs Netherflow<CRLF><CRLF>^ffffffWeapon: Fork　　　　　　　　　　  10 Stamina<CRLF>Tactic: Instant　　　　　　　         Cool-down: 2 min<CRLF><CRLF>Apply the Nether Qi state to distant targets,<CRLF>draining their HP rapidly amid fierce combat.<CRLF>While under Nether Qi, every attack tears open their own wounds,<CRLF>dealing damage equal to 2%% of Max HP.<CRLF>Nether Qi ends automatically after the target is hit 3 times."}
+{"id": 36, "english": "^c3dbffYellow Springs Netherflow · Heart-Sunder<CRLF>^ffffffRequires at least 20 points in the Shadow Mastery.<CRLF><CRLF>^ffffffStrengthens the effect of the tactic “Yellow Springs Netherflow”."}
+{"id": 37, "english": "^c3dbffSilent Words<CRLF><CRLF>^ffffffType: Passive<CRLF>^ffffffRequired Hero Level: 36<CRLF>^ffffffAncestral Home Restriction: Bingzhou<CRLF><CRLF>Defeated and captured, he said not a word and died with honor,<CRLF>with a chance to reflect the Silent Words state when attacked,<CRLF>preventing the target from using skills for 2 sec.<CRLF><CRLF>^99ccffDerived from Gao Shun.<CRLF>^99ccffRequires the corresponding skill book to learn."}
+{"id": 38, "english": "^c3dbffWar Drum Command<CRLF><CRLF>^ffffffWeapon: Battleaxe　　　　　　　　　10 Stamina<CRLF>Tactic: Instant　　　　　　　　　<CRLF><CRLF>Focus on defense in battle to enhance the healing allies receive.<CRLF>Allies within 20 meters receive 5%% increased healing.<CRLF><CRLF>^c3dbffNote: Recommended for strengthening party attributes."}
+{"id": 39, "english": "^c3dbffWar Drum Inspiring Dance^ffffff<CRLF><CRLF>Weapon: Dance　　　　　　　　20 Stamina<CRLF>Tactic: Instant　　　　　　　Duration: 10 min<CRLF><CRLF>The dancer beats time to lift and rally morale,<CRLF>enabling you to endure longer battles.<CRLF>Using the Move raises your Max HP and Max Stamina,<CRLF>and the effect lasts 10 minutes.<CRLF><CRLF>^c3dbffNote: After learning the “High Morale” mastery, this can also grant allies<CRLF>a Max HP and Max Stamina bonus."}
+{"id": 40, "english": "^c3dbffWar Drum Inspiring Dance · Strategy<CRLF>^ffffffRequires at least 5 points in the “Combat” Mastery.<CRLF><CRLF>Extends the duration of the War Drum Inspiring Dance effect."}
+{"id": 41, "english": "^c3dbffWar Drum Inspiring Dance · Support<CRLF>^ffffffRequires at least 5 points in the “Support” Mastery.<CRLF><CRLF>Enhances the Max Stamina bonus from the War Drum Inspiring Dance Move."}
+{"id": 42, "english": "^c3dbffInspire<CRLF><CRLF>^ffffffWeapon: Staff, Dance, Fan<CRLF>^ffffffCost: 50 Stamina<CRLF>^ffffffRiding: Instant　　　　　　　Cool-down 60 sec<CRLF><CRLF>^ffffffCheer on all nearby allies, granting them the Inspiration effect.<CRLF>^99ccffCan only be used in the Mounted Combat state."}
+{"id": 43, "english": "^c3dbffInspire<CRLF><CRLF>^ffffffWeapon: Dance<CRLF>^ffffffCost: 20 Stamina<CRLF>^ffffffCool-down: 60 sec<CRLF>^ffffffRiding: Instant<CRLF><CRLF>^ffffffInspire all allies, raising their mounts' direct damage Resistance.<CRLF>The effect lasts up to 45 sec.<CRLF><CRLF>^99ccffTactics Mastery; only one can be learned.<CRLF>^99ccffCan only be used in the Mounted Combat state."}
+{"id": 44, "english": "^c3dbffInspire^ffffff<CRLF><CRLF>Chariot Only             Cool-down Time: 3 sec<CRLF><CRLF>Beat the war drum carried on the chariot to grant your allies' chariots HP,<CRLF>restoring 10000 HP to allied chariots within 15 meters of you.<CRLF><CRLF>^99ccffRight-click the icon to toggle auto-cast"}
+{"id": 45, "english": "^c3dbffInspire^ffffff<CRLF><CRLF>Chariot Only             Cool-down Time: 6 sec<CRLF><CRLF>Beat the war drum carried on the chariot to restore 10000 HP to your own chariot.<CRLF><CRLF>^99ccffRight-click the icon to toggle auto-cast"}
+{"id": 46, "english": "^c3dbffTornado<CRLF><CRLF>^ffffffWeapon: Fan　　　　　　　　　35 Battle Qi<CRLF>Martial Art: Instant　　　　　　　Cool-down 6 sec<CRLF><CRLF>Instantly summon a whirlwind that engulfs a single target,<CRLF>dealing 150%% base damage.<CRLF>It also places the target in the Wind Assault state,<CRLF>reducing Attack Speed and Hit for 8 sec.<CRLF>Has a chance to deal Splash damage to the target."}
+{"id": 47, "english": "^c3dbffTornado · Sorcery<CRLF>^ffffffRequires at least 5 points in the Sorcery Mastery.<CRLF><CRLF>^ffffffIncreases the damage dealt by Tornado."}
+{"id": 48, "english": "^c3dbffTornado · Guard Break<CRLF>^ffffffRequires 5 points invested in Tornado · Strategy.<CRLF><CRLF>^ffffffStrikes on enemies in a Guard stance gain the Guard Break effect."}
+{"id": 49, "english": "^c3dbffTornado · Strategy<CRLF>^ffffffRequires at least 5 points in the Strategy Mastery.<CRLF><CRLF>^ffffffHas a chance to cast Tornado without consuming Battle Qi,<CRLF>and increases the damage Tornado deals while under Wind Armor.<CRLF>At 5 stacks, Tornado can cancel the enemy's Guard state,<CRLF>applying a 3 sec Guard Break.<CRLF>Increases the chance of Tornado dealing Splash damage."}
+{"id": 50, "english": "^c3dbffTornado Cyclone^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: III<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you<CRLF>for 104%% base damage."}
+{"id": 51, "english": "^c3dbffDragon's Cry, Weeping Blood^ffffff<CRLF>Type: Passive<CRLF><CRLF>Power granted by your lineage, greatly enhancing Ultimate Skills.<CRLF>Offensive Ultimate Skills apply the “Guts Shattered” state, drastically weakening enemy combat ability.<CRLF>“Guts Shattered” has no effect on the Ultimate Skills of the Staff, Fan, Dance and Fork weapon types."}
+{"id": 52, "english": "^c3dbffDragon Flame Bolt^ffffff<CRLF><CRLF>Chariot Only             Cool-down Time: 3 sec<CRLF><CRLF>Flames erupt from the front of the chariot to scorch enemies,<CRLF>dealing 100%% base damage to targets within 6 meters ahead.<CRLF><CRLF>^99ccffRight-click the icon to toggle auto-cast"}
+{"id": 53, "english": "^c3dbffDragon Flame Bolt^ffffff<CRLF><CRLF>Chariot Only             Cool-down Time: 3 sec<CRLF><CRLF>Flames erupt from the front of the chariot to scorch enemies,<CRLF>dealing 100%% base damage to targets within 6 meters ahead, and extra damage to railings.<CRLF><CRLF>^99ccffRight-click the icon to toggle auto-cast<CRLF>^99ccffChariots only deal 10%% damage to characters"}
+{"id": 54, "english": "^c3dbffDragon Flame Bolt^ffffff<CRLF><CRLF>Chariot Only             Cool-down Time: 3 sec<CRLF><CRLF>Flames erupt from the front of the chariot to scorch enemies,<CRLF>dealing 100%% base damage to targets within 6 meters ahead, and extra damage to railings.<CRLF><CRLF>^99ccffRight-click the icon to toggle auto-cast<CRLF>^99ccffChariots deal 60%% damage to characters<CRLF>Chariots deal 200%% damage to arrow towers"}
+{"id": 55, "english": "^c3dbffDragon Fang, Shattering Gold<CRLF><CRLF>^ffffffWeapon: Battleaxe　　　　　　　　60 Battle Qi　5 Stamina<CRLF>Finishing Move: Instant　　　　　　　　Cool-down 2 min<CRLF><CRLF>Release all your Rage to damage multiple enemies within a set range,<CRLF>and the Move applies a Cleaving Wound effect.<CRLF><CRLF>^99ccffAll struck targets enter Confusion,<CRLF>unable to control their movement."}
+{"id": 56, "english": "^c3dbffDragon Fang, Shattering Gold · Wound<CRLF>^ffffffRequires at least 30 points in the Wound Mastery.<CRLF><CRLF>^ffffffDragon Fang, Shattering Gold forces enemies from their mounts and adds an Immobilize effect."}
+{"id": 57, "english": "^c3dbffDragon Fang, Shattering Gold · Fury<CRLF>^ffffffRequires at least 30 points in the Fury Mastery.<CRLF><CRLF>^ffffffIncreases the damage dealt by Dragon Fang, Shattering Gold."}
+{"id": 58, "english": "^c3dbffDragon Soaring Spear Dance<CRLF><CRLF>^ffffffSwing this spear with dragon shadows in tow, unstoppable as bamboo splitting."}
+{"id": 59, "english": "^c3dbffDragon Heart<CRLF><CRLF>^ffffffType: Passive<CRLF>^ffffffRequired Hero Level: 36<CRLF>^ffffffAncestral Home Restriction: Jizhou<CRLF><CRLF>Zilong's courage knows no bounds; this is the Dragon Heart,<CRLF>with a 5%% chance to gain the Dragon Heart state when attacked,<CRLF>dispelling and becoming immune to Immobilize.<CRLF><CRLF>^99ccffDerived from Zhao Yun.<CRLF>^99ccffRequires the corresponding skill book to learn."}
+{"id": 60, "english": "^c3dbffDragon Heart^ffffff                                        ^ffcc00Level %d^ffffff<CRLF><CRLF>Tactic: Instant                 Cool-down: 2 min<CRLF><CRLF>Soul Art Type: Protection<CRLF>Summon a hero spirit merged into your body to strengthen your attributes,<CRLF>greatly increasing Attack Power and Max HP;<CRLF>after use you enter the “Dragon Heart” state,<CRLF>and each time you are hit you have a %d%% chance to gain the “Fearless” state,<CRLF>reducing direct damage taken by 50%% for 3 sec.<CRLF>When Fearless triggers while your HP is below 70%%,<CRLF>you additionally gain %d Crit Resistance.<CRLF>Fearless can trigger at most once every %d sec.<CRLF><CRLF>^99ccffTakes effect while Awakened"}
+{"id": 61, "english": "^c3dbffDragon Soaring Leap^ffffff<CRLF><CRLF>Soaring like a dragon and bounding like a tiger, full of vigor."}
+{"id": 62, "english": "^c3dbffDragon Elephant<CRLF><CRLF>^ffffffType: Passive<CRLF>^ffffffRequired Hero Level: 16<CRLF><CRLF>A blessing from your ancestral home,<CRLF>reducing the final value of incoming Crit Damage.<CRLF><CRLF>^99ccffRequires the corresponding skill book to learn."}
+{"id": 63, "english": "^c3dbffDragon Rider Thrust<CRLF><CRLF>^ffffffSwing this spear with dragon shadows in tow, breaking through a thousand."}
+{"id": 64, "english": "^c3dbfSmiling Brow<CRLF><CRLF>^ffffffWild Dance attacks used within 3 sec after Ambush<CRLF>have increased Wild Dance skill damage.<CRLF><CRLF>^99ccffEffortful Attack Mastery; only one can be learned."}
+{"id": 65, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - Stamina +20 Stamina Regen +1 Hit +5;<CRLF>Intermediate - Stamina +30 Stamina Regen +1 Hit +7;<CRLF>Advanced - Stamina +50 Stamina Regen +1 Hit +8."}
+{"id": 66, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - All Abnormal Status Resistance +9, lasts 10 min;<CRLF>Intermediate - All Abnormal Status Resistance +9, lasts 20 min;<CRLF>Advanced - All Abnormal Status Resistance +9, lasts 25 min."}
+{"id": 67, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - Attack +10 Dodge +5;<CRLF>Intermediate - Attack +20 Dodge +7;<CRLF>Advanced - Attack +50 Dodge +9."}
+{"id": 68, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - Attack +20 Hit +2 Crit +2;<CRLF>Intermediate - Attack +30 Hit +4 Crit +4;<CRLF>Advanced - Attack +60 Hit +5 Crit +5."}
+{"id": 69, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - Attack +20 Defense +16 HP +200 Crit +3;<CRLF>Intermediate - Attack +30 Defense +21 HP +450 Crit +3;<CRLF>Advanced - Attack +60 Defense +50 HP +1500 Crit +4."}
+{"id": 70, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - Attack +5 Defense +5 HP +100;<CRLF>Intermediate - Attack +15 Defense +10 HP +200;<CRLF>Advanced - Attack +40 Defense +35 HP +300."}
+{"id": 71, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - Attack Strength +3%% Defense +5 Out-of-Combat HP Regen +5;<CRLF>Intermediate - Attack Strength +6%% Defense +10 Out-of-Combat HP Regen +10;<CRLF>Advanced - Attack Strength +7%% Defense +30 Out-of-Combat HP Regen +30."}
+{"id": 72, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - Crit Damage +10%% Defense +10 Movement Speed +0.1 m/s;<CRLF>Intermediate - Crit Damage +10%% Defense +20 Movement Speed +0.1 m/s;<CRLF>Advanced - Crit Damage +10%% Defense +50 Movement Speed +0.2 m/s."}
+{"id": 73, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - HP +160 HP Regen +5;<CRLF>Intermediate - HP +260 HP Regen +10;<CRLF>Advanced - HP +660 HP Regen +30."}
+{"id": 74, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - HP +60 Stamina +15 Out-of-Combat Stamina Regen +2;<CRLF>Intermediate - HP +160 Stamina +25 Out-of-Combat Stamina Regen +2;<CRLF>Advanced - HP +360 Stamina +35 Out-of-Combat Stamina Regen +2."}
+{"id": 75, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - HP Regen +10 In-Combat Stamina Regen +1 Dodge +5, lasts 10 min;<CRLF>Intermediate - HP Regen +10 In-Combat Stamina Regen +1 Dodge +5, lasts 20 min;<CRLF>Advanced - HP Regen +10 In-Combat Stamina Regen +1 Dodge +5, lasts 25 min."}
+{"id": 76, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - Movement Speed +0.3 m/s, lasts 10 min;<CRLF>Intermediate - Movement Speed +0.3 m/s, lasts 20 min;<CRLF>Advanced - Movement Speed +0.3 m/s, lasts 25 min."}
+{"id": 77, "english": "^ffcc00Military Art Effect^ffffff<CRLF>Basic - Mount Speed +0.5 m/s, lasts 10 min;<CRLF>Intermediate - Mount Speed +0.5 m/s, lasts 20 min;<CRLF>Advanced - Mount Speed +0.5 m/s, lasts 25 min."}
+{"id": 78, "english": "^ffcc00Military Art Effect^ffffff - Training Share +10%%."}
+{"id": 79, "english": "^ffcc00Military Art Effect^ffffff - Training Share +15%%."}
+{"id": 80, "english": "^ffcc00Military Art Effect^ffffff - Training Share +5%%."}
+{"id": 81, "english": "^ffcc00Military Art Level^ffffff: %d"}
+{"id": 82, "english": "^ffcc00Learning Requirement^ffffff - Protagonist Level 20."}
+{"id": 83, "english": "^ffcc00Learning Requirement^ffffff - Protagonist Level 25."}
+{"id": 84, "english": "^ffcc00Learning Requirement^ffffff - Protagonist Level 30.<CRLF>Once learned, you may consult the Mysterious Horse Trader about Mounted Combat."}
+{"id": 85, "english": "^ffcc00Learning Requirement^ffffff - Must have learned ^c3dbffAdvanced Riding^ffffff, character level ^c3dbff30^ffffff.<CRLF>^ffcc00Special Effect^ffffff - You can fight on horseback while in the Mounted Combat state;<CRLF>your mount's Melee Resistance is reduced by 10 and indirect Resistance by 20,<CRLF>base Mount Speed +0.5, and you can fight while mounted;<CRLF>your basic attacks then grant 1 Battle Qi and Mounted Combat Moves become available.<CRLF>Note: The character enhancement effects<CRLF>vanish when entering or leaving the Mounted Combat state; if you leave Mounted Combat by dismounting,<CRLF>mounting again will automatically re-enter the Mounted Combat state."}
+{"id": 86, "english": "^ffcc00Effect ^ffffff - 350 total damage over 9 sec, reduces direct Resistance<CRLF>same as Heartrend Claw."}
+{"id": 87, "english": "^ffcc00Effect ^ffffff - Dance healing skills also restore Battle Qi to yourself."}
+{"id": 88, "english": "^ffcc00Effect ^ffffff - Thrash and Reverse Strike have a %d%% chance to extend Chain Dance duration, and Pointed Thrust and Wild Pierce have a %d%% chance to extend Chain Dance duration"}
+{"id": 89, "english": "^ffcc00Effect ^ffffff - +2 sec to Immobilize duration."}
+{"id": 90, "english": "^ffcc00Effect ^ffffff - Adds Assassin points,<CRLF>0 Assassin: lasts 5 sec;<CRLF>1 Assassin: lasts 7 sec;<CRLF>2 Assassin: lasts 9 sec;<CRLF>3 Assassin: lasts 11 sec;<CRLF>4 Assassin: lasts 13 sec;<CRLF>5 Assassin: lasts 15 sec."}
+{"id": 91, "english": "^ffcc00Effect ^ffffff - Attack Power and Defense enhancement effects last 50%% longer."}
+{"id": 92, "english": "^ffcc00Effect ^ffffff - Meteor Arrow can Slow by up to 2 m/s"}
+{"id": 93, "english": "^ffcc00Effect ^ffffff - Secondary effects gain +5%% Move Attack Strength."}
+{"id": 94, "english": "^ffcc00Effect ^ffffff - Secondary effects gain +5 Move Hit."}
+{"id": 95, "english": "^ffcc00Effect ^ffffff - Conceals you so enemies cannot detect you,<CRLF>costing 5 Stamina every 2 sec; 10 sec cool-down after being revealed."}
+{"id": 96, "english": "^ffcc00Effect ^ffffffNearby allies are immune to Slow and Immobilize effects for 12 sec."}
+{"id": 97, "english": "^ffcc00Effect^ffffff<CRLF>Spinning Blade Throw - High chance to also apply a 3 sec Disarm effect;<CRLF>Spinning Blade Barrage - Confusion causes up to a 1.5x reduction in Attack Speed;<CRLF>Flash Spin - damage from torn wounds increased by 33%%;<CRLF>Venom Blade Spin - lowers the chance of enemies resisting Frenzy, Stun and Slow effects."}
+{"id": 98, "english": "^ffcc00Effect^ffffff  -Each stack of “Mountain Slash” boosts the damage<CRLF>of the next Cleaving Mount Hua by 30%%."}
+{"id": 99, "english": "^ffcc00Effect^ffffff  -Each stack of “Peak Breaker” reduces Cleaving Mount Hua's 8 sec cool-down,<CRLF>and boosts the damage of the next Cleaving Mount Hua by 10%%."}
+{"id": 100, "english": "^ffcc00Effect^ffffff - <CRLF>Targets under Shatter Gold take up to 10%% increased magic damage."}
+{"id": 101, "english": "^ffcc00Effect^ffffff - %d%% base damage, 30 less Hit than Meteor Arrow."}
+{"id": 102, "english": "^ffcc00Effect^ffffff - 20%% chance to break free of Immobilize."}
+{"id": 103, "english": "^ffcc00Effect^ffffff - 33%% chance to remove all Seal-type negative effects."}
+{"id": 104, "english": "^ffcc00Effect^ffffff - “Focus” state grants +30%% Attack Speed."}
+{"id": 105, "english": "^ffcc00Effect^ffffff - Damage Resistance is maxed out for 10 sec."}
+{"id": 106, "english": "^ffcc00Effect^ffffff - Full Moon Slash stun duration +1 sec."}
+{"id": 107, "english": "^ffcc00Effect^ffffff - Stuns targets under Burning for %d sec"}
+{"id": 108, "english": "^ffcc00Effect^ffffff - War Drum Inspiring Dance now also affects allies within 20 meters."}
+{"id": 109, "english": "^ffcc00Effect^ffffff - Five-Step Shot has a 100%% chance to<CRLF>cancel the target's Defense state and apply a 4 sec Guard Break."}
+{"id": 110, "english": "^ffcc00Effect^ffffff - Meteor Bolt ignores 20 points of the target's indirect Resistance."}
+{"id": 111, "english": "^ffcc00Effect^ffffff - Cool-down time reduced by 60 sec."}
+{"id": 112, "english": "^ffcc00Effect^ffffff - Wind-up time shortened by 0.5 sec, damage +50%%"}
+{"id": 113, "english": "^ffcc00Effect^ffffff - Focus effect increased by 33%%."}
+{"id": 114, "english": "^ffcc00Effect^ffffff - Focus Bolt can break the target's Block state."}
+{"id": 115, "english": "^ffcc00Effect^ffffff - Assassin point cap increased"}
+{"id": 116, "english": "^ffcc00Effect^ffffff - Crescent Moon Bolt has a 15%% chance to reset its cool-down."}
+{"id": 117, "english": "^ffcc00Effect^ffffff - Crescent Moon Bolt has a 50%% chance to place the target in the Arrow Wound state."}
+{"id": 118, "english": "^ffcc00Effect^ffffff - Can reach 4 stages of Strategizing."}
+{"id": 119, "english": "^ffcc00Effect^ffffff - Stuns the target for 3 sec; if Shadow Seal also triggers,<CRLF>the stun lasts 5 sec."}
+{"id": 120, "english": "^ffcc00Effect^ffffff - Control Move durations are changed to:<CRLF>Five-Step Shot stun +2 sec (total stun from the Move cannot exceed 6 sec);<CRLF>Multi-Bolt Barrage mastery Slow duration +2 sec."}
+{"id": 121, "english": "^ffcc00Effect^ffffff - Taunt duration +2 sec."}
+{"id": 122, "english": "^ffcc00Effect^ffffff - Focus Bolt used in Light Crossbow state Immobilizes the target for 2 sec."}
+{"id": 123, "english": "^ffcc00Effect^ffffff - Adds 2 Threat points; can be used in combat."}
+{"id": 124, "english": "^ffcc00Effect^ffffff - Adds 2 Threat points; must be used out of combat."}
+{"id": 125, "english": "^ffcc00Effect^ffffff - Crit chance increased<CRLF>Wind Orb: 25%% chance<CRLF>Wind Bolt: 15%% chance<CRLF>Tornado: 40%% chance<CRLF>^ffcc00Effect^ffffff - Splash chance increased<CRLF>Wind Orb:  +30%%<CRLF>Wind Bolt:  +15%%<CRLF>Tornado: +40%%"}
+{"id": 126, "english": "^ffcc00Effect^ffffff - Dismemberment base Attack Power increased by (Movement Speed - 4.5) * %d%%, capped at 150%%."}
+{"id": 127, "english": "^ffcc00Effect^ffffff - Immobilize chance increased to 100%%."}
+{"id": 128, "english": "^ffcc00Effect^ffffff - Stuns Blocking targets for 4 sec."}
+{"id": 129, "english": "^ffcc00Effect^ffffff - Cloud Seal Raid hits 2 additional enemies."}
+{"id": 130, "english": "^ffcc00Effect^ffffff - While in Mirage, Defense and Crit Resistance bonuses are increased by 50%%."}
+{"id": 131, "english": "^ffcc00Effect^ffffff - Once active, each hit on a target grants +5%% Attack Speed."}
+{"id": 132, "english": "^ffcc00Effect^ffffff - Once active, +10 Battle Qi per second for 10 sec."}
+{"id": 133, "english": "^ffcc00Effect^ffffff - Skills used in the Enhanced Heavy Crossbow state randomly Slow the target by 0.1~2 m/s."}
+{"id": 134, "english": "^ffcc00Effect^ffffff - Skills used in the Enhanced Light Crossbow state gain +10%% Crit chance."}
+{"id": 135, "english": "^ffcc00Effect^ffffff - Hitting an opponent with Quick Slash<CRLF>interrupts their Move wind-up."}
+{"id": 136, "english": "^ffcc00Effect^ffffff - Under the Backstab effect, Backstab attacks<CRLF>against enemies gain an extra stack of the Assassin effect."}
+{"id": 137, "english": "^ffcc00Effect^ffffff - Drains 5 Battle Qi from the target when a Move lands"}
+{"id": 138, "english": "^ffcc00Effect^ffffff - Restores 15 Battle Qi."}
+{"id": 139, "english": "^ffcc00Effect^ffffff - Vanish instantly in combat to evade a sudden enemy assault."}
+{"id": 140, "english": "^ffcc00Effect^ffffff - Meridian Cut wind-up reduced by 1 sec,<CRLF>Throat Cut wind-up reduced by 0.3 sec."}
+{"id": 141, "english": "^ffcc00Effect^ffffff - Cancelling an enemy's Block state additionally deals<CRLF>defense-ignoring damage equal to 55%% of Max Attack Power."}
+{"id": 142, "english": "^ffcc00Effect^ffffff - Cancels the enemy's Guard state, applying a 3 sec Guard Break."}
+{"id": 143, "english": "^ffcc00Effect^ffffff - Moves that hit enemies with the Piercing Wound effect also Immobilize them."}
+{"id": 144, "english": "^ffcc00Effect^ffffff - +%d%% Defense."}
+{"id": 145, "english": "^ffcc00Effect^ffffff - +200 Dodge; reverts to normal after a successful Dodge."}
+{"id": 146, "english": "^ffcc00Effect^ffffff - +5%% Attack Strength."}
+{"id": 147, "english": "^ffcc00Effect^ffffff - Fireball, Flame Burst, Flame Rupture and Wildfire gain +5%% Crit chance<CRLF>^ffcc00Effect^ffffff - Splash chance increased<CRLF>Fireball:  +30%%<CRLF>Fire Seed:  +30%%<CRLF>Flame Burst: +40%%"}
+{"id": 148, "english": "^ffcc00Effect^ffffff - +3%% Max HP."}
+{"id": 149, "english": "^ffcc00Effect^ffffff - +5%% Max HP and +5 Hit."}
+{"id": 150, "english": "^ffcc00Effect^ffffff - Battle Tattoo and Bedrock Tattoo effects increased by 20%%."}
+{"id": 151, "english": "^ffcc00Effect^ffffff - Tears open enemy wounds for 20 sec."}
+{"id": 152, "english": "^ffcc00Effect^ffffff - Chance to gain a Tactics point from attacks increased to 100%%."}
+{"id": 153, "english": "^ffcc00Effect^ffffff - While casting Arrow Rainstorm, you gain an extremely powerful Damage Absorption Shield,<CRLF>absorbing all damage for 3 sec."}
+{"id": 154, "english": "^ffcc00Effect^ffffff - Effect is 1 Stamina recovered per second."}
+{"id": 155, "english": "^ffcc00Effect^ffffff - Moon-Cutting Slash, when attacking downed enemies,<CRLF>deals extra defense-ignoring damage equal to 25%% of Max Attack Power."}
+{"id": 156, "english": "^ffcc00Effect^ffffff - Your own Coma duration is shortened by 1 sec after casting “Earth Sorrow Strike”."}
+{"id": 157, "english": "^ffcc00Effect^ffffff - Puts the enemy in a 10 sec Coma."}
+{"id": 158, "english": "^ffcc00Effect^ffffff - Absorbs damage up to 25%% of your Max HP."}
+{"id": 159, "english": "^ffcc00Effect^ffffff - Further reduces Crit Resistance by up to 15 points."}
+{"id": 160, "english": "^ffcc00Effect^ffffff - %d%% chance for the next Ice Spike to cost nothing"}
+{"id": 161, "english": "^ffcc00Effect^ffffff - %d%% chance to ignore the target's Stun resistance"}
+{"id": 162, "english": "^ffcc00Effect^ffffff - Being attacked while Blocking costs<CRLF>5 Stamina and restores 5 Battle Qi."}
+{"id": 163, "english": "^ffcc00Effect^ffffff - Each time you Dodge an attack you gain one Threat point for 10 sec."}
+{"id": 164, "english": "^ffcc00Effect^ffffff - Insight grants an extra +5 Hit,<CRLF>Precision grants an extra +2 Penetration."}
+{"id": 165, "english": "^ffcc00Effect^ffffff - Stamina cost reduced by 3%%, Crit Rate increased by 3%%,<CRLF>stacking up to 10 times.<CRLF>^ffcc00Effect^ffffff - Splash chance increased<CRLF>Ice Spike:  +30%%<CRLF>Curse Ice: +40%%"}
+{"id": 166, "english": "^ffcc00Effect^ffffff - Third hit of Arrow Rainstorm Paralyzes the target for 3 sec."}
+{"id": 167, "english": "^ffcc00Effect^ffffff - Frenzy, Slow and Coma last 8/6/4 sec respectively."}
+{"id": 168, "english": "^ffcc00Effect^ffffff - Max HP +100, Attack Power +5"}
+{"id": 169, "english": "^ffcc00Effect^ffffff - Max HP +100, Defense +3"}
+{"id": 170, "english": "^ffcc00Effect^ffffff - Max HP +100, Defense +8"}
+{"id": 171, "english": "^ffcc00Effect^ffffff - Max HP +3%%, Attack Power +8"}
+{"id": 172, "english": "^ffcc00Effect^ffffff - Max HP +3%%, Attack Strength +2%%"}
+{"id": 173, "english": "^ffcc00Effect^ffffff - Max HP +3%%, Crit Rate +2"}
+{"id": 174, "english": "^ffcc00Effect^ffffff - Max HP +3%%, Weaken Resistance +5"}
+{"id": 175, "english": "^ffcc00Effect^ffffff - Max HP +3%%, Defense +5"}
+{"id": 176, "english": "^ffcc00Effect^ffffff - Max HP +3%, Defense +5"}
+{"id": 177, "english": "^ffcc00Effect^ffffff - HP +100, Hit +3"}
+{"id": 178, "english": "^ffcc00Effect^ffffff - HP +100, Attack Power +8"}
+{"id": 179, "english": "^ffcc00Effect^ffffff - HP +100, Attack Strength +2%%"}
+{"id": 180, "english": "^ffcc00Effect^ffffff - HP +100, Direct Resistance +5"}
+{"id": 181, "english": "^ffcc00Effect^ffffff - HP +100, Crit Damage +5%%"}
+{"id": 182, "english": "^ffcc00Effect^ffffff - HP +100, Crit Resistance +3%%"}
+{"id": 183, "english": "^ffcc00Effect^ffffff - HP +100, Crit Rate +2"}
+{"id": 184, "english": "^ffcc00Effect^ffffff - HP +100, Dodge +3"}
+{"id": 185, "english": "^ffcc00Effect^ffffff - HP +100, indirect Resistance +5"}
+{"id": 186, "english": "^ffcc00Effect^ffffff - Teleport instantly to an enemy's side."}
+{"id": 187, "english": "^ffcc00Effect^ffffff - Courage-Sunder's Battle Qi drain effect increased by %d%%."}
+{"id": 188, "english": "^ffcc00Effect^ffffff - Movement Speed reduced by 2 m/s"}
+{"id": 189, "english": "^ffcc00Effect^ffffff - Penetration +5."}
+{"id": 190, "english": "^ffcc00Effect^ffffff - Tiger Among Sheep Stun chance increased by 25%%."}
+{"id": 191, "english": "^ffcc00Effect^ffffff - Allows you to equip armor plating; compared with normal armor,<CRLF>armor plating usually copes better with combat."}
+{"id": 192, "english": "^ffcc00Effect^ffffff - Stamina regeneration rate +1 after entering combat."}
+{"id": 193, "english": "^ffcc00Effect^ffffff - Deals damage equal to 100%% of Max Attack Power."}
+{"id": 194, "english": "^ffcc00Effect^ffffff - The health drain effect is increased by 50%%."}
+{"id": 195, "english": "^ffcc00Effect^ffffff - Cool-down of some Moves is reduced."}
+{"id": 196, "english": "^ffcc00Effect^ffffff - Crit chance of some Moves is increased by up to 20%%."}
+{"id": 197, "english": "^ffcc00Effect^ffffff - Rainbow Piercer damage increased by 100%%"}
+{"id": 198, "english": "^ffcc00Effect^ffffff - Rainbow Piercer interval<CRLF>reduced by 30 sec, Crit +25."}
+{"id": 199, "english": "^ffcc00Effect^ffffff - Applies a brief Slow effect."}
+{"id": 200, "english": "^ffcc00Effect^ffffff - Sparrow-falling Staff Stuns the target for %d sec"}
+{"id": 201, "english": "^ffcc00Effect^ffffff - Thunder Armor casting acceleration increased by 5%%,<CRLF>Swift Bolt, Thunder Strike and Quaking Thunder deal up to 20%% more damage,<CRLF>and Swift Bolt also has 0.5 sec less wind-up.<CRLF>^ffcc00Effect^ffffff - Splash chance increased<CRLF>Quaking Thunder: +20%%<CRLF>Thunder Strike: +40%%"}
+{"id": 202, "english": "^ffcc00Effect^ffffff - Azure Dragon Crescent damage multiplier increased by 100%%,<CRLF>and damage to the target is increased by 50%% in mounted combat."}
+{"id": 203, "english": "^ffcc00Effect^ffffff - Azure Dragon Crescent interval<CRLF>reduced by 30 sec, +25 Crit for this Move."}
+{"id": 204, "english": "^ffcc00Effect^ffffff - Heals an extra 20%% of the healing done by Trickling Dance"}
+{"id": 205, "english": "^ffcc00Effect^ffffff - Extra 2 sec Stun."}
+{"id": 206, "english": "^ffcc00Effect^ffffff - Deals 120%% of Max Attack Power as defense-ignoring damage,<CRLF>and Silences the enemy for 5 sec."}
+{"id": 207, "english": "^ffcc00Effect^ffffff:Restores up to 20000 HP."}
+{"id": 208, "english": "^ffcc00Effect^ffffff:Each stack of Soul Imprint reduces the target's direct Resistance by 1 and Dodge by 1."}
+{"id": 209, "english": "^ffcc00Effect^ffffff:Each stack of Heavenly Palisade grants +60 Defense and +4 Coma Resistance."}
+{"id": 210, "english": "^ffcc00Effect^ffffff - Raises allies' Max HP by %d for 30 sec.<CRLF>This Move's special effect is also affected by the user's aptitude."}
+{"id": 211, "english": "^ffcc00Effect^ffffff - Raises mount Movement Speed by 0.5 m/s,<CRLF>lasting 4 sec, up to a maximum Movement Speed of 3 m/s."}
+{"id": 212, "english": "^ffcc00Effect^ffffff - Raises mount Movement Speed by 0.5 m/s,<CRLF>the player loses 7 Stamina per second for up to 300 sec."}
+{"id": 213, "english": "^ffcc00Effect^ffffff - Raises mount Movement Speed by 1.5 m/s,<CRLF>the player loses 6 Stamina per second for up to 300 sec."}
+{"id": 214, "english": "^ffcc00Effect^ffffff - Raises mount Movement Speed by 1 m/s,<CRLF>and charging for more than 3 sec grants the “Instant Kill” state, +20 Hit,<CRLF>and grants special effects to some mounted Moves of melee weapons.<CRLF>Both the Charge and Instant Kill states end after any attack."}
+{"id": 215, "english": "^ffcc00Effect^ffffff - Raises mount Movement Speed by 1 m/s,<CRLF>charging for more than 3 sec grants the “Instant Kill” state, +20 mounted Hit,<CRLF>and grants special effects to some mounted Moves of melee weapons.<CRLF>Both the Charge and Instant Kill states end after any attack."}
+{"id": 216, "english": "^ffcc00Effect^ffffff - Raises mount Movement Speed by 1 m/s,<CRLF>and an Onslaught lasting more than 3 sec grants the “Skybreaker” state, +40 Hit,<CRLF>and grants special effects to some mounted Moves of melee weapons.<CRLF>Both the Onslaught and Skybreaker states end after any attack."}
+{"id": 217, "english": "^ffcc00Effect^ffffff - Raises mount Movement Speed by 1 m/s,<CRLF>an Onslaught lasting more than 3 sec grants the “Skybreaker” state, +40 mounted Hit,<CRLF>and grants special effects to some mounted Moves of melee weapons.<CRLF>Both the Onslaught and Skybreaker states end after any attack."}
+{"id": 218, "english": "^ffcc00Effect^ffffff - Raises mount Movement Speed by 1 m/s,<CRLF>the player loses 5 Stamina per second for up to 300 sec."}
+{"id": 219, "english": "^ffcc00Effect^ffffff - Can be used with your back to the enemy and always hits,<CRLF>Sealing the enemy briefly so they cannot use any Move for 6 sec,<CRLF>and the effect ends if the target is attacked."}
+{"id": 220, "english": "^ffcc00Effect^ffffff - Hit Modifier +0, grants 5 Battle Qi on hit."}
+{"id": 221, "english": "^ffcc00Effect^ffffff - Hit Modifier +15.<CRLF>If the target is under effects such as Sprint, Charge or Onslaught,<CRLF>these movement buffs are cancelled."}
+{"id": 222, "english": "^ffcc00Effect^ffffff - Hit Modifier +20.<CRLF>Also dispels Immobilize and Trip Horse after use."}
+{"id": 223, "english": "^ffcc00Effect^ffffff - Hit Modifier +50, Stuns the enemy for 3 sec.<CRLF>After hitting an enemy, +35 Dodge and +15 indirect Resistance for 8 sec."}
+{"id": 224, "english": "^ffcc00Effect^ffffff - Hit Modifier -15, grants 15 Battle Qi on hit;<CRLF>if used right after a Restraint attack, Move Hit +30 and wind-up shortened by 0.5 sec;<CRLF>if used right after an Effortful attack, Move Hit +20 and wind-up shortened by 1.5 sec."}
+{"id": 225, "english": "^ffcc00Effect^ffffff - Hit Modifier -20, grants 15 Battle Qi on hit.<CRLF>Move Hit +30 if used right after a Restraint attack."}
+{"id": 226, "english": "^ffcc00Effect^ffffff - Hit Modifier -40, grants 15 Battle Qi on hit.<CRLF>If used right after a Restraint attack, Move Hit +30 and wind-up shortened by 0.5 sec;<CRLF>if used right after a Standard attack, Move Hit +50 and wind-up shortened by 1 sec."}
+{"id": 227, "english": "^ffcc00Effect^ffffff - Hit Modifier -40, grants 15 Battle Qi on hit.<CRLF>Move Hit +30 if used right after a Restraint attack;<CRLF>Move Hit +50 if used right after a Standard attack.<CRLF>Also has a 50%% chance to apply a 10 sec Arrow Wound effect."}
+{"id": 228, "english": "^ffcc00Effect^ffffff - Hit Modifier -5.<CRLF>Struck targets are Slowed by 2 m/s,<CRLF>and have a chance to suffer Trip Horse,<CRLF>reducing Mount Speed by 2.5 m/s for 6 sec."}
+{"id": 229, "english": "^ffcc00Effect^ffffff - Hit Modifier 0,<CRLF>granting 1 Battle Qi per enemy hit, up to 4 enemies.<CRLF>When Battle Qi exceeds 10 and Stamina is not full, 10 Battle Qi and 5 Stamina are consumed;<CRLF>otherwise 15 Stamina is consumed."}
+{"id": 230, "english": "^ffcc00Effect^ffffff - Hit Modifier 0,<CRLF>granting 1 Battle Qi per enemy hit, up to 5 enemies.<CRLF>When Battle Qi exceeds 15 and Stamina is not full,<CRLF>15 Battle Qi and 5 Stamina are consumed."}
+{"id": 231, "english": "^ffcc00Effect^ffffff - Always hits, target indirect Resistance -10%%,<CRLF>and the target takes damage equal to 10%% of your average Attack Power per second,<CRLF>with a 50%% chance of Trip Horse on hit for 5 sec."}
+{"id": 232, "english": "^ffcc00Effect^ffffff - Boosts the “Valor” effect every second,<CRLF>each stack granting +15 Hit and +2 Crit,<CRLF>and finally grants 5 Battle Qi; stacks up to 3 for 30 sec.<CRLF>Some mounted Moves of melee weapons gain special effects during this time,<CRLF>and the “Valor” effect ends after any attack."}
+{"id": 233, "english": "^ffcc00Effect^ffffff - Gain 20 Battle Qi (which will not drain for 4 sec),<CRLF>and your Attack is increased by %d with no time limit."}
+{"id": 234, "english": "^ffcc00Effect^ffffff - Gain 20 Battle Qi (which will not drain for 4 sec),<CRLF>and Defense +%d and indirect Resistance +5 with no time limit.<CRLF>While in the Stand Firm state, being attacked has a %d%% chance to gain the Solid Armor state,<CRLF>granting +1 direct and indirect Resistance for 10 sec, stacking up to 5 times."}
+{"id": 235, "english": "^ffcc00Effect^ffffff - Gain 20 Battle Qi (which will not drain for 4 sec),<CRLF>and mounted Attack Power +%d,<CRLF>and mounted Crit +5 with no time limit."}
+{"id": 236, "english": "^ffcc00Effect^ffffff - Gain 20 Battle Qi (which will not drain for 4 sec),<CRLF>and mount Defense +%d,<CRLF>and mount Crit Resistance +5 with no time limit."}
+{"id": 237, "english": "^ffcc00Level %d/1^ffffff -  Deals 30%% base damage to the target,<CRLF>and inflicts Confusion and Blindness."}
+{"id": 238, "english": "^ffcc00Level %d/1^ffffff - %d%% chance to activate a 10 sec Combo mode.<CRLF>Attack Speed +%d%% and attack range +%d meters for 3 sec."}
+{"id": 239, "english": "^ffcc00Level %d/1^ffffff - Sword of Lone Wind damage multiplier increased by %d%%"}
+{"id": 240, "english": "^ffcc00Level %d/1^ffffff - Sword of Lone Wind interval<CRLF>reduced by %d sec, +%d Crit, and Splash duration +15 sec.<CRLF>During Sword of Lone Wind, your own Damage Resistance +%d."}
+{"id": 241, "english": "^ffcc00Level %d/1^ffffff - Armor Discard from Wind Piercer lasts %d sec longer"}
+{"id": 242, "english": "^ffcc00Level %d/1^ffffff - Damage Resistance +31"}
+{"id": 243, "english": "^ffcc00Level %d/1^ffffff - Damage Resistance +7<CRLF>damage dealt to the target increases successively by %d%%"}
+{"id": 244, "english": "^ffcc00Level %d/1^ffffff - Also grants +3 Penetration."}
+{"id": 245, "english": "^ffcc00Level %d/1^ffffff - Deals 50%% base damage to the target,<CRLF>with a chance to break the target's Defense.<CRLF>Has a chance to knock down targets carrying the “Flaw” state. "}
+{"id": 246, "english": "^ffcc00Level %d/1^ffffff - +1.5 m/s Movement Speed, costing 7 Stamina per second."}
+{"id": 247, "english": "^ffcc00Level %d/1^ffffff - Being attacked while Blocking restores Battle Qi and reduces Stamina.<CRLF>Blocking negates some of the disabling effects of enemy attacks."}
+{"id": 248, "english": "^ffcc00Level %d/1^ffffff - Each Combo point grants +%d Crit<CRLF>and at 3 stacks of Galewind, Crit Damage +%d%%."}
+{"id": 249, "english": "^ffcc00Level %d/1^ffffff - Splash chance +%d%%, duration +3 sec."}
+{"id": 250, "english": "^ffcc00Level %d/1^ffffff - Splash chance +%d%%, duration +3 sec.<CRLF>Straight Thrust has a %d%% chance to activate a 10 sec Combo mode."}
+{"id": 251, "english": "^ffcc00Level %d/2^ffffff<CRLF>^c3dbffLevel 1^ffffffEffect: each time you are hit, direct Resistance +1;<CRLF>^c3dbffLevel 2^ffffffEffect: each time you are hit, direct Resistance +1 and indirect Resistance +1."}
+{"id": 252, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to interrupt<CRLF>the enemy's Move and apply a 3 sec Guard Break."}
+{"id": 253, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to interrupt and trigger a Guard Break."}
+{"id": 254, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to take effect."}
+{"id": 255, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to gain 1 Tactics point."}
+{"id": 256, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to cancel the enemy's Block state."}
+{"id": 257, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to briefly Stun."}
+{"id": 258, "english": "^ffcc00Level %d/2^ffffff - %d%% chance to Slow the enemy by 1.5 m/s."}
+{"id": 259, "english": "^ffcc00Level %d/2^ffffff - %d Combo stacks<CRLF>reset Mindseeker Needle's cool-down"}
+{"id": 260, "english": "^ffcc00Level %d/2^ffffff - Immune to these negative effects for %d sec."}
+{"id": 261, "english": "^ffcc00Level %d/2^ffffff - Storm Crossbow reduces target Movement Speed by %.1f m/s."}
+{"id": 262, "english": "^ffcc00Level %d/2^ffffff - Threat point duration +%d sec"}
+{"id": 263, "english": "^ffcc00Level %d/2^ffffff - Damage Resistance +%d%%."}
+{"id": 264, "english": "^ffcc00Level %d/2^ffffff - Damage Resistance +%d"}
+{"id": 265, "english": "^ffcc00Level %d/2^ffffff - Damage +%d%%."}

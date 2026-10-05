@@ -1,0 +1,9 @@
+mode: DRY-RUN
+colour-code fixes: 9   text fixes: 1
+violations: 6
+   ('batch_005', 70, 'still differs from source: padding runs')
+   ('batch_005', 123, 'still differs from source: padding runs')
+   ('batch_005', 124, 'still differs from source: padding runs')
+   ('batch_005', 142, 'still differs from source: padding runs')
+   ('batch_012', 97, 'surplus ^c3dbff is not the trailing colour code')
+   ('batch_012', 97, 'still differs from source: colour,numbers')

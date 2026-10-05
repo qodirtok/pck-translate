@@ -1,0 +1,413 @@
+========================================================================
+PART 1: sentinel audit over tr3 in/ files
+========================================================================
+source file item_ext_desc.txt: bytes=4919090 bom=b'\xff\xfe' codec=utf-16-le
+  real CRLF pairs in file: 29629
+  lone LF in file       : 29891
+  lone CR in file       : 0
+
+need.json payloads: 18935 keys
+  sentinel <CRLF>=0 <LF>=0 <CR>=0   raw CR=0 LF=244
+
+in/ census over 18935 records:
+  <CRLF>   0
+  <LF>     244
+  <CR>     0
+  raw_CR   0
+  raw_LF   0
+  pct_pct  0
+  pct_bare 1099
+
+VERDICT: in/ source form = SENTINELED
+  (finalize maps in/ source -> need.json payload keys; the two must
+   agree on sentinel form or every lookup misses and the file SKIPs)
+
+========================================================================
+PART 2: established renderings from aligned current/Translate pairs
+========================================================================
+source n-grams with count>=25: 7320
+
+aligned file pairs: 47
+
+top terms with established renderings (corpus count >= 25):
+
+使用  (src count 8744)
+    x22  Can only be used in mounted combat."
+    x18  Can only be used while mounted."
+    x16  Can only be used in Mounted Combat state."
+开启  (src count 8457)
+    x6   "Eight-Formation Open Emblem Effect"
+    x5   This unit is undergoing Assisted Training; if the Chibi Assistant is not enabled,
+    x2   While Inspiration is activated, Crit Damage is additionally raised."
+技能  (src count 7349)
+    x122 Requires the corresponding skill book to learn."
+    x106 Skill Quality: IV
+    x92  Skill Rank: IV
+获得  (src count 7109)
+    x12  Re-equip after leveling up to gain the new growth effect"
+    x10  chance to consume 5 Stamina and gain 5 Battle Qi."
+    x9   "With this, you automatically receive the Huarong Road
+礼包  (src count 6976)
+    x10  "Year of the Tiger Spring Festival Big Gift Pack Buff Skill"
+    x2   "Event 09 GM Lucky Gift Pack"
+    x2   "Tiger's Might Gift Pack Skill"
+可以  (src count 6612)
+    x18  "Effect - Allows you to equip armor plating; compared with normal armor,
+    x10  you can land a Devastating Strike that interrupts enemy chanting,
+    x10  Mount Steadfast can Reduce the chance of being thrown from the mount."
+物品  (src count 5473)
+    x6   "Item - GM Haste Potion"
+    x4   "Item - Recover MP2"
+    x4   "Item - Recover HP with Out-of-Combat HPgen"
+右键  (src count 4508)
+    x8   Right-click the icon to toggle auto-cast"
+    x4   Right-click the icon to toggle auto-cast
+    x4   Right-click the icon to toggle the auto-cast function
+点击  (src count 4366)
+    x12  After use, click “Activate Armor” below."
+    x8   Right-click the icon to toggle auto-cast"
+    x4   Right-click the icon to toggle auto-cast
+键点  (src count 4082)
+    x8   Right-click the icon to toggle auto-cast"
+    x4   Right-click the icon to toggle auto-cast
+    x4   Right-click the icon to toggle the auto-cast function
+键点击  (src count 4080)
+    x8   Right-click the icon to toggle auto-cast"
+    x4   Right-click the icon to toggle auto-cast
+    x4   Right-click the icon to toggle the auto-cast function
+右键点  (src count 4048)
+    x8   Right-click the icon to toggle auto-cast"
+    x4   Right-click the icon to toggle auto-cast
+    x4   Right-click the icon to toggle the auto-cast function
+右键点击  (src count 4046)
+    x8   Right-click the icon to toggle auto-cast"
+    x4   Right-click the icon to toggle auto-cast
+    x4   Right-click the icon to toggle the auto-cast function
+学习  (src count 3650)
+    x208 Requirement: Melee
+    x172 Requirement: Ranged
+    x122 Requires the corresponding skill book to learn."
+领取  (src count 3390)
+    x4   to claim a surprise reward!"
+    x3   Collect 3 Defender's Blessings to claim your Battle Merit reward!"
+    x3   to claim supplies and grow stronger,
+附加  (src count 3385)
+    x510 "Level %d - Adds %d Damage"
+    x36  "Level %d - Adds %d Damage."
+    x20  "Level %d - Each hit adds %d Damage"
+包裹  (src count 3337)
+    x3   Use the Luo Shen Fu from your inventory on another player within 5 seconds,
+    x3   Use the Seven Steps Poem from your bag on a player within 5 seconds,
+    x2   If they also have a Plum Blossom Handkerchief in their
+启后  (src count 3089)
+    x2   "Effect - Once active, +10 Battle Qi per second for 10 sec."
+    x2   "Effect - Once active, each hit on a target grants +5%% Attack Speed."
+开启后  (src count 3089)
+    x2   "Effect - Once active, +10 Battle Qi per second for 10 sec."
+    x2   "Effect - Once active, each hit on a target grants +5%% Attack Speed."
+请在  (src count 3088)
+    x1   title_definition['黄金斗神勇士'] = {id = 7476 , note = "【黄金斗神勇士】" , desc = "0黄金积分排行榜荣耀之称！\r拥有此
+    x1   title_definition['黄金战甲勇士'] = {id = 7477 , note = "【黄金战甲勇士】" , desc = "0黄金积分排行榜荣耀之称！\r拥有此
+    x1   title_definition['黄金千夫长'] = {id = 7478 , note = "【黄金千夫长】" , desc = "0黄金积分排行榜荣耀之称！\r拥有此称号
+可获  (src count 2929)
+    x6   Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle
+    x6   Slaying two key figures earns a Formation-Breaking tier Battle Merit reward after the ba
+    x6   Slaying three to five key figures earns a Nation-Swallowing tier Battle Merit reward aft
+可获得  (src count 2898)
+    x6   Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle
+    x6   Slaying two key figures earns a Formation-Breaking tier Battle Merit reward after the ba
+    x6   Slaying three to five key figures earns a Nation-Swallowing tier Battle Merit reward aft
+任务  (src count 2696)
+    x4   Complete the quest for great rewards!"
+    x4   Complete the quest by killing the enemy general."
+    x3   "Quest Accepted
+成长  (src count 2687)
+    x12  Re-equip after leveling up to gain the new growth effect"
+    x2   A passive skill unlocked after growing the Military Officer Codex.
+    x2   A passive unlocked after the Civil Official codex grows. This skill's level
+至少  (src count 2686)
+    x34  Requires at least 25 points invested in Strength Mastery.
+    x32  Requires at least 25 points invested in Technique Mastery.
+    x30  Requires at least 20 points invested in Strength Mastery.
+留出  (src count 2659)
+    x1   "Inventory is full, please free up at least one slot"
+后可  (src count 2635)
+    x6   Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle
+    x6   Slaying two key figures earns a Formation-Breaking tier Battle Merit reward after the ba
+    x6   Slaying three to five key figures earns a Nation-Swallowing tier Battle Merit reward aft
+以便  (src count 2602)
+    x2   Superb footwork: instantly move to the enemy’s side within 15 meters to open the attack.
+    x2   before the enemy notices, setting up a sneak-attack assassination.
+可在  (src count 2593)
+    x4   “Wind-Thunder Rend · Injury” and “Blooming Flowers · Injury”)"
+    x2   The male player should be leader; accept the quest “A Lifetime Together” from Liu Xiaoyu
+    x2   The male player should be leader; accept the quest “Rather Be Mandarin Ducks Than Immort
+等级  (src count 2267)
+    x510 "Level %d - Adds %d Damage"
+    x200 "Level %d - Base Damage increased by %d%%."
+    x52  "Level %d/5 - Damage increased by %d%%."
+攻击  (src count 2172)
+    x40  "Attack"
+    x40  "Attack
+    x40  Attack the selected enemy."
+购买  (src count 2132)
+    x1   from Dongfang Bubai to start auto-fishing."
+    x1   "Materials Refundable After Selling"
+符玉  (src count 2111)
+    x2   "Skill Jade Axe Generate Silence"
+    x2   "Skill Jade Halberd Generate Crit"
+    x2   "Skill Jade Halberd Reflect HP Recovery"
+图鉴  (src count 2077)
+    x5   Congratulations on earning the Battlefield Expert Codex Reward!"
+    x2   "Battlefield Extra Illustrated Guide Reward"
+    x2   A passive skill unlocked after growing the Military Officer Codex.
+生命  (src count 2074)
+    x20  "Level %d -Max HP increased by %d,
+    x13  Continuously lose HP."
+    x10  "Max HP Increased"
+中留  (src count 1995)
+    x2   "Sweet Dew Temple Slender Waist in the Palm"
+    x1   Slender Waist in Palm catches all evading targets"
+长安  (src count 1984)
+    x2   "Chang'an Freehand"
+    x2   "Chang'an Freehand
+    x1   Head to Chang'an East Market to gain the Training effect.
+兵器  (src count 1938)
+    x36  Weapon: Any
+    x16  Weapon: Bow, Crossbow
+    x16  Weapon: Focus
+秘文  (src count 1923)
+    x2   "Common Secret Text"
+    x2   "Universal Rune
+    x2   A blessing of your ancestral lineage; increases Rune upgrade success rate.
+后可获  (src count 1817)
+    x6   Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle
+    x6   Slaying two key figures earns a Formation-Breaking tier Battle Merit reward after the ba
+    x6   Slaying three to five key figures earns a Nation-Swallowing tier Battle Merit reward aft
+后可获得  (src count 1809)
+    x6   Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle
+    x6   Slaying two key figures earns a Formation-Breaking tier Battle Merit reward after the ba
+    x6   Slaying three to five key figures earns a Nation-Swallowing tier Battle Merit reward aft
+奖励  (src count 1807)
+    x18  "Huarongdao Reward"
+    x8   current points reward."
+    x6   Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle
+命值  (src count 1754)
+    x7   "Max HP Increased"
+    x4   "Recover HP, Battle Qi and Stamina"
+    x4   "Level %d -  In the Divine Wound state, the target loses %d%% of the Guardian's Max HP o
+生命值  (src count 1754)
+    x7   "Max HP Increased"
+    x4   "Recover HP, Battle Qi and Stamina"
+    x4   "Level %d -  In the Divine Wound state, the target loses %d%% of the Guardian's Max HP o
+洛阳  (src count 1732)
+    x2   "Mob Siege, Blessing of Luoyang's Guardian"
+    x2   "Common Luoyang Fishing"
+    x2   "Luoyang Fishing
+在洛  (src count 1644)
+    x1   While in this state, use the Luoshui Fishing Rod near
+在洛阳  (src count 1644)
+    x1   While in this state, use the Luoshui Fishing Rod near
+英雄  (src count 1622)
+    x28  Level Requirement: Hero Lv.36
+    x12  Level Requirement: Hero Lv.50
+    x10  Required Level: Hero Lv 1
+升级  (src count 1602)
+    x12  Re-equip after leveling up to gain the new growth effect"
+    x4   "Character gains extra 3 HP and 1 Defense per level
+    x2   "Character gains extra 4 HP and 1 Defense per level
+兑换  (src count 1565)
+    x1   title_definition['圣诞声望兑换称号1'] = {id = 7215 , note = "【Christmas Snow Baby】" , desc = "01
+    x1   title_definition['圣诞声望兑换称号2'] = {id = 7216 , note = "【Christmas Snow Sprite】" , desc = "
+    x1   title_definition['圣诞声望兑换称号3'] = {id = 7217 , note = "【Snow-Treading Plum Seeker】" , desc
+护卫  (src count 1556)
+    x14  护卫技能_夜月凝霜.dds
+    x13  护卫技能_月影击.dds
+    x11  护卫技能_伏云击.dds
+祖籍  (src count 1517)
+    x16  When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can b
+    x6   A blessing from your ancestral homeland,
+    x6   A blessing from your ancestral homeland;
+装备  (src count 1437)
+    x3   //Equipment(8/Tags)
+    x2   "Binds on Equip"
+    x2   and Certain Victory Dance) gain a higher benefit from equipment's Healing Effect bonus.
+限制  (src count 1417)
+    x16  restricting effects some enemy attacks bring."
+    x6   Origin Restriction: Qingzhou
+    x6   Skill Origin Restriction: Bingzhou
+不可  (src count 1405)
+    x5   "不可侵犯.dds"
+    x2   "Inviolable
+    x2   "Uncontainable Rage"
+兵种  (src count 1395)
+    x4   Requires at least 5 points invested in any Tier 6 troop-type Mastery."
+    x4   Horsemanship Mastery can only be learned after the primary troop reaches “Envoy” rank."
+    x2   Use with no troop enhancement active to gain the Resolute state;
+学会  (src count 1384)
+    x2   "Learning Requirement - Must have learned Advanced Riding, character level 30.
+    x1   "Learned: %s level %d"
+    x1   "You learned to craft: %s"
+进行  (src count 1379)
+    x16  When synthesizing with more than 2 Ancestral Skill Books, at most 2 Secret Manuals can b
+    x4   Releases Battle Qi to attack the enemy fiercely.
+    x4   to strike a designated location continuously,
+在长  (src count 1378)
+    x2   A special technique honed through years of fishing training,
+    x1   A skill honed over long years of fishing training,
+    x1   406	1	w	n	3	This Week's Total Activity Rankings	"Legion Rank:"	"Activity"	""	"Ranking No
+在长安  (src count 1375)
+    x1   406	1	w	n	3	This Week's Total Activity Rankings	"Legion Rank:"	"Activity"	""	"Ranking No
+    x1   456	1	w	l	3	Last Week's Activity Leaderboard	"Legion Rank:"	"Activity"	""	"Ranking Notes
+类别  (src count 1370)
+    x66  Skill Category: Agility Line
+    x62  Skill Category: Wisdom
+    x62  Skill Category: Focus
+击力  (src count 1357)
+    x12  "Each point increases the character's Base Attack Power by 1.
+    x10  dealing 125%% Attack Power damage that ignores Defense,
+    x10  damage to the enemy that Ignores Defense equal to at least 50%% of their Max Attack Powe
+攻击力  (src count 1357)
+    x12  "Each point increases the character's Base Attack Power by 1.
+    x10  dealing 125%% Attack Power damage that ignores Defense,
+    x10  damage to the enemy that Ignores Defense equal to at least 50%% of their Max Attack Powe
+属性  (src count 1299)
+    x220 Type: Passive
+    x102 Attribute: Passive
+    x16  Attributes: Passive
+交易  (src count 1290)
+    x2   "Trade"
+    x1   "This item cannot be traded"
+    x1   "Player trading prohibited"
+能学  (src count 1284)
+    x12  Ultimate Mastery; only one can be learned.
+    x10  Standard Attack Mastery; only one can be learned."
+    x8   Crowd-control skill mastery. Only one can be learned."
+能学习  (src count 1284)
+    x12  Ultimate Mastery; only one can be learned.
+    x10  Standard Attack Mastery; only one can be learned."
+    x8   Crowd-control skill mastery. Only one can be learned."
+只能  (src count 1281)
+    x22  Can only be used in mounted combat."
+    x18  Can only be used while mounted."
+    x16  Can only be used in Mounted Combat state."
+马匹  (src count 1268)
+    x10  Mount Steadfast can Reduce the chance of being thrown from the mount."
+    x2   Allows you to ride all kinds of horses and mounts."
+    x2   "Continuously Recover Mount Stamina"
+的技  (src count 1237)
+    x122 Requires the corresponding skill book to learn."
+    x42  Requires the corresponding Skill Book to learn."
+    x14  Learning requires the corresponding Skill Book."
+
+========================================================================
+PART 3: label-style terms (colon lines) - explicit lookup
+========================================================================
+使用方式: (no aligned precedent)
+使用效果: (no aligned precedent)
+等级限制: (no aligned precedent)
+兑换:
+    x1   title_definition['圣诞声望兑换称号1'] = {id = 7215 , note = "【Christmas Snow Baby】" , desc = "01
+    x1   title_definition['圣诞声望兑换称号2'] = {id = 7216 , note = "【Christmas Snow Sprite】" , desc = "
+    x1   title_definition['圣诞声望兑换称号3'] = {id = 7217 , note = "【Snow-Treading Plum Seeker】" , desc
+领取:
+    x4   to claim a surprise reward!"
+    x3   Collect 3 Defender's Blessings to claim your Battle Merit reward!"
+    x3   to claim supplies and grow stronger,
+失效:
+    x4   Both the Charge and Instant Kill states end after any attack."
+    x4   Both the Onslaught and Skybreaker states end after any attack."
+    x2   "Effect - The health drain effect is increased by 50%%."
+绑定:
+    x2   绑定元宝
+    x2   "Binds on Equip"
+    x2   "Bound"
+不可交易:
+    x1   "Untradable"
+可交易:
+    x1   "Cross-Server Tradable"
+    x1   "Untradable"
+物品描述: (no aligned precedent)
+物品类型: (no aligned precedent)
+需求等级: (no aligned precedent)
+冷却:
+    x44  Martial Art: Instant　　　　　　　　Cool-down 60s
+    x22  Cool-down: 5 min
+    x20  Martial Skill: Instant　　　　　　　　Cool-down 60 sec
+消耗:
+    x40  Cost: 10 Stamina
+    x34  Cost: 5 Stamina
+    x20  Cost: 10 Stamina 20 Battle Qi
+产出: (no aligned precedent)
+来源: (no aligned precedent)
+有效期:
+    x1   title_definition['商城积分月榜第1隐藏称号'] = {id = 7366 , note = "【天禄小福神】" , desc = "0每月消费积分排行榜第一名
+    x1   title_definition['商城积分月榜第2-10隐藏称号'] = {id = 7367 , note = "【天禄小福星】" , desc = "0每月消费积分排行榜
+开启时间: (no aligned precedent)
+打开时间: (no aligned precedent)
+奖励:
+    x18  "Huarongdao Reward"
+    x8   current points reward."
+    x6   Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle
+品质:
+    x106 Skill Quality: IV
+    x92  Skill Rank: IV
+    x46  Skill Quality: V
+类型:
+    x46  Soul Skill Type: Protection
+    x30  Soul Skill Type: Attack
+    x16  Soul Art Type: Protection
+攻击:
+    x40  "Attack"
+    x40  "Attack
+    x40  Attack the selected enemy."
+防御:
+    x20  "Level %d - %d%% chance to deal damage that Ignores Defense."
+    x10  "Level %d - Defense increased by %d"
+    x10  dealing 125%% Attack Power damage that ignores Defense,
+生命:
+    x20  "Level %d -Max HP increased by %d,
+    x13  Continuously lose HP."
+    x10  "Max HP Increased"
+体力:
+    x40  Cost: 10 Stamina
+    x34  Cost: 5 Stamina
+    x20  Cost: 10 Stamina 20 Battle Qi
+斗气:
+    x20  "斗气虚空.dds"
+    x20  Cost: 10 Stamina 20 Battle Qi
+    x20  Cost: 5 Stamina 30 Battle Qi
+历练:
+    x4   Blessing status. Gain EXP every 5 minutes.
+    x2   Gain a certain amount of Training and Experience value every minute."
+    x2   generals within the sworn brotherhood share a small amount of experience.
+
+========================================================================
+PART 4: punctuation the workers must render in ASCII
+========================================================================
+  U+3002 '。'  count=34046
+  U+FF1A '：'  count=21062
+  U+FF0C '，'  count=16183
+  U+FF09 '）'  count=4200
+  U+FF08 '（'  count=4129
+  U+3001 '、'  count=3356
+  U+201C '“'  count=2016
+  U+201D '”'  count=2016
+  U+FF01 '！'  count=1233
+  U+FF1B '；'  count=313
+  U+FF1F '？'  count=178
+  U+FF5E '～'  count=0
+  U+2018 '‘'  count=0
+  U+2019 '’'  count=0
+  U+FF05 '％'  count=0
+
+========================================================================
+PART 5: date/time patterns in sources
+========================================================================
+  date patterns (YYYY年M月D日): 690
+  time patterns (H：MM fullwidth colon): 190
+    2010年3月  |  2010年3月消费积分排行榜第一名的凭证，\r可以用来兑换木牛流马。\r^fff600只能在2010年5月1日前兑换，逾期无效！
+    2010年3月  |  2010年3月消费积分排行榜第二至十名的凭证，\r可以用来兑换时限30天的木牛流马。\r^fff600只能在2010年5月1日前兑换，逾期无
+    2010年5月  |  2010年5月消费积分排行榜第一名的凭证，\r可在完美礼品使者处兑换谋士卡片。\r^fff600只能在2010年7月1日前兑换，逾期无效！
+    2010年5月  |  2010年5月消费积分排行榜第二至十名的凭证，\r可在完美礼品使者处兑换时限30天的谋士卡片。\r^fff600只能在2010年7月1日前兑
+    2011年1月23日  |  2011年1月23日19：00-24：00\r可凭借庆典锦囊在甜儿那里领取6把小锤子，\r届时长安未央宫正中间会出现很多宝箱、罐子、彩蛋、坛

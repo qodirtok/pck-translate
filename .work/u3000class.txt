@@ -1,0 +1,39 @@
+U+3000 mismatch classes:
+  same run-count per line (pure length drift, mechanically fixable): 76
+  different run-count per line: 45
+  source line had zero U+3000 but dst added some: 9
+      ('batch_000', 181)
+      ('batch_001', 13)
+      ('batch_001', 14)
+      ('batch_001', 15)
+      ('batch_001', 16)
+      ('batch_001', 30)
+      ('batch_001', 45)
+      ('batch_001', 50)
+      ('batch_001', 119)
+
+=== color mismatches ===
+batch_005/62  ['^c3dbff', '^ffffff'] -> ['^c3dbff', '^ffffff', '^ffffff']
+   SRC: '^c3dbff护铠精通<CRLF>^ffffff需要至少在刚类专精上投入30点。<CRLF><CRLF>使用后需点击下方的“激活护铠”。'
+   DST: '^c3dbffArmor Expertise^ffffff<CRLF>^ffffffRequires at least 30 points invested in the Fortitude Mastery.<CRLF><CRLF>After use, click “Activate Armor” below.'
+batch_005/70  ['^c3dbff', '^ffffff', '^ffffff'] -> ['^c3dbff', '^ffffff', '^ffffff', '^ffffff']
+   SRC: '^c3dbff拨马回身<CRLF>^ffffff需要至少在力类专精上投入25点<CRLF><CRLF>^ffffff兵器：枪\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u30005体力<CRLF>策略：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却8秒<CRLF><CRLF>用于回马枪之前诱敌深入的招式。<CRLF>使用后2秒内不要攻击敌人，时间到后产生一个效果使得<CRLF>下一次使用回马枪立即出招。'
+   DST: '^c3dbffWheel the Horse Around<CRLF>^ffffffRequires at least 25 points invested in the Might Mastery<CRLF><CRLF>^ffffffWeapon: Spear\u3000\u3000\u3000\u3000\u30005 Stamina<CRLF>Tactic: Instant\u3000\u3000\u3000\u3000\u3000Cool-down'
+batch_005/108  ['^c3dbff', '^ffffff', '^ffffff'] -> ['^c3dbff', '^ffffff', '^ffffff', '^ffffff']
+   SRC: '^c3dbff掎角之势<CRLF>^ffffff需要至少在“铮铮之舞·策”专精上投入5点。<CRLF><CRLF>^ffffff延长铮铮之舞产生的攻击力和防御增强效果的持续时间。'
+   DST: '^c3dbffPincer Position^ffffff<CRLF>^ffffffRequires at least 5 points invested in the “Ringing Dance · Stratagem” Mastery.<CRLF><CRLF>^ffffffExtends the duration of the Attack Power'
+batch_005/123  ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff'] -> ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff']
+   SRC: '^c3dbff搅海式·三式<CRLF>^ffffff需要至少在“搅海式·二式”上投入5点。<CRLF><CRLF>^ffffff兵器：环\u3000\u3000\u3000\u3000\u3000\u3000\u300015体力 15斗气<CRLF>招式：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却12秒<CRLF><CRLF>好似蟠龙搅海一般攻击远处敌人<CRLF>接在搅海式二式后使用，暴击几率<CRLF>及暴击伤害提升50%%。<CRLF><'
+   DST: '^c3dbffSea-Stirring Stance · Third Form<CRLF>^ffffffRequires at least 5 points invested in “Sea-Stirring Stance · Second Form”.<CRLF><CRLF>^ffffffWeapon: Ring Blade\u3000\u300015 Stamina 15 '
+batch_005/124  ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff'] -> ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff']
+   SRC: '^c3dbff搅海式·二式<CRLF>^ffffff需要至少在“搅海式·御”专精上投入5点。<CRLF><CRLF>^ffffff兵器：环\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300010体力<CRLF>招式：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却12秒<CRLF><CRLF>好似蟠龙搅海一般攻击远处敌人，<CRLF>有搅海式状态的目标将几率获得“搅海”状态，<CRLF>每次被攻击则眩晕1秒，状'
+   DST: '^c3dbffSea-Stirring Stance · Second Form<CRLF>^ffffffRequires at least 5 points invested in the “Sea-Stirring Stance · Defense” Mastery.<CRLF><CRLF>^ffffffWeapon: Ring Blade\u3000\u3000\u3000\u3000\u300010'
+batch_005/142  ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff'] -> ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff']
+   SRC: '^c3dbff撒手环·回旋<CRLF>^ffffff需要至少在“撒手环·御”专精上投入5点。<CRLF><CRLF>^ffffff兵器：环\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300015斗气<CRLF>招式：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却10秒<CRLF><CRLF>将扔出去的环收回，<CRLF>对环所经路径上的多个敌人造成伤害。<CRLF>同时有几率获得“强兵”状态，<CRLF>自身'
+   DST: '^c3dbffFlung Ring · Whirl<CRLF>^ffffffRequires at least 5 points invested in the “Flung Ring · Defense” Mastery.<CRLF><CRLF>^ffffffWeapon: Ring Blade\u3000\u3000\u3000\u3000\u300015 Battle Qi<CRLF>Move: In'
+total color mismatch: 10
+
+=== placeholder mismatches ===
+batch_012/97  ['%%', '%%', '%%', '%%', '%%', '%%'] -> ['%%', '%%', '%%', '%%', '%%']
+   SRC: '^c3dbff追风升龙<CRLF>^ffffff需要至少在“追风”投入1点。<CRLF><CRLF>^ffffff兵器：剑\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u30005体力<CRLF>专精：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却8秒<CRLF><CRLF>专精招式。<CRLF>使用3段追风后，在升龙状态下使用追风连刺，将变招为追风升龙。<CRLF>四段伤害变为瞬发，攻击面前6米内3个目标，造成280%%的基础伤害。<CRLF>提升连击点'
+   DST: '^c3dbffWind Chase Rising Dragon<CRLF>^ffffffRequires at least 1 point invested in “Wind Chase”.<CRLF><CRLF>^ffffffWeapons: Sword\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u30005 Stamina<CRLF>Mastery: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Cooldown 8 sec<CRLF><CRL'

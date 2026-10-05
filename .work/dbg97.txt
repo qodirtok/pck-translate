@@ -1,0 +1,9 @@
+notes: ['surplus index 4 out of range']
+src colors: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^ffffff']
+new colors: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff', '^ffffff']
+dst colors before: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff', '^ffffff']
+old in new? True
+src ph: ['%%', '%%', '%%', '%%', '%%', '%%']
+new ph: ['%%', '%%', '%%', '%%', '%%', '%%']
+src num: ['3', '1', '5', '8', '3', '6', '3', '280', '3', '3', '30', '50', '10', '100', '2.5', '3', '20', '5', '3', '1']
+new num: ['3', '1', '5', '8', '3', '6', '280', '3', '3', '30', '50', '10', '100', '2.5', '3', '20', '3', '5', '3', '1']

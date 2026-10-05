@@ -1,0 +1,15 @@
+total unique payloads (all files, cross-deduped): 31246
+glossary REUSED : 58
+UNKNOWN (need LLM): 31188
+unknown CJK chars: 1113023
+unknown len: min=1 p25=20 med=49 p75=84 max=829
+
+per-file unique -> unknown:
+  item_ext_desc.txt        unique=18935  glossary=0      unknown=18935
+  skillstr.txt             unique=8957   glossary=12     unknown=8945
+  skillgbk.txt             unique=8949   glossary=12     unknown=8937
+  buff_str.txt             unique=2181   glossary=0      unknown=2181
+  instance.txt             unique=807    glossary=2      unknown=805
+  toptable.txt             unique=207    glossary=25     unknown=182
+  typedef_initial.xml      unique=76     glossary=19     unknown=57
+  item_ext_prop.txt        unique=112    glossary=0      unknown=112

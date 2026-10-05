@@ -1,0 +1,7 @@
+60bb4a0 configs: promote wave-1 (5 files) + tr2 (skillstr/skillgbk) translations; add build/finalize/mlspan pipeline tools
+a78570e Translate script/text.lua to English (VN+ZH player text, ConsoleList, comments); preserve tokens/encoding/CRLF
+991b044 Add PRD.md, update .gitignore and push tooling
+?? .work/
+?? skill-observations/
+origin/main
+exit=0

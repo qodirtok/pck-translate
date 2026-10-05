@@ -1,0 +1,285 @@
+偏将军 | ^a800ff偏将军 | ^a800ffSide General
+卫将军 | ^a800ff卫将军 | ^a800ffGuard General
+大将军 | ^ff7d2f大将军 | ^ff7d2fGrand General
+官渡称号元帅 | ^fff962【元帅】 | ^fff962【Marshal】
+官渡称号副将 | ^a800ff【副将】 | ^a800ff【Deputy General】
+官渡称号士兵 | ^ffffff【士兵】 | ^ffffff【Soldier】
+官渡称号大将 | ^ff7d2f【大将】 | ^ff7d2f【Great General】
+官渡称号校尉 | ^72fe00【校尉】 | ^72fe00【Colonel】
+官渡称号统领 | ^0184ff【统领】 | ^0184ff【Commander】
+官网签到活动 | ^a800ff【战天下签到达人】 | ^a800ff【World War Check-in Master】
+新阵营官职-吴国公 | ^fff962【吴国公】 | ^fff962【Duke of Wu】
+新阵营官职-吴国夫人 | ^fff962【吴国夫人】 | ^fff962【Lady of Wu】
+新阵营官职-吴王 | ^fff962【吴王】 | ^fff962【King of Wu】
+新阵营官职-大丞相 | ^fff962【大丞相】 | ^fff962【Grand Chancellor】
+新阵营官职-大司徒 | ^fff962【大司徒】 | ^fff962【Grand Minister of Education】
+新阵营官职-大司空 | ^fff962【大司空】 | ^fff962【Grand Minister of Works】
+新阵营官职-大司马 | ^fff962【大司马】 | ^fff962【Grand Minister of War】
+新阵营官职-大将军 | ^fff962【大将军】 | ^fff962【Grand General】
+新阵营官职-羽林郎将 | ^fff962【羽林郎将】 | ^fff962【Feather Forest Colonel】
+新阵营官职-蜀国公 | ^fff962【蜀国公】 | ^fff962【Duke of Shu】
+新阵营官职-蜀国夫人 | ^fff962【蜀国夫人】 | ^fff962【Lady of Shu】
+新阵营官职-蜀王 | ^fff962【蜀王】 | ^fff962【King of Shu】
+新阵营官职-阵营指挥官 | ^fff962【阵营指挥官】 | ^fff962【Faction Commander】
+新阵营官职-魏国公 | ^fff962【魏国公】 | ^fff962【Duke of Wei】
+新阵营官职-魏国夫人 | ^fff962【魏国夫人】 | ^fff962【Lady of Wei】
+新阵营官职-魏王 | ^fff962【魏王】 | ^fff962【King of Wei】
+白帝城文官称号 | ^d181ff【智谋贯通】 | ^d181ff【Strategic Wisdom Pervading】
+白帝城武官称号 | ^d181ff【兵法透彻】 | ^d181ff【Thorough in the Art of War】
+称号_官职文官1品吴1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官1品吴2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官1品吴3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官1品蜀1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官1品蜀2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官1品蜀3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官1品魏1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官1品魏2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官1品魏3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品吴1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品吴2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品吴3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品吴4 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品吴5 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品吴6 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品吴7 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品吴8 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品吴9 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品蜀1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品蜀2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品蜀3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品蜀4 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品蜀5 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品蜀6 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品蜀7 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品蜀8 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品蜀9 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品魏1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品魏2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品魏3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品魏4 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品魏5 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品魏6 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品魏7 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品魏8 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官2品魏9 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官3品1 | ^ffbc3c〓从三品 尚书令〓 | ^ffbc3c〓Sub-Grade 3 Director of State Affairs〓
+称号_官职文官3品2 | ^ffbc3c〓从三品 中书令〓 | ^ffbc3c〓Sub-Grade 3 Director of the Secretariat〓
+称号_官职文官3品3 | ^ffbc3c〓正三品 太子太傅〓 | ^ffbc3c〓Grade 3 Crown Grand Tutor〓
+称号_官职文官3品4 | ^ffbc3c〓从三品 太子少傅〓 | ^ffbc3c〓Sub-Grade 3 Crown Young Tutor〓
+称号_官职文官3品5 | ^ffbc3c〓从三品 侍中〓 | ^ffbc3c〓Sub-Grade 3 Palace Attendant〓
+称号_官职文官3品6 | ^ffbc3c〓正三品 执金吾〓 | ^ffbc3c〓Grade 3 Guardian of the Capital〓
+称号_官职文官3品7 | ^ffbc3c〓正三品 将作大匠〓 | ^ffbc3c〓Grade 3 Master Builder〓
+称号_官职文官3品8 | ^ffbc3c〓正三品 水衡都尉〓 | ^ffbc3c〓Grade 3 Waterworks Commandant〓
+称号_官职文官4品1 | ^ffbc3c〓正四品 太中大夫〓 | ^ffbc3c〓Grade 4 Grand Master of Standards〓
+称号_官职文官4品2 | ^ffbc3c〓正四品 尚书仆射〓 | ^ffbc3c〓Grade 4 Director Assistant〓
+称号_官职文官4品3 | ^ffbc3c〓正四品 中散大夫〓 | ^ffbc3c〓Grade 4 Consultant Attendant〓
+称号_官职文官4品4 | ^ffbc3c〓从四品 谏议大夫〓 | ^ffbc3c〓Sub-Grade 4 Remonstrance Master〓
+称号_官职文官4品5 | ^ffbc3c〓从四品 太子洗马〓 | ^ffbc3c〓Sub-Grade 4 Crown Groom〓
+称号_官职文官4品6 | ^ffbc3c〓从四品 散骑常侍〓 | ^ffbc3c〓Sub-Grade 4 Attached Cavalry Attendant〓
+称号_官职文官4品7 | ^ffbc3c〓从四品 谒者仆射〓 | ^ffbc3c〓Sub-Grade 4 Usher Assistant〓
+称号_官职文官4品8 | ^ffbc3c〓正四品 御史中丞〓 | ^ffbc3c〓Grade 4 Vice Censor-in-Chief〓
+称号_官职文官5品1 | ^ffbc3c〓五品 太乐令〓 | ^ffbc3c〓Grade 5 Grand Music Director〓
+称号_官职文官5品2 | ^ffbc3c〓五品 太史令〓 | ^ffbc3c〓Grade 5 Grand Historian〓
+称号_官职文官5品3 | ^ffbc3c〓五品 太医令〓 | ^ffbc3c〓Grade 5 Grand Medical Director〓
+称号_官职文官5品4 | ^ffbc3c〓五品 太仓令〓 | ^ffbc3c〓Grade 5 Grand Granary Director〓
+称号_官职文官6品1 | ^ffbc3c〓六品 别驾〓 | ^ffbc3c〓Grade 6 Regional Aide〓
+称号_官职文官6品2 | ^ffbc3c〓六品 长史〓 | ^ffbc3c〓Grade 6 Chief Clerk〓
+称号_官职文官7品 | ^ffbc3c〓七品 主簿〓 | ^ffbc3c〓Grade 7 Record Secretary〓
+称号_官职文官8品 | ^ffbc3c〓八品 功曹〓 | ^ffbc3c〓Grade 8 Merit Officer〓
+称号_官职文官9品 | ^ffbc3c〓九品 书佐〓 | ^ffbc3c〓Grade 9 Secretary〓
+称号_官职文官特品吴 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官特品蜀 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职文官特品魏 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官1品吴1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官1品吴2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官1品吴3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官1品蜀1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官1品蜀2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官1品蜀3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官1品魏1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官1品魏2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官1品魏3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品吴1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品吴2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品吴3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品吴4 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品吴5 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品吴6 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品吴7 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品吴8 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品吴9 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品蜀1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品蜀2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品蜀3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品蜀4 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品蜀5 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品蜀6 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品蜀7 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品蜀8 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品蜀9 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品魏1 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品魏2 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品魏3 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品魏4 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品魏5 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品魏6 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品魏7 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品魏8 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官2品魏9 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官3品1 | ^ffbc3c〓从三品 前将军〓 | ^ffbc3c〓Sub-Grade 3 Front General〓
+称号_官职武官3品2 | ^ffbc3c〓从三品 后将军〓 | ^ffbc3c〓Sub-Grade 3 Rear General〓
+称号_官职武官3品3 | ^ffbc3c〓从三品 左将军〓 | ^ffbc3c〓Sub-Grade 3 Left General〓
+称号_官职武官3品4 | ^ffbc3c〓从三品 右将军〓 | ^ffbc3c〓Sub-Grade 3 Right General〓
+称号_官职武官3品5 | ^ffbc3c〓正三品 平东将军〓 | ^ffbc3c〓Grade 3 General Who Pacifies the East〓
+称号_官职武官3品6 | ^ffbc3c〓正三品 平南将军〓 | ^ffbc3c〓Grade 3 General Who Pacifies the South〓
+称号_官职武官3品7 | ^ffbc3c〓正三品 平西将军〓 | ^ffbc3c〓Grade 3 General Who Pacifies the West〓
+称号_官职武官3品8 | ^ffbc3c〓正三品 平北将军〓 | ^ffbc3c〓Grade 3 General Who Pacifies the North〓
+称号_官职武官4品1 | ^ffbc3c〓正四品 羽林中郎将〓 | ^ffbc3c〓Grade 4 Feather Forest Commandant〓
+称号_官职武官4品2 | ^ffbc3c〓正四品 虎贲中郎将〓 | ^ffbc3c〓Grade 4 Tiger Guard Commandant〓
+称号_官职武官4品3 | ^ffbc3c〓正四品 五官中郎将〓 | ^ffbc3c〓Grade 4 Five Offices Commandant〓
+称号_官职武官4品4 | ^ffbc3c〓从四品 典军中郎将〓 | ^ffbc3c〓Sub-Grade 4 Army Commandant〓
+称号_官职武官4品5 | ^ffbc3c〓从四品 抚军中郎将〓 | ^ffbc3c〓Sub-Grade 4 Army-Supporting Commandant〓
+称号_官职武官4品6 | ^ffbc3c〓从四品 荡寇中郎将〓 | ^ffbc3c〓Sub-Grade 4 Bandit-Sweeping Commandant〓
+称号_官职武官4品7 | ^ffbc3c〓从四品 建威中郎将〓 | ^ffbc3c〓Sub-Grade 4 Might-Building Commandant〓
+称号_官职武官4品8 | ^ffbc3c〓正四品 武卫中郎将〓 | ^ffbc3c〓Grade 4 Martial Guard Commandant〓
+称号_官职武官5品1 | ^ffbc3c〓五品 鹰扬将军〓 | ^ffbc3c〓Grade 5 Falcon-Soaring General〓
+称号_官职武官5品2 | ^ffbc3c〓五品 伏波将军〓 | ^ffbc3c〓Grade 5 Wave-Calming General〓
+称号_官职武官5品3 | ^ffbc3c〓五品 讨虏将军〓 | ^ffbc3c〓Grade 5 Bandit-Punishing General〓
+称号_官职武官5品4 | ^ffbc3c〓五品 横野将军〓 | ^ffbc3c〓Grade 5 Wilderness-Spanning General〓
+称号_官职武官6品1 | ^ffbc3c〓六品 裨将〓 | ^ffbc3c〓Grade 6 Deputy General〓
+称号_官职武官6品2 | ^ffbc3c〓六品 偏将〓 | ^ffbc3c〓Grade 6 Side General〓
+称号_官职武官7品 | ^ffbc3c〓七品 都尉〓 | ^ffbc3c〓Grade 7 Commandant〓
+称号_官职武官8品 | ^ffbc3c〓八品 校尉〓 | ^ffbc3c〓Grade 8 Colonel〓
+称号_官职武官9品 | ^ffbc3c〓九品 军侯〓 | ^ffbc3c〓Grade 9 Marquis〓
+称号_官职武官特品吴 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官特品蜀 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_官职武官特品魏 | ^ffbc3c废弃 | ^ffbc3cDeprecated
+称号_文官一品吴国1 | ^ffbc3c※〓从一品 司空〓※ | ^ffbc3c〓Sub-Grade 1 Minister of Education〓
+称号_文官一品吴国2 | ^ffbc3c※〓从一品 司徒〓※ | ^ffbc3c〓Sub-Grade 1 Minister of Works〓
+称号_文官一品吴国3 | ^ffbc3c※〓从一品 太尉〓※ | ^ffbc3c〓Sub-Grade 1 Grand Commandant〓
+称号_文官一品蜀国1 | ^ffbc3c※〓从一品 司空〓※ | ^ffbc3c〓Sub-Grade 1 Minister of Education〓
+称号_文官一品蜀国2 | ^ffbc3c※〓从一品 司徒〓※ | ^ffbc3c〓Sub-Grade 1 Minister of Works〓
+称号_文官一品蜀国3 | ^ffbc3c※〓从一品 太尉〓※ | ^ffbc3c〓Sub-Grade 1 Grand Commandant〓
+称号_文官一品魏国1 | ^ffbc3c※〓从一品 司空〓※ | ^ffbc3c〓Sub-Grade 1 Minister of Education〓
+称号_文官一品魏国2 | ^ffbc3c※〓从一品 司徒〓※ | ^ffbc3c〓Sub-Grade 1 Minister of Works〓
+称号_文官一品魏国3 | ^ffbc3c※〓从一品 太尉〓※ | ^ffbc3c〓Sub-Grade 1 Grand Commandant〓
+称号_文官二品吴国1 | ^ffbc3c※〓从二品 左冯翊〓※ | ^ffbc3c〓Sub-Grade 2 Left Fengyi Governor〓
+称号_文官二品吴国10 | ^ffbc3c※〓正二品 太常〓※ | ^ffbc3c〓Grade 2 Grand Ceremonial〓
+称号_文官二品吴国11 | ^ffbc3c※〓正二品 卫尉〓※ | ^ffbc3c〓Grade 2 Guard Commander〓
+称号_文官二品吴国12 | ^ffbc3c※〓正二品 大鸿胪〓※ | ^ffbc3c〓Grade 2 Grand Ceremonial Master〓
+称号_文官二品吴国13 | ^ffbc3c※〓正二品 大司农〓※ | ^ffbc3c〓Grade 2 Grand Minister of Agriculture〓
+称号_文官二品吴国2 | ^ffbc3c※〓从二品 右扶风〓※ | ^ffbc3c〓Sub-Grade 2 Right Fuyi Governor〓
+称号_文官二品吴国3 | ^ffbc3c※〓从二品 京兆尹〓※ | ^ffbc3c〓Sub-Grade 2 Capital Governor〓
+称号_文官二品吴国4 | ^ffbc3c※〓从二品 大长秋〓※ | ^ffbc3c〓Sub-Grade 2 Grand Chamberlain〓
+称号_文官二品吴国5 | ^ffbc3c※〓从二品 宗正〓※ | ^ffbc3c〓Sub-Grade 2 Minister of Imperial Clan〓
+称号_文官二品吴国6 | ^ffbc3c※〓从二品 廷尉〓※ | ^ffbc3c〓Sub-Grade 2 Minister of Justice〓
+称号_文官二品吴国7 | ^ffbc3c※〓从二品 光禄勋〓※ | ^ffbc3c〓Sub-Grade 2 Master of Ceremonies〓
+称号_文官二品吴国8 | ^ffbc3c※〓从二品 少府〓※ | ^ffbc3c〓Sub-Grade 2 Privy Treasurer〓
+称号_文官二品吴国9 | ^ffbc3c※〓正二品 太仆〓※ | ^ffbc3c〓Grade 2 Grand Coachman〓
+称号_文官二品蜀国1 | ^ffbc3c※〓从二品 左冯翊〓※ | ^ffbc3c〓Sub-Grade 2 Left Fengyi Governor〓
+称号_文官二品蜀国10 | ^ffbc3c※〓正二品 太常〓※ | ^ffbc3c〓Grade 2 Grand Ceremonial〓
+称号_文官二品蜀国11 | ^ffbc3c※〓正二品 卫尉〓※ | ^ffbc3c〓Grade 2 Guard Commander〓
+称号_文官二品蜀国12 | ^ffbc3c※〓正二品 大鸿胪〓※ | ^ffbc3c〓Grade 2 Grand Ceremonial Master〓
+称号_文官二品蜀国13 | ^ffbc3c※〓正二品 大司农〓※ | ^ffbc3c〓Grade 2 Grand Minister of Agriculture〓
+称号_文官二品蜀国2 | ^ffbc3c※〓从二品 右扶风〓※ | ^ffbc3c〓Sub-Grade 2 Right Fuyi Governor〓
+称号_文官二品蜀国3 | ^ffbc3c※〓从二品 京兆尹〓※ | ^ffbc3c〓Sub-Grade 2 Capital Governor〓
+称号_文官二品蜀国4 | ^ffbc3c※〓从二品 大长秋〓※ | ^ffbc3c〓Sub-Grade 2 Grand Chamberlain〓
+称号_文官二品蜀国5 | ^ffbc3c※〓从二品 宗正〓※ | ^ffbc3c〓Sub-Grade 2 Minister of Imperial Clan〓
+称号_文官二品蜀国6 | ^ffbc3c※〓从二品 廷尉〓※ | ^ffbc3c〓Sub-Grade 2 Minister of Justice〓
+称号_文官二品蜀国7 | ^ffbc3c※〓从二品 光禄勋〓※ | ^ffbc3c〓Sub-Grade 2 Master of Ceremonies〓
+称号_文官二品蜀国8 | ^ffbc3c※〓从二品 少府〓※ | ^ffbc3c〓Sub-Grade 2 Privy Treasurer〓
+称号_文官二品蜀国9 | ^ffbc3c※〓正二品 太仆〓※ | ^ffbc3c〓Grade 2 Grand Coachman〓
+称号_文官二品魏国1 | ^ffbc3c※〓从二品 左冯翊〓※ | ^ffbc3c〓Sub-Grade 2 Left Fengyi Governor〓
+称号_文官二品魏国10 | ^ffbc3c※〓正二品 太常〓※ | ^ffbc3c〓Grade 2 Grand Ceremonial〓
+称号_文官二品魏国11 | ^ffbc3c※〓正二品 卫尉〓※ | ^ffbc3c〓Grade 2 Guard Commander〓
+称号_文官二品魏国12 | ^ffbc3c※〓正二品 大鸿胪〓※ | ^ffbc3c〓Grade 2 Grand Ceremonial Master〓
+称号_文官二品魏国13 | ^ffbc3c※〓正二品 大司农〓※ | ^ffbc3c〓Grade 2 Grand Minister of Agriculture〓
+称号_文官二品魏国2 | ^ffbc3c※〓从二品 右扶风〓※ | ^ffbc3c〓Sub-Grade 2 Right Fuyi Governor〓
+称号_文官二品魏国3 | ^ffbc3c※〓从二品 京兆尹〓※ | ^ffbc3c〓Sub-Grade 2 Capital Governor〓
+称号_文官二品魏国4 | ^ffbc3c※〓从二品 大长秋〓※ | ^ffbc3c〓Sub-Grade 2 Grand Chamberlain〓
+称号_文官二品魏国5 | ^ffbc3c※〓从二品 宗正〓※ | ^ffbc3c〓Sub-Grade 2 Minister of Imperial Clan〓
+称号_文官二品魏国6 | ^ffbc3c※〓从二品 廷尉〓※ | ^ffbc3c〓Sub-Grade 2 Minister of Justice〓
+称号_文官二品魏国7 | ^ffbc3c※〓从二品 光禄勋〓※ | ^ffbc3c〓Sub-Grade 2 Master of Ceremonies〓
+称号_文官二品魏国8 | ^ffbc3c※〓从二品 少府〓※ | ^ffbc3c〓Sub-Grade 2 Privy Treasurer〓
+称号_文官二品魏国9 | ^ffbc3c※〓正二品 太仆〓※ | ^ffbc3c〓Grade 2 Grand Coachman〓
+称号_文官候补从二品1吴国 | ^ffbc3c※〓从二品 前监军〓※ | ^ffbc3c〓Sub-Grade 2 Front Inspector〓
+称号_文官候补从二品1蜀国 | ^ffbc3c※〓从二品 前监军〓※ | ^ffbc3c〓Sub-Grade 2 Front Inspector〓
+称号_文官候补从二品1魏国 | ^ffbc3c※〓从二品 前监军〓※ | ^ffbc3c〓Sub-Grade 2 Front Inspector〓
+称号_文官候补从二品2吴国 | ^ffbc3c※〓从二品 后监军〓※ | ^ffbc3c〓Sub-Grade 2 Rear Inspector〓
+称号_文官候补从二品2蜀国 | ^ffbc3c※〓从二品 后监军〓※ | ^ffbc3c〓Sub-Grade 2 Rear Inspector〓
+称号_文官候补从二品2魏国 | ^ffbc3c※〓从二品 后监军〓※ | ^ffbc3c〓Sub-Grade 2 Rear Inspector〓
+称号_文官候补从二品3吴国 | ^ffbc3c※〓从二品 左监军〓※ | ^ffbc3c〓Sub-Grade 2 Left Inspector〓
+称号_文官候补从二品3蜀国 | ^ffbc3c※〓从二品 左监军〓※ | ^ffbc3c〓Sub-Grade 2 Left Inspector〓
+称号_文官候补从二品3魏国 | ^ffbc3c※〓从二品 左监军〓※ | ^ffbc3c〓Sub-Grade 2 Left Inspector〓
+称号_文官候补从二品4吴国 | ^ffbc3c※〓从二品 右监军〓※ | ^ffbc3c〓Sub-Grade 2 Right Inspector〓
+称号_文官候补从二品4蜀国 | ^ffbc3c※〓从二品 右监军〓※ | ^ffbc3c〓Sub-Grade 2 Right Inspector〓
+称号_文官候补从二品4魏国 | ^ffbc3c※〓从二品 右监军〓※ | ^ffbc3c〓Sub-Grade 2 Right Inspector〓
+称号_文官正一品吴国 | ^ffbc3c※〓正一品 大丞相〓※ | ^ffbc3c〓Grade 1 Grand Chancellor〓
+称号_文官正一品蜀国 | ^ffbc3c※〓正一品 大丞相〓※ | ^ffbc3c〓Grade 1 Grand Chancellor〓
+称号_文官正一品魏国 | ^ffbc3c※〓正一品 大丞相〓※ | ^ffbc3c〓Grade 1 Grand Chancellor〓
+称号_武官一品吴国1 | ^ffbc3c※〓从一品 卫将军〓※ | ^ffbc3c〓Sub-Grade 1 Guard General〓
+称号_武官一品吴国2 | ^ffbc3c※〓从一品 车骑将军〓※ | ^ffbc3c〓Sub-Grade 1 Chariot & Cavalry General〓
+称号_武官一品吴国3 | ^ffbc3c※〓从一品 骠骑将军〓※ | ^ffbc3c〓Sub-Grade 1 Cavalry General〓
+称号_武官一品蜀国1 | ^ffbc3c※〓从一品 卫将军〓※ | ^ffbc3c〓Sub-Grade 1 Guard General〓
+称号_武官一品蜀国2 | ^ffbc3c※〓从一品 车骑将军〓※ | ^ffbc3c〓Sub-Grade 1 Chariot & Cavalry General〓
+称号_武官一品蜀国3 | ^ffbc3c※〓从一品 骠骑将军〓※ | ^ffbc3c〓Sub-Grade 1 Cavalry General〓
+称号_武官一品魏国1 | ^ffbc3c※〓从一品 卫将军〓※ | ^ffbc3c〓Sub-Grade 1 Guard General〓
+称号_武官一品魏国2 | ^ffbc3c※〓从一品 车骑将军〓※ | ^ffbc3c〓Sub-Grade 1 Chariot & Cavalry General〓
+称号_武官一品魏国3 | ^ffbc3c※〓从一品 骠骑将军〓※ | ^ffbc3c〓Sub-Grade 1 Cavalry General〓
+称号_武官二品吴国1 | ^ffbc3c※〓从二品 镇北将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the North〓
+称号_武官二品吴国10 | ^ffbc3c※〓正二品 镇军大将军〓※ | ^ffbc3c〓Grade 2 Army-Guarding Grand General〓
+称号_武官二品吴国11 | ^ffbc3c※〓正二品 辅国大将军〓※ | ^ffbc3c〓Grade 2 State-Assisting Grand General〓
+称号_武官二品吴国12 | ^ffbc3c※〓正二品 右都护〓※ | ^ffbc3c〓Grade 2 Right Protector General〓
+称号_武官二品吴国13 | ^ffbc3c※〓正二品 左都护〓※ | ^ffbc3c〓Grade 2 Left Protector General〓
+称号_武官二品吴国2 | ^ffbc3c※〓从二品 镇西将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the West〓
+称号_武官二品吴国3 | ^ffbc3c※〓从二品 镇南将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the South〓
+称号_武官二品吴国4 | ^ffbc3c※〓从二品 镇东将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the East〓
+称号_武官二品吴国5 | ^ffbc3c※〓从二品 征北将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the North〓
+称号_武官二品吴国6 | ^ffbc3c※〓从二品 征西将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the West〓
+称号_武官二品吴国7 | ^ffbc3c※〓从二品 征南将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the South〓
+称号_武官二品吴国8 | ^ffbc3c※〓从二品 征东将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the East〓
+称号_武官二品吴国9 | ^ffbc3c※〓正二品 抚军大将军〓※ | ^ffbc3c〓Grade 2 Army-Supporting Grand General〓
+称号_武官二品蜀国1 | ^ffbc3c※〓从二品 镇北将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the North〓
+称号_武官二品蜀国10 | ^ffbc3c※〓正二品 镇军大将军〓※ | ^ffbc3c〓Grade 2 Army-Guarding Grand General〓
+称号_武官二品蜀国11 | ^ffbc3c※〓正二品 右车骑将军〓※ | ^ffbc3c〓Grade 2 Right Chariot & Cavalry General〓
+称号_武官二品蜀国12 | ^ffbc3c※〓正二品 右骠骑将军〓※ | ^ffbc3c〓Grade 2 Right Cavalry General〓
+称号_武官二品蜀国13 | ^ffbc3c※〓正二品 右大将军〓※ | ^ffbc3c〓Grade 2 Right Grand General〓
+称号_武官二品蜀国2 | ^ffbc3c※〓从二品 镇西将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the West〓
+称号_武官二品蜀国3 | ^ffbc3c※〓从二品 镇南将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the South〓
+称号_武官二品蜀国4 | ^ffbc3c※〓从二品 镇东将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the East〓
+称号_武官二品蜀国5 | ^ffbc3c※〓从二品 征北将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the North〓
+称号_武官二品蜀国6 | ^ffbc3c※〓从二品 征西将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the West〓
+称号_武官二品蜀国7 | ^ffbc3c※〓从二品 征南将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the South〓
+称号_武官二品蜀国8 | ^ffbc3c※〓从二品 征东将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the East〓
+称号_武官二品蜀国9 | ^ffbc3c※〓正二品 抚军大将军〓※ | ^ffbc3c〓Grade 2 Army-Supporting Grand General〓
+称号_武官二品魏国1 | ^ffbc3c※〓从二品 镇北将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the North〓
+称号_武官二品魏国10 | ^ffbc3c※〓正二品 镇军大将军〓※ | ^ffbc3c〓Grade 2 Army-Guarding Grand General〓
+称号_武官二品魏国11 | ^ffbc3c※〓正二品 辅国大将军〓※ | ^ffbc3c〓Grade 2 State-Assisting Grand General〓
+称号_武官二品魏国12 | ^ffbc3c※〓正二品 中军大将军〓※ | ^ffbc3c〓Grade 2 Central Army Grand General〓
+称号_武官二品魏国13 | ^ffbc3c※〓正二品 上军大将军〓※ | ^ffbc3c〓Grade 2 Upper Army Grand General〓
+称号_武官二品魏国2 | ^ffbc3c※〓从二品 镇西将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the West〓
+称号_武官二品魏国3 | ^ffbc3c※〓从二品 镇南将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the South〓
+称号_武官二品魏国4 | ^ffbc3c※〓从二品 镇东将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Guards the East〓
+称号_武官二品魏国5 | ^ffbc3c※〓从二品 征北将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the North〓
+称号_武官二品魏国6 | ^ffbc3c※〓从二品 征西将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the West〓
+称号_武官二品魏国7 | ^ffbc3c※〓从二品 征南将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the South〓
+称号_武官二品魏国8 | ^ffbc3c※〓从二品 征东将军〓※ | ^ffbc3c〓Sub-Grade 2 General Who Conquers the East〓
+称号_武官二品魏国9 | ^ffbc3c※〓正二品 抚军大将军〓※ | ^ffbc3c〓Grade 2 Army-Supporting Grand General〓
+称号_武官候补从二品1吴国 | ^ffbc3c※〓从二品 前领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Front Vanguard General〓
+称号_武官候补从二品1蜀国 | ^ffbc3c※〓从二品 前领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Front Vanguard General〓
+称号_武官候补从二品1魏国 | ^ffbc3c※〓从二品 前领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Front Vanguard General〓
+称号_武官候补从二品2吴国 | ^ffbc3c※〓从二品 后领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Rear Vanguard General〓
+称号_武官候补从二品2蜀国 | ^ffbc3c※〓从二品 后领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Rear Vanguard General〓
+称号_武官候补从二品2魏国 | ^ffbc3c※〓从二品 后领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Rear Vanguard General〓
+称号_武官候补从二品3吴国 | ^ffbc3c※〓从二品 左领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Left Vanguard General〓
+称号_武官候补从二品3蜀国 | ^ffbc3c※〓从二品 左领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Left Vanguard General〓
+称号_武官候补从二品3魏国 | ^ffbc3c※〓从二品 左领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Left Vanguard General〓
+称号_武官候补从二品4吴国 | ^ffbc3c※〓从二品 右领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Right Vanguard General〓
+称号_武官候补从二品4蜀国 | ^ffbc3c※〓从二品 右领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Right Vanguard General〓
+称号_武官候补从二品4魏国 | ^ffbc3c※〓从二品 右领军将军〓※ | ^ffbc3c〓Sub-Grade 2 Right Vanguard General〓
+称号_武官正一品吴国 | ^ffbc3c※〓正一品 大都督〓※ | ^ffbc3c〓Grade 1 Grand Commander〓
+称号_武官正一品蜀国 | ^ffbc3c※〓正一品 大将军〓※ | ^ffbc3c〓Grade 1 Grand General〓
+称号_武官正一品魏国 | ^ffbc3c※〓正一品 大将军〓※ | ^ffbc3c〓Grade 1 Grand General〓
+裨将军 | ^a800ff裨将军 | ^a800ffDeputy General
+车骑将军 | ^ff7d2f车骑将军 | ^ff7d2fChariot & Cavalry General
+骠骑将军 | ^ff7d2f骠骑将军 | ^ff7d2fCavalry General

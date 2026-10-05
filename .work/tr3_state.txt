@@ -1,0 +1,13 @@
+      78
+in files:
+batch_000.jsonl
+batch_001.jsonl
+batch_002.jsonl
+batch_003.jsonl
+batch_004.jsonl
+--- out files:
+       0
+--- need.json:
+batch_order: 78
+file_payloads: {'item_ext_desc.txt': 18935}
+exit=0

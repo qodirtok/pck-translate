@@ -1,0 +1,7 @@
+mode: DRY-RUN
+records repaired: 0 / 2
+unfixable: 2
+    ('batch_001', 114, 'no insert point found')
+    ('batch_002', 64, 'no insert point found')
+violations: 0
+exit=0

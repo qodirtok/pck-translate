@@ -1,0 +1,7 @@
+glossary filled 12 / 0 still missing
+translations available: 8959
+SKIP skillstr.txt: 4 payload(s) break placeholders (e.g. '选中一个玩家对其做标记，5s后对其释放单体攻击造成60%伤害。')
+SKIP skillgbk.txt: 4 payload(s) break placeholders (e.g. '选中一个玩家对其做标记，5s后对其释放单体攻击造成60%伤害。')
+
+promoted 0 file(s); all_ok=False
+exit=1

@@ -1,0 +1,56 @@
+removed stale artifacts: ['batch_019.part1.jsonl', 'batch_019.part2.jsonl', 'batch_019.part3a.jsonl', 'batch_019.part4.jsonl', 'batch_019_gen.jsonl', 'batch_019_p01.jsonl', 'batch_019_p02.jsonl', 'batch_019_p03.jsonl', 'batch_019_ranks.jsonl']
+batch_000: ok=259 bad=0
+batch_001: ok=136 bad=0
+batch_002: ok=127 bad=0
+batch_003: ok=139 bad=0
+batch_004: ok=155 bad=0
+batch_005: ok=142 bad=7
+batch_006: ok=145 bad=0
+batch_007: ok=136 bad=0
+batch_008: ok=156 bad=0
+batch_009: ok=141 bad=6
+batch_010: ok=140 bad=0
+batch_011: ok=146 bad=0
+batch_012: ok=127 bad=6
+batch_013: ok=109 bad=0
+batch_014: ok=131 bad=12
+batch_015: ok=265 bad=0
+batch_016: ok=434 bad=0
+batch_017: ok=458 bad=0
+batch_018: ok=2871 bad=0
+batch_019: ok=2699 bad=0
+---
+missing: []
+TOTAL ok=8916 bad=31
+--- bad records (31) ---
+('batch_005', 13, 'sentinel', "^c3dbff急冲·伤<CRLF><CRLF>^ffffff急冲可使敌人技能吟唱时间增加，持续10秒。 ||| ^c3dbffSwift Rush · Wound<CRLF>^ffffffSwift Rush can increase the Enemy's skill ")
+('batch_005', 14, 'sentinel', "^c3dbff急冲·怒<CRLF><CRLF>^ffffff急冲可降低敌方暴击抗性，持续5秒。 ||| ^c3dbffSwift Rush · Fury<CRLF>^ffffffSwift Rush can reduce the Enemy's Crit Resi")
+('batch_005', 25, 'sentinel', '^c3dbff惊雷术·策<CRLF><CRLF>^ffffff提升惊雷术的暴击几率。 ||| ^c3dbffThunderclap Art · Stratagem<CRLF>^ffffffIncreases the Crit Chance of Thun')
+('batch_005', 41, 'sentinel', '^c3dbff打断<CRLF>^ffffff需要至少在“速砍·技”上投入5点。<CRLF><CRLF>^ffffff使用速砍击中正在出招动作的对手时，打断对手出 ||| ^c3dbffInterrupt<CRLF>^ffffffRequires at least 5 points invested in “Swift Cleav')
+('batch_005', 51, 'sentinel', '^c3dbff抚琴问情<CRLF><CRLF>^ffffff淑女弄琴，情深如许，凤凰于飞。 ||| ^c3dbffPlucking the Zither of Love<CRLF><CRLF>^ffffffA fair lady plays the zithe')
+('batch_005', 131, 'sentinel', '^c3dbff摄魂一式·压制<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff摄魂 ||| ^c3dbffSoul Seizing First Form · Suppress<CRLF><CRLF>Skill Category: Agility<CRL')
+('batch_005', 136, 'sentinel', '^c3dbff摧心爪<CRLF><CRLF>^ffffff兵器：爪\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300015斗气\u300015体力<CRLF>武技：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却15秒<CRLF> ||| ^c3dbffHeart-Shatter Claw<CRLF><CRLF>^ffffffWeapon: Claws\u3000\u3000\u3000\u300015 Battle Qi 15 Sta')
+('batch_009', 14, 'sentinel', '^c3dbff疾雷杀心<CRLF>^ffffff需要至少在力类专精上投入25点。<CRLF><CRLF>^ffffff使用远程技能时，有几率获得疾雷状态，每层疾 ||| ^c3dbffThunder Gale Heartslayer<CRLF>^ffffffRequires at least 25 points invested')
+('batch_009', 65, 'sentinel', '^c3dbff百裂连棍·技<CRLF>^ffffff需要至少在技类专精上投入15点。<CRLF><CRLF>^ffffff提升百裂连棍造成震伤的机率。加满5层后 ||| ^c3dbffHundred Splinter Continuous Staff · Technique<CRLF>^ffffffRequires at lea')
+('batch_009', 82, 'sentinel', '^c3dbff直突·技<CRLF><CRLF>^ffffff提升直突造成震伤的机率。加满5层后有20%%概率造成<CRLF>重伤效果，震伤效果持续时间高达30秒 ||| ^c3dbffStraight Rush · Technique<CRLF><CRLF>^ffffffIncreases the chance of Strai')
+('batch_009', 86, 'sentinel', '^c3dbff盾砸·封印<CRLF>^ffffff需要在“盾砸·技”上投入5点<CRLF><CRLF>使用盾砸有一定几率获得“封印之力”状态，<CRLF>下次使 ||| ^c3dbffShield Slam · Seal<CRLF><CRLF>^ffffffRequires 5 points invested in “Shiel')
+('batch_009', 87, 'sentinel', '^c3dbff盾突·打断<CRLF>^ffffff需要至少在技类专精上投入15点。<CRLF><CRLF>^ffffff盾突有几率会中断敌人招式的准备过程，造成 ||| ^c3dbffShield Rush · Interrupt<CRLF><CRLF>^ffffffRequires at least 15 points inv')
+('batch_009', 89, 'sentinel', '^c3dbff看破<CRLF>^ffffff需要至少在“截脉刺·力”上投入3点。<CRLF><CRLF>^ffffff剑法的至高境界，寻找对方破绽，<CRLF> ||| ^c3dbffInsight<CRLF><CRLF>^ffffffRequires at least 3 points invested in “Meridia')
+('batch_012', 68, 'sentinel', '^c3dbff连打·技<CRLF>^ffffff需要至少在技类专精上投入5点。<CRLF><CRLF>^ffffff提升连打造成震伤的几率和NPC敌人的仇恨。加 ||| ^c3dbffRapid Strikes · Technique<CRLF>^ffffffRequires at least 5 points invested')
+('batch_012', 86, 'sentinel', '^c3dbff连环计^ffffff                                        ^ffcc00等级 %d^ffffff<CRL ||| ^c3dbffChained Stratagem^ffffff                                        ^ffcc00Le')
+('batch_012', 96, 'sentinel', '^c3dbff追风<CRLF>^ffffff需要至少在技类专精投入25点。<CRLF><CRLF>^ffffff兵器：剑\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000 ||| ^c3dbffWind Chase<CRLF>^ffffffRequires at least 25 points invested in Technique-')
+('batch_012', 101, 'sentinel', '^c3dbff追魂击^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><C ||| ^c3dbffSoul-Chasing Strike^ffffff<CRLF><CRLF>Skill Category: Flexibility Skill T')
+('batch_012', 115, 'sentinel', "^c3dbff逆打·技^ffffff<CRLF><CRLF>逆打刺伤几率提升。加满5层后有20%%概率造成<CRLF>重伤效果，刺伤效果持续时间高达30秒。 ||| ^c3dbffReverse Strike · Technique^ffffff<CRLF><CRLF>Increases Reverse Strike's P")
+('batch_012', 126, 'sentinel', '^c3dbff逍遥突^ffffff                                        ^ffcc00等级 %d^ffffff<CRL ||| ^c3dbffCarefree Rush^ffffff                                        ^ffcc00Level ')
+('batch_014', 16, 'sentinel', "^c3dbff长安写意<CRLF><CRLF>^ffffff持笔疾书，但见银钩铁划凌空而现，笔画如苍龙行空，苍劲虬结。<CRLF>笔落惊风雨，诗成泣鬼神。 ||| ^c3dbffChang'an Freehand<CRLF><CRLF>^ffffffBrush in hand, writing swiftly, silve")
+('batch_014', 21, 'sentinel', '^c3dbff长虹贯日舞<CRLF><CRLF>^ffffff跳起此舞，身畔雷奔龙跃，震动四方，势不可挡。 ||| ^c3dbffRainbow Pierces the Sun Dance<CRLF><CRLF>^ffffffDance this dance, and thu')
+('batch_014', 29, 'sentinel', '^c3dbff闭月<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄50级<CRLF>^ffffff技能生效祖籍限制： ||| ^c3dbffHidden Moon<CRLF><CRLF>^ffffffType: Passive<CRLF>^ffffffRequired Level: H')
+('batch_014', 31, 'sentinel', "^c3dbff闲情赋<CRLF><CRLF>^ffffff书生意气，指点江山，心怀天下，慷慨激昂。 ||| ^c3dbffOde to Idle Fancy<CRLF><CRLF>^ffffffWith a scholar's spirit, pointing out")
+('batch_014', 32, 'sentinel', '^c3dbff闲情赋<CRLF><CRLF>^ffffff花间一梦，胜似千秋，翩翩而至，萦绕心头。 ||| ^c3dbffOde to Idle Fancy<CRLF><CRLF>^ffffffA dream among flowers surpassing a th')
+('batch_014', 53, 'sentinel', '^c3dbff雪璃殇<CRLF><CRLF>^ffffff跳起此舞，身边冰雪纷飞，雪拂大地，万物沉醉。 ||| ^c3dbffSnow-Glass Ruin<CRLF><CRLF>^ffffffDance this dance, and snow and ice swir')
+('batch_014', 54, 'sentinel', '^c3dbff雪莲散<CRLF><CRLF>^ffffff跳起此舞，身畔雪莲飞散，冰菱起舞，冬质高远。 ||| ^c3dbffSnow Lotus Scatter<CRLF><CRLF>^ffffffDance this dance, and snow lotuses s')
+('batch_014', 63, 'sentinel', '^c3dbff雷霆万钧·毁魂<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff雷霆 ||| ^c3dbffThunderclap of Ten Thousand Pounds: Soul Ruin<CRLF><CRLF>Skill Category: ')
+('batch_014', 73, 'sentinel', "^c3dbff霸海刀决<CRLF><CRLF>^ffffff挥舞此刀，身畔雷奔龙跃，震动四方，势不可挡。 ||| ^c3dbffOverlord's Sea Blade Art<CRLF><CRLF>^ffffffWield this blade, and thunder ")
+('batch_014', 80, 'sentinel', '^c3dbff青龙偃月·力<CRLF>^ffffff需要至少在力类专精上投入30点。<CRLF><CRLF>^ffffff提升青龙偃月造成的伤害，并提升骑战时对 ||| ^c3dbffGreen Dragon Crescent Blade: Power^ffffff<CRLF>Requires at least 30 point')
+('batch_014', 99, 'sentinel', '^c3dbff风火轮<CRLF><CRLF>^ffffff兵器：棍\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300030斗气\u300015体力<CRLF>武技：移动释放<CRLF><CRLF>旋转手中长 ||| ^c3dbffWindfire Wheel<CRLF><CRLF>^ffffffWeapon: Staff\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300030 Battle Qi\u300015 Sta')
+('batch_014', 100, 'sentinel', '^c3dbff风火轮<CRLF><CRLF>^ffffff兵器：棍\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300030斗气\u300020体力<CRLF>武技：瞬发<CRLF><CRLF>旋转手中长棍连 ||| ^c3dbffWindfire Wheel<CRLF><CRLF>^ffffffWeapon: Staff\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300030 Battle Qi\u300020 Sta')

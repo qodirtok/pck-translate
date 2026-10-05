@@ -1,0 +1,46 @@
+========================================================================
+PART 1: percent escaping in already-promoted wave-1 files
+========================================================================
+  typedef_initial.xml    src: double%=0    bare%=0       dst: double%=0    bare%=0    
+  item_ext_prop.txt      src: double%=0    bare%=48      dst: double%=0    bare%=48   
+  toptable.txt           src: double%=0    bare%=0       dst: double%=0    bare%=0    
+  instance.txt           src: double%=0    bare%=0       dst: double%=0    bare%=0    
+  buff_str.txt           src: double%=0    bare%=60      dst: double%=0    bare%=60   
+
+========================================================================
+PART 2: does the tr2 SOURCE ever use the space-flag form '% <letter>'?
+========================================================================
+  '% <letter>' occurrences in tr2 source payloads: 0
+
+========================================================================
+PART 3: percent escaping in the tr2 source vs worker English
+========================================================================
+  src : %=1853  bare%=1993
+  dst : %=1853  bare%=1994
+
+  samples where English uses a bare % (src uses %%):
+    batch_000.jsonl/34
+      SRC: 15%*level几率 降低目标移动速度1.5米/秒
+      DST: 15%*level chance to reduce target Movement Speed by 1.5 m/s
+    batch_000.jsonl/80
+      SRC: 50几率眩晕
+      DST: 50% Chance Stun
+    batch_000.jsonl/145
+      SRC: ^c3dbff一剑凌风<CRLF><CRLF>^ffffff兵器：剑　　　　　　　　60斗气　5体力<CRLF>必杀：瞬发　　　　　　　　冷却2分钟<CRLF>
+      DST: ^c3dbffSword of the Gale<CRLF><CRLF>^ffffffWeapon: Sword　　　　　　　　60 Fighting Qi　5
+    batch_000.jsonl/146
+      SRC: ^c3dbff一剑凌风<CRLF><CRLF>^ffffff兵器：剑　　　　　　　　60斗气　5体力<CRLF>必杀：瞬发　　　　　　　　冷却2分钟<CRLF>
+      DST: ^c3dbffSword of the Gale<CRLF><CRLF>^ffffffWeapon: Sword　　　　　　　　60 Fighting Qi　5
+    batch_000.jsonl/147
+      SRC: ^c3dbff一剑凌风<CRLF><CRLF>^ffffff兵器：剑　　　　　　　　75斗气　5体力<CRLF>必杀：瞬发　　　　　　　　冷却2分钟<CRLF>
+      DST: ^c3dbffSword of the Gale<CRLF><CRLF>^ffffffWeapon: Sword　　　　　　　　75 Fighting Qi　5
+    batch_000.jsonl/152
+      SRC: ^c3dbff一龙<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄36级<CRLF>^ffffff技能生效祖籍限制：
+      DST: ^c3dbffOne Dragon<CRLF><CRLF>^ffffffAttribute: Passive<CRLF>^ffffffHero Level Re
+    batch_000.jsonl/154
+      SRC: ^c3dbff七星聚月^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><
+      DST: ^c3dbffSeven Stars Gather the Moon^ffffff<CRLF><CRLF>Skill Category: Valor Line<
+    batch_000.jsonl/157
+      SRC: ^c3dbff七星落^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><C
+      DST: ^c3dbffSeven Stars Fall^ffffff<CRLF><CRLF>Skill Category: Zeal Line<CRLF>Skill Q
+exit=0

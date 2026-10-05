@@ -1,0 +1,150 @@
+
+########## gang_icon.txt ##########
+  src lines=100  dst lines=100
+  --- SRC ---
+   //这个配置文件每一次更新时，只能是在每一项的最后边加入新的，绝对不能修改以前的顺序或者索引
+   //组合图标的文字字体
+   [Font_Name]
+   name1	= 字体一
+   name2	= 字体二
+   name3	= 字体三
+   
+  --- DST ---
+   //This config file can only append new entries at the end of each section on update. Never modify previous order or indices.
+   //Composite icon text fonts
+   [Font_Name]
+   name1	= Font 1
+   name2	= Font 2
+   name3	= Font 3
+   
+
+########## fonts.txt ##########
+  src lines=6  dst lines=6
+  --- SRC ---
+   //  Element Client 字体描述
+   
+   //  字体名 ｜ 大小 ｜ 粗体 ｜ 斜体 ｜字符样本
+   
+   "宋体"  12  0  0  W	//  玩家和NPC头顶称谓文字
+   "宋体"  20  0  0  W	//  弹出的伤害值的文字
+  --- DST ---
+   //  Element Client Font Description
+   
+   //  Font Name | Size | Bold | Italic | Character Sample
+   
+   "SimSun"  12  0  0  W	//  Player and NPC overhead title text
+   "SimSun"  20  0  0  W	//  Popup damage value text
+
+########## weapon_transform.txt ##########
+  src lines=28  dst lines=28
+  --- SRC ---
+   #十二阶神器武器互转
+   88563	88564	88565	88566	88567	88568	88569	88570	88571	88572	88573	88598	88599	88600	88601	88602	88603	88604	88605	88606
+   #十二阶紫武器互转																			
+   75952	75956	75960	75964	75968	75972	75976	75980	75984	75988	75992	75996	76000	76004	76008	76012	76016	76020	84744	87307
+   #十二阶橙武器互转																			
+   75953	75957	75961	75965	75969	75973	75977	75981	75985	75989	75993	75997	76001	76005	76009	76013	76017	76021	84745	87308
+   #十二阶金过渡武器互转																			
+  --- DST ---
+   #Twelfth Rank Divine Artifact Weapon Conversion
+   88563	88564	88565	88566	88567	88568	88569	88570	88571	88572	88573	88598	88599	88600	88601	88602	88603	88604	88605	88606
+   #Twelfth Rank Purple Weapon Conversion																			
+   75952	75956	75960	75964	75968	75972	75976	75980	75984	75988	75992	75996	76000	76004	76008	76012	76016	76020	84744	87307
+   #Twelfth Rank Orange Weapon Conversion																			
+   75953	75957	75961	75965	75969	75973	75977	75981	75985	75989	75993	75997	76001	76005	76009	76013	76017	76021	84745	87308
+   #Twelfth Rank Gold Transition Weapon Conversion																			
+
+########## extract_equip_model.txt ##########
+  src lines=14  dst lines=14
+  --- SRC ---
+   #武器
+   77756	75952	75953	75954	75955
+   #肩甲
+   77795	76847	76849	76851	76853
+   #饰带
+   77796	76867	76869	76871	76873	
+   #腿甲	
+  --- DST ---
+   #Weapon
+   77756	75952	75953	75954	75955
+   #Shoulder Armor
+   77795	76847	76849	76851	76853
+   #Sash
+   77796	76867	76869	76871	76873	
+   #Leg Armor	
+
+########## fixed_msg.txt ##########
+  src lines=829  dst lines=829
+  --- SRC ---
+   #_index
+   #_begin
+   
+   //  队伍 =============================
+   0	"&%s& 离开了队伍"
+   1	"&%s& 加入了队伍"
+   2	"你离开了队伍"
+  --- DST ---
+   #_index
+   #_begin
+   
+   //  队伍 =============================
+   0	"&%s& left the party"
+   1	"&%s& joined the party"
+   2	"You left the party"
+
+########## province.txt ##########
+  src lines=299  dst lines=299
+  --- SRC ---
+   1 "北京"	
+   	1 "北京市"
+   	
+   1 "天津"	
+   	2 "天津市"
+   	
+   11 "河北省"	
+  --- DST ---
+   1 "Beijing"	
+   	1 "Beijing"
+   	
+   1 "Tianjin"	
+   	2 "Tianjin"
+   	
+   11 "Hebei"	
+
+########## boneinit.cfg ##########
+  src lines=222  dst lines=222
+  --- SRC ---
+   脸盘021
+   1
+   脸盘031
+   1
+   脸盘041
+   1
+   脸盘051
+  --- DST ---
+   Face Shape021
+   1
+   Face Shape031
+   1
+   Face Shape041
+   1
+   Face Shape051
+
+########## task_err.txt ##########
+  src lines=61  dst lines=61
+  --- SRC ---
+   #_index
+   #_begin
+   1	"未知的任务错误"
+   2	"不是根任务"
+   3	"已有相同任务"
+   4	"已经到达任务列表上限"
+   5	"任务列表已满"
+  --- DST ---
+   #_index
+   #_begin
+   1	"Unknown quest error"
+   2	"Not a root quest"
+   3	"Duplicate quest already exists"
+   4	"Quest list limit reached"
+   5	"Quest list is full"

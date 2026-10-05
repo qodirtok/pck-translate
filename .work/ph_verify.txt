@@ -1,0 +1,19 @@
+======================================================================
+PART 1: placeholder class census over 9103 tr2 source payloads
+======================================================================
+  bare         2354
+  width        0
+  precision    104
+  positional   0
+  colour       9761
+  amp          0
+  flag-only    0   <- class the fix suppresses
+
+======================================================================
+PART 2: per-span real-placeholder sequence comparison
+======================================================================
+  spans compared      : 20934
+  spans with real-token difference: 0
+
+done
+exit=0

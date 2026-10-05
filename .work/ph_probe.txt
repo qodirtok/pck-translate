@@ -1,0 +1,70 @@
+file=skillstr.txt  spans=10467  token mismatches=57
+
+token-kind differences across all mismatches:
+   dst-only:printf          58
+
+======================================================================
+mismatch 1
+  SRC tokens: ['^c3dbff', '^ffffff']
+  DST tokens: ['^c3dbff', '^ffffff', '% d']
+  only in SRC: set()
+  only in DST: {'% d'}
+  SRC: '^c3dbff烈风斩\r\n\r\n^ffffff兵器：钺\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300010体力\r\n武技：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却8秒\r\n\r\n钺的连续攻击，有可能劈伤敌人。\r\n每次获得10点斗气。\r\n陆续造成50%%、100%%、300%%伤害。'
+  DST: "^c3dbffGale Slash\r\n\r\n^ffffffWeapon: Battleaxe\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300010 Stamina\r\nMartial Art: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Cool-down 8s\r\n\r\nThe Battleaxe's combo strikes may clea"
+======================================================================
+mismatch 2
+  SRC tokens: ['^c3dbff', '^ffffff', '^ffffff']
+  DST tokens: ['^c3dbff', '^ffffff', '^ffffff', '% d']
+  only in SRC: set()
+  only in DST: {'% d'}
+  SRC: '^c3dbff猛虎劈\r\n^ffffff需要至少在力类专精上投入20点。\r\n\r\n^ffffff兵器：斧\u3000\u3000\u3000\u3000\u3000\u3000\u300020斗气\u300010体力\r\n专精：立即出招\u3000\u3000\u3000\u3000\u3000\u3000冷却15秒\r\n\r\n招式犹如猛虎出林一样的凶猛气势直扑向敌人。\r\n跳跃到敌人附近攻击敌人并击晕敌人。\r\n接横扫将提高100%%基础伤害。\r\n'
+  DST: '^c3dbffFierce Tiger Cleave\r\n^ffffffRequires at least 20 points invested in Power Mastery.\r\n\r\n^ffffffWeapon: Axe\u3000\u3000\u3000\u3000\u3000\u3000\u300020 Battle Qi\u300010 Stamina\r\nMastery'
+======================================================================
+mismatch 3
+  SRC tokens: ['^ffcc00', '%d', '^ffffff', '%d']
+  DST tokens: ['^ffcc00', '%d', '^ffffff', '%d', '% d']
+  only in SRC: set()
+  only in DST: {'% d'}
+  SRC: '^ffcc00等级 %d/5^ffffff - 额外增加%d%%伤害量。'
+  DST: '^ffcc00Level %d/5^ffffff - Extra %d%% damage amount.'
+======================================================================
+mismatch 4
+  SRC tokens: ['^c3dbff', '^ffffff']
+  DST tokens: ['^c3dbff', '^ffffff', '% f']
+  only in SRC: set()
+  only in DST: {'% f'}
+  SRC: '^c3dbff旋风式\r\n\r\n^ffffff兵器：锏\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300025斗气\r\n武技：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却15秒\r\n\r\n释放斗气，对前方扇形范围最多3个敌人发起攻击\r\n造成65%%基础伤害\r\n减速2米/秒、持续8秒\r\n提高自身生命上限5%%、持续8秒'
+  DST: '^c3dbffWhirlwind Form\r\n\r\n^ffffffWeapon: Iron Mace\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300025 Battle Qi\r\nMartial Skill: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Cool-down 15 sec\r\n\r\nReleases Battle Qi to attack '
+======================================================================
+mismatch 5
+  SRC tokens: ['^ffcc00', '%d', '^ffffff', '%d']
+  DST tokens: ['^ffcc00', '%d', '^ffffff', '%d', '% d']
+  only in SRC: set()
+  only in DST: {'% d'}
+  SRC: '^ffcc00等级 %d/5^ffffff - 额外增加%d%%伤害抵挡。'
+  DST: '^ffcc00Level %d/5^ffffff - Extra %d%% damage resistance.'
+======================================================================
+mismatch 6
+  SRC tokens: ['^c3dbff', '^ffffff', '^c3dbff']
+  DST tokens: ['^c3dbff', '^ffffff', '% f', '^c3dbff']
+  only in SRC: set()
+  only in DST: {'% f'}
+  SRC: '^c3dbff蝶扇之舞\r\n\r\n^ffffff兵器：舞\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300020体力\r\n策略：出招0.5秒\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却4秒\r\n\r\n扔出舞扇，先手攻击敌人。\r\n产生10点斗气。\r\n震伤敌人，必须战斗外使用。\r\n120%%基础攻击。\r\n招式命中后提升15%%攻速，持续15秒，\r\n直到使用任意攻击招'
+  DST: '^c3dbffButterfly Fan Dance\r\n\r\n^ffffffWeapon: Dance Fan\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300020 Stamina\r\nStrategy: 0.5 sec execution\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Cool-down 4 sec\r\n\r\nHurl the Dance Fan '
+======================================================================
+mismatch 7
+  SRC tokens: ['^c3dbff', '^ffffff']
+  DST tokens: ['^c3dbff', '^ffffff', '% f']
+  only in SRC: set()
+  only in DST: {'% f'}
+  SRC: '^c3dbff天佑\r\n\r\n^ffffff兵器：不限\u3000\u3000\u3000\u3000\u3000\u3000 10体力\r\n武技：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却180秒\r\n\r\n天佑在使用5秒后或连续使用时才进入冷却。\r\n技能在初次使用时可使玩家获得天佑状态，\r\n受到的所有伤害降低20%%，持续8秒；\r\n再次使用时，为玩家回复生命，且对周围7米\r\n内敌人'
+  DST: '^c3dbffDivine Protection\r\n\r\n^ffffffWeapon: Any\u3000\u3000\u3000\u3000\u3000\u3000 10 Stamina\r\nMartial Art: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Cool-down 180s\r\n\r\nDivine Protection only enters cool-down'
+======================================================================
+mismatch 8
+  SRC tokens: []
+  DST tokens: ['% d']
+  only in SRC: set()
+  only in DST: {'% d'}
+  SRC: '选中一个玩家对其做标记，5s后对其释放单体攻击造成60%伤害。'
+  DST: 'Select a player and mark it,then release a single target attack after 5s for 60% damage.'
+exit=0

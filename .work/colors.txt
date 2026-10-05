@@ -1,0 +1,70 @@
+### batch_005/62
+  src seq: ['^c3dbff', '^ffffff']
+  dst seq: ['^c3dbff', '^ffffff', '^ffffff']
+   insert   src[2:2]=[]  dst[2:3]=['^ffffff']
+  DST line1: '^c3dbffArmor Expertise^ffffff'
+  SRC line1: '^c3dbff护铠精通'
+
+### batch_005/70
+  src seq: ['^c3dbff', '^ffffff', '^ffffff']
+  dst seq: ['^c3dbff', '^ffffff', '^ffffff', '^ffffff']
+   insert   src[3:3]=[]  dst[3:4]=['^ffffff']
+  DST line1: '^c3dbffWheel the Horse Around'
+  SRC line1: '^c3dbff拨马回身'
+
+### batch_005/108
+  src seq: ['^c3dbff', '^ffffff', '^ffffff']
+  dst seq: ['^c3dbff', '^ffffff', '^ffffff', '^ffffff']
+   insert   src[3:3]=[]  dst[3:4]=['^ffffff']
+  DST line1: '^c3dbffPincer Position^ffffff'
+  SRC line1: '^c3dbff掎角之势'
+
+### batch_005/123
+  src seq: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff']
+  dst seq: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff']
+   insert   src[4:4]=[]  dst[4:5]=['^c3dbff']
+  DST line1: '^c3dbffSea-Stirring Stance · Third Form'
+  SRC line1: '^c3dbff搅海式·三式'
+
+### batch_005/124
+  src seq: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff']
+  dst seq: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff']
+   insert   src[4:4]=[]  dst[4:5]=['^c3dbff']
+  DST line1: '^c3dbffSea-Stirring Stance · Second Form'
+  SRC line1: '^c3dbff搅海式·二式'
+
+### batch_005/142
+  src seq: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff']
+  dst seq: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff']
+   insert   src[4:4]=[]  dst[4:5]=['^c3dbff']
+  DST line1: '^c3dbffFlung Ring · Whirl'
+  SRC line1: '^c3dbff撒手环·回旋'
+
+### batch_012/46
+  src seq: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff', '^c3dbff']
+  dst seq: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff', '^c3dbff', '^c3dbff']
+   insert   src[6:6]=[]  dst[6:7]=['^c3dbff']
+  DST line1: '^c3dbffFace Sweep'
+  SRC line1: '^c3dbff迎面扫'
+
+### batch_012/87
+  src seq: ['^c3dbff', '^ffffff', '^c3dbff']
+  dst seq: ['^c3dbff', '^ffffff', '^c3dbff', '^c3dbff']
+   insert   src[3:3]=[]  dst[3:4]=['^c3dbff']
+  DST line1: '^c3dbffChain Arrow Shot^ffffff'
+  SRC line1: '^c3dbff连矢射^ffffff'
+
+### batch_012/97
+  src seq: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^ffffff']
+  dst seq: ['^c3dbff', '^ffffff', '^ffffff', '^c3dbff', '^c3dbff', '^ffffff']
+   insert   src[4:4]=[]  dst[4:5]=['^c3dbff']
+  DST line1: '^c3dbffWind Chase Rising Dragon'
+  SRC line1: '^c3dbff追风升龙'
+
+### batch_014/56
+  src seq: ['^c3dbff', '^ffffff', '^99ccff', '^99ccff', '^99ccff']
+  dst seq: ['^c3dbff', '^ffffff', '^99ccff', '^99ccff', '^99ccff', '^99ccff']
+   insert   src[5:5]=[]  dst[5:6]=['^99ccff']
+  DST line1: '^c3dbffThunder Shakes the Nine Heavens'
+  SRC line1: '^c3dbff雷动九天'
+

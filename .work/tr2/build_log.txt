@@ -1,0 +1,725 @@
+PROBLEM 1 TOKENS
+   first diff at 0 '^c3dbff巨灵神力' '^c3dbffMight'
+   src ['^c3dbff巨灵神力', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffMight', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 2 TOKENS
+   first diff at 0 '^c3dbff巨灵神力' '^c3dbffMight'
+   src ['^c3dbff巨灵神力', '<CRLF>', '^ffffff需要至少在破类专精上投入15点', '<CRLF>']
+   eng ['^c3dbffMight', '<CRLF>', '^ffffffRequires', '15']
+PROBLEM 3 TOKENS
+   first diff at 0 '^c3dbff巨灵神力' '^c3dbffMight'
+   src ['^c3dbff巨灵神力', '<CRLF>', '^ffffff需要至少在舞类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffMight', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 4 TOKENS
+   first diff at 0 '^c3dbff巫师之怒' '^c3dbffWrath'
+   src ['^c3dbff巫师之怒', '^ffffff', '<CRLF>', '3']
+   eng ['^c3dbffWrath', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 4 SEGMENTS
+PROBLEM 5 TOKENS
+   first diff at 0 '^c3dbff布偶童鼓' '^c3dbffPuppet'
+   src ['^c3dbff布偶童鼓', '<CRLF>', '<CRLF>', '^ffffff浪鼓回转叮咚响']
+   eng ['^c3dbffPuppet', '<CRLF>', '<CRLF>', '^ffffffThe']
+PROBLEM 5 SEGMENTS
+PROBLEM 6 U3000
+   first diff at 0 11 8
+   src [11, 10]
+   eng [8, 8]
+PROBLEM 6 TOKENS
+   first diff at 0 '^c3dbff干戚之舞' '^c3dbffDance'
+   src ['^c3dbff干戚之舞', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffDance', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 7 TOKENS
+   first diff at 0 '^c3dbff干戚之舞' '^c3dbffDance'
+   src ['^c3dbff干戚之舞', '<CRLF>', '<CRLF>', '^ffffff提升干戚之舞招式造成伤害']
+   eng ['^c3dbffDance', '<CRLF>', '<CRLF>', '^ffffffIncreases']
+PROBLEM 8 TOKENS
+   first diff at 0 '^c3dbff干戚之舞' '^c3dbffDance'
+   src ['^c3dbff干戚之舞', '<CRLF>', '<CRLF>', '^ffffff提升干戚之舞造成震伤的几率']
+   eng ['^c3dbffDance', '<CRLF>', '<CRLF>', '^ffffffIncreases']
+PROBLEM 9 TOKENS
+   first diff at 0 '^c3dbff幻影击' '^c3dbffPhantom'
+   src ['^c3dbff幻影击', '<CRLF>', '^ffffff需要至少在技类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffPhantom', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 10 TOKENS
+   first diff at 0 '^c3dbff幼麟' '^c3dbffYoung'
+   src ['^c3dbff幼麟', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng ['^c3dbffYoung', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 11 TOKENS
+   first diff at 0 '^c3dbff幽兰气' '^c3dbffOrchid'
+   src ['^c3dbff幽兰气', '^ffffff', '^ffcc00等级', '%d']
+   eng ['^c3dbffOrchid', '^ffffff', '^ffcc00Lv', '%d']
+PROBLEM 11 SEGMENTS
+PROBLEM 12 TOKENS
+   first diff at 0 '^c3dbff广袖之舞' '^c3dbffDance'
+   src ['^c3dbff广袖之舞', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffDance', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 13 TOKENS
+   first diff at 0 '^c3dbff广袖之舞' '^c3dbffDance'
+   src ['^c3dbff广袖之舞', '<CRLF>', '^ffffff需要至少在', '10']
+   eng ['^c3dbffDance', '<CRLF>', '^ffffffRequires', '10']
+PROBLEM 14 TOKENS
+   first diff at 0 '^c3dbff广袖之舞' '^c3dbffDance'
+   src ['^c3dbff广袖之舞', '<CRLF>', '^ffffff需要至少在', '10']
+   eng ['^c3dbffDance', '<CRLF>', '^ffffffRequires', '10']
+PROBLEM 15 TOKENS
+   first diff at 0 '^c3dbff开合凌波意' '^c3dbffOpening'
+   src ['^c3dbff开合凌波意', '<CRLF>', '<CRLF>', '^ffffff挥动此扇']
+   eng ['^c3dbffOpening', '<CRLF>', '<CRLF>', '^ffffffSweep']
+PROBLEM 15 SEGMENTS
+PROBLEM 16 TOKENS
+   first diff at 0 '^c3dbff开疆' '^c3dbffFrontier'
+   src ['^c3dbff开疆', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng ['^c3dbffFrontier', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 16 SEGMENTS
+PROBLEM 17 TOKENS
+   first diff at 0 '^c3dbff弓意' '^c3dbffBow'
+   src ['^c3dbff弓意', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng ['^c3dbffBow', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 18 TOKENS
+   first diff at 0 '^c3dbff弓神降临' '^c3dbffDescent'
+   src ['^c3dbff弓神降临', '^ffffff', '^ffcc00等级', '%d']
+   eng ['^c3dbffDescent', '^ffffff', '^ffcc00Lv', '%d']
+PROBLEM 19 TOKENS
+   first diff at 0 '^c3dbff引雷钩' '^c3dbffThunder'
+   src ['^c3dbff引雷钩', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffThunder', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 20 TOKENS
+   first diff at 0 '^c3dbff引雷钩' '^c3dbffThunder'
+   src ['^c3dbff引雷钩', '<CRLF>', '^ffffff需要至少在力类专精上投入5点', '<CRLF>']
+   eng ['^c3dbffThunder', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 21 TOKENS
+   first diff at 0 '^c3dbff引雷钩' '^c3dbffThunder'
+   src ['^c3dbff引雷钩', '<CRLF>', '^ffffff需要至少在技类专精上投入5点', '<CRLF>']
+   eng ['^c3dbffThunder', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 22 TOKENS
+   first diff at 0 '^c3dbff引雷钩' '^c3dbffThunder'
+   src ['^c3dbff引雷钩', '<CRLF>', '^ffffff需要至少在力类专精上投入5点', '<CRLF>']
+   eng ['^c3dbffThunder', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 23 TOKENS
+   first diff at 0 '^c3dbff引雷钩' '^c3dbffThunder'
+   src ['^c3dbff引雷钩', '<CRLF>', '^ffffff需要至少在技类专精上投入5点', '<CRLF>']
+   eng ['^c3dbffThunder', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 24 TOKENS
+   first diff at 0 '^c3dbff弦奏水龙吟' '^c3dbffStrings'
+   src ['^c3dbff弦奏水龙吟', '<CRLF>', '<CRLF>', '^ffffff演奏此琴']
+   eng ['^c3dbffStrings', '<CRLF>', '<CRLF>', '^ffffffPlay']
+PROBLEM 24 SEGMENTS
+PROBLEM 25 U3000
+   first diff at 2 7 8
+   src [8, 1, 7]
+   eng [8, 1, 8]
+PROBLEM 25 TOKENS
+   first diff at 0 '^c3dbff弧月斩' '^c3dbffCrescent'
+   src ['^c3dbff弧月斩', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffCrescent', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 26 TOKENS
+   first diff at 0 '^c3dbff弧月斩' '^c3dbffCrescent'
+   src ['^c3dbff弧月斩', '<CRLF>', '^ffffff需要至少在力类专精上投入15点', '<CRLF>']
+   eng ['^c3dbffCrescent', '<CRLF>', '^ffffffRequires', '15']
+PROBLEM 27 TOKENS
+   first diff at 0 '^c3dbff弧月斩' '^c3dbffCrescent'
+   src ['^c3dbff弧月斩', '<CRLF>', '^ffffff需要至少在力类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffCrescent', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 28 TOKENS
+   first diff at 0 '^c3dbff弧月斩' '^c3dbffCrescent'
+   src ['^c3dbff弧月斩', '<CRLF>', '^ffffff需要至少在技类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffCrescent', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 29 TOKENS
+   first diff at 0 '^c3dbff弩魂' '^c3dbffCrossbow'
+   src ['^c3dbff弩魂', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng ['^c3dbffCrossbow', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 30 U3000
+   first diff at 0 9 8
+   src [9]
+   eng [8]
+PROBLEM 30 ASCII
+   first diff at 0 22 6
+   src [22]
+   eng [6]
+PROBLEM 30 TOKENS
+   first diff at 0 '^c3dbff强体术' '^c3dbffBody'
+   src ['^c3dbff强体术', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffBody', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 31 TOKENS
+   first diff at 0 '^c3dbff强体术' '^c3dbffBody'
+   src ['^c3dbff强体术', '<CRLF>', '^ffffff需要至少在策类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffBody', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 32 TOKENS
+   first diff at 0 '^c3dbff强兵' '^c3dbffElite'
+   src ['^c3dbff强兵', '<CRLF>', '<CRLF>', '^ffffff结义兵法']
+   eng ['^c3dbffElite', '<CRLF>', '<CRLF>', '^ffffffSworn']
+PROBLEM 33 TOKENS
+   first diff at 0 '^c3dbff强击' '^c3dbffMighty'
+   src ['^c3dbff强击', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng ['^c3dbffMighty', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 34 TOKENS
+   first diff at 0 '^c3dbff强化' '^c3dbffEnhanced'
+   src ['^c3dbff强化', '<CRLF>', '^ffffff需要至少在伤类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 35 TOKENS
+   first diff at 0 '^c3dbff强化乘风刺' '^c3dbffEnhanced'
+   src ['^c3dbff强化乘风刺', '<CRLF>', '^ffffff需要至少在', '2']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '2']
+PROBLEM 36 TOKENS
+   first diff at 0 '^c3dbff强化五步射' '^c3dbffEnhanced'
+   src ['^c3dbff强化五步射', '<CRLF>', '^ffffff需要至少在力类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 37 TOKENS
+   first diff at 0 '^c3dbff强化会心' '^c3dbffEnhanced'
+   src ['^c3dbff强化会心', '<CRLF>', '^ffffff需要至少在力类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 38 TOKENS
+   first diff at 0 '^c3dbff强化伺机' '^c3dbffEnhanced'
+   src ['^c3dbff强化伺机', '<CRLF>', '^ffffff需要至少在力类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 39 TOKENS
+   first diff at 0 '^c3dbff强化凝心' '^c3dbffEnhanced'
+   src ['^c3dbff强化凝心', '<CRLF>', '^ffffff需要至少在力专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 39 SEGMENTS
+PROBLEM 40 TOKENS
+   first diff at 0 '^c3dbff强化刺杀' '^c3dbffEnhanced'
+   src ['^c3dbff强化刺杀', '<CRLF>', '^ffffff需要至少在力类专精上投入30点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '30']
+PROBLEM 41 TOKENS
+   first diff at 0 '^c3dbff强化刺颈爪' '^c3dbffEnhanced'
+   src ['^c3dbff强化刺颈爪', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 42 TOKENS
+   first diff at 0 '^c3dbff强化劲弩' '^c3dbffEnhanced'
+   src ['^c3dbff强化劲弩', '<CRLF>', '^ffffff需要至少在力类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 42 SEGMENTS
+PROBLEM 43 TOKENS
+   first diff at 0 '^c3dbff强化回锋斩' '^c3dbffEnhanced'
+   src ['^c3dbff强化回锋斩', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 44 TOKENS
+   first diff at 0 '^c3dbff强化圆月斩' '^c3dbffEnhanced'
+   src ['^c3dbff强化圆月斩', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 45 TOKENS
+   first diff at 0 '^c3dbff强化奋勇' '^c3dbffEnhanced'
+   src ['^c3dbff强化奋勇', '<CRLF>', '^ffffff需要至少在力类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 46 TOKENS
+   first diff at 0 '^c3dbff强化强袭棍' '^c3dbffEnhanced'
+   src ['^c3dbff强化强袭棍', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 47 TOKENS
+   first diff at 0 '^c3dbff强化当头斧' '^c3dbffEnhanced'
+   src ['^c3dbff强化当头斧', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 48 TOKENS
+   first diff at 0 '^c3dbff强化待伏' '^c3dbffEnhanced'
+   src ['^c3dbff强化待伏', '<CRLF>', '^ffffff需要至少在力类专精上投入15点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '15']
+PROBLEM 49 TOKENS
+   first diff at 0 '^c3dbff强化御敌' '^c3dbffEnhanced'
+   src ['^c3dbff强化御敌', '<CRLF>', '^ffffff需要至少在御类专精上投入30点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '30']
+PROBLEM 50 TOKENS
+   first diff at 0 '^c3dbff强化恶来' '^c3dbffEnhanced'
+   src ['^c3dbff强化恶来', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 51 TOKENS
+   first diff at 0 '^c3dbff强化承接' '^c3dbffEnhanced'
+   src ['^c3dbff强化承接', '<CRLF>', '^ffffff需要至少在', '1']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '1']
+PROBLEM 52 TOKENS
+   first diff at 0 '^c3dbff强化护体' '^c3dbffEnhanced'
+   src ['^c3dbff强化护体', '<CRLF>', '^ffffff需要至少在技类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 53 TOKENS
+   first diff at 0 '^c3dbff强化护卫' '^c3dbffEnhanced'
+   src ['^c3dbff强化护卫', '<CRLF>', '^ffffff需要至少在力类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 54 TOKENS
+   first diff at 0 '^c3dbff强化掠影爪' '^c3dbffEnhanced'
+   src ['^c3dbff强化掠影爪', '<CRLF>', '^ffffff需要至少在力类专精上投入5点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 55 TOKENS
+   first diff at 0 '^c3dbff强化摧心爪' '^c3dbffEnhanced'
+   src ['^c3dbff强化摧心爪', '<CRLF>', '^ffffff需要至少在技类专精上投入15点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '15']
+PROBLEM 56 TOKENS
+   first diff at 0 '^c3dbff强化斗志' '^c3dbffEnhanced'
+   src ['^c3dbff强化斗志', '<CRLF>', '^ffffff需要至少在力专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 56 SEGMENTS
+PROBLEM 57 TOKENS
+   first diff at 0 '^c3dbff强化暴雨梨花' '^c3dbffEnhanced'
+   src ['^c3dbff强化暴雨梨花', '<CRLF>', '^ffffff需要至少在力类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 58 TOKENS
+   first diff at 0 '^c3dbff强化格挡' '^c3dbffEnhanced'
+   src ['^c3dbff强化格挡', '<CRLF>', '^ffffff需要至少在伤类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 59 TOKENS
+   first diff at 0 '^c3dbff强化格挡' '^c3dbffEnhanced'
+   src ['^c3dbff强化格挡', '<CRLF>', '^ffffff需要至少在技类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 60 TOKENS
+   first diff at 0 '^c3dbff强化激励' '^c3dbffEnhanced'
+   src ['^c3dbff强化激励', '^ffffff', '<CRLF>', '<CRLF>']
+   eng ['^c3dbffEnhanced', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 61 TOKENS
+   first diff at 0 '^c3dbff强化爪刺飞舞' '^c3dbffEnhanced'
+   src ['^c3dbff强化爪刺飞舞', '<CRLF>', '^ffffff需要至少在力类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 62 TOKENS
+   first diff at 0 '^c3dbff强化瞄准' '^c3dbffEnhanced'
+   src ['^c3dbff强化瞄准', '<CRLF>', '^ffffff需要至少在技类专精上投入10点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '10']
+PROBLEM 63 TOKENS
+   first diff at 0 '^c3dbff强化破军' '^c3dbffEnhanced'
+   src ['^c3dbff强化破军', '<CRLF>', '^ffffff需要至少在破类专精上投入30点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '30']
+PROBLEM 64 TOKENS
+   first diff at 0 '^c3dbff强化神威枪' '^c3dbffEnhanced'
+   src ['^c3dbff强化神威枪', '<CRLF>', '^ffffff需要至少在力专精上投入10点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '10']
+PROBLEM 65 TOKENS
+   first diff at 0 '^c3dbff强化稳健' '^c3dbffEnhanced'
+   src ['^c3dbff强化稳健', '<CRLF>', '^ffffff需要至少在技专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 65 SEGMENTS
+PROBLEM 66 TOKENS
+   first diff at 0 '^c3dbff强化穿肠爪' '^c3dbffEnhanced'
+   src ['^c3dbff强化穿肠爪', '<CRLF>', '^ffffff需要至少在力类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 67 TOKENS
+   first diff at 0 '^c3dbff强化突击' '^c3dbffEnhanced'
+   src ['^c3dbff强化突击', '<CRLF>', '<CRLF>', '^ffffff提升突击造成的伤害']
+   eng ['^c3dbffEnhanced', '<CRLF>', '<CRLF>', '^ffffffIncreases']
+PROBLEM 68 TOKENS
+   first diff at 0 '^c3dbff强化突袭' '^c3dbffEnhanced'
+   src ['^c3dbff强化突袭', '<CRLF>', '^ffffff需要至少在力类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 69 TOKENS
+   first diff at 0 '^c3dbff强化缩地' '^c3dbffEnhanced'
+   src ['^c3dbff强化缩地', '<CRLF>', '^ffffff需要至少在策类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 70 TOKENS
+   first diff at 0 '^c3dbff强化背刺' '^c3dbffEnhanced'
+   src ['^c3dbff强化背刺', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 71 TOKENS
+   first diff at 0 '^c3dbff强化背袭' '^c3dbffEnhanced'
+   src ['^c3dbff强化背袭', '<CRLF>', '^ffffff需要至少在力类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 72 TOKENS
+   first diff at 0 '^c3dbff强化蓄劲' '^c3dbffEnhanced'
+   src ['^c3dbff强化蓄劲', '<CRLF>', '^ffffff需要至少在技术类专精上投入10点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '10']
+PROBLEM 73 TOKENS
+   first diff at 0 '^c3dbff强化蕴怒' '^c3dbffEnhanced'
+   src ['^c3dbff强化蕴怒', '<CRLF>', '^ffffff需要至少在力类专精上投入15点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '15']
+PROBLEM 74 TOKENS
+   first diff at 0 '^c3dbff强化虎入羊群' '^c3dbffEnhanced'
+   src ['^c3dbff强化虎入羊群', '<CRLF>', '^ffffff需要至少在烈类专精上投入30点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '30']
+PROBLEM 75 TOKENS
+   first diff at 0 '^c3dbff强化血勇' '^c3dbffEnhanced'
+   src ['^c3dbff强化血勇', '<CRLF>', '^ffffff需要至少在力类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 76 TOKENS
+   first diff at 0 '^c3dbff强化觅心刺' '^c3dbffEnhanced'
+   src ['^c3dbff强化觅心刺', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 77 TOKENS
+   first diff at 0 '^c3dbff强化解牛劈' '^c3dbffEnhanced'
+   src ['^c3dbff强化解牛劈', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 78 TOKENS
+   first diff at 0 '^c3dbff强化轻弩' '^c3dbffEnhanced'
+   src ['^c3dbff强化轻弩', '<CRLF>', '^ffffff需要至少在技类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 78 SEGMENTS
+PROBLEM 79 TOKENS
+   first diff at 0 '^c3dbff强化迅捷' '^c3dbffEnhanced'
+   src ['^c3dbff强化迅捷', '<CRLF>', '^ffffff需要至少在技专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 79 SEGMENTS
+PROBLEM 80 TOKENS
+   first diff at 0 '^c3dbff强化连击' '^c3dbffEnhanced'
+   src ['^c3dbff强化连击', '<CRLF>', '^ffffff需要至少在力类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 81 TOKENS
+   first diff at 0 '^c3dbff强化连击' '^c3dbffEnhanced'
+   src ['^c3dbff强化连击', '<CRLF>', '^ffffff需要至少在技类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 82 TOKENS
+   first diff at 0 '^c3dbff强化连击' '^c3dbffEnhanced'
+   src ['^c3dbff强化连击', '<CRLF>', '^ffffff需要至少在技类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 83 TOKENS
+   first diff at 0 '^c3dbff强化连舞' '^c3dbffEnhanced'
+   src ['^c3dbff强化连舞', '<CRLF>', '^ffffff需要至少在力类专精上投入30点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '30']
+PROBLEM 84 TOKENS
+   first diff at 0 '^c3dbff强化野蛮冲撞' '^c3dbffEnhanced'
+   src ['^c3dbff强化野蛮冲撞', '<CRLF>', '^ffffff需要至少在刚类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 85 TOKENS
+   first diff at 0 '^c3dbff强化钩镰' '^c3dbffEnhanced'
+   src ['^c3dbff强化钩镰', '<CRLF>', '^ffffff需要至少在伤类专精上投入10点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '10']
+PROBLEM 86 TOKENS
+   first diff at 0 '^c3dbff强化雀落棍' '^c3dbffEnhanced'
+   src ['^c3dbff强化雀落棍', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 86 SEGMENTS
+PROBLEM 87 TOKENS
+   first diff at 0 '^c3dbff强化霸气' '^c3dbffEnhanced'
+   src ['^c3dbff强化霸气', '<CRLF>', '^ffffff需要至少在力类专精上投入15点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '15']
+PROBLEM 88 TOKENS
+   first diff at 0 '^c3dbff强化风火轮' '^c3dbffEnhanced'
+   src ['^c3dbff强化风火轮', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 89 TOKENS
+   first diff at 0 '^c3dbff强化风阵' '^c3dbffEnhanced'
+   src ['^c3dbff强化风阵', '<CRLF>', '^ffffff需要至少在力类专精上投入15点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '15']
+PROBLEM 90 TOKENS
+   first diff at 0 '^c3dbff强化鼓命' '^c3dbffEnhanced'
+   src ['^c3dbff强化鼓命', '<CRLF>', '^ffffff需要至少在怒类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffEnhanced', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 91 TOKENS
+   first diff at 0 '^c3dbff强弩炮' '^c3dbffHeavy'
+   src ['^c3dbff强弩炮', '^ffffff', '<CRLF>', '<CRLF>']
+   eng ['^c3dbffHeavy', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 92 TOKENS
+   first diff at 0 '^c3dbff强心箭' '^c3dbffHeart'
+   src ['^c3dbff强心箭', '<CRLF>', '<CRLF>', '^ffffff透射的技能暴击率提升']
+   eng ['^c3dbffHeart', '<CRLF>', '<CRLF>', '^ffffffIncreases']
+PROBLEM 93 TOKENS
+   first diff at 0 '^c3dbff强扫棍' '^c3dbffPower'
+   src ['^c3dbff强扫棍', '<CRLF>', '^ffffff需要至少在', '5']
+   eng ['^c3dbffPower', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 94 U3000
+   first diff at 0 10 8
+   src [10, 9]
+   eng [8, 8]
+PROBLEM 94 TOKENS
+   first diff at 0 '^c3dbff强攻' '^c3dbffFierce'
+   src ['^c3dbff强攻', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffFierce', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 95 U3000
+   first diff at 0 7 8
+   src [7, 8]
+   eng [8, 8]
+PROBLEM 95 TOKENS
+   first diff at 0 '^c3dbff强攻' '^c3dbffFierce'
+   src ['^c3dbff强攻', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffFierce', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 96 TOKENS
+   first diff at 0 '^c3dbff强攻' '^c3dbffFierce'
+   src ['^c3dbff强攻', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffFierce', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 97 TOKENS
+   first diff at 0 '^c3dbff强攻' '^c3dbffFierce'
+   src ['^c3dbff强攻', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffFierce', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 98 TOKENS
+   first diff at 0 '^c3dbff强攻战法' '^c3dbffFierce'
+   src ['^c3dbff强攻战法', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffFierce', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 99 TOKENS
+   first diff at 0 '^c3dbff强攻战法' '^c3dbffFierce'
+   src ['^c3dbff强攻战法', '<CRLF>', '^ffffff需要至少在破类专精上投入10点', '<CRLF>']
+   eng ['^c3dbffFierce', '<CRLF>', '^ffffffRequires', '10']
+PROBLEM 100 TOKENS
+   first diff at 0 '^c3dbff强攻战法' '^c3dbffFierce'
+   src ['^c3dbff强攻战法', '<CRLF>', '^ffffff需要至少在破类专精上投入15点', '<CRLF>']
+   eng ['^c3dbffFierce', '<CRLF>', '^ffffffRequires', '15']
+PROBLEM 101 U3000
+   first diff at 1 7 5
+   src [1, 7]
+   eng [1, 5]
+PROBLEM 101 TOKENS
+   first diff at 0 '^c3dbff强袭' '^c3dbffFerocious'
+   src ['^c3dbff强袭', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffFerocious', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 102 U3000
+   first diff at 1 7 5
+   src [1, 7]
+   eng [1, 5]
+PROBLEM 102 TOKENS
+   first diff at 0 '^c3dbff强袭' '^c3dbffFerocious'
+   src ['^c3dbff强袭', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffFerocious', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 103 U3000
+   first diff at 0 11 8
+   src [11, 11]
+   eng [8, 8]
+PROBLEM 103 TOKENS
+   first diff at 0 '^c3dbff强袭' '^c3dbffFerocious'
+   src ['^c3dbff强袭', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffFerocious', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 104 U3000
+   first diff at 0 9 8
+   src [9, 5]
+   eng [8, 6]
+PROBLEM 104 ASCII
+   src [3]
+   eng []
+PROBLEM 104 TOKENS
+   first diff at 0 '^c3dbff强袭' '^c3dbffFerocious'
+   src ['^c3dbff强袭', '^ffffff', '<CRLF>', '<CRLF>']
+   eng ['^c3dbffFerocious', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 105 TOKENS
+   first diff at 0 '^c3dbff强袭' '^c3dbffFerocious'
+   src ['^c3dbff强袭', '<CRLF>', '<CRLF>', '^ffffff提升']
+   eng ['^c3dbffFerocious', '<CRLF>', '<CRLF>', '^ffffffIncreases']
+PROBLEM 106 TOKENS
+   first diff at 0 '^c3dbff强袭' '^c3dbffFerocious'
+   src ['^c3dbff强袭', '<CRLF>', '<CRLF>', '^ffffff减少发动']
+   eng ['^c3dbffFerocious', '<CRLF>', '<CRLF>', '^ffffffReduces']
+PROBLEM 107 TOKENS
+   first diff at 0 '^c3dbff强袭打' '^c3dbffFerocious'
+   src ['^c3dbff强袭打', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffFerocious', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 108 TOKENS
+   first diff at 0 '^c3dbff强袭棍' '^c3dbffAssault'
+   src ['^c3dbff强袭棍', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffAssault', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 109 TOKENS
+   first diff at 0 '^c3dbff强袭棍' '^c3dbffAssault'
+   src ['^c3dbff强袭棍', '<CRLF>', '^ffffff需要至少在力类专精上投入5点', '<CRLF>']
+   eng ['^c3dbffAssault', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 110 TOKENS
+   first diff at 0 '^c3dbff强袭棍' '^c3dbffAssault'
+   src ['^c3dbff强袭棍', '<CRLF>', '^ffffff需要至少在技类专精上投入5点', '<CRLF>']
+   eng ['^c3dbffAssault', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 111 U3000
+   first diff at 2 8 6
+   src [8, 1, 8]
+   eng [8, 1, 6]
+PROBLEM 111 TOKENS
+   first diff at 0 '^c3dbff当头斧' '^c3dbffOverhead'
+   src ['^c3dbff当头斧', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffOverhead', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 112 TOKENS
+   first diff at 0 '^c3dbff当头斧' '^c3dbffOverhead'
+   src ['^c3dbff当头斧', '<CRLF>', '^ffffff需要至少在技类专精上投入20点', '<CRLF>']
+   eng ['^c3dbffOverhead', '<CRLF>', '^ffffffRequires', '20']
+PROBLEM 113 TOKENS
+   first diff at 0 '^c3dbff当头棍' '^c3dbffOverhead'
+   src ['^c3dbff当头棍', '<CRLF>', '<CRLF>', '^ffffff拖刀式对敌人造成当头一棒效果']
+   eng ['^c3dbffOverhead', '<CRLF>', '<CRLF>', '^ffffffThe']
+PROBLEM 114 TOKENS
+   first diff at 0 '^c3dbff彩环曲' '^c3dbffSong'
+   src ['^c3dbff彩环曲', '<CRLF>', '<CRLF>', '^ffffff跳起此舞']
+   eng ['^c3dbffSong', '<CRLF>', '<CRLF>', '^ffffffDance']
+PROBLEM 114 SEGMENTS
+PROBLEM 115 TOKENS
+   first diff at 0 '^c3dbff彩蝶飞' '^c3dbffDancing'
+   src ['^c3dbff彩蝶飞', '<CRLF>', '<CRLF>', '^ffffff跳起此舞']
+   eng ['^c3dbffDancing', '<CRLF>', '<CRLF>', '^ffffffDance']
+PROBLEM 115 SEGMENTS
+PROBLEM 116 TOKENS
+   first diff at 0 '^c3dbff影月' '^c3dbffShadow'
+   src ['^c3dbff影月', '^ffffff', '<CRLF>', '<CRLF>']
+   eng ['^c3dbffShadow', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 117 TOKENS
+   first diff at 0 '^c3dbff影月' '^c3dbffShadow'
+   src ['^c3dbff影月', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng ['^c3dbffShadow', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 118 TOKENS
+   first diff at 0 '^c3dbff影月' '^c3dbffShadow'
+   src ['^c3dbff影月', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng ['^c3dbffShadow', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 119 TOKENS
+   first diff at 0 '^c3dbff影袭' '^c3dbffShadow'
+   src ['^c3dbff影袭', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffShadow', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 120 TOKENS
+   first diff at 0 '^c3dbff影袭' '^c3dbffShadow'
+   src ['^c3dbff影袭', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffShadow', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 121 TOKENS
+   first diff at 0 '^c3dbff影袭' '^c3dbffShadow'
+   src ['^c3dbff影袭', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffShadow', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 122 TOKENS
+   first diff at 0 '^c3dbff往生决' '^c3dbffReincarnation'
+   src ['^c3dbff往生决', '^ffffff', '<CRLF>', '<CRLF>']
+   eng ['^c3dbffReincarnation', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 123 TOKENS
+   first diff at 0 '^c3dbff往生决' '^c3dbffReincarnation'
+   src ['^c3dbff往生决', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng ['^c3dbffReincarnation', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 124 TOKENS
+   first diff at 0 '^c3dbff往生决' '^c3dbffReincarnation'
+   src ['^c3dbff往生决', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng ['^c3dbffReincarnation', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 125 U3000
+   first diff at 0 11 8
+   src [11, 8]
+   eng [8, 8]
+PROBLEM 125 TOKENS
+   first diff at 0 '^c3dbff待伏' '^c3dbffAmbush'
+   src ['^c3dbff待伏', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffAmbush', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 126 TOKENS
+   first diff at 0 '^c3dbff御冰之术' '^c3dbffIce'
+   src ['^c3dbff御冰之术', '<CRLF>', '^ffffff需要至少在策类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffIce', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 127 TOKENS
+   first diff at 0 '^c3dbff御凤翔龙' '^c3dbffRiding'
+   src ['^c3dbff御凤翔龙', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffRiding', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 128 U3000
+   first diff at 0 2 1
+   src [2, 7]
+   eng [1, 6]
+PROBLEM 128 ASCII
+   src [2]
+   eng []
+PROBLEM 128 TOKENS
+   first diff at 0 '^c3dbff御器决' '^c3dbffWeapon'
+   src ['^c3dbff御器决', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffWeapon', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 128 SEGMENTS
+PROBLEM 129 U3000
+   first diff at 0 11 8
+   src [11, 10]
+   eng [8, 8]
+PROBLEM 129 TOKENS
+   first diff at 0 '^c3dbff御敌' '^c3dbffFoe'
+   src ['^c3dbff御敌', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffFoe', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 130 TOKENS
+   first diff at 0 '^c3dbff御火之术' '^c3dbffFire'
+   src ['^c3dbff御火之术', '<CRLF>', '^ffffff需要至少在咒类专精上投入30点', '<CRLF>']
+   eng ['^c3dbffFire', '<CRLF>', '^ffffffRequires', '30']
+PROBLEM 131 U3000
+   first diff at 0 11 8
+   src [11, 8]
+   eng [8, 8]
+PROBLEM 131 TOKENS
+   first diff at 0 '^c3dbff御环式' '^c3dbffRing'
+   src ['^c3dbff御环式', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffRing', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 132 U3000
+   first diff at 2 7 8
+   src [8, 10, 7]
+   eng [8, 10, 8]
+PROBLEM 132 TOKENS
+   first diff at 0 '^c3dbff御钩决' '^c3dbffHook'
+   src ['^c3dbff御钩决', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffHook', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 132 SEGMENTS
+PROBLEM 133 TOKENS
+   first diff at 0 '^c3dbff御雷之术' '^c3dbffThunder'
+   src ['^c3dbff御雷之术', '<CRLF>', '^ffffff需要至少在咒类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffThunder', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 134 TOKENS
+   first diff at 0 '^c3dbff御风之术' '^c3dbffWind'
+   src ['^c3dbff御风之术', '<CRLF>', '^ffffff需要至少在策类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffWind', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 135 U3000
+   first diff at 0 7 8
+   src [7, 8]
+   eng [8, 8]
+PROBLEM 135 TOKENS
+   first diff at 0 '^c3dbff御风刺' '^c3dbffWind'
+   src ['^c3dbff御风刺', '<CRLF>', '^ffffff需要至少在技类专精上投入4点', '<CRLF>']
+   eng ['^c3dbffWind', '<CRLF>', '^ffffffRequires', '4']
+PROBLEM 136 TOKENS
+   first diff at 0 '^c3dbff御鬼' '^c3dbffGhost'
+   src ['^c3dbff御鬼', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffGhost', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 137 TOKENS
+   first diff at 0 '^c3dbff御鬼' '^c3dbffGhost'
+   src ['^c3dbff御鬼', '<CRLF>', '^ffffff需要至少在技类专精上投入5点', '<CRLF>']
+   eng ['^c3dbffGhost', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 138 TOKENS
+   first diff at 0 '^c3dbff御鬼' '^c3dbffGhost'
+   src ['^c3dbff御鬼', '<CRLF>', '^ffffff需要至少在力类专精上投入5点', '<CRLF>']
+   eng ['^c3dbffGhost', '<CRLF>', '^ffffffRequires', '5']
+PROBLEM 139 TOKENS
+   first diff at 0 '^c3dbff循礼' '^c3dbffRitual'
+   src ['^c3dbff循礼', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng ['^c3dbffRitual', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 140 TOKENS
+   first diff at 0 '^c3dbff心心相印' '^c3dbffHearts'
+   src ['^c3dbff心心相印', '<CRLF>', '<CRLF>', '^ffffff夫妻亲密程度的证明']
+   eng ['^c3dbffHearts', '<CRLF>', '<CRLF>', '^ffffffProof']
+PROBLEM 141 TOKENS
+   first diff at 0 '^c3dbff心意蕴神' '^c3dbffIntent'
+   src ['^c3dbff心意蕴神', '<CRLF>', '^ffffff属性', '<CRLF>']
+   eng ['^c3dbffIntent', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 141 SEGMENTS
+PROBLEM 142 U3000
+   first diff at 0 10 8
+   src [10, 9]
+   eng [8, 8]
+PROBLEM 142 TOKENS
+   first diff at 0 '^c3dbff必胜之舞' '^c3dbffDance'
+   src ['^c3dbff必胜之舞', '^ffffff', '<CRLF>', '<CRLF>']
+   eng ['^c3dbffDance', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 142 SEGMENTS
+PROBLEM 143 TOKENS
+   first diff at 0 '^c3dbff必胜之舞' '^c3dbffDance'
+   src ['^c3dbff必胜之舞', '<CRLF>', '^ffffff需要至少在', '30']
+   eng ['^c3dbffDance', '<CRLF>', '^ffffffRequires', '30']
+PROBLEM 144 TOKENS
+   first diff at 0 '^c3dbff必胜之舞' '^c3dbffDance'
+   src ['^c3dbff必胜之舞', '<CRLF>', '^ffffff需要至少在', '30']
+   eng ['^c3dbffDance', '<CRLF>', '^ffffffRequires', '30']
+PROBLEM 145 TOKENS
+   first diff at 0 '^c3dbff必隐彻' '^c3dbffPerfect'
+   src ['^c3dbff必隐彻', '<CRLF>', '<CRLF>', '^ffffff乱影击背后击中目标可降低其人物和马匹直接抗性']
+   eng ['^c3dbffPerfect', '<CRLF>', '<CRLF>', '^ffffffHitting']
+PROBLEM 146 TOKENS
+   first diff at 0 '^c3dbff忍耐钓术' '^c3dbffPatient'
+   src ['^c3dbff忍耐钓术', '<CRLF>', '<CRLF>', '^ffffff长年累月的钓鱼训练中']
+   eng ['^c3dbffPatient', '<CRLF>', '<CRLF>', '^ffffffThrough']
+PROBLEM 147 TOKENS
+   first diff at 0 '^c3dbff忠直' '^c3dbffLoyal'
+   src ['^c3dbff忠直', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng ['^c3dbffLoyal', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 148 TOKENS
+   first diff at 0 '^c3dbff快攻' '^c3dbffQuick'
+   src ['^c3dbff快攻', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffQuick', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 149 TOKENS
+   first diff at 0 '^c3dbff快攻' '^c3dbffQuick'
+   src ['^c3dbff快攻', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffQuick', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 150 U3000
+   first diff at 0 9 8
+   src [9, 7]
+   eng [8, 5]
+PROBLEM 150 TOKENS
+   first diff at 0 '^c3dbff快马加鞭' '^c3dbffSpur'
+   src ['^c3dbff快马加鞭', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffSpur', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 151 TOKENS
+   first diff at 0 '^c3dbff怒不可遏' '^c3dbffUnrestrained'
+   src ['^c3dbff怒不可遏', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffUnrestrained', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 152 TOKENS
+   first diff at 0 '^c3dbff怒不可遏' '^c3dbffUnrestrained'
+   src ['^c3dbff怒不可遏', '<CRLF>', '^ffffff需要至少在破类专精上投入15点', '<CRLF>']
+   eng ['^c3dbffUnrestrained', '<CRLF>', '^ffffffRequires', '15']
+PROBLEM 153 TOKENS
+   first diff at 0 '^c3dbff怒不可遏' '^c3dbffUnrestrained'
+   src ['^c3dbff怒不可遏', '<CRLF>', '^ffffff需要至少在破类专精上投入25点', '<CRLF>']
+   eng ['^c3dbffUnrestrained', '<CRLF>', '^ffffffRequires', '25']
+PROBLEM 154 U3000
+   first diff at 0 9 8
+   src [9]
+   eng [8]
+PROBLEM 154 TOKENS
+   first diff at 0 '^c3dbff怒吼' '^c3dbffFury'
+   src ['^c3dbff怒吼', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffFury', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 155 TOKENS
+   first diff at 0 '^c3dbff怒咆' '^c3dbffAngry'
+   src ['^c3dbff怒咆', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng ['^c3dbffAngry', '<CRLF>', '<CRLF>', '^ffffffWeapon']

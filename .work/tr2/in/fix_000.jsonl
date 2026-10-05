@@ -1,0 +1,31 @@
+{"id": 1, "src_batch": "batch_005", "src_id": 13, "source": "^c3dbff急冲·伤<CRLF><CRLF>^ffffff急冲可使敌人技能吟唱时间增加，持续10秒。"}
+{"id": 2, "src_batch": "batch_005", "src_id": 14, "source": "^c3dbff急冲·怒<CRLF><CRLF>^ffffff急冲可降低敌方暴击抗性，持续5秒。"}
+{"id": 3, "src_batch": "batch_005", "src_id": 25, "source": "^c3dbff惊雷术·策<CRLF><CRLF>^ffffff提升惊雷术的暴击几率。"}
+{"id": 4, "src_batch": "batch_005", "src_id": 41, "source": "^c3dbff打断<CRLF>^ffffff需要至少在“速砍·技”上投入5点。<CRLF><CRLF>^ffffff使用速砍击中正在出招动作的对手时，打断对手出招动作<CRLF>并造成破招效果。破招效果影响下无法使用招式，只能普通攻击<CRLF>或者移动。"}
+{"id": 5, "src_batch": "batch_005", "src_id": 51, "source": "^c3dbff抚琴问情<CRLF><CRLF>^ffffff淑女弄琴，情深如许，凤凰于飞。"}
+{"id": 6, "src_batch": "batch_005", "src_id": 131, "source": "^c3dbff摄魂一式·压制<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff摄魂一式有几率降低目标攻击速度、<CRLF>吟唱速度，降低攻击、吟唱速度效果与<CRLF>护卫计谋值相关，状态持续10秒。"}
+{"id": 7, "src_batch": "batch_005", "src_id": 136, "source": "^c3dbff摧心爪<CRLF><CRLF>^ffffff兵器：爪　　　　　　　　15斗气　15体力<CRLF>武技：瞬发　　　　　　　　冷却15秒<CRLF><CRLF>双爪以造成致命伤口为目的的残忍攻击招式，<CRLF>一旦命中将使敌人持续损血，并由于剧痛而疏忽防备。<CRLF>给目标敌人附加持续伤血的效果，并减低目标直接抗性，<CRLF>效果持续时间和造成总伤害根据当前刺杀效果积累情况<CRLF>决定。<CRLF>招式攻击造成80%%基础伤害。"}
+{"id": 8, "src_batch": "batch_009", "src_id": 14, "source": "^c3dbff疾雷杀心<CRLF>^ffffff需要至少在力类专精上投入25点。<CRLF><CRLF>^ffffff使用远程技能时，有几率获得疾雷状态，每层疾雷状态<CRLF>提升5%%近战技能暴击伤害，最多叠加4层，持续6秒。<CRLF>同时疾雷状态下使用直突，每层可降低1秒冷却时间。"}
+{"id": 9, "src_batch": "batch_009", "src_id": 65, "source": "^c3dbff百裂连棍·技<CRLF>^ffffff需要至少在技类专精上投入15点。<CRLF><CRLF>^ffffff提升百裂连棍造成震伤的机率。加满5层后有20%%概率造成<CRLF>重伤效果，震伤效果持续时间高达30秒。"}
+{"id": 10, "src_batch": "batch_009", "src_id": 82, "source": "^c3dbff直突·技<CRLF><CRLF>^ffffff提升直突造成震伤的机率。加满5层后有20%%概率造成<CRLF>重伤效果，震伤效果持续时间高达30秒。"}
+{"id": 11, "src_batch": "batch_009", "src_id": 86, "source": "^c3dbff盾砸·封印<CRLF>^ffffff需要在“盾砸·技”上投入5点<CRLF><CRLF>使用盾砸有一定几率获得“封印之力”状态，<CRLF>下次使用盾砸将造成目标3秒沉默。"}
+{"id": 12, "src_batch": "batch_009", "src_id": 87, "source": "^c3dbff盾突·打断<CRLF>^ffffff需要至少在技类专精上投入15点。<CRLF><CRLF>^ffffff盾突有几率会中断敌人招式的准备过程，造成3秒破招<CRLF>效果，效果影响下不能使用招式，只能普通攻击和移动。"}
+{"id": 13, "src_batch": "batch_009", "src_id": 89, "source": "^c3dbff看破<CRLF>^ffffff需要至少在“截脉刺·力”上投入3点。<CRLF><CRLF>^ffffff剑法的至高境界，寻找对方破绽，<CRLF>使截脉刺与封喉刺的出招时间大大减少。<CRLF>效果在10秒内只能生效一次。"}
+{"id": 14, "src_batch": "batch_012", "src_id": 68, "source": "^c3dbff连打·技<CRLF>^ffffff需要至少在技类专精上投入5点。<CRLF><CRLF>^ffffff提升连打造成震伤的几率和NPC敌人的仇恨。加满5层后有20%%概率造成<CRLF>重伤效果，震伤效果持续时间高达30秒。"}
+{"id": 15, "src_batch": "batch_012", "src_id": 86, "source": "^c3dbff连环计^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                  初始冷却：20秒<CRLF><CRLF>魂技类型：攻击类<CRLF>召唤融入体内的英雄魂魄，对身前7米距离内的<CRLF>单个敌人施放一次灵魂攻击。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>1. 攻击将对敌人造成一次灵魂伤害，觉醒状态下<CRLF>施放的伤害加倍；<CRLF>2. 攻击将对敌人附加连环状态，移动速度降低%.1f米，<CRLF>觉醒状态下释放，将同时给自身附加连环增益状态，<CRLF>使自身攻击强度提升6%%。<CRLF>连环状态持续4秒（该时间不受炼魂等级影响）。"}
+{"id": 16, "src_batch": "batch_012", "src_id": 96, "source": "^c3dbff追风<CRLF>^ffffff需要至少在技类专精投入25点。<CRLF><CRLF>^ffffff兵器：剑　　　　　　　　　　　　　　　　　　　　　　　　　　　7体力<CRLF>专精：瞬发　　　　　　　　        　　　　　　　　　　　　　　　　冷却20秒<CRLF>专精招式　        　　　　　　　　　　　　　　　　　　　　　　　产生2点斗气<CRLF><CRLF>向面朝方向位移7米，10秒内可多次使用，前三次每次为自身增加增益状态，第四次刷<CRLF>新第三次产生的升龙与疾风的持续时间。<CRLF>位移过程中，1~2.8秒内免疫控制，且每次提升攻速、攻击距离，并附带自身攻击力*0.5<CRLF>的伤害吸收。状态持续时间取决于自身法强，小于1时持续1秒，大于0小于90持续2秒，<CRLF>大于90持续2.8秒。<CRLF><CRLF>^c3dbff每层疾风不同效果<CRLF>^ffffff<CRLF>疾风1层：法强大于10，生成护盾，吸收自身最大攻击力的伤害值，法强大于30效果翻倍。<CRLF>疾风2层: 一定概率触发10秒连击模式，专精强化连击提升触发概率与持续时间。<CRLF>疾风3层：点出追风升龙专精的前提下，生成追风升龙前提状态，可以将追风连刺瞬发。<CRLF><CRLF>^c3dbff每层疾风通用效果<CRLF>^ffffff<CRLF>提升受伤抗性5点、限制抗性10点、封印抗性10点，疾风最多叠3层，持续18秒，为部分<CRLF>技能提升基础伤害倍率。过程中被击中或击中产生加速效果，增加0.1移动速度，可叠10<CRLF>层，持续10秒。<CRLF><CRLF>^c3dbff注：技巧，多段位移可取消其它技能动作，也可在追风后穿插使用任意技能。"}
+{"id": 17, "src_batch": "batch_012", "src_id": 101, "source": "^c3dbff追魂击^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成49%%基础伤害。"}
+{"id": 18, "src_batch": "batch_012", "src_id": 115, "source": "^c3dbff逆打·技^ffffff<CRLF><CRLF>逆打刺伤几率提升。加满5层后有20%%概率造成<CRLF>重伤效果，刺伤效果持续时间高达30秒。"}
+{"id": 19, "src_batch": "batch_012", "src_id": 126, "source": "^c3dbff逍遥突^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                  初始冷却：20秒<CRLF><CRLF>魂技类型：攻击类<CRLF>召唤融入体内的英雄魂魄，对身前5米距离内的<CRLF>单个敌人施放一次灵魂攻击。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>1. 攻击将对敌人造成一次灵魂伤害，觉醒状态下<CRLF>施放的伤害加倍；<CRLF>2. 觉醒状态下同时给敌人造成袭破效果，每秒将<CRLF>损失%d点体力，效果持续至少5秒。"}
+{"id": 20, "src_batch": "batch_014", "src_id": 16, "source": "^c3dbff长安写意<CRLF><CRLF>^ffffff持笔疾书，但见银钩铁划凌空而现，笔画如苍龙行空，苍劲虬结。<CRLF>笔落惊风雨，诗成泣鬼神。"}
+{"id": 21, "src_batch": "batch_014", "src_id": 21, "source": "^c3dbff长虹贯日舞<CRLF><CRLF>^ffffff跳起此舞，身畔雷奔龙跃，震动四方，势不可挡。"}
+{"id": 22, "src_batch": "batch_014", "src_id": 29, "source": "^c3dbff闭月<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄50级<CRLF>^ffffff技能生效祖籍限制：并州<CRLF><CRLF>闭月之容，执行美人计成功，倾心于吕布，<CRLF>被攻击有5%%几率获得闭月状态，<CRLF>所受间接伤害降低，状态持续4秒。<CRLF><CRLF>^99ccff源自貂蝉。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 23, "src_batch": "batch_014", "src_id": 31, "source": "^c3dbff闲情赋<CRLF><CRLF>^ffffff书生意气，指点江山，心怀天下，慷慨激昂。"}
+{"id": 24, "src_batch": "batch_014", "src_id": 32, "source": "^c3dbff闲情赋<CRLF><CRLF>^ffffff花间一梦，胜似千秋，翩翩而至，萦绕心头。"}
+{"id": 25, "src_batch": "batch_014", "src_id": 53, "source": "^c3dbff雪璃殇<CRLF><CRLF>^ffffff跳起此舞，身边冰雪纷飞，雪拂大地，万物沉醉。"}
+{"id": 26, "src_batch": "batch_014", "src_id": 54, "source": "^c3dbff雪莲散<CRLF><CRLF>^ffffff跳起此舞，身畔雪莲飞散，冰菱起舞，冬质高远。"}
+{"id": 27, "src_batch": "batch_014", "src_id": 63, "source": "^c3dbff雷霆万钧·毁魂<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff雷霆万钧有几率使敌人进入毁魂状态，持续减少体力，<CRLF>体力减少效果与护卫计谋值相关，状态持续5秒。"}
+{"id": 28, "src_batch": "batch_014", "src_id": 73, "source": "^c3dbff霸海刀决<CRLF><CRLF>^ffffff挥舞此刀，身畔雷奔龙跃，震动四方，势不可挡。"}
+{"id": 29, "src_batch": "batch_014", "src_id": 80, "source": "^c3dbff青龙偃月·力<CRLF>^ffffff需要至少在力类专精上投入30点。<CRLF><CRLF>^ffffff提升青龙偃月造成的伤害，并提升骑战时对目标造成的伤害。"}
+{"id": 30, "src_batch": "batch_014", "src_id": 99, "source": "^c3dbff风火轮<CRLF><CRLF>^ffffff兵器：棍　　　　　　　　30斗气　15体力<CRLF>武技：移动释放<CRLF><CRLF>旋转手中长棍连续多次攻击自身周围多个敌人。<CRLF>造成50%%基础伤害，攻击3次。<CRLF><CRLF>连击状态下当招式结束时回复当前连击数×5的斗气。<CRLF><CRLF>^c3dbff注：群体攻击推荐技能，配合“连击”使用效果更强。"}
+{"id": 31, "src_batch": "batch_014", "src_id": 100, "source": "^c3dbff风火轮<CRLF><CRLF>^ffffff兵器：棍　　　　　　　　30斗气　20体力<CRLF>武技：瞬发<CRLF><CRLF>旋转手中长棍连续多次攻击自身周围多个敌人。<CRLF>造成37%%基础伤害，攻击3次。<CRLF>连击状态下当招式结束时回复当前连击数×5的斗气。<CRLF><CRLF>^c3dbff注：群体攻击推荐技能，配合“连击”使用效果更强。"}

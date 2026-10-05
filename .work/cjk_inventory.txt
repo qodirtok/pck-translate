@@ -1,0 +1,25 @@
+records scanned: 8947
+records containing a CJK-range character: 55
+
+distinct CJK-range characters and counts:
+  U+FF0C '，'  count=66     block=fullwidth
+  U+FF1A '：'  count=41     block=fullwidth
+  U+FF08 '（'  count=6      block=fullwidth
+  U+FF09 '）'  count=6      block=fullwidth
+  U+FF5E '～'  count=1      block=fullwidth
+  U+FF1B '；'  count=1      block=fullwidth
+
+example english per character:
+  U+FF08 '（'  from batch_006.jsonl/145
+      ^c3dbffHorizontal Cleave<CRLF><CRLF>^ffffffWeapon: Bladed Melee Weapons（Saber, B
+  U+FF09 '）'  from batch_006.jsonl/145
+      ^c3dbffHorizontal Cleave<CRLF><CRLF>^ffffffWeapon: Bladed Melee Weapons（Saber, B
+  U+FF0C '，'  from batch_009.jsonl/144
+      ^c3dbffFormation Break Dance<CRLF><CRLF>^ffffffWeapon: Dance　　　　　　　　15 Battle Qi
+  U+FF5E '～'  from batch_014.jsonl/96
+      ^c3dbffWind Shot<CRLF><CRLF>^ffffffWeapon: Fan　　　　　　　　　               25 Stamina
+  U+FF1A '：'  from batch_015.jsonl/207
+      ^ffcc00Effect^ffffff：Restores up to 20000 HP.
+  U+FF1B '；'  from batch_019.jsonl/919
+      Gale Thrust - Seal<CRLF><CRLF>Release Battle Qi to rapidly thrust at the enemy，t
+exit=0

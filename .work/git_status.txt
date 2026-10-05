@@ -1,0 +1,19 @@
+?? .work/
+?? Translate/configs/buff_gfx.txt
+?? Translate/configs/buff_icon.txt
+?? Translate/configs/buff_str.txt
+?? Translate/configs/gfxvehicle.txt
+?? Translate/configs/instance.txt
+?? Translate/configs/item_ext_prop.txt
+?? Translate/configs/skillacts.txt
+?? Translate/configs/skillgbk.txt
+?? Translate/configs/skillicon.txt
+?? Translate/configs/skillsgc.txt
+?? Translate/configs/skillstr.txt
+?? Translate/configs/toptable.txt
+?? Translate/configs/typedef_initial.xml
+?? skill-observations/
+?? tools/build.py
+?? tools/finalize.py
+?? tools/mlspan.py
+exit=0

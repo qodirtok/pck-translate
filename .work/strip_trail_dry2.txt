@@ -1,0 +1,6 @@
+mode: DRY-RUN
+records scanned: 8947
+records to strip: 93
+unalignable: 0
+violations: 0
+exit=0

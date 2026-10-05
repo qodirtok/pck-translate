@@ -1,0 +1,11 @@
+invented_year    1
+pct_added        0
+pct_missing      0
+pct_changed      0
+
+=== invented years ===
+  batch_000/35  '2015'  ->  '15年五一劳动节奖励'
+
+=== percentage values added in translation (first 15) ===
+
+=== percentage values dropped (first 15) ===

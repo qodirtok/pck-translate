@@ -1,0 +1,60 @@
+need.json payloads: 18935 entries
+
+=== first 3 need.json payload entries (repr) ===
+entry 0:
+  key  : '  可在工匠学徒赵景处兑换成未绑定的升级材料。\\r（用来在工匠处将五阶以上绿色良品兵器升级成蓝色珍品兵器）'
+  value: '  可在工匠学徒赵景处兑换成未绑定的升级材料。\\r（用来在工匠处将五阶以上绿色良品兵器升级成蓝色珍品兵器）'
+  key has literal backslash-r : True
+  key has real CR             : False
+  key has literal backslash-n : False
+  key has real LF             : False
+  key has <CRLF>/<LF>/<CR>    : False / False / False
+entry 1:
+  key  : '  可在工匠学徒赵景处兑换成未绑定的升级材料。\\r（用来在工匠处将五阶以上蓝色珍品兵器升级成紫色绝品兵器）'
+  value: '  可在工匠学徒赵景处兑换成未绑定的升级材料。\\r（用来在工匠处将五阶以上蓝色珍品兵器升级成紫色绝品兵器）'
+  key has literal backslash-r : True
+  key has real CR             : False
+  key has literal backslash-n : False
+  key has real LF             : False
+  key has <CRLF>/<LF>/<CR>    : False / False / False
+entry 2:
+  key  : ' 传说中可以治疗相思病的草药，十分珍贵。'
+  value: ' 传说中可以治疗相思病的草药，十分珍贵。'
+  key has literal backslash-r : False
+  key has real CR             : False
+  key has literal backslash-n : False
+  key has real LF             : False
+  key has <CRLF>/<LF>/<CR>    : False / False / False
+
+=== first 3 in/ source records (repr) ===
+batch_000.jsonl id=1:
+  source: '  可在工匠学徒赵景处兑换成未绑定的升级材料。\\r（用来在工匠处将五阶以上绿色良品兵器升级成蓝色珍品兵器）'
+  has literal backslash-r : True
+  has real CR             : False
+  has literal backslash-n : False
+  has real LF             : False
+  has <CRLF>/<LF>/<CR>    : False / False / False
+batch_000.jsonl id=2:
+  source: '  可在工匠学徒赵景处兑换成未绑定的升级材料。\\r（用来在工匠处将五阶以上蓝色珍品兵器升级成紫色绝品兵器）'
+  has literal backslash-r : True
+  has real CR             : False
+  has literal backslash-n : False
+  has real LF             : False
+  has <CRLF>/<LF>/<CR>    : False / False / False
+batch_000.jsonl id=3:
+  source: ' 传说中可以治疗相思病的草药，十分珍贵。'
+  has literal backslash-r : False
+  has real CR             : False
+  has literal backslash-n : False
+  has real LF             : False
+  has <CRLF>/<LF>/<CR>    : False / False / False
+
+=== does finalize's lookup work? ===
+in/ source is a need.json KEY    : 18844
+in/ source is a need.json VALUE  : 91
+in/ source matches neither       : 0
+
+=== what does a multi-line payload look like? ===
+batch_000.jsonl id=1 literal backslash sequence found:
+  '  可在工匠学徒赵景处兑换成未绑定的升级材料。\\r（用来在工匠处将五阶以上绿色良品兵器升级成蓝色珍品兵器）'
+exit=0

@@ -1,0 +1,127 @@
+{"id": 1, "source": "^c3dbff力战·怒<CRLF><CRLF>^ffffff兵器：枪　　　　　　　　15体力<CRLF>武技：瞬发　　　　　　　　冷却60秒<CRLF><CRLF>凝视敌人，激发自身斗志，使自身在10秒<CRLF>内，每次击中目标都可使自身攻击强度随<CRLF>机提升。<CRLF><CRLF>^c3dbff注：技能在力战·破之后使用，可增加攻<CRLF>击强度提升上限；<CRLF>技能在力战·军之后使用，可使每次击中<CRLF>有概率提升自身的暴击。"}
+{"id": 2, "source": "^c3dbff力战·破<CRLF><CRLF>^ffffff兵器：枪　　　　　　　　15体力<CRLF>武技：瞬发　　　　　　　　冷却60秒<CRLF><CRLF>迅速攻击目标，击破目标护甲，使其直接<CRLF>抗性降低6点。<CRLF><CRLF>^c3dbff注：技能在力战·怒之后使用，可使直接<CRLF>抗性额外降低；<CRLF>技能在力战·军之后使用，可使目标受到<CRLF>的直接伤害提升。"}
+{"id": 3, "source": "^c3dbff力透千钧^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成240%%基础伤害。"}
+{"id": 4, "source": "^c3dbff力透千钧·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升力透千钧造成的伤害。"}
+{"id": 5, "source": "^c3dbff力透千钧·血浴<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff力透千钧有几率进入血浴状态，<CRLF>每次攻击减少自身50点生命，<CRLF>增加25点攻击力，可叠加10层，持续15秒。"}
+{"id": 6, "source": "^c3dbff劫营<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄50级<CRLF>^ffffff技能生效祖籍限制：益州<CRLF><CRLF>吴名将，曾有百骑劫曹营之壮举，<CRLF>被攻击有5%%几率获得劫营状态，<CRLF>移动速度提升，状态持续4秒。<CRLF><CRLF>^99ccff源自甘宁。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 7, "source": "^c3dbff劲弩<CRLF><CRLF>^ffffff兵器：弩　　　　　　　　　　　20体力<CRLF>策略：瞬发　　　　　　　　　　　持续时间：10分钟<CRLF><CRLF>消耗体力在一定时间内提升攻击距离5米，<CRLF>同时提升攻击力及穿透点数。<CRLF><CRLF>^c3dbff注：自身属性强化推荐技能。"}
+{"id": 8, "source": "^c3dbff劲挑<CRLF>^ffffff需要至少在技类专精上投入10点。<CRLF><CRLF>^ffffff使用挑击可以吸取目标斗气。"}
+{"id": 9, "source": "^c3dbff势伤<CRLF><CRLF>^ffffff横劈技能暴击伤害提升。<CRLF><CRLF>^99ccff标准攻击专精，只能学习一个。"}
+{"id": 10, "source": "^c3dbff势如破竹<CRLF>^ffffff需要至少在“破阵之舞·力”专精上投入5点。<CRLF><CRLF>^ffffff提升破阵之舞招式的攻击人数上限。"}
+{"id": 11, "source": "^c3dbff勇往直前<CRLF>^ffffff需要至少在“辅”类专精上投入30点。<CRLF><CRLF>^ffffff兵器：舞　　　　　　　　20体力<CRLF>武技：瞬发　　　　　　　　冷却1分钟<CRLF><CRLF>激励友军在战场上驰骋纵横，不可阻挡。<CRLF>招式使用后，身周20米范围内的友军立即解除迟缓、定身效果，<CRLF>并在12秒内不受到此类限制效果的影响。"}
+{"id": 12, "source": "^c3dbff勇战三英^ffffff<CRLF><CRLF>兵器：戟　　　　　　　　　60斗气，5体力<CRLF>必杀：立即　　　　　　　　冷却2分钟<CRLF><CRLF>三国名将吕布虎牢关战三英的成名绝技，<CRLF>充分发挥长戟横扫的威力，给予敌人致命的攻击。<CRLF>对自身周围7米范围内数个敌人造成三次伤害。<CRLF>给所有遭受攻击的敌人造成劈伤效果。<CRLF><CRLF>^99ccff所有被击中目标将被击飞，暴击抗性降低。"}
+{"id": 13, "source": "^c3dbff勇战三英·力<CRLF>^ffffff需要至少在力类专精上投入30点。<CRLF><CRLF>^ffffff提升勇战三英造成的伤害倍率。"}
+{"id": 14, "source": "^c3dbff勇战三英·技<CRLF>^ffffff需要至少在技类专精上投入30点。<CRLF><CRLF>^ffffff勇战三英造成的使用间隔时间缩短并且增加招式暴击，<CRLF>造成的击飞状态下，暴击抗性降低效果提升。"}
+{"id": 15, "source": "^c3dbff勇猛·凝神<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使勇猛系单体伤害技能额外获得暴击加成，<CRLF>加成系数与护卫勇猛系数相关。"}
+{"id": 16, "source": "^c3dbff勇猛·奋勇<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使勇猛系单体伤害技能基础伤害受到护卫勇猛系数加成。"}
+{"id": 17, "source": "^c3dbff勇猛·锋羽<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff提升勇猛系单体伤害技能打出负面状态的几率，<CRLF>提升效果与护卫勇猛系数相关。"}
+{"id": 18, "source": "^c3dbff十字劈<CRLF><CRLF>^ffffff兵器：斧　　　　　　　　　　10体力<CRLF>招式：1秒吟唱　　　　　　　冷却8秒<CRLF><CRLF>双斧交叉，同时向敌人重斩，招式凶狠有力。<CRLF>每把斧子攻击产生15点斗气（共30点）。<CRLF>2次攻击都有可能劈伤敌人，<CRLF>若造成劈伤效果，自身获得一层连劈状态。<CRLF>可以打消敌人的格挡状态并造成3秒眩晕效果。<CRLF>每次攻击造成60%%基础伤害。<CRLF>当前斗气值越高，出招时间越少。"}
+{"id": 19, "source": "^c3dbff十字劈·击溃<CRLF>^ffffff需要至少在“十字劈·力”上投入5点。<CRLF><CRLF>^ffffff打消敌人的格挡状态，会额外造成较大伤害。<CRLF>此专精可升3级，每次造成伤害增加。"}
+{"id": 20, "source": "^c3dbff十字劈·力<CRLF>^ffffff需要至少在力类专精上投入5点。<CRLF><CRLF>^ffffff提升十字劈造成的伤害。"}
+{"id": 21, "source": "^c3dbff十字劈·技<CRLF>^ffffff需要至少在技类专精上投入10点。<CRLF><CRLF>^ffffff提升十字劈造成劈伤的机率。加满5层后有20%%概率造成<CRLF>重伤效果，劈伤效果持续时间高达45秒。"}
+{"id": 22, "source": "^c3dbff十方俱灭^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成91%%基础伤害。"}
+{"id": 23, "source": "^c3dbff十步一杀<CRLF><CRLF>^ffffff兵器：叉　　　　　　　　60斗气 10体力<CRLF>必杀：瞬发　　　　　　　　冷却2分钟<CRLF><CRLF>释放大量怒气，如幻影般攻击身前范围内的多个敌人，<CRLF>给所有遭受攻击的敌人造成刺伤效果。<CRLF>招式施放完毕后自身获得20秒的幻影状态，<CRLF>自身的防御和暴击抗性大幅提升。"}
+{"id": 24, "source": "^c3dbff十步一杀·坚韧<CRLF>^ffffff需要至少在影类专精上投入30点。<CRLF><CRLF>^ffffff施放招式“十步一杀”后，产生的幻影状态效果大幅提升。"}
+{"id": 25, "source": "^c3dbff十步一杀·连环<CRLF>^ffffff需要至少在力类专精上投入30点。<CRLF><CRLF>^ffffff减少招式“十步一杀”的冷却时间。"}
+{"id": 26, "source": "^c3dbff升龙<CRLF><CRLF>^ffffff兵器：戟<CRLF>^ffffff消耗：10体力<CRLF>^ffffff冷却：10秒<CRLF>^ffffff骑术：瞬发<CRLF><CRLF>^ffffff挥舞武器对面前敌人进行扫击，造成大量伤害，<CRLF>并有概率重置凌空刺的冷却时间，并获得20斗气。<CRLF><CRLF>^99ccff必杀攻击专精，只能学习一个。<CRLF>^99ccff只能在骑战状态下使用。<CRLF>只能在使用凌空刺之后3秒内使用。"}
+{"id": 27, "source": "^c3dbff升龙击<CRLF><CRLF>^ffffff兵器：鞭　　　　　　　　　　　15体力<CRLF>招式：瞬发　　　　　　　　冷却9秒<CRLF><CRLF>持鞭迅速击打敌人造成135%%基础伤害，<CRLF>回复10斗气。"}
+{"id": 28, "source": "^c3dbff升龙击<CRLF>^ffffff需要至少在“残梦撩·魅”上投入3点。<CRLF><CRLF>^ffffff兵器：鞭　　　　　　　　　      15体力<CRLF>招式：立即出招　　　　　　　      冷却15秒<CRLF><CRLF>连招，接在残梦撩后使用，<CRLF>高高跃起，攻击身前最多5个敌人，<CRLF>每段攻击回复10点斗气。<CRLF><CRLF>^c3dbff注：魅影状态层数为1/3/5时，<CRLF>^c3dbff技能伤害提升20%%/40%%/60%%，<CRLF>^c3dbff同时消耗两层魅影状态。"}
+{"id": 29, "source": "^c3dbff半月斩<CRLF><CRLF>^ffffff兵器：刀　　　　　　　　20斗气　5体力<CRLF>武技：立即出招　　　　　　　冷却12秒<CRLF><CRLF>猛力挑舞大刀，刀光好似半月斩向目标。<CRLF>最多击中前方10米内路径上的5个敌人。<CRLF>造成150%%基础伤害，有可能劈伤敌人。"}
+{"id": 30, "source": "^c3dbff半月斩·力<CRLF>^ffffff需要至少在力类专精上投入20点。<CRLF><CRLF>^ffffff提升半月斩造成的伤害。"}
+{"id": 31, "source": "^c3dbff半月斩·技<CRLF>^ffffff需要至少在技类专精上投入15点。<CRLF><CRLF>^ffffff提升半月斩造成劈伤的机率。加满5层后有20%%概率造成<CRLF>重伤效果，劈伤效果持续时间高达45秒。"}
+{"id": 32, "source": "^c3dbff单骑救主^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                 冷却：120秒<CRLF><CRLF>魂技类型：护佑类<CRLF>召唤融入体内的英雄魂魄，对自身施放龙行状态。<CRLF>效果持续时间至少为40秒。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>攻击力提升%d点。<CRLF>觉醒下施放后攻击力提升的效果增加到%d点，<CRLF>且击中敌人时有概率提升自身的攻击强度，持续3秒。<CRLF>自身血量越低，攻强提升越高，最高提升%d%%。"}
+{"id": 33, "source": "^c3dbff博运<CRLF>^ffffff需要至少在撒手锏·力上投入5点。<CRLF><CRLF>^ffffff兵器：锏　　　　　　　　20体力<CRLF>武技：瞬发　　　　　　　　冷却30秒<CRLF><CRLF>给指定目标加上随机数量的有益状态，<CRLF>有极低概率可能无效。"}
+{"id": 34, "source": "^c3dbff卧龙<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄36级<CRLF>^ffffff技能生效祖籍限制：徐州<CRLF><CRLF>运筹帷幄，决胜千里，<CRLF>被攻击有5%%几率获得卧龙状态，<CRLF>每次被攻击回复一定的斗气及体力，<CRLF>最多生效三次。<CRLF><CRLF>^99ccff源自诸葛亮。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 35, "source": "^c3dbff卧龙观星<CRLF><CRLF>^ffffff舞动此扇，身畔雷奔龙跃，震动四方，势不可挡。"}
+{"id": 36, "source": "^c3dbff却月矢<CRLF><CRLF>^ffffff兵器：弩　　　　　　　　20斗气<CRLF>招式：吟唱1.5秒　　　　　　　　冷却15秒<CRLF><CRLF>持弩向敌人发动强力射击。<CRLF>造成85%%基础伤害，<CRLF>并使目标眩晕3秒。<CRLF><CRLF>^c3dbff注：轻弩状态下，基础伤害最多增加25%%。"}
+{"id": 37, "source": "^c3dbff却月矢·力<CRLF>^ffffff需要至少在力类专精上投入20点。<CRLF><CRLF>^ffffff却月矢眩晕时间增加。"}
+{"id": 38, "source": "^c3dbff却月矢·技<CRLF>^ffffff需要至少在技类专精上投入20点。<CRLF><CRLF>^ffffff却月矢有几率使目标进入箭伤状态。"}
+{"id": 39, "source": "^c3dbff却月矢·疾<CRLF>^ffffff需要至少在专精“却月矢·技”上投入1点。<CRLF><CRLF>^ffffff却月矢有几率重置冷却时间。"}
+{"id": 40, "source": "^c3dbff厉兵秣马^ffffff<CRLF><CRLF>结义兵法：瞬发　　　　　　冷却30分<CRLF><CRLF>磨砺兵器，喂好战马，全力迎敌，<CRLF>提升结义内将士的生命及体力。<CRLF>持续10分钟。<CRLF><CRLF>当满足以下条件时触发兵法的中级效果：<CRLF>骁勇 ^c3dbff等级10^ffffff / 坚阵 ^c3dbff等级10^ffffff / 仁威 ^c3dbff等级10^ffffff / 强兵 ^c3dbff等级11^ffffff<CRLF><CRLF>当满足以下条件时触发兵法的高级效果：<CRLF>骁勇 ^c3dbff等级17^ffffff / 坚阵 ^c3dbff等级15^ffffff / 仁威 ^c3dbff等级16^ffffff / 强兵 ^c3dbff等级14^ffffff<CRLF> "}
+{"id": 41, "source": "^c3dbff叉魂<CRLF><CRLF>^ffffff属性：被动<CRLF><CRLF>完全领略了叉之精妙后领悟到的能力，<CRLF>即使没有持叉，也能发挥叉之极意。"}
+{"id": 42, "source": "^c3dbff双刺<CRLF><CRLF>^ffffff兵器：爪　　　　　　　　　　　10体力<CRLF>招式：立即出招　　　　　　　　冷却8秒<CRLF><CRLF>双爪同时向敌人攻击。<CRLF>产生20点斗气，两次攻击都有可能刺伤敌人。<CRLF>自身附加两层刺杀效果。<CRLF>从背后攻击敌人可以打消敌人的格挡状态，<CRLF>并造成破招效果3秒。<CRLF>破招效果下无法使用招式，只能普通攻击或移动。<CRLF>两段攻击都造成60%%基础伤害。"}
+{"id": 43, "source": "^c3dbff双刺·力<CRLF>^ffffff需要至少在力类专精上投入10点。<CRLF><CRLF>^ffffff提升双刺造成的伤害。"}
+{"id": 44, "source": "^c3dbff双刺·拆解<CRLF>^ffffff需要至少在“双刺·力”专精上投入5点。<CRLF><CRLF>^ffffff双刺从正面攻击敌人也会造成破招效果，<CRLF>从背后发动有几率击晕目标3秒。"}
+{"id": 45, "source": "^c3dbff双刺夺命<CRLF><CRLF>^ffffff跳起此舞，神迹相随，啸吟长空。"}
+{"id": 46, "source": "^c3dbff双翼袭^ffffff<CRLF><CRLF>战车专用             冷却时间：2秒<CRLF><CRLF>两侧双翼展开，对前方6米扇形范围内目标<CRLF>造成120%%基础伤害。<CRLF><CRLF>^99ccff战车对人物只造成10%%伤害"}
+{"id": 47, "source": "^c3dbff双翼袭^ffffff<CRLF><CRLF>战车专用             冷却时间：6秒<CRLF><CRLF>两侧双翼展开，对前方6米扇形范围内目标<CRLF>造成120%%基础伤害。"}
+{"id": 48, "source": "^c3dbff双翼袭^ffffff<CRLF><CRLF>战车专用             冷却时间：6秒<CRLF><CRLF>两侧双翼展开，对前方6米扇形范围内目标<CRLF>造成120%%基础伤害。<CRLF><CRLF>^99ccff战车对人物只造成10%%伤害"}
+{"id": 49, "source": "^c3dbff双翼袭^ffffff<CRLF><CRLF>战车专用             冷却时间：6秒<CRLF><CRLF>两侧双翼展开，对前方6米扇形范围内目标<CRLF>造成120%%基础伤害。<CRLF><CRLF>^99ccff战车对人物只造成60%%伤害<CRLF>战车对箭塔造成200%%伤害"}
+{"id": 50, "source": "^c3dbff双股刺^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                  初始冷却：35秒<CRLF><CRLF>魂技类型：攻击类<CRLF>召唤融入体内的英雄魂魄，对身前7米距离内的<CRLF>单个敌人施放一次灵魂攻击。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>1. 攻击将对敌人造成一次灵魂伤害，觉醒状态下<CRLF>施放的伤害加倍；<CRLF>2. 觉醒状态下释放，有%d%%的概率会使敌人<CRLF>的攻击无法造成暴击，状态至少持续4秒。"}
+{"id": 51, "source": "^c3dbff双袭射击^ffffff<CRLF><CRLF>战车专用             冷却时间：45秒<CRLF><CRLF>车尾远程弩箭发出重击，对前方最远15米处，<CRLF>5米范围内目标造成300%%基础伤害。"}
+{"id": 52, "source": "^c3dbff双袭射击^ffffff<CRLF><CRLF>战车专用             冷却时间：45秒<CRLF><CRLF>车尾远程弩箭发出重击，对前方最远15米处，<CRLF>5米范围内目标造成300%%基础伤害。<CRLF><CRLF>^99ccff战车对人物只造成10%%伤害"}
+{"id": 53, "source": "^c3dbff双袭射击^ffffff<CRLF><CRLF>战车专用             冷却时间：45秒<CRLF><CRLF>车尾远程弩箭发出重击，对前方最远15米处，<CRLF>5米范围内目标造成300%%基础伤害。<CRLF><CRLF>^99ccff战车对人物只造成60%%伤害<CRLF>战车对箭塔造成200%%伤害"}
+{"id": 54, "source": "^c3dbff双锋斩<CRLF><CRLF>^ffffff兵器：斧、钩、锏、爪<CRLF>^ffffff消耗：5体力 30斗气<CRLF>^ffffff冷却：20秒<CRLF>^ffffff骑术：立即出招<CRLF><CRLF>^ffffff人马合一，急速冲越10米，<CRLF>并对面前敌人造成大量伤害。<CRLF>对马下目标造成封喉效果。<CRLF>同时有低概率将敌人击落下马。<CRLF>每层冲阵状态提升技能伤害5%%<CRLF>但当冲阵多于五层时，马匹难以驾驭，<CRLF>每多一层有12%%概率使自身甩落马下。<CRLF><CRLF>^99ccff终极专精，只能学习一个。<CRLF>^99ccff只能在骑战状态下使用。"}
+{"id": 55, "source": "^c3dbff双雄<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄50级<CRLF>^ffffff技能生效祖籍限制：冀州<CRLF><CRLF>河北双雄，勇猛无匹，<CRLF>被攻击有几率获得双雄状态，<CRLF>当攻击命中时，双雄状态将提升攻击力，<CRLF>当攻击未命中时，双雄状态将提升命中，<CRLF>状态持续5秒。<CRLF><CRLF>^99ccff源自颜良文丑。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 56, "source": "^c3dbff双龙绝命<CRLF><CRLF>^ffffff兵器：爪　　　　　　　　60斗气　5体力<CRLF>必杀：瞬发　　　　　　　　冷却2分钟<CRLF><CRLF>在最危急的时刻，投掷双爪拼死攻击敌人的招式。<CRLF>释放所有怒气对10米距离内单个敌人造成两次伤害，<CRLF>招式造成两次伤害，每次伤害附加攻击相当于自身最大<CRLF>攻击的两倍。<CRLF>攻击命中会造成目标移动速度减低2.5米每秒，持续3秒。<CRLF>如果对手格挡此招式，只能抵挡第一次伤害。<CRLF>由于投掷出双爪，所以招式使用后会有10秒时间无法<CRLF>攻击敌人。<CRLF><CRLF>^99ccff随双龙绝命等级提高，丢失武器状态持续时间减少。"}
+{"id": 57, "source": "^c3dbff双龙绝命·力<CRLF>^ffffff需要至少在力类专精上投入30点。<CRLF><CRLF>^ffffff提升双龙绝命造成的伤害。"}
+{"id": 58, "source": "^c3dbff双龙绝命·技<CRLF>^ffffff需要至少在技类专精上投入30点。<CRLF><CRLF>^ffffff双龙绝命的使用间隔时间缩短，<CRLF>使用后自身将有几率进入隐匿状态5秒，<CRLF>被攻击不会显形。"}
+{"id": 59, "source": "^c3dbff反制·魅<CRLF>^ffffff需要至少在“鞭挡”上投入3点。<CRLF><CRLF>^ffffff兵器：鞭　　　　　　　　　15体力<CRLF>招式：瞬发　　　　　　　      冷却10秒<CRLF><CRLF>鞭挡状态下，若被攻击可获得鞭笞状态，<CRLF>鞭笞状态下，可使用本技能，<CRLF>技能伤害与鞭笞状态层数有关，<CRLF>鞭笞状态最多获得3层。"}
+{"id": 60, "source": "^c3dbff反打<CRLF><CRLF>^ffffff兵器：叉　　　　　　　　　10体力<CRLF>招式：瞬发　　　　　　　　 冷却3秒<CRLF><CRLF>右手持叉从下往上突然挑击目标，<CRLF>立即造成66%%基础伤害，有较小概率造成刺伤效果，<CRLF>同时产生5点斗气。<CRLF>攻击有50%%几率扰乱敌人，<CRLF>每3秒可能打断一次敌人的出招动作，<CRLF>扰乱效果持续9秒。<CRLF>一定几率将敌人击落下马。<CRLF><CRLF>^c3dbff注：打怪推荐技能，作为斗气积累技。"}
+{"id": 61, "source": "^c3dbff反打·力<CRLF>^ffffff需要至少在力类专精上投入5点。<CRLF><CRLF>^ffffff提升“反打”给敌人造成的伤害。"}
+{"id": 62, "source": "^c3dbff反打·影<CRLF>^ffffff需要至少在影类专精上投入5点。<CRLF><CRLF>^ffffff提升“反打”给敌人造成扰乱的几率。"}
+{"id": 63, "source": "^c3dbff反骨<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄36级<CRLF>^ffffff技能生效祖籍限制：荆州<CRLF><CRLF>脑后生有反骨，征战四方，终因反叛被马岱斩杀，<CRLF>被攻击有5%%几率反弹反骨状态，<CRLF>目标所受暴击伤害提升，状态持续4秒。<CRLF><CRLF>^99ccff源自魏延。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 64, "source": "^c3dbff发射响炮^ffffff<CRLF><CRLF>变身专用             冷却时间：1秒<CRLF><CRLF>发射后只闻炮声雷动，不见炮弹飞出，<CRLF>吓唬吓唬胆小的士兵还可以，上阵杀敌就算了。"}
+{"id": 65, "source": "^c3dbff发放礼物<CRLF><CRLF>^a800ff作为一个圣诞老人，要为大家送去礼物哦！<CRLF><CRLF>^0184ff选中其他玩家，施放。<CRLF><CRLF>^ffffff施放后，自己和对方都可获得礼物！每天一次。"}
+{"id": 66, "source": "^c3dbff古之恶来^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                 冷却：120秒<CRLF><CRLF>魂技类型：护佑类<CRLF>召唤融入体内的英雄魂魄，对自身施放古恶状态。<CRLF>效果持续时间至少为40秒。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>攻击力提升%d点。<CRLF>觉醒下施放后攻击力提升的效果增加到%d点，<CRLF>且攻击有几率获得恶来状态，攻强提升%d%%，<CRLF>持续8秒，最多叠加5层。"}
+{"id": 67, "source": "^c3dbff古锭斩^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                  初始冷却：35秒<CRLF><CRLF>魂技类型：攻击类<CRLF>召唤融入体内的英雄魂魄，对身前7米距离内的<CRLF>单个敌人施放一次灵魂攻击。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>1. 攻击将对敌人造成一次灵魂伤害，觉醒状态下<CRLF>施放的伤害加倍；<CRLF>2. 觉醒状态下释放，有%d%%的概率会使敌人<CRLF>的攻击无法享受穿透与刺破效果，状态至少持续4秒。"}
+{"id": 68, "source": "^c3dbff召虎再世^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                          冷却：120秒<CRLF><CRLF>魂技类型：护佑类<CRLF>召唤融入体内的英雄魂魄，给自身施加虎啸状态。<CRLF>效果持续时间至少为40秒。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>获得每2秒为自身回复斗气%d点的效果。<CRLF>如果是在觉醒下施放，回复斗气效果提升至每2秒%d点。"}
+{"id": 69, "source": "^c3dbff叶舞^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成100%%基础伤害。"}
+{"id": 70, "source": "^c3dbff叶舞·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升叶舞造成的伤害。"}
+{"id": 71, "source": "^c3dbff叶舞·裂甲<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff叶舞有一定几率使目标进入裂甲状态，<CRLF>防御力降低，状态持续10秒。"}
+{"id": 72, "source": "^c3dbff合心出<CRLF><CRLF>^ffffff凌空刺技能暴击伤害提升。<CRLF><CRLF>^99ccff必杀攻击专精，只能学习一个。"}
+{"id": 73, "source": "^c3dbff后跃式<CRLF><CRLF>^ffffff兵器：锏　　　　　　　　10斗气 20体力<CRLF>武技：瞬发　　　　　　　　冷却25秒<CRLF><CRLF>即使在被偷袭状态下，使锏者也能从容反击<CRLF>向自己身后跳跃10米<CRLF>对原地最多3个目标造成20%%基础伤害及1秒眩晕"}
+{"id": 74, "source": "^c3dbff后跃式·技<CRLF>^ffffff需要至少在技类专精上投入25点。<CRLF><CRLF>^ffffff延长后跃式造成的眩晕效果"}
+{"id": 75, "source": "^c3dbff后跃弩<CRLF>^ffffff需要至少在力类专精上投入25点。<CRLF><CRLF>^ffffff兵器：弩　　　　　　　　15体力<CRLF>招式：立即出招　　　　　　　　<CRLF><CRLF>借势向后跳跃12米，<CRLF>随后持弩攻击面前17米内的一个敌人两次，<CRLF>分别造成35%%、40%%基础伤害。<CRLF><CRLF>^c3dbff注：轻弩状态下，基础总伤害最多增加50%%。<CRLF>^c3dbff注：技能射程不受轻弩劲弩影响。"}
+{"id": 76, "source": "^c3dbff听劲<CRLF><CRLF>^ffffff兵器：枪　　　　　　　　　10体力<CRLF>策略：瞬发　　　　　　　　　冷却1分钟　　　　　　　　　<CRLF><CRLF>枪法的至高境界：攻防一体，人枪合一。在战斗中，透过长枪<CRLF>的白蜡杆感受到兵器碰撞细微的力度变化，从而更有效的抵御<CRLF>致命攻击并且命中敌人要害。<CRLF>听劲效果持续15秒，任何攻击命中或被敌人击中都有50%%<CRLF>几率触发一个暴击加10，暴击伤害加10%%，<CRLF>暴击抗性加10的特殊效果，持续8秒。"}
+{"id": 77, "source": "^c3dbff听劲修炼<CRLF>^ffffff需要至少在技类专精上投入25点。<CRLF><CRLF>^ffffff 听劲的效果增强。"}
+{"id": 78, "source": "^c3dbff吴钩霜雪明<CRLF><CRLF>^ffffff兵器：钩　　　　　　　　　60斗气<CRLF>必杀：瞬发　　　　　　　　　冷却2分钟<CRLF><CRLF>无数吴钩旋转而起，周遭寸草不生<CRLF>对周围目标造成大量伤害。<CRLF>战斗纹身：对目标造成额外2000点无视防御伤害<CRLF>磐石纹身：自身获得“强硬”状态：反弹50%%伤害给予敌方<CRLF>疾风纹身：降低目标移动速度、命中及闪避，减少值与自身移动速度相关<CRLF>血沸纹身：自身获得“嗜血”状态"}
+{"id": 79, "source": "^c3dbff吴钩霜雪明·战斗<CRLF>^ffffff需要至少在力类专精上投入20点。<CRLF><CRLF>^ffffff提升吴钩霜雪明在“战斗纹身”下的附加伤害量"}
+{"id": 80, "source": "^c3dbff吴钩霜雪明·磐石<CRLF>^ffffff需要至少在力系专精上投入25点。<CRLF><CRLF>^ffffff提升吴钩霜雪明在“磐石纹身”下的“强硬”持续时间"}
+{"id": 81, "source": "^c3dbff吴钩霜雪明·血沸<CRLF>^ffffff需要至少在技类专精上投入25点。<CRLF><CRLF>^ffffff提升吴钩霜雪明在“血沸纹身”下的“嗜血”状态持续时间。"}
+{"id": 82, "source": "^c3dbff吴鸿扈稽<CRLF><CRLF>^ffffff兵器：钩　　　　　　　　　20体力<CRLF>武技：瞬发　　　　　　　　冷却30秒<CRLF><CRLF>召唤钩之魂附体，引导自己快速冲击目标。<CRLF>近身后无法施放。<CRLF>对目标造成150%%基础伤害的同时冰冻3秒。<CRLF>有40%%几率获得一个仇恨点。<CRLF>获得30斗气。<CRLF>战斗纹身：对目标额外造成100%%最大攻击力伤害<CRLF>磐石纹身：增加目标额外3秒定身时间<CRLF>疾风纹身：降低目标20%%攻击速度、吟唱速度<CRLF>血沸纹身：对目标造成每2秒一次30%%最大攻击力的持续性伤害，持续10秒。"}
+{"id": 83, "source": "^c3dbff吴鸿扈稽·血沸<CRLF>^ffffff需要至少在技类专精上投入15点。<CRLF><CRLF>^ffffff吴鸿扈稽在“血沸纹身”下有20%%几率造成更高的流血伤害"}
+{"id": 84, "source": "^c3dbff周郎妙计^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                      冷却：120秒<CRLF><CRLF>魂技类型：护佑类<CRLF>召唤融入体内的英雄魂魄，对自身施放妙计状态。<CRLF>效果的持续时间至少为40秒。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>妙计状态下会提升%d点体力上限；觉醒下施放该效果<CRLF>调整为提升%d点体力上限，同时回复同样的体力。"}
+{"id": 85, "source": "^c3dbff周郎舞^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                  初始冷却：20秒<CRLF><CRLF>魂技类型：攻击类<CRLF>召唤融入体内的英雄魂魄，对身前5米距离内的<CRLF>单个敌人进行连续二次的灵魂攻击。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>1. 攻击将对敌人造成连续二次的灵魂伤害，觉<CRLF>醒状态下施放的伤害加倍；<CRLF>2. 觉醒状态下施放将同时给敌人附上破军状态，<CRLF>该状态会降低所有状态抗性%d点，效果持续时间<CRLF>至少为5秒。"}
+{"id": 86, "source": "^c3dbff呼风唤雨<CRLF><CRLF>^ffffff兵器：法器<CRLF>^ffffff消耗：10体力 30斗气<CRLF>^ffffff骑术：瞬发<CRLF>^ffffff冷却：12秒<CRLF><CRLF>^ffffff在敌人头顶召出一片雷云影响其行动，<CRLF>目标所有间接抗性下降10%%，且每秒受到<CRLF>10%%自己平均攻击力的伤害，<CRLF>攻击时有50%%机率受到绊马效果影响，持续5秒。<CRLF>且每次攻击时有机率受绊马影响。<CRLF>^99ccff只能在骑战状态下使用。"}
+{"id": 87, "source": "^c3dbff呼风唤雨<CRLF><CRLF>^ffffff兵器：法器<CRLF>^ffffff消耗：10体力 60斗气<CRLF>^ffffff骑术：瞬发<CRLF><CRLF>^ffffff在敌人头顶召出一片雷云影响其行动，<CRLF>目标一段时间内战斗力大幅下降，<CRLF>且每次攻击时有机率受绊马影响。<CRLF>^99ccff只能在骑战状态下使用。"}
+{"id": 88, "source": "^c3dbff咒冰术<CRLF><CRLF>^ffffff兵器：扇　　　　　　　　　30体力<CRLF>招式：瞬发　　　　　　　　冷却30秒<CRLF><CRLF>召唤出一个寒冰之环，<CRLF>对周围8米的敌人造成50%%基础伤害，并使其冰冻<CRLF>定身，持续5秒，被冰冻的目标会受到3秒冻僵状态，<CRLF>无法闪避敌人的攻击。最多对9个目标生效。<CRLF>一定几率对目标造成溅射效果。"}
+{"id": 89, "source": "^c3dbff咒冰术·策<CRLF>^ffffff需要至少在策类专精上投入10点。<CRLF><CRLF>^ffffff减少使用咒冰术的冷却时间。<CRLF>在冰甲术下使用咒冰术将获得体力回复。<CRLF>提升咒冰术造成溅射伤害的几率。"}
+{"id": 90, "source": "^c3dbff咒印术<CRLF><CRLF>^ffffff兵器：法器<CRLF>^ffffff消耗：10体力 20斗气<CRLF>^ffffff骑术：瞬发　　　　　 冷却25秒<CRLF><CRLF>^ffffff瞬间打出印记，对10米内的一个目标造成伤害，<CRLF>并使敌人陷入短时封印，3秒内命中大幅降低，<CRLF>目标如受到攻击效果会中止。<CRLF>^99ccff只能在骑战状态下使用。"}
+{"id": 91, "source": "^c3dbff啖睛<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄50级<CRLF>^ffffff技能生效祖籍限制：豫州<CRLF><CRLF>拔矢去眸枯一目，啖睛忿气唤双亲，<CRLF>被攻击有5%%几率获得啖睛状态，<CRLF>命中提升，状态持续5秒。<CRLF><CRLF>^99ccff源自夏侯惇。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 92, "source": "^c3dbff啖睛奋战^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                      冷却：120秒<CRLF><CRLF>魂技类型：护佑类<CRLF>召唤融入体内的英雄魂魄，使自身进入魂铠状态。<CRLF>持续时间至少为40秒。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>牺牲%d点的攻击力，换取%d点的防御提升。<CRLF>觉醒下施放提升防御的效果会增加到提升%d点。"}
+{"id": 93, "source": "^c3dbff啾咪舞<CRLF><CRLF>^ffffff粘人的小驯鹿“啾咪”将陪你度过愉快的冬天！"}
+{"id": 94, "source": "^c3dbff善辩<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄36级<CRLF>^ffffff技能生效祖籍限制：幽州<CRLF><CRLF>蜀国重臣，善于辩论、议事，<CRLF>被暴击时有10%%几率获得善辩状态，<CRLF>回复大量生命。<CRLF><CRLF>^99ccff源自简雍。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 95, "source": "^c3dbff善阵<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄50级<CRLF>^ffffff技能生效祖籍限制：冀州<CRLF><CRLF>从军四十余哉，多次狙击蜀军，尤善布阵，<CRLF>被暴击有10%%几率获得善阵状态，<CRLF>所受暴击伤害降低，状态持续4秒。<CRLF><CRLF>^99ccff源自张颌。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 96, "source": "^c3dbff喝断长坂^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                 冷却：120秒<CRLF><CRLF>魂技类型：护佑类<CRLF>召唤融入体内的英雄魂魄，对自身施放咆哮状态。<CRLF>效果持续时间至少为40秒。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>防御力提升%d点。<CRLF>觉醒下施放后防御力提升的效果增加到%d点，<CRLF>且被攻击可反弹喝断状态，降低其暴击%d点，<CRLF>持续5秒，最多叠加5层。"}
+{"id": 97, "source": "^c3dbff嗜杀如命<CRLF><CRLF>^ffffff兵器：刀、枪、戟、棍、钺、叉、盾　　 50体力　　　　　　　　　　<CRLF>招式：瞬发　　　　　　　 冷却60秒<CRLF><CRLF>对目标施放嗜血欲望<CRLF>持续30秒，每2秒流失一定生命<CRLF>目标在杀人或者击中10次后，“嗜杀如命”状态消失，<CRLF>若30秒后，“嗜杀如命”状态仍未解除，则额外造成前面伤害总和<CRLF>25%%的无视防御伤害，有几率秒杀血量低于10%%的目标"}
+{"id": 98, "source": "^c3dbff嘲讽<CRLF><CRLF>^ffffff兵器：盾　　　　　　　　　5体力<CRLF>招式：瞬发             冷却时间：15秒<CRLF><CRLF>挑衅周围7个目标，使其进入“嘲讽”状态，<CRLF>攻击对象强制锁定为自己，并向自己移动，<CRLF>目标被嘲讽时无法使用技能，持续3秒。"}
+{"id": 99, "source": "^c3dbff嘲讽·刚<CRLF>^ffffff需要至少在刚类专精上投入25点。<CRLF><CRLF>^ffffff在刚毅状态下使用嘲讽，<CRLF>嘲讽状态持续时间增加，<CRLF>使用嘲讽时，自身将获得坚盾状态，<CRLF>反弹50%%所受的直接伤害，<CRLF>状态持续5秒。"}
+{"id": 100, "source": "^c3dbff噩梦之眠<CRLF><CRLF>^ffffff兵器：环、杖、舞、扇、弓、鞭、弩　　 100体力<CRLF>招式：瞬发　　　　　　　   冷却120秒<CRLF><CRLF>使目标沉睡数秒，任何伤害即会打断睡眠<CRLF>8秒后生成噩梦之湮，造成持续8秒的伤害<CRLF>只能在战斗外使用"}
+{"id": 101, "source": "^c3dbff噬心术^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>恫吓敌人，降低其生命上限。"}
+{"id": 102, "source": "^c3dbff噬血<CRLF><CRLF>^ffffff兵器：钺　　　　　　　　　　消耗：20体力<CRLF>策略：瞬发　　　　　　　         冷却：2分钟<CRLF><CRLF>死战之士，洒血利刃，奈之我何！<CRLF>损失10%%当前生命值，提升攻击力6秒，<CRLF>在此期间每次攻击命中敌人均可回复自身<CRLF>最大生命值的3%%，最多生效5次。"}
+{"id": 103, "source": "^c3dbff噬血·伤<CRLF>^ffffff需要至少在伤类专精上投入15点。<CRLF><CRLF>^ffffff降低嗜血技能冷却时间。"}
+{"id": 104, "source": "^c3dbff噬血·怒<CRLF>^ffffff需要至少在怒类专精上投入10点。<CRLF><CRLF>^ffffff提升噬血增加的攻击力。"}
+{"id": 105, "source": "^c3dbff四方杀^ffffff<CRLF><CRLF>兵器：戟　　　　　　　　　30斗气，5体力<CRLF>武技：瞬发　　　　　　　　冷却4秒<CRLF><CRLF>三国名将吕布一把方天画戟大杀四方，<CRLF>此招式即为吕布战场上对付敌军重围<CRLF>时采用的群攻招式。<CRLF>攻击身前目标及目标周围5米范围内<CRLF>的5个敌人，造成72%%的基础伤害，<CRLF>有可能造成劈伤效果。<CRLF>受到承接效果影响。<CRLF><CRLF>^c3dbff注：群体攻击推荐技能。"}
+{"id": 106, "source": "^c3dbff四方杀·力<CRLF>^ffffff需要至少在力类专精上投入10点。<CRLF><CRLF>四方杀招式基础伤害提升。"}
+{"id": 107, "source": "^c3dbff四方杀·群战<CRLF>^ffffff需要至少在技类专精上投入10点。<CRLF><CRLF>四方杀对目标造成的伤害将依次提升。"}
+{"id": 108, "source": "^c3dbff回城术<CRLF><CRLF>^ffffff兵器：不限<CRLF>准备：8秒　　　　　　　冷却60分钟<CRLF><CRLF>使用后可以立刻传送到附近的补给点。"}
+{"id": 109, "source": "^c3dbff回天^ffffff<CRLF><CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：2分钟<CRLF><CRLF>调理自身伤势，迅速回复战斗力。<CRLF>15秒内持续恢复生命。"}
+{"id": 110, "source": "^c3dbff回旋刀投掷<CRLF><CRLF>^ffffff兵器：叉　　　　　　　　　　　5体力<CRLF>投掷：瞬发　　　　　　　　 冷却8秒<CRLF><CRLF>快速的向远处的敌人掷出回旋飞刀，<CRLF>造成30%%基础伤害，有较小概率刺伤目标。<CRLF>回旋飞刀必须在一定距离外投掷，<CRLF>最远投掷距离为20米。<CRLF>附带窃取生命效果，<CRLF>击中敌人后自身会在6秒内回复50%%最大攻击力的生命值。<CRLF>此招式会吸引敌人的仇恨。<CRLF><CRLF>^c3dbff注：打怪推荐技能，作为起始技。"}
+{"id": 111, "source": "^c3dbff回旋刀连掷<CRLF><CRLF>^ffffff兵器：叉　　　　　　　　　　　10体力<CRLF>投掷：瞬发　　　　　　　　 冷却10秒<CRLF><CRLF>向远处的敌人连续掷出两把回旋飞刀，<CRLF>有较小概率刺伤目标。<CRLF>两次攻击均造成30%%基础伤害，<CRLF>回旋刀击中后会让目标进入迷惑状态，<CRLF>攻击速度和移动速度大幅下降。<CRLF>回旋飞刀必须在一定距离外投掷，<CRLF>最远投掷距离为20米。"}
+{"id": 112, "source": "^c3dbff回旋锋<CRLF><CRLF>^ffffff兵器：环<CRLF>^ffffff消耗：10体力<CRLF>^ffffff冷却：10秒<CRLF>^ffffff骑术：瞬发<CRLF><CRLF>^ffffff持环对周围目标扫击，造成中等伤害，<CRLF>有60%概率对被击中目标造成凌乱效果，<CRLF>5秒内的10次被击中有20%%概率眩晕2秒。<CRLF><CRLF>^99ccff奋力攻击专精，只能学习一个。<CRLF>^99ccff只能在骑战状态下使用。<CRLF>只能在使用突袭打之后3秒内使用。"}
+{"id": 113, "source": "^c3dbff回春术^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>增加主人生命回复速度，持续15秒。"}
+{"id": 114, "source": "^c3dbff回气破^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成157%%基础伤害。"}
+{"id": 115, "source": "^c3dbff回气破·坚甲<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff回气破有一定几率使自己进入坚甲状态，<CRLF>防御提升50点，每次被攻击回复50点生命，<CRLF>状态持续8秒。"}
+{"id": 116, "source": "^c3dbff回气破·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升回气破造成的伤害。"}
+{"id": 117, "source": "^c3dbff回锋斩<CRLF><CRLF>^ffffff兵器：钺　　　　　　　　5斗气　10体力<CRLF>武技：瞬发                  冷却时间：8秒<CRLF><CRLF>迅猛攻击自身周围3个敌人。<CRLF>造成80%%基础伤害。<CRLF><CRLF>^c3dbff注：群体攻击推荐技能。"}
+{"id": 118, "source": "^c3dbff回锋斩·怒<CRLF>^ffffff需要至少在怒类专精上投入20点。<CRLF><CRLF>^ffffff提升回锋斩造成的伤害。"}
+{"id": 119, "source": "^c3dbff回风扫叶^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成80%%基础伤害。"}
+{"id": 120, "source": "^c3dbff回马枪<CRLF><CRLF>^ffffff兵器：枪　　　　　　    30斗气<CRLF>专精：吟唱1.5秒　　　　　　　冷却15秒<CRLF><CRLF>枪法中的经典招式，诱敌深入后突然发动再次进攻，<CRLF>打敌人一个收招未及。<CRLF>命中后造成80%%的基础伤害，并眩晕敌人4秒。"}
+{"id": 121, "source": "^c3dbff回马枪·力<CRLF>^ffffff需要至少在力类专精上投入20点。<CRLF><CRLF>^ffffff回马枪有几率多眩晕敌人1秒。"}
+{"id": 122, "source": "^c3dbff回龙乱<CRLF><CRLF>^ffffff兵器：鞭　　　　　　　　　　　15斗气<CRLF>招式：瞬发　　　　　　　　冷却15秒<CRLF><CRLF>持鞭迅速击打敌人造成135%%基础伤害，<CRLF>且目标被拉至身前。"}
+{"id": 123, "source": "^c3dbff回龙乱<CRLF>^ffffff需要至少在“银蛇缚·魅”上投入3点。<CRLF><CRLF>^ffffff兵器：鞭　　　　　　　　　 15斗气<CRLF>招式：瞬发　　　　　　　      冷却8秒<CRLF><CRLF>连招，接在银蛇缚后使用，<CRLF>挥鞭用力抽回，对目标造成伤害。<CRLF><CRLF>^c3dbff注：魅影状态层数为2/4时，<CRLF>^c3dbff使用将会把目标拉至身前并沉默2/3秒，<CRLF>^c3dbff成功控制后，冷却时间被重置为12秒，<CRLF>^c3dbff基础伤害降低20%%，<CRLF>^c3dbff同时消耗一层魅影状态。"}
+{"id": 124, "source": "^c3dbff固若金汤<CRLF>^ffffff需要至少在影类专精上投入15点。<CRLF><CRLF>^ffffff在“血勇”的效果持续时间内，<CRLF>自身的暴击抗性小幅提升。"}
+{"id": 125, "source": "^c3dbff国色·魅<CRLF>^ffffff需要至少在魅类专精上投入20点。<CRLF><CRLF>^ffffff国色状态下，控制技能成功率提升。"}
+{"id": 126, "source": "^c3dbff国色天香<CRLF><CRLF>^ffffff兵器：鞭　　　　　　　　　　　         5体力<CRLF>策略：瞬发　　　　　　　　　　　持续时间：10分钟<CRLF><CRLF>消耗体力获得状态加成效果，<CRLF>身上无兵种增强状态时使用，可获得状态“国色”，<CRLF>再次使用可在“国色”与“天香”状态之间切换。<CRLF><CRLF>“国色”或“天香”状态下使用金丝缠、碎石鞭、秋风扫、飞萦绕<CRLF>可获得“魅影”状态，暴击抗性提升1点，最多叠加5层。<CRLF>“魅影”状态对部分技能有特殊效果。<CRLF><CRLF>^c3dbff注：自身属性强化推荐技能。"}
+{"id": 127, "source": "^c3dbff国色天香^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                      冷却：120秒<CRLF><CRLF>魂技类型：护佑类<CRLF>召唤融入体内的英雄魂魄，给自身施放国色天香状态。<CRLF>效果持续时间至少为40秒。<CRLF><CRLF>^ffcc00魂技效果：^ffffff<CRLF>治疗效果提升%.1f%%。<CRLF>如果是在觉醒下施放，提升的治疗效果增加到%.1f%%。"}

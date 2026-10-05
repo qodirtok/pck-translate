@@ -1,0 +1,231 @@
+{"id": 1, "english": "^c3dbffBerserk<CRLF><CRLF>^ffffffIncreases Crit Rate"}
+{"id": 2, "english": "^c3dbffBerserk<CRLF><CRLF>^ffffffAttack Power and Crit greatly increased"}
+{"id": 3, "english": "^c3dbffBerserk<CRLF><CRLF>^ffffffAttack Speed, Attack Strength and Dodge greatly increased!"}
+{"id": 4, "english": "^c3dbffBerserk<CRLF><CRLF>^ffffffCrit Rate greatly increased, Movement Speed decreased"}
+{"id": 5, "english": "^c3dbffBerserk<CRLF><CRLF>^ffffffBerserk state. Attack and Attack Speed increased."}
+{"id": 6, "english": "^c3dbffBerserk<CRLF><CRLF>^ffffffNow you're in big trouble—he's gone berserk!"}
+{"id": 7, "english": "^c3dbffBerserk Status<CRLF><CRLF>^ffffffMovement Speed, Crit Rate and Crit Damage greatly increased,<CRLF>but can still be affected by Stun or immobilizing effects."}
+{"id": 8, "english": "^c3dbffBerserk Wei Yan Defeated<CRLF>^ffffffCongratulations on defeating Berserk Wei Yan."}
+{"id": 9, "english": "^c3dbffZeal<CRLF><CRLF>^ffffffGain more Fighting Qi in battle"}
+{"id": 10, "english": "^c3dbffZeal<CRLF><CRLF>^ffffffAttack Power increased, but you take extra damage."}
+{"id": 11, "english": "^c3dbffEye of Zeal<CRLF><CRLF>^ffffffRestores a small amount of HP with each hit on the target"}
+{"id": 12, "english": "^c3dbffZeal Tactic<CRLF><CRLF>^ffffffA tactic used by generals wielding the trident.<CRLF>When activated, out-of-combat Fighting Qi decay is slowed,<CRLF>and you can build up Fighting Qi while charging."}
+{"id": 13, "english": "^c3dbffFrenzy Armor<CRLF><CRLF>^ffffffEach time you are hit, you gain Fighting Qi and restore HP."}
+{"id": 14, "english": "^c3dbffFrenzy Strike<CRLF><CRLF>^ffffffMounted Attack increased,<CRLF>mounted Crit increased by 5 points."}
+{"id": 15, "english": "^c3dbffGale<CRLF><CRLF>^ffffffAttack Speed and Accuracy reduced."}
+{"id": 16, "english": "^c3dbffDrenched in Dog Blood<CRLF>^ffffffDrenched with all manner of filth."}
+{"id": 17, "english": "^c3dbffSolo Fight<CRLF><CRLF>^ffffffCannot be healed by allies."}
+{"id": 18, "english": "^c3dbffWolf's Gaze<CRLF><CRLF>^ffffffIncreases Direct DMG Resist"}
+{"id": 19, "english": "^c3dbffWolf's Gaze<CRLF><CRLF>^ffffffIncreases Defense"}
+{"id": 20, "english": "^c3dbffFierce Assault<CRLF><CRLF>^ffffffMounted-combat tactic. Increases Attack Power by 40."}
+{"id": 21, "english": "^c3dbffFierce Assault Tactic<CRLF><CRLF>^ffffffA tactic used by generals wielding the battleaxe.<CRLF>Once activated, Crit Rate is slightly increased,<CRLF>and the attack power of certain moves is enhanced."}
+{"id": 22, "english": "^c3dbffFierce Tiger Core<CRLF><CRLF>^ffffffAttack Strength +5%, Crit Rate +5, Attack Power +30"}
+{"id": 23, "english": "^c3dbffFierce Tiger Cleave<CRLF><CRLF>^c3dbffIncreases Sweep damage by 100%."}
+{"id": 24, "english": "^c3dbffGuess<CRLF>^ffffffGo attack the Wooden Dummy - Shell."}
+{"id": 25, "english": "^c3dbffGuess<CRLF>^ffffffAfraid of players with the Ding status."}
+{"id": 26, "english": "^c3dbffTribute to Shu<CRLF><CRLF>^ffffffAttack Power and Attack Strength increased"}
+{"id": 27, "english": "^c3dbffMystic Ice Shield<CRLF><CRLF>^ffffffCannot move or attack. Damage Resistance increased,<CRLF>and immune to most negative statuses."}
+{"id": 28, "english": "^c3dbffMystery Pouch Arts<CRLF><CRLF>^ffffffHealing Effect doubled, and HP restored."}
+{"id": 29, "english": "^c3dbffMystery Pouch Tactic<CRLF><CRLF>^ffffffIncreases Direct DMG Resist,<CRLF>and may restore HP."}
+{"id": 30, "english": "^c3dbffBlack Tortoise Protection<CRLF><CRLF>^ffffffDispels your wound effects and briefly grants immunity to all wound effects."}
+{"id": 31, "english": "^c3dbffBlack Tortoise Berserk<CRLF><CRLF>^ffffffThe Black Tortoise has entered a berserk state,<CRLF>Crit Rate and Attack greatly increased!<CRLF>If the Black Tortoise's phantom stays berserk for over 15 seconds,<CRLF>it will unleash a world-shattering attack!"}
+{"id": 32, "english": "^c3dbffJade Dew Fortune Stick<CRLF>^ffffffIn the unseen depths, a hidden wish awaits."}
+{"id": 33, "english": "^c3dbffRing Cleave<CRLF><CRLF>^ffffffWhen the Cleave Wound status reaches 5 stacks,<CRLF>your Max HP will be reduced further!"}
+{"id": 34, "english": "^c3dbffCatching a Turtle in a Jar<CRLF><CRLF>^ffffffAbout to make my move!!!"}
+{"id": 35, "english": "^c3dbffGan Ning Chapter Victory<CRLF>^ffffffYou have successfully cleared Gan Ning's Tale!"}
+{"id": 36, "english": "^c3dbffMax HP Decreased"}
+{"id": 37, "english": "^c3dbffMax HP Increased"}
+{"id": 38, "english": "^c3dbffMax HP Increased<CRLF>"}
+{"id": 39, "english": "^c3dbffMax HP Increased"}
+{"id": 40, "english": "^c3dbffMax HP Increased<CRLF>"}
+{"id": 41, "english": "^c3dbffMax HP Decreased"}
+{"id": 42, "english": "^c3dbffHP Recovery Speed Increased"}
+{"id": 43, "english": "^c3dbffHP Recovery Speed Reduced"}
+{"id": 44, "english": "^c3dbffDeck<CRLF><CRLF>^ffffffThe deck of a luxury liner. Only Bronze Cannons can damage it."}
+{"id": 45, "english": "^c3dbffArmor Shield<CRLF><CRLF>^ffffffFully reflects all damage from the next attack"}
+{"id": 46, "english": "^c3dbffShock Paralysis<CRLF><CRLF>^ffffffThis unit is paralyzed by electric shock. Movement Speed reduced."}
+{"id": 47, "english": "^c3dbffJieqiao Battle Soldier<CRLF><CRLF>^ffffffAll mounted-combat attributes greatly increased"}
+{"id": 48, "english": "^c3dbffFear of Battle<CRLF><CRLF>^ffffffDefense reduced"}
+{"id": 49, "english": "^c3dbffExhausted<CRLF><CRLF>^ffffffContinuously lose Stamina."}
+{"id": 50, "english": "^c3dbffSwift Stride<CRLF><CRLF>^ffffffMovement Speed greatly increased."}
+{"id": 51, "english": "^c3dbffQuick Step<CRLF><CRLF>^ffffffMovement Speed increased."}
+{"id": 52, "english": "^c3dbffSwift Escape<CRLF><CRLF>^ffffffDamage taken never exceeds your own Defense."}
+{"id": 53, "english": "^c3dbffSwift Thunder<CRLF><CRLF>^ffffffSwift thunder with crushing force, sharp killing intent."}
+{"id": 54, "english": "^c3dbffGale<CRLF><CRLF>^ffffffIncreases Movement Speed and boosts base skill damage."}
+{"id": 55, "english": "^c3dbffGale<CRLF><CRLF>^ffffffMovement Speed increased."}
+{"id": 56, "english": "^c3dbffSpeed of the Gale<CRLF><CRLF>^ffffffEach hit on the target increases your Attack Speed by 5%"}
+{"id": 57, "english": "^c3dbffGale Frenzy<CRLF><CRLF>^ffffffBeing hit by a Swordsman under the Sword Gale<CRLF>status will cause a stagger.<CRLF>"}
+{"id": 58, "english": "^c3dbffGale Mark<CRLF><CRLF>^ffffffThe power of wind surrounds your body, dodging enemy attacks nimbly"}
+{"id": 59, "english": "^c3dbffGale Marker<CRLF><CRLF>^ffffffYou have been marked"}
+{"id": 60, "english": "^c3dbffGale Tattoo<CRLF><CRLF>^ffffffIncreases Movement Speed; affects the effects of other skills;"}
+{"id": 61, "english": "^c3dbffSwift Gallop<CRLF><CRLF>^ffffffGained by repeatedly using Spur On.<CRLF>Stacks up to 5 times."}
+{"id": 62, "english": "^c3dbffAgony<CRLF><CRLF>^ffffffAffected by the enemy's innate divine power. Continuously lose HP."}
+{"id": 63, "english": "^c3dbffSilver Hall Cleared<CRLF>^ffffffCongratulations on clearing the Silver Hall!<CRLF>You will be awarded the Continue Title!"}
+{"id": 64, "english": "^c3dbffSilver Hall<CRLF>^ffffffImpressive strength."}
+{"id": 65, "english": "^c3dbffHundred Paces<CRLF><CRLF>^ffffffPenetration greatly increased"}
+{"id": 66, "english": "^c3dbffA Hundred Poisons Sink into the Marrow<CRLF><CRLF>^ffffffTake poison damage every 2 seconds"}
+{"id": 67, "english": "^c3dbffPlagued by a Hundred Poisons<CRLF><CRLF>^ffffffWhile Plagued by a Hundred Poisons, the target's attack power is reduced:<CRLF>Attack Power and Accuracy decrease"}
+{"id": 68, "english": "^c3dbffBarren for a Hundred Miles<CRLF><CRLF>^ffffffAll circular attack skills deal increased Attack Power<CRLF>(does not apply to Sweep a Thousand Armies)"}
+{"id": 69, "english": "^c3dbffHundred Riders Raid the Camp<CRLF><CRLF>^ffffffMovement and Mount Speed increased!"}
+{"id": 70, "english": "^c3dbffHundred Ghosts Bind You<CRLF><CRLF>^ffffffYou are cursed. Using certain in-combat movement skills puts you in a Weakened state:<CRLF>unable to use skills, and Movement Speed drops to 1 m/s."}
+{"id": 71, "english": "^c3dbffBlindness<CRLF><CRLF>^ffffffReduces Movement Speed, Accuracy and Dodge Rate"}
+{"id": 72, "english": "^c3dbffMesmerized<CRLF><CRLF>^ffffffYour mind is lost in the ghostly dance. Attack and cast intervals greatly increased,<CRLF>healing received greatly reduced, and instant-heal medicines cannot be used"}
+{"id": 73, "english": "^c3dbffDirect DMG Resist Increased"}
+{"id": 74, "english": "^c3dbffDirect DMG Resist Reduced"}
+{"id": 75, "english": "^c3dbffMeet at the Magpie Bridge<CRLF>^ffffffPray together with your destined one."}
+{"id": 76, "english": "^c3dbffDestiny's Bond<CRLF><CRLF>^ffffffHitting or being hit<CRLF>may trigger the Warrior state."}
+{"id": 77, "english": "^c3dbffDestiny's Bond<CRLF><CRLF>^ffffffAttack Power and Defense increased."}
+{"id": 78, "english": "^c3dbffStanding Guard<CRLF><CRLF>^ffffffBeing hit may trigger the Drifting status."}
+{"id": 79, "english": "^c3dbffLonging Runs Deep, Prayers and Wishes Sent"}
+{"id": 80, "english": "^c3dbffShield Counter<CRLF><CRLF>^ffffffAttack Strength increased"}
+{"id": 81, "english": "^c3dbffShield Counter Stance<CRLF><CRLF>^ffffffEach attack has a chance to gain Shield Counter points"}
+{"id": 82, "english": "^c3dbffShield Counter Curse<CRLF><CRLF>^ffffffCannot use normal attacks. Defense reduced"}
+{"id": 83, "english": "^c3dbffShield Block<CRLF><CRLF>^ffffffDamage taken reduced."}
+{"id": 84, "english": "^c3dbffShield March<CRLF><CRLF>Enhances your resistance to ranged attacks."}
+{"id": 85, "english": "^c3dbffShield Defense<CRLF><CRLF>^ffffffDamage Resistance increased"}
+{"id": 86, "english": "^c3dbffShield Defense Stance<CRLF><CRLF>^ffffffEach time you are hit, you gain Fighting Qi, restore HP, and accumulate Counter points."}
+{"id": 87, "english": "^c3dbffShield Defense Stance<CRLF><CRLF>^ffffffEach time you are attacked, you have a chance to gain Shield Defense points"}
+{"id": 88, "english": "^c3dbffDazzling Light<CRLF><CRLF>^ffffffUnder the dazzling light, Attack and cast speed reduced"}
+{"id": 89, "english": "^c3dbffStun"}
+{"id": 90, "english": "^c3dbffStun<CRLF><CRLF>^ffffffStuns targets on foot"}
+{"id": 91, "english": "^c3dbffStun<CRLF><CRLF>^ffffffContinuous stun"}
+{"id": 92, "english": "^c3dbffStun<CRLF><CRLF>^ffffffUnable to move or attack."}
+{"id": 93, "english": "^c3dbffStun<CRLF><CRLF>^ffffffUnable to take any action."}
+{"id": 94, "english": "^c3dbffStun<CRLF><CRLF>^ffffffThis unit is stunned and cannot move or attack<CRLF>"}
+{"id": 95, "english": "^c3dbffStun<CRLF>^ffffffUnable to move or attack."}
+{"id": 96, "english": "^c3dbffQuick Eye, Swift Hand<CRLF><CRLF>^ffffffAutomatically grants you the “Quick Eye, Swift Hand” Title"}
+{"id": 97, "english": "^c3dbffSleep<CRLF><CRLF>^ffffffUnable to attack. Taking damage interrupts this effect."}
+{"id": 98, "english": "^c3dbffAim<CRLF><CRLF>^ffffffPre-aim at the target to strengthen shooting moves."}
+{"id": 99, "english": "^c3dbffInstant Kill<CRLF><CRLF>^ffffffStatus gained while charging. Mounted Accuracy increased by 20,<CRLF>and some mounted-combat moves gain special effects in this status."}
+{"id": 100, "english": "^c3dbffEye of Insight<CRLF><CRLF>^ffffffAccuracy greatly increased for a short time."}
+{"id": 101, "english": "^c3dbffRectangular Formation<CRLF><CRLF>^ffffffDefense decreases, Attack Power increases."}
+{"id": 102, "english": "^c3dbffBoulder Stun<CRLF><CRLF>"}
+{"id": 103, "english": "^c3dbffArmy Breaker<CRLF><CRLF>^ffffffAll status resistances greatly decreased!"}
+{"id": 104, "english": "^c3dbffArmy Breaker<CRLF><CRLF>^ffffffDodge increased."}
+{"id": 105, "english": "^c3dbffArmy Breaker Technique<CRLF><CRLF>^ffffffActivate Army Breaker Technique to use Break-type skills.<CRLF>Defense increased."}
+{"id": 106, "english": "^c3dbffBreakage<CRLF><CRLF>^ffffffEquipment is damaged and loses some effects.<CRLF>Defense and Crit Resist decreased.<CRLF>Stacks up to 10 times."}
+{"id": 107, "english": "^c3dbffHeaven Breaker<CRLF><CRLF>^ffffffStatus gained while Power Striking. Mounted Accuracy increased by 40,<CRLF>and some mounted-combat moves gain special effects in this status."}
+{"id": 108, "english": "^c3dbffPeak Breaker<CRLF>^ffffffEach stack reduces Cleave Huashan's cooldown by 8 seconds,<CRLF>and increases the damage of your next Cleave Huashan by 10%."}
+{"id": 109, "english": "^c3dbffShadow Breaker<CRLF><CRLF>^ffffffDefense greatly reduced."}
+{"id": 110, "english": "^c3dbffHeartbreaking Aura<CRLF><CRLF>^ffffffYour fighting spirit is lost. Unable to attack"}
+{"id": 111, "english": "^c3dbffEnemy Breaker<CRLF><CRLF>^ffffffUsing “Wrath” or “Army” skills while this status lasts<CRLF>grants additional effects."}
+{"id": 112, "english": "^c3dbffEnemy Breaker<CRLF><CRLF>^ffffffCongratulations on defeating the enemy general."}
+{"id": 113, "english": "^c3dbffEnemy Breaker<CRLF><CRLF>^ffffffAttack Power and Attack Strength increased."}
+{"id": 114, "english": "^c3dbffMoon Breaker<CRLF><CRLF>^ffffffYour next combo skill grants the Heaven-Reversal Shield."}
+{"id": 115, "english": "^c3dbffMoon Breaker<CRLF><CRLF>^ffffffYour next combo skill grants the Heaven-Defiance Shield."}
+{"id": 116, "english": "^c3dbffEvil Break<CRLF>^ffffffIncreases allies' Crit"}
+{"id": 117, "english": "^c3dbffJade-Shattering Palm<CRLF><CRLF>^ffffffDamaged by a fierce attack. Defense and Movement Speed both reduced."}
+{"id": 118, "english": "^c3dbffArmor Break<CRLF><CRLF>^ffffffDirect DMG Resist decreased for a time."}
+{"id": 119, "english": "^c3dbffArmor Break<CRLF><CRLF>^ffffffYour Defense is greatly reduced. If struck by a horse herd, you will take heavy damage."}
+{"id": 120, "english": "^c3dbffArmor Break<CRLF><CRLF>^ffffffDirect damage taken increased."}
+{"id": 121, "english": "^c3dbffArmor Break<CRLF><CRLF>^ffffffDefense reduced. The more stacks, the stronger the effect"}
+{"id": 122, "english": "^c3dbffArmor Break<CRLF><CRLF>^ffffffReduces Defense and Damage Resistance."}
+{"id": 123, "english": "^c3dbffVital Point Break<CRLF><CRLF>^ffffffUnable to move or perform moves."}
+{"id": 124, "english": "^c3dbffOpening<CRLF><CRLF>^ffffffYou let your guard down against a sneak attack.<CRLF>In 3 seconds you will enter a Disarmed status."}
+{"id": 125, "english": "^c3dbffOpening<CRLF><CRLF>^ffffffSpot your opponent's opening, lowering their Crit Resist for a short time."}
+{"id": 126, "english": "^c3dbffTerrified<CRLF><CRLF>^ffffffTerrified to the core.<CRLF>Stamina and stored Fighting Qi drain rapidly"}
+{"id": 127, "english": "^c3dbffTerrified<CRLF><CRLF>^ffffffUnable to attack automatically."}
+{"id": 128, "english": "^c3dbffTerrified<CRLF><CRLF>^ffffffTrembling with fear, no will to fight."}
+{"id": 129, "english": "^c3dbffBlood Rage Assault<CRLF><CRLF>^ffffffAttack Power increased."}
+{"id": 130, "english": "^c3dbffBreak the Boats<CRLF><CRLF>^ffffffDamage Resistance increased.<CRLF>Stacks up to 5 times"}
+{"id": 131, "english": "^c3dbffDefense Break<CRLF><CRLF>^ffffffEvery attack deals at least a set amount of damage to the target"}
+{"id": 132, "english": "^c3dbffDefense Break<CRLF><CRLF>^ffffffDefense reduced<CRLF>"}
+{"id": 133, "english": "^c3dbffDefense Break<CRLF><CRLF>^ffffffDefense reduced, stacks up to 10 times"}
+{"id": 134, "english": "^c3dbffDefense Break<CRLF><CRLF>^ffffffDefense reduced, stacks up to 50 times"}
+{"id": 135, "english": "^c3dbffFormation-Breaking Fire<CRLF><CRLF>^ffffffDefense greatly reduced, HP recovery speed reduced."}
+{"id": 136, "english": "^c3dbffFormation-Break Battle Merit<CRLF>^ffffffYou took part in slaying two enemy VIPs at the Chibi Decisive Battle.<CRLF>Slay one VIP to receive the Slayer-rank Battle Merit reward after the battle.<CRLF>Slay two VIPs to receive the Formation Breaker-rank Battle Merit reward.<CRLF>Slay three to five VIPs to receive the Conqueror-rank Battle Merit reward.<CRLF>Slay six VIPs to receive the Peerless-rank Battle Merit reward.<CRLF>"}
+{"id": 137, "english": "^c3dbffFormation-Break Battle Merit<CRLF>^ffffffYou took part in slaying two enemy VIPs at the Chibi Skirmish.<CRLF>Slay one VIP to receive the Slayer-rank Battle Merit reward after the skirmish.<CRLF>Slay two VIPs to receive the Formation Breaker-rank Battle Merit reward.<CRLF>Slay three to five VIPs to receive the Conqueror-rank Battle Merit reward.<CRLF>Slay six VIPs to receive the Peerless-rank Battle Merit reward."}
+{"id": 138, "english": "^c3dbffHardened<CRLF>^ffffffThe Wooden Dummy Emperor has grown stronger."}
+{"id": 139, "english": "^c3dbffStagger<CRLF><CRLF>^ffffffSkill cooldown increased"}
+{"id": 140, "english": "^c3dbffShattered Gear<CRLF><CRLF>^ffffffAttack Strength decreased for a time."}
+{"id": 141, "english": "^c3dbffShatter Strike<CRLF><CRLF>^ffffffAttack Power reduced by 300, Attack Strength reduced by 50%, normal attack speed reduced by 30%. Can be blocked."}
+{"id": 142, "english": "^c3dbffHeartbreaker<CRLF><CRLF>^ffffffIf struck by Jiang Wei's combo attacks, you will take extra damage."}
+{"id": 143, "english": "^c3dbffHeartbreaker<CRLF><CRLF>^ffffffIf struck by Jiang Wei's combo attacks, you will take extra damage.<CRLF>"}
+{"id": 144, "english": "^c3dbffRing-Shattering Stance<CRLF><CRLF>^ffffffTriggers the Ring-Shattering status.<CRLF>Within 2 seconds you can use the Ring-Shattering knockdown combo."}
+{"id": 145, "english": "^c3dbffGold-Shattering<CRLF><CRLF>^ffffffSpell damage taken increased."}
+{"id": 146, "english": "^c3dbffCrushed<CRLF><CRLF>^ffffffCrushed by a war chariot. Continuously lose HP"}
+{"id": 147, "english": "^c3dbffBoulder Mark<CRLF><CRLF>^ffffffHard as a boulder. All damage taken reduced by 5%"}
+{"id": 148, "english": "^c3dbffBoulder Marker<CRLF><CRLF>^ffffffYou have been marked"}
+{"id": 149, "english": "^c3dbffBoulder Tattoo<CRLF><CRLF>^ffffffIncreases Defense; affects the effects of other skills;"}
+{"id": 150, "english": "^c3dbffGift Effect<CRLF>Attack Strength increased"}
+{"id": 151, "english": "^c3dbffGift Effect<CRLF>Attack Points increased<CRLF>"}
+{"id": 152, "english": "^c3dbffGift Effect<CRLF>Healing Effect increased"}
+{"id": 153, "english": "^c3dbffGift Effect<CRLF>Defense Points increased"}
+{"id": 154, "english": "^c3dbffGift Collector<CRLF><CRLF>^ffffffAutomatically sends gifts within half a meter<CRLF>to Santa Claus."}
+{"id": 155, "english": "^c3dbffWishing You Endless Good Luck!"}
+{"id": 156, "english": "^c3dbffBlessing<CRLF>^ffffffProvides aid to nearby allies"}
+{"id": 157, "english": "^c3dbffWind of Blessing<CRLF><CRLF>^ffffffProtected by the Wind of Blessing, no negative effect can reach you"}
+{"id": 158, "english": "^c3dbffSpirit Wound<CRLF><CRLF>^ffffffContinuously lose HP."}
+{"id": 159, "english": "^c3dbffDivine Strength<CRLF><CRLF>^ffffffWield your twin hammers with greater agility.<CRLF>Increases the twin hammers' Attack Speed and Attack Strength"}
+{"id": 160, "english": "^c3dbffDivine Strength<CRLF><CRLF>^ffffffEnters a defensive state. Find its counter quickly."}
+{"id": 161, "english": "^c3dbffComposure<CRLF><CRLF>^ffffffRestores HP"}
+{"id": 162, "english": "^c3dbffSharpshooter<CRLF><CRLF>^ffffffYou just hit someone with a Blessed Snowball—nice shot!<CRLF>While this effect lasts, you cannot obtain Flawless Ice Crystals."}
+{"id": 163, "english": "^c3dbffDivine General's Might<CRLF>^ffffffYou feel an endless surge of power—<CRLF>almost impervious to blades and spears."}
+{"id": 164, "english": "^c3dbffPower of the Divine Tree<CRLF><CRLF>^ffffffMounted-combat Stamina increased"}
+{"id": 165, "english": "^c3dbffRefreshed<CRLF><CRLF>^ffffffEXP and Insight gained increased by 30%.<CRLF>Lasts 30 minutes."}
+{"id": 166, "english": "^c3dbffThe Mysterious One's Protection<CRLF><CRLF>^ffffffWithin 5 seconds, absorbs up to 3000 damage."}
+{"id": 167, "english": "^c3dbffThe Mysterious One's Command<CRLF><CRLF>^ffffffAttacks always Crit. Crit Damage increased by 50%,<CRLF>in-combat Stamina recovery increased by 2, and every 3 seconds restores 1000 HP."}
+{"id": 168, "english": "^c3dbffThe Mysterious One's Blessing<CRLF><CRLF>^ffffffAccuracy increased by 20, Dodge increased by 20."}
+{"id": 169, "english": "^c3dbffThe Mysterious One's Inspiration<CRLF><CRLF>^ffffffMovement Speed increased by 1 meter per second, and you automatically gain 1 Fighting Qi per second.<CRLF>"}
+{"id": 170, "english": "^c3dbffMystery Paint Ball<CRLF><CRLF>^ffffffUsing a paint ball grants a Reward."}
+{"id": 171, "english": "^c3dbffMystery Paint Ball<CRLF><CRLF>^ffffffBeing hit by a paint ball grants a Reward."}
+{"id": 172, "english": "^c3dbffMysterious Shadow<CRLF>^ffffffWatch out!!"}
+{"id": 173, "english": "^c3dbffDivine Punishment<CRLF><CRLF>^ffffffDirect DMG Resist reduced when attacked."}
+{"id": 174, "english": "^c3dbffDivine Step Powder<CRLF><CRLF>^ffffffMovement Speed increased."}
+{"id": 175, "english": "^c3dbffDivine Speed<CRLF><CRLF>^ffffffAttack Speed and Movement Speed increased."}
+{"id": 176, "english": "^c3dbffDivine Wine<CRLF><CRLF>^ffffffThe wine's power grants immunity to Agony HP loss for a time."}
+{"id": 177, "english": "^c3dbffMemorial<CRLF><CRLF>^ffffffPay tribute to the fallen heroes."}
+{"id": 178, "english": "^c3dbffRestricted Area<CRLF><CRLF>^ffffffYou have entered an invalid area."}
+{"id": 179, "english": "^c3dbffImprison<CRLF><CRLF>^ffffffIf the Imprison is not removed, you will die in 15 seconds."}
+{"id": 180, "english": "^c3dbffFood Ban<CRLF><CRLF>^ffffffUnable to consume medicine."}
+{"id": 181, "english": "^c3dbffFood Ban<CRLF><CRLF>^ffffffTemporarily unable to use pills or other medicines."}
+{"id": 182, "english": "^c3dbffFood Ban<CRLF><CRLF>^ffffffConsumption prohibited"}
+{"id": 183, "english": "^c3dbffRiding Ban<CRLF><CRLF>^ffffffUnable to use any mount for a time."}
+{"id": 184, "english": "^c3dbffRiding Ban<CRLF><CRLF>^ffffffCannot use any riding skills."}
+{"id": 185, "english": "^c3dbffRiding Ban<CRLF><CRLF>^ffffffMounts are prohibited in this area."}
+{"id": 186, "english": "^c3dbffDisheartened<CRLF><CRLF>HP recovery speed reduced"}
+{"id": 187, "english": "^c3dbffMobile Revive Point<CRLF>^ffffffUpon death, you revive aboard your side's vehicle"}
+{"id": 188, "english": "^c3dbffMobile Revive Point Too Far<CRLF>^ffffffYou are too far from the vehicle you are riding.<CRLF>Upon death, you cannot revive aboard your side's vehicle"}
+{"id": 189, "english": "^c3dbffMovement Speed Reduced"}
+{"id": 190, "english": "^c3dbffHold the Line<CRLF>^ffffffYou cannot move while operating the cannon."}
+{"id": 191, "english": "^c3dbffSteady<CRLF><CRLF>^ffffffSubsequent martial skill Accuracy increased"}
+{"id": 192, "english": "^c3dbffSteady<CRLF><CRLF>^ffffffIncreases Crit Resist"}
+{"id": 193, "english": "^c3dbffSolid<CRLF><CRLF>^ffffffFighting Qi steadily builds up over time during combat"}
+{"id": 194, "english": "^c3dbffSolid Tactic<CRLF><CRLF>^ffffffA tactic used by generals wielding the halberd.<CRLF>Once activated, you gain Fighting Qi every time you are hit."}
+{"id": 195, "english": "^c3dbffScarecrow<CRLF><CRLF>^ffffffA scarecrow disguised as a soldier. Remember to pick up arrows promptly."}
+{"id": 196, "english": "^c3dbffPierce Through<CRLF><CRLF>^ffffffPenetration increased"}
+{"id": 197, "english": "^c3dbffPenetration Increased"}
+{"id": 198, "english": "^c3dbffAssault Unit<CRLF><CRLF>^ffffffVery high Movement Speed. Excels at breaking enemy formations."}
+{"id": 199, "english": "^c3dbffBreakthrough<CRLF><CRLF>^ffffffBreakthrough tactic: temporarily immune to movement-impairing statuses."}
+{"id": 200, "english": "^c3dbffBreak Out of Encirclement"}
+{"id": 201, "english": "^c3dbffRaid Strike<CRLF><CRLF>^ffffffYour charge momentum remains."}
+{"id": 202, "english": "^c3dbffRush<CRLF><CRLF>^ffffffFollowing Rush Arrow with Meteor Arrow or Crescent Arrow triggers a special effect."}
+{"id": 203, "english": "^c3dbffArena Restriction Effect<CRLF><CRLF>^ffffffUnder Arena-specific conditions, all healing is nullified,<CRLF>mounted Movement Speed is greatly reduced, and Stealth cannot be entered."}
+{"id": 204, "english": "^c3dbffChild's Words, No Offense<CRLF><CRLF>^ffffffChild's Words, No Offense"}
+{"id": 205, "english": "^c3dbffClumsy<CRLF><CRLF>^ffffffAttack Speed decreased for a time."}
+{"id": 206, "english": "^c3dbffSpur On<CRLF><CRLF>^ffffffMounted Movement Speed increased, continuously consuming Stamina.<CRLF>Ends when Stamina drops below 10%.<CRLF>Attacking also ends this status."}
+{"id": 207, "english": "^c3dbffArrow Wound<CRLF><CRLF>^ffffffReduces Crit Resist,<CRLF>healing received, and Defense points"}
+{"id": 208, "english": "^c3dbffArrow Tower Destroyed<CRLF><CRLF>^ffffffRewards granted"}
+{"id": 209, "english": "^c3dbffArrow Tower Upgraded<CRLF><CRLF>^ffffffArrow Tower upgraded. Damage Resistance increased"}
+{"id": 210, "english": "^c3dbffArrow's Demise<CRLF><CRLF>^ffffffYour mount's resistance to indirect damage increased."}
+{"id": 211, "english": "^c3dbffArrow Formation<CRLF><CRLF>^ffffffAttack Speed, Accuracy, Dodge and Movement Speed increased.<CRLF>"}
+{"id": 212, "english": "^c3dbffZongzi King's Baptism<CRLF><CRLF>^ffffffCongratulations on your victory."}
+{"id": 213, "english": "^c3dbffPrecision<CRLF><CRLF>^ffffffAccuracy increased by 40 points"}
+{"id": 214, "english": "^c3dbffMartial Mastery<CRLF><CRLF>^ffffffAttack +50"}
+{"id": 215, "english": "^c3dbffEssence Soul<CRLF><CRLF>^ffffffThe soul-will within your War Soul awakens.<CRLF>Constitution greatly increased"}
+{"id": 216, "english": "^c3dbffPurple Cloud Flash Bead Bonus<CRLF><CRLF>^ffffffBonus Reward"}
+{"id": 217, "english": "^c3dbffBraised Rabbit Feet<CRLF><CRLF>^ffffffYou have consumed immortal-realm food. Movement Speed greatly increased for five minutes"}
+{"id": 218, "english": "^c3dbffRed Thread Cocoon<CRLF><CRLF>^ffffffBound by red threads. Unable to use skills or medicines.<CRLF>Movement Speed greatly reduced"}
+{"id": 219, "english": "^c3dbffBelle<CRLF><CRLF>^ffffffWhen using a combo that consumes the “Phantom” status,<CRLF>the stack-limit requirement is ignored."}
+{"id": 220, "english": "^c3dbffUnrestrained<CRLF><CRLF>^ffffffPenetration, Pierce and Movement Speed increased."}
+{"id": 221, "english": "^c3dbffUnrestrained I<CRLF><CRLF>^ffffffTemporarily immune to movement-impairing statuses."}
+{"id": 222, "english": "^c3dbffUnrestrained II<CRLF><CRLF>^ffffffTemporarily immune to movement-impairing statuses."}
+{"id": 223, "english": "^c3dbffHorse Trip<CRLF><CRLF>^ffffffMounted Movement Speed reduced."}
+{"id": 224, "english": "^c3dbffStatecraft<CRLF><CRLF>^ffffffCrit Resist increased"}
+{"id": 225, "english": "^c3dbffBrotherhood Skill: Nine Unions, One Realm<CRLF><CRLF>^ffffffIncreases all abnormal status resistances by 9%."}
+{"id": 226, "english": "^c3dbffBrotherhood Skill: Benevolent Might<CRLF><CRLF>^ffffffIncreases HP."}
+{"id": 227, "english": "^c3dbffBrotherhood Skill: Sharpen the Blades, Feed the Horses<CRLF><CRLF>^ffffffIncreases HP, Stamina, and out-of-combat Stamina recovery."}
+{"id": 228, "english": "^c3dbffBrotherhood Skill: Firm Formation<CRLF><CRLF>^ffffffIncreases Defense."}
+{"id": 229, "english": "^c3dbffBrotherhood Skill: Lay Down Arms Under Heaven<CRLF><CRLF>^ffffffIncreases Attack, Defense, HP and Critical Hit Rate."}
+{"id": 230, "english": "^c3dbffBrotherhood Skill: Awe the Eight Wilds<CRLF><CRLF>^ffffffIncreases HP and Stamina recovery speed, Accuracy and Dodge."}
+{"id": 231, "english": "^c3dbffBrotherhood Skill: Walk in Benevolence and Righteousness<CRLF><CRLF>^ffffffIncreases Attack Power, Defense and HP."}

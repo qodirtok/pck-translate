@@ -1,0 +1,7 @@
+glossary filled 12 / 0 still missing
+translations available: 8959
+promoted skillstr.txt  (10467 segs, 2258598 bytes)
+promoted skillgbk.txt  (10467 segs, 1139224 bytes)
+
+promoted 2 file(s); all_ok=True
+exit=0

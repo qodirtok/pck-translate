@@ -1,0 +1,22 @@
+### batch_000/181
+  L4  SRC(1 toks) '地恸击 苍穹乱舞'
+       DST(3 toks) 'Earthshaker Strike\u3000Firmament Wild Dance'
+
+### batch_002/28
+  L3  SRC(5 toks) '^ffffff兵器：鞭\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000      15体力'
+       DST(3 toks) '^ffffffWeapon: Whip                  15 Stamina'
+  L4  SRC(5 toks) '招式：立即出招\u3000\u3000\u3000\u3000\u3000\u3000\u3000      冷却15秒'
+       DST(3 toks) 'Move: Instant Strike         Cool-down 15 sec'
+
+### batch_002/56
+  L2  SRC(5 toks) '^ffffff兵器：爪\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300060斗气\u30005体力'
+       DST(3 toks) '^ffffffWeapon: Claw                  60 Battle Qi, 5 Stamina'
+
+### batch_005/23
+  L2  SRC(5 toks) '^ffffff兵器：杖\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000               15斗气，35体力'
+       DST(3 toks) '^ffffffWeapon: Staff\u3000\u3000\u3000\u3000\u300015 Battle Qi, 35 Stamina'
+
+### batch_014/25
+  L2  SRC(5 toks) '^ffffff兵器：剑、斧、钩、锏、锤、爪\u3000\u3000 50体力\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000'
+       DST(3 toks) '^ffffffWeapons: Sword, Axe, Hooksword, Mace, Hammer, Claw\u3000\u3000 50 Stamina'
+

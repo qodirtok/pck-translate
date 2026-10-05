@@ -1,0 +1,68 @@
+
+==================== item_ext_desc.txt ====================
+chars=2459544  lines=29892
+total double-quotes=59252  parity=even
+DOTALL quoted spans=29626   with-CJK=29618   without-CJK=8
+unique CJK payloads=18935
+CJK chars total=1285599  inside-quoted=1285599  OUTSIDE-quoted=0
+--- sample unique CJK payloads ---
+   [1] '废'
+   [2] '废弃'
+   [2] '测试'
+   [2] '作废'
+   [5] '一堆杂草。'
+   [6] '中药的一种。'
+   [741] '将九阶防具类橙色顶级强化升级成金色顶级强化的道具\\r^fff600凝聚仙力的神石，可提升以下强化的品质：^5acbcc\\r[衣服]^ff7d2f混沌片：防御力+90 生命值+100'
+   [753] '将九阶防具类金色中级强化升级成金色高级强化的道具\\r^fff600凝聚仙力的神石，可为以下强化升级：^5acbcc\\r[衣服]^fff600华珏片：防御力+90 生命值+800 体'
+   [759] '将九阶防具类金色高级强化升级成金色顶级强化的道具\\r^fff600凝聚仙力的神石，可为以下强化升级：^5acbcc\\r[衣服]^fff600王珏片：防御力+98 生命值+1050 '
+
+==================== skillstr.txt ====================
+chars=555930  lines=33603
+total double-quotes=35516  parity=even
+DOTALL quoted spans=17758   with-CJK=10466   without-CJK=7292
+unique CJK payloads=8956
+CJK chars total=197156  inside-quoted=197150  OUTSIDE-quoted=6
+--- sample unique CJK payloads ---
+   [1] '无'
+   [1] '废'
+   [1] '破'
+   [1] '空'
+   [1] '御'
+   [2] '点燃'
+   [492] '^c3dbff承接^ffffff\r\n\r\n兵器：戟\u3000\u3000\u3000\u3000\u3000\u3000\u3000\r\n战法：被动\r\n\r\n自战神吕布使用方天画戟傲视群雄始，\r\n他所用各种长戟的战斗招式就被大家所广泛研习。\r\n后人根据挑'
+   [653] '^c3dbff追风\r\n^ffffff需要至少在技类专精投入25点。\r\n\r\n^ffffff兵器：剑\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u30007体力\r\n专精：瞬发\u3000\u3000\u3000\u3000\u3000'
+   [829] '^c3dbff剑罡·御剑\r\n^ffffff需要至少在力类专精投入25点。\r\n\r\n^ffffff兵器：剑\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300010体力\r\n专精：瞬发\u3000\u3000\u3000\u3000           \u3000\u3000'
+
+==================== buff_str.txt ====================
+chars=111594  lines=8104
+total double-quotes=7930  parity=even
+DOTALL quoted spans=3965   with-CJK=2534   without-CJK=1431
+unique CJK payloads=2180
+CJK chars total=35671  inside-quoted=35666  OUTSIDE-quoted=5
+--- sample unique CJK payloads ---
+   [2] '嘲讽'
+   [2] '减速'
+   [2] '全免'
+   [2] '斩将'
+   [2] '苦想'
+   [2] '无用'
+   [159] '^c3dbff斩将战功\r\n^ffffff在赤壁前哨战中参与斩杀了一名敌方重要人物，\r\n斩杀一名重要人物，在前哨战结束后可获得斩将级战功奖励。\r\n斩杀二名重要人物，在前哨战结束后可获'
+   [161] '^c3dbff吞国战功\r\n^ffffff在赤壁前哨战中参与斩杀了四名敌方重要人物，\r\n斩杀一名重要人物，在前哨战结束后可获得斩将级战功奖励。\r\n斩杀二名重要人物，在前哨战结束后可获'
+   [168] '^c3dbff弱国援助\r\n\r\n^ffffff提升攻击和防御能力，该效果随国家城市值变化，\r\n本国下辖城池数低于10时，城市数少，效果越强。\r\n\r\n城池数为6~9 提升30攻击力，提'
+
+==================== toptable.txt ====================
+chars=8154  lines=179
+total double-quotes=1194  parity=even
+DOTALL quoted spans=597   with-CJK=358   without-CJK=239
+unique CJK payloads=108
+CJK chars total=3581  inside-quoted=2287  OUTSIDE-quoted=1294
+--- sample unique CJK payloads ---
+   [2] '积分'
+   [2] '击杀'
+   [2] '等级'
+   [2] '其他'
+   [2] '详细'
+   [2] '人数'
+   [71] '^ffcb4a排行说明：^ffffff此排行榜于每月的第一个周一刷新，排行数据统计                    截止于上月最后一日。'
+   [73] '^ffcb4a排行说明：^ffffff此排行榜于每月的第一个周一刷新，排行数据统计                      截止于上月最后一日。'
+   [79] '^ffcb4a排行说明：^ffffff上周活跃度排行总榜50名之内的军团可在长安城云                         台周鸣磊处申请军团基地。'

@@ -1,0 +1,39 @@
+toptable.txt   lines=179
+   quote_rel_mismatch(dst!=src) : 0
+   quote_abs_dst_not_0_or_2     : 142   (audit)
+   quote_abs_SRC_not_0_or_2     : 142   (source baseline)
+   id_real_mismatch(num+TAB)    : 0   (audit id would be higher)
+instance.txt   lines=18955
+   quote_rel_mismatch(dst!=src) : 0
+   quote_abs_dst_not_0_or_2     : 50   (audit)
+   quote_abs_SRC_not_0_or_2     : 50   (source baseline)
+   id_real_mismatch(num+TAB)    : 0   (audit id would be higher)
+buff_str.txt   lines=8105
+   quote_rel_mismatch(dst!=src) : 0
+   quote_abs_dst_not_0_or_2     : 3872   (audit)
+   quote_abs_SRC_not_0_or_2     : 3872   (source baseline)
+   id_real_mismatch(num+TAB)    : 0   (audit id would be higher)
+
+buff_str audit-id-flagged lines: 11  (src/dst disagree on leading-number)
+   @637 src='30秒内连续射击会有增强效果。"'
+        dst='Continuous firing within 30 seconds grants a boosted effect.'
+   @641 src='15秒内连续射击会有增强效果。"'
+        dst='Continuous firing within 15 seconds grants a boosted effect.'
+   @857 src='3秒内躲避敌人招式攻击。"'
+        dst='Dodge enemy skill attacks for 3 seconds."'
+   @1428 src='2点暴击，可叠加3层，'
+        dst='and 2 Critical, stacking up to 3 times.'
+   @1531 src='8秒内直抗、限制抗提升，并按斗气增加攻击力。"'
+        dst='For 8 seconds, direct resistance and control resistance incr'
+   @2803 src='其中1293为迷惑的隐藏状态"'
+        dst='1293 is the hidden status of Confusion"'
+   @2897 src='16-59级佩带可获得较多历练值。'
+        dst='Wearing it at Levels 16-59 grants more EXP.'
+   @2898 src='60级以上佩带还可额外获得名望。'
+        dst='Wearing it at Level 60 or above also grants extra Prestige.'
+   @7222 src='9级之后提升攻击强度"'
+        dst='Attack strength rises after Level 9"'
+   @7511 src='30秒内只能获得一次额外奖励。"'
+        dst='Can only receive the bonus once every 30 seconds."'
+   @7930 src='48级以上玩家闯关，将'
+        dst='clearing the stage with a hero at'

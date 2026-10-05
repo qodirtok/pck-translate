@@ -1,0 +1,70 @@
+
+==== item_ext_desc.txt ====
+codec=utf-16-le  chars=2459544  segments=29618  unique=18935
+CJK coverage: inside=1279345 total=1279345  (100.00%)
+unique payloads with real newline/CR: 91
+shortest: '废'
+longest : '将九阶防具类金色高级强化升级成金色顶级强化的道具\\r^fff600凝聚仙力的神石，可为以下强化升级：^5acbcc\\r[衣服]^fff600王珏片：防御力+98 生命值+1050 体质+1850 受伤'
+
+==== skillstr.txt ====
+codec=utf-16-le  chars=555930  segments=10467  unique=8957
+CJK coverage: inside=194697 total=194697  (100.00%)
+unique payloads with real newline/CR: 2488
+shortest: '御'
+longest : '^c3dbff剑罡·御剑\r\n^ffffff需要至少在力类专精投入25点。\r\n\r\n^ffffff兵器：剑\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300010体力\r\n专精：瞬发\u3000\u3000\u3000\u3000           \u3000\u3000\u3000   \u3000    冷'
+
+==== skillgbk.txt ====
+codec=gbk  chars=555124  segments=10467  unique=8949
+CJK coverage: inside=194394 total=194394  (100.00%)
+unique payloads with real newline/CR: 2478
+shortest: '御'
+longest : '^c3dbff剑罡·御剑\r\n^ffffff需要至少在力类专精投入25点。\r\n\r\n^ffffff兵器：剑\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300010体力\r\n专精：瞬发\u3000\u3000\u3000\u3000           \u3000\u3000\u3000   \u3000    冷'
+
+==== buff_str.txt ====
+codec=utf-16-le  chars=111594  segments=2535  unique=2181
+CJK coverage: inside=35660 total=35660  (100.00%)
+unique payloads with real newline/CR: 1712
+shortest: '无敌'
+longest : '^c3dbff弱国援助\r\n\r\n^ffffff提升攻击和防御能力，该效果随国家城市值变化，\r\n本国下辖城池数低于10时，城市数少，效果越强。\r\n\r\n城池数为6~9 提升30攻击力，提升5抗性\r\n城池数为'
+
+==== instance.txt ====
+codec=utf-16-le  chars=401210  segments=1666  unique=807
+CJK coverage: inside=7493 total=7493  (100.00%)
+unique payloads with real newline/CR: 0
+shortest: '约战'
+longest : 'auto_revive_time 0 // 自动复活等待时间 （毫秒）'
+
+==== toptable.txt ====
+codec=utf-16-le  chars=8154  segments=500  unique=207
+CJK coverage: inside=3201 total=3201  (100.00%)
+unique payloads with real newline/CR: 0
+shortest: '详细'
+longest : '^ffcb4a排行说明：^ffffff上周活跃度排行总榜50名之内的军团可在长安城云                         台周鸣磊处申请军团基地。'
+
+==== typedef_initial.xml ====
+codec=gbk  chars=10742  segments=202  unique=76
+CJK coverage: inside=473 total=473  (100.00%)
+unique payloads with real newline/CR: 0
+shortest: '杖'
+longest : '强化升级道具'
+
+==== item_ext_prop.txt ====
+codec=gbk  chars=8813  segments=112  unique=112
+CJK coverage: inside=390 total=390  (100.00%)
+unique payloads with real newline/CR: 0
+shortest: '19: 水防'
+longest : '// 28: +火防(%)-水防(%)'
+
+==================== SUMMARY ====================
+file                     codec          segs     uniq     cjk_in    cjk_tot   w/nl
+item_ext_desc.txt        utf-16-le     29618    18935    1279345    1279345     91
+skillstr.txt             utf-16-le     10467     8957     194697     194697   2488
+skillgbk.txt             gbk           10467     8949     194394     194394   2478
+buff_str.txt             utf-16-le      2535     2181      35660      35660   1712
+instance.txt             utf-16-le      1666      807       7493       7493      0
+toptable.txt             utf-16-le       500      207       3201       3201      0
+typedef_initial.xml      gbk             202       76        473        473      0
+item_ext_prop.txt        gbk             112      112        390        390      0
+
+TOTAL unique payloads across all 8 files: 31246
+TOTAL unique CJK chars (approx): 1113196

@@ -1,0 +1,4 @@
+spaced  ( A · B )        1154   e.g. ('batch_000', 148, 'd of the Gale · Strength<CRLF')
+tight   ( A·B )          34   e.g. ('batch_008b', 79, 'dbffGale Slash·Wound<CRLF>^ff')
+
+SOURCE line-1 middot spacing: {'source tight': 1518}

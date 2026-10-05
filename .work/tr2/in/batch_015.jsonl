@@ -1,0 +1,265 @@
+{"id": 1, "source": "^c3dbff驭水<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄36级<CRLF>^ffffff技能生效祖籍限制：交州<CRLF><CRLF>交州名士，曾大破诸葛亮火牛阵，<CRLF>被攻击有5%%几率获得驭水状态，<CRLF>所受暴击伤害降低，被暴击则状态结束。<CRLF><CRLF>^99ccff源自程秉。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 2, "source": "^c3dbff驰电擢日<CRLF>^ffffff属性：被动<CRLF><CRLF>精于骑战，可以灵活驾驭战骑于敌人意想不到方位出手，<CRLF>增加骑战技能暴击。"}
+{"id": 3, "source": "^c3dbff驻马息^ffffff<CRLF><CRLF>一张一弛，劳逸结合。"}
+{"id": 4, "source": "^c3dbff骁勇<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄50级<CRLF>^ffffff技能生效祖籍限制：徐州<CRLF><CRLF>曹仁领军，魏之精兵，<CRLF>骑战状态下移动速度及间接抗性将提升。<CRLF><CRLF>^99ccff源自骁骑。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 5, "source": "^c3dbff骁勇<CRLF><CRLF>^ffffff结义兵法：瞬发　　　　　　冷却30分<CRLF><CRLF>激昂斗志，踏破万军，<CRLF>提升结义内将士的攻击力。<CRLF>持续10分钟。<CRLF> "}
+{"id": 6, "source": "^c3dbff骁勇<CRLF>^ffffff需要至少在技类专精上投入30点。<CRLF><CRLF>^ffffff挑打、逆打、锋刺、胡贯可攻击多个敌人，<CRLF>人数上限为3。"}
+{"id": 7, "source": "^c3dbff骁果<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄36级<CRLF>^ffffff技能生效祖籍限制：兖州<CRLF><CRLF>勇悍猛迅，为曹魏一员大将，<CRLF>被攻击有几率获得骁果状态，<CRLF>攻击力提升，生效一次。<CRLF><CRLF>^99ccff源自乐进。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 8, "source": "^c3dbff骑姿切换<CRLF><CRLF>^ffffff兵器：不限　　　　　　　　　　10体力<CRLF>骑术：瞬发　　　　　　　 冷却3秒<CRLF><CRLF>^ffffff可以在战场上自由切换骑乘/骑战状态，<CRLF>背负兵器时可将武器拔出握于手中，进入骑战状态，<CRLF>手握兵器时使用将把武器置于背后，进入骑乘状态，<CRLF>切换将失去陆地或马战的增强状态。<CRLF>^99ccff尽可能在战斗状态外使用，<CRLF>如在战斗状态内使用将15秒内无法再次切换。"}
+{"id": 9, "source": "^c3dbff骤雨青荷<CRLF><CRLF>^ffffff兵器：枪　　　　　　　　60斗气　5体力<CRLF>必杀：瞬发　　　　　　冷却2分钟<CRLF><CRLF>释放大量斗气，骤雨打青荷般急速攻击敌人。<CRLF>对自身周围8米范围内的多个敌人造成多次伤害，<CRLF>给所有遭受攻击的敌人造成刺伤效果。<CRLF><CRLF>^99ccff所有被击中目标将被击倒，直接抗性降低。"}
+{"id": 10, "source": "^c3dbff骤雨青荷·力<CRLF>^ffffff需要至少在力类专精上投入30点。<CRLF><CRLF>^ffffff提升骤雨青荷造成的伤害。"}
+{"id": 11, "source": "^c3dbff骤雨青荷·技<CRLF>^ffffff需要至少在技类专精上投入30点。<CRLF><CRLF>^ffffff骤雨青荷的使用间隔时间<CRLF>缩短并且增加招式暴击，<CRLF>造成的击倒状态下，直接抗性降低效果提升。"}
+{"id": 12, "source": "^c3dbff高等骑术<CRLF><CRLF>^ffffff骑术：永久<CRLF><CRLF>^ffffff武艺与马术均已精熟之人所拥有，<CRLF>可以拔出兵器在马上进行战斗。"}
+{"id": 13, "source": "^c3dbff高级骑术<CRLF><CRLF>^ffffff精湛的骑术，让你可以使用各种骑战招式。"}
+{"id": 14, "source": "^c3dbff鬼魅之舞<CRLF>^ffffff需要至少在“战”类专精上投入25点。<CRLF><CRLF>^ffffff兵器：舞　　　　　　　  　30体力<CRLF>武技：持续施放　　　　　　　　持续10秒<CRLF><CRLF>舞师的舞姿如鬼魅一般神秘莫测，<CRLF>招式施放时会令身周的大片敌人迷失神志。<CRLF>神志迷失的敌人攻击间隔和施法间隔将大幅延长，<CRLF>受到的治疗效果大幅下降，同时无法使用瞬间回复类药品。<CRLF>此招式同时附带减速效果。<CRLF>成功施放十段后，进入24秒“鬼魅衰竭”状态，此时无法使用技能。<CRLF><CRLF>^c3dbff注：神志迷失的越久，受到的负面效果越强。<CRLF>^c3dbff对等级超过自己5级以上玩家不生效。"}
+{"id": 15, "source": "^c3dbff鬼魅之舞<CRLF>^ffffff需要至少在“战”类专精上投入25点。<CRLF><CRLF>^ffffff兵器：舞　　　　　　　　30体力发动<CRLF>武技：持续施放<CRLF><CRLF>舞姿如同鬼魅一般神秘莫测，<CRLF>在招式施放期间，令身周大范围的敌人迷失心智。<CRLF>迷失心智的敌人将失去部分生命上限和体力上限，<CRLF>在此期间生命和体力几乎无法回复。<CRLF>此招式同时附带减速效果。"}
+{"id": 16, "source": "^c3dbff鬼魅行踪<CRLF><CRLF>^ffffff兵器：锏　　　　　　　　　25斗气 25体力<CRLF>招式：瞬发　　　　　　　　冷却60秒<CRLF><CRLF>模糊自己的身形，让敌人捉摸不透<CRLF>提升移动速度1.5米持续10秒<CRLF>提升间接抗性20,法术抗性10持续4秒"}
+{"id": 17, "source": "^c3dbff鬼魅行踪<CRLF>^ffffff需要至少在力类专精上投入20点。<CRLF><CRLF>^ffffff兵器：钩　　　　　　　　10斗气　20体力<CRLF>武技：瞬发　　　　　　　　冷却30秒<CRLF><CRLF>^ffffff提升200闪避，闪避成功后回到正常"}
+{"id": 18, "source": "^c3dbff鬼魅行踪·技<CRLF>^ffffff需要至少在技类专精上投入20点。<CRLF><CRLF>^ffffff额外延长鬼魅行踪加速效果持续时间"}
+{"id": 19, "source": "^c3dbff鬼魅行踪·防御<CRLF>^ffffff需要至少在鬼魅行踪·技上投入3点。<CRLF><CRLF>^ffffff为鬼魅行踪增加被击中则增加直接抗性效果，<CRLF>每次被击中增加5点直接抗性，最多叠加5层"}
+{"id": 20, "source": "^c3dbff魂佑^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                 冷却：2分钟<CRLF><CRLF>魂技类型：护佑类<CRLF>召唤融入体内的英雄魂魄，加强自身属性，<CRLF>攻击力及生命上限大幅提升，<CRLF>被攻击时有%d%%几率进入灵巧状态，<CRLF>闪避一切攻击<CRLF><CRLF>^99ccff觉醒状态下使用生效"}
+{"id": 21, "source": "^c3dbff魂意涧渊<CRLF>^ffffff属性：被动<CRLF><CRLF>破天一击，打断类技能有机率减少敌人移动速度2米/秒，持续5秒"}
+{"id": 22, "source": "^c3dbff魂灭扫<CRLF><CRLF>^ffffff兵器：环、鞭<CRLF>^ffffff消耗：5体力 30斗气<CRLF>^ffffff冷却：20秒<CRLF>^ffffff骑术：移动施放<CRLF><CRLF>^ffffff对周围敌人进行持续扫击，<CRLF>造成三次伤害。<CRLF>对马下目标造成减速效果。<CRLF>同时有低概率将敌人击落下马。<CRLF>每层冲阵状态提升技能伤害5%%<CRLF>但当冲阵多于五层时，马匹难以驾驭，<CRLF>每多一层有12%%概率使自身甩落马下。<CRLF><CRLF>^99ccff终极专精，只能学习一个。<CRLF>^99ccff只能在骑战状态下使用。"}
+{"id": 23, "source": "^c3dbff魅力<CRLF><CRLF>^ffffff提升人物的交际能力及运气。<CRLF>满足一定点数后可激活对应资质特效，<CRLF>资质特效不会超过其上限等级。<CRLF>^c3dbff需要点满骑术专精才能学习。<CRLF><CRLF>^ffcc00数值： ^00ff80%d^ffffff(%s)^ffcc00"}
+{"id": 24, "source": "^c3dbff魅影鞭<CRLF><CRLF>^ffffff兵器：鞭　　　　　　　　　　　15体力<CRLF>招式：瞬发　　　　　　　　冷却8秒<CRLF><CRLF>持鞭迅速击打敌人造成135%%基础伤害，<CRLF>回复10斗气。"}
+{"id": 25, "source": "^c3dbff魅影鞭<CRLF>^ffffff需要至少在“断魂鞭·影”上投入3点。<CRLF><CRLF>^ffffff兵器：鞭　　　　　　　　　     15体力<CRLF>招式：移动释放　　　　　　　      冷却8秒<CRLF><CRLF>连招，接在断魂鞭后使用，<CRLF>右手快速挥鞭，对面前最多5个敌人造成两次伤害。<CRLF>每次伤害回复10点斗气。<CRLF><CRLF>^c3dbff注：魅影状态层数为1/3/5时，<CRLF>^c3dbff技能伤害提升15%%/45%%/75%%，<CRLF>^c3dbff同时消耗两层魅影状态。"}
+{"id": 26, "source": "^c3dbff鸟啄掠<CRLF><CRLF>^ffffff连环神箭有一定概率定身敌人。<CRLF><CRLF>^99ccff必杀攻击专精，只能学习一个。"}
+{"id": 27, "source": "^c3dbff鸣天通<CRLF><CRLF>^ffffff使用速攻自身有一定概率获得灵动状态：<CRLF>一段时间内免疫骑乘减速定身效果。<CRLF><CRLF>^99ccff牵制技能专精，只能学习一个。"}
+{"id": 28, "source": "^c3dbff鸣镝射<CRLF>^ffffff需要至少在“鸣镝箭·力”上投入2点。<CRLF><CRLF>^ffffff兵器：弓　　　　　　　　30斗气　5体力<CRLF>策略：出招1秒　　　　　　　冷却15秒<CRLF><CRLF>战斗中以鸣镝箭攻击敌人。<CRLF>造成敌人移动速度降低，自身射速加快。<CRLF>对没有进入战斗的敌人造成定身效果。"}
+{"id": 29, "source": "^c3dbff鸣镝箭<CRLF><CRLF>^ffffff兵器：弓　　　　　　　　　　　15体力<CRLF>策略:出招1秒　　　　　　　　冷却4秒<CRLF><CRLF>必须战斗外使用。<CRLF>先手攻击敌人，产生10点斗气。<CRLF>造成敌人定身并移动速度降低。<CRLF>100%%基础伤害。<CRLF>招式命中后提升15%%攻速，<CRLF>直到使用任意攻击招式结束效果。<CRLF><CRLF>^c3dbff注：打怪推荐技能，作为起始技。"}
+{"id": 30, "source": "^c3dbff鸣镝箭·乱舞<CRLF>^ffffff需要至少在技类专精上投入10点。<CRLF><CRLF>^ffffff增强鸣镝箭后造成的攻速提升效果。"}
+{"id": 31, "source": "^c3dbff鸣镝箭·力<CRLF>^ffffff需要至少在力类专精上投入5点。<CRLF><CRLF>^ffffff提升鸣镝箭造成的伤害。"}
+{"id": 32, "source": "^c3dbff鸾翔逐月<CRLF>^ffffff属性：被动<CRLF><CRLF>凝神聚气，被攻击由有机率生成“零雨罗魂”状态，<CRLF>下一次攻击必暴，状态持续5秒。"}
+{"id": 33, "source": "^c3dbff麒麟一怒<CRLF><CRLF>^ffffff挥动此刀，若麒麟之怒，震动四方，势不可挡。"}
+{"id": 34, "source": "^c3dbff麒麟焰^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成41%%基础伤害。"}
+{"id": 35, "source": "^c3dbff黄泉冥流<CRLF><CRLF>^ffffff兵器：叉　　　　　　　　　　  10体力<CRLF>策略：瞬发　　　　　　　         冷却：2分钟<CRLF><CRLF>给远处的目标附加冥气状态，<CRLF>让敌人的生命值在激烈的战斗中急速流失。<CRLF>在冥气状态下，每次攻击都会撕裂自身的伤口，<CRLF>造成2%%最大生命值的伤害，<CRLF>冥气状态会在挨打3次后自动解除。"}
+{"id": 36, "source": "^c3dbff黄泉冥流·破胆<CRLF>^ffffff需要至少在影类专精上投入20点。<CRLF><CRLF>^ffffff提升策略“黄泉冥流”的效果。"}
+{"id": 37, "source": "^c3dbff默言<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄36级<CRLF>^ffffff技能生效祖籍限制：并州<CRLF><CRLF>兵败被俘，一言不发，慷慨就义，<CRLF>被攻击有几率反弹默言状态，<CRLF>目标无法使用技能，状态持续2秒。<CRLF><CRLF>^99ccff源自高顺。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 38, "source": "^c3dbff鼓命<CRLF><CRLF>^ffffff兵器：钺　　　　　　　　　10体力<CRLF>策略：瞬发　　　　　　　　　<CRLF><CRLF>注重战斗中的防备，加强队友的受到治疗的效果。<CRLF>周围20米范围内队友受到治疗时，效果提升5%%。<CRLF><CRLF>^c3dbff注：队伍属性强化推荐技能。"}
+{"id": 39, "source": "^c3dbff鼓振之舞^ffffff<CRLF><CRLF>兵器：舞　　　　　　　　20体力<CRLF>策略：瞬发　　　　　　　持续时间：10分钟<CRLF><CRLF>舞师用舞蹈提振鼓舞士气，<CRLF>使自己能应对更持久的战斗。<CRLF>招式使用则提升自己的生命上限和体力上限，<CRLF>效果持续10分钟。<CRLF><CRLF>^c3dbff注：加出“士气高涨”专精后可以给队友附加<CRLF>生命、体力提升效果。"}
+{"id": 40, "source": "^c3dbff鼓振之舞·策<CRLF>^ffffff需要至少在“战”类专精上投入5点。<CRLF><CRLF>提升鼓振之舞效果的持续时间。"}
+{"id": 41, "source": "^c3dbff鼓振之舞·辅<CRLF>^ffffff需要至少在“辅”类专精上投入5点。<CRLF><CRLF>增强鼓振之舞招式带来的体力上限提升。"}
+{"id": 42, "source": "^c3dbff鼓舞<CRLF><CRLF>^ffffff兵器：杖、舞、扇<CRLF>^ffffff消耗：50体力<CRLF>^ffffff骑术：瞬发　　　　　　　冷却60秒<CRLF><CRLF>^ffffff为附近所有队友打气，使其受到鼓舞效果。<CRLF>^99ccff只能在骑战状态下使用。"}
+{"id": 43, "source": "^c3dbff鼓舞<CRLF><CRLF>^ffffff兵器：舞<CRLF>^ffffff消耗：20体力<CRLF>^ffffff冷却：60秒<CRLF>^ffffff骑术：瞬发<CRLF><CRLF>^ffffff鼓舞全体队友，增强其马匹直接伤害抗性。<CRLF>效果可持续45秒。<CRLF><CRLF>^99ccff战法类专精，只能学习一个。<CRLF>^99ccff只能在骑战状态下使用。"}
+{"id": 44, "source": "^c3dbff鼓舞^ffffff<CRLF><CRLF>战车专用             冷却时间：3秒<CRLF><CRLF>擂动车上所载的战鼓,为周围队友战车增加生命，<CRLF>对自身周围15米范围内队友战车恢复10000点生命。<CRLF><CRLF>^99ccff右键点击图标可激活或关闭自动释放功能"}
+{"id": 45, "source": "^c3dbff鼓舞^ffffff<CRLF><CRLF>战车专用             冷却时间：6秒<CRLF><CRLF>擂动车上所载的战鼓,为战车自身恢复10000点生命。<CRLF><CRLF>^99ccff右键点击图标可激活或关闭自动释放功能"}
+{"id": 46, "source": "^c3dbff龙卷术<CRLF><CRLF>^ffffff兵器：扇　　　　　　　　　35斗气<CRLF>武技：瞬发　　　　　　　冷却6秒<CRLF><CRLF>瞬间召出一阵龙卷风席卷一个目标，<CRLF>造成150%%基础伤害。<CRLF>同时使目标进入风袭状态<CRLF>攻击速度、命中降低，持续8秒。<CRLF>一定几率对目标造成溅射效果。"}
+{"id": 47, "source": "^c3dbff龙卷术·咒<CRLF>^ffffff需要至少在咒类专精上投入5点。<CRLF><CRLF>^ffffff提升龙卷术造成的伤害。"}
+{"id": 48, "source": "^c3dbff龙卷术·破招<CRLF>^ffffff需要至少在龙卷术·策上投入5点。<CRLF><CRLF>^ffffff在击中处于防备中的敌人时，会有破招效果。"}
+{"id": 49, "source": "^c3dbff龙卷术·策<CRLF>^ffffff需要至少在策类专精上投入5点。<CRLF><CRLF>^ffffff有一定几率使用龙卷术时不消耗斗气，<CRLF>且龙卷术在风甲术下造成的伤害提升。<CRLF>点满5层后，龙卷术可打消敌人的防备状态，<CRLF>造成3秒破招效果。<CRLF>提升龙卷术造成溅射伤害的几率。"}
+{"id": 50, "source": "^c3dbff龙卷气旋^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成104%%基础伤害。"}
+{"id": 51, "source": "^c3dbff龙吟泣血<CRLF>^ffffff属性：被动<CRLF><CRLF>族系赋予的力量，将极大提升终极技能的效果。<CRLF>攻击性终极技能将附加“肝胆俱裂”状态，大幅削弱敌人战斗能力。<CRLF>“肝胆俱裂”对兵种杖、扇、舞、叉的终极技能无效。"}
+{"id": 52, "source": "^c3dbff龙炎弹^ffffff<CRLF><CRLF>战车专用             冷却时间：3秒<CRLF><CRLF>车头喷出火焰灼烧敌人，对前方6米范围内目标<CRLF>造成100%%基础伤害。<CRLF><CRLF>^99ccff右键点击图标可激活或关闭自动释放功能"}
+{"id": 53, "source": "^c3dbff龙炎弹^ffffff<CRLF><CRLF>战车专用             冷却时间：3秒<CRLF><CRLF>车头喷出火焰灼烧敌人，对前方6米范围内目标<CRLF>造成100%%基础伤害，对栅栏将造成额外伤害。<CRLF><CRLF>^99ccff右键点击图标可激活或关闭自动释放功能<CRLF>^99ccff战车对人物只造成10%%伤害"}
+{"id": 54, "source": "^c3dbff龙炎弹^ffffff<CRLF><CRLF>战车专用             冷却时间：3秒<CRLF><CRLF>车头喷出火焰灼烧敌人，对前方6米范围内目标<CRLF>造成100%%基础伤害，对栅栏将造成额外伤害。<CRLF><CRLF>^99ccff右键点击图标可激活或关闭自动释放功能<CRLF>^99ccff战车对人物只造成60%%伤害<CRLF>战车对箭塔造成200%%伤害"}
+{"id": 55, "source": "^c3dbff龙牙碎金<CRLF><CRLF>^ffffff兵器：钺　　　　　　　　60斗气　5体力<CRLF>必杀：瞬发　　　　　　　　冷却2分钟<CRLF><CRLF>释放所有怒气对周围一定范围内的多个敌人<CRLF>造成伤害，招式附带劈伤效果。<CRLF><CRLF>^99ccff所有被击中目标将进入混乱状态，<CRLF>无法控制行动方向。"}
+{"id": 56, "source": "^c3dbff龙牙碎金·伤<CRLF>^ffffff需要至少在伤类专精上投入30点。<CRLF><CRLF>^ffffff龙牙碎金可使敌人强行下马，并增加定身效果。"}
+{"id": 57, "source": "^c3dbff龙牙碎金·怒<CRLF>^ffffff需要至少在怒类专精上投入30点。<CRLF><CRLF>^ffffff提升龙牙碎金造成的伤害。"}
+{"id": 58, "source": "^c3dbff龙翔枪舞<CRLF><CRLF>^ffffff挥舞此枪，龙影相随，势如破竹。"}
+{"id": 59, "source": "^c3dbff龙胆<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄36级<CRLF>^ffffff技能生效祖籍限制：冀州<CRLF><CRLF>子龙一身都是胆，是为龙胆，<CRLF>被攻击时有5%%几率获得龙胆状态，<CRLF>驱散并免疫定身状态。<CRLF><CRLF>^99ccff源自赵云。<CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 60, "source": "^c3dbff龙胆^ffffff                                        ^ffcc00等级 %d^ffffff<CRLF><CRLF>策略：瞬发                 冷却：2分钟<CRLF><CRLF>魂技类型：护佑类<CRLF>召唤融入体内的英雄魂魄，加强自身属性，<CRLF>攻击力及生命上限大幅提升，<CRLF>使用后自身将进入“龙胆”状态，<CRLF>每次被击中时有%d%%几率获得“无畏”状态，<CRLF>降低自己所受到的直接伤害50%%，持续3秒。<CRLF>当自身血量低于70%%触发无畏状态时，<CRLF>将额外提升暴击抗性%d点。<CRLF>无畏状态在%d秒内最多触发一次。<CRLF><CRLF>^99ccff觉醒状态下生效"}
+{"id": 61, "source": "^c3dbff龙腾跃^ffffff<CRLF><CRLF>龙腾虎跃，精神抖擞。"}
+{"id": 62, "source": "^c3dbff龙象<CRLF><CRLF>^ffffff属性：被动<CRLF>^ffffff学习等级需求：英雄16级<CRLF><CRLF>来自祖籍的祝福，<CRLF>所受到的暴击伤害最终值减少。<CRLF><CRLF>^99ccff学习需要相应的技能书。"}
+{"id": 63, "source": "^c3dbff龙骑突刺<CRLF><CRLF>^ffffff挥舞此枪，龙影相随，突破万千。"}
+{"id": 64, "source": "^c3dbf眉开<CRLF><CRLF>^ffffff在使用突袭打3秒内使用的乱舞攻<CRLF>击，乱舞技能伤害提升。<CRLF><CRLF>^99ccff奋力攻击专精，只能学习一个。"}
+{"id": 65, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 体力值+20 体力回复+1 命中+5；<CRLF>中级 - 体力值+30 体力回复+1 命中+7；<CRLF>高级 - 体力值+50 体力回复+1 命中+8。"}
+{"id": 66, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 全异常状态抗性+9，持续10分钟；<CRLF>中级 - 全异常状态抗性+9，持续20分钟；<CRLF>高级 - 全异常状态抗性+9，持续25分钟。"}
+{"id": 67, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 攻击+10 闪避+5；<CRLF>中级 - 攻击+20 闪避+7；<CRLF>高级 - 攻击+50 闪避+9。"}
+{"id": 68, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 攻击+20 命中+2 暴击+2；<CRLF>中级 - 攻击+30 命中+4 暴击+4；<CRLF>高级 - 攻击+60 命中+5 暴击+5。"}
+{"id": 69, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 攻击+20 防御+16 生命值+200 暴击+3；<CRLF>中级 - 攻击+30 防御+21 生命值+450 暴击+3；<CRLF>高级 - 攻击+60 防御+50 生命值+1500 暴击+4。"}
+{"id": 70, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 攻击+5 防御+5 生命值+100；<CRLF>中级 - 攻击+15 防御+10 生命值+200；<CRLF>高级 - 攻击+40 防御+35 生命值+300。"}
+{"id": 71, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 攻击强度+3%% 防御+5 战斗外生命回复+5；<CRLF>中级 - 攻击强度+6%% 防御+10 战斗外生命回复+10；<CRLF>高级 - 攻击强度+7%% 防御+30 战斗外生命回复+30。"}
+{"id": 72, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 暴击伤害+10%% 防御+10 移动速度+0.1米/秒；<CRLF>中级 - 暴击伤害+10%% 防御+20 移动速度+0.1米/秒；<CRLF>高级 - 暴击伤害+10%% 防御+50 移动速度+0.2米/秒。"}
+{"id": 73, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 生命值+160 生命回复+5；<CRLF>中级 - 生命值+260 生命回复+10；<CRLF>高级 - 生命值+660 生命回复+30。"}
+{"id": 74, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 生命值+60 体力值+15 战斗外体力回复+2；<CRLF>中级 - 生命值+160 体力值+25 战斗外体力回复+2；<CRLF>高级 - 生命值+360 体力值+35 战斗外体力回复+2。"}
+{"id": 75, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 生命回复+10 战斗内体力回复+1 闪避+5，持续10分钟；<CRLF>中级 - 生命回复+10 战斗内体力回复+1 闪避+5，持续20分钟；<CRLF>高级 - 生命回复+10 战斗内体力回复+1 闪避+5，持续25分钟。"}
+{"id": 76, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 移动速度+0.3米/秒，持续10分钟；<CRLF>中级 - 移动速度+0.3米/秒，持续20分钟；<CRLF>高级 - 移动速度+0.3米/秒，持续25分钟。"}
+{"id": 77, "source": "^ffcc00兵法效果^ffffff<CRLF>基础 - 骑乘速度+0.5米/秒，持续10分钟；<CRLF>中级 - 骑乘速度+0.5米/秒，持续20分钟；<CRLF>高级 - 骑乘速度+0.5米/秒，持续25分钟。"}
+{"id": 78, "source": "^ffcc00兵法效果^ffffff - 历练分享+10%%。"}
+{"id": 79, "source": "^ffcc00兵法效果^ffffff - 历练分享+15%%。"}
+{"id": 80, "source": "^ffcc00兵法效果^ffffff - 历练分享+5%%。"}
+{"id": 81, "source": "^ffcc00兵法等级^ffffff：%d"}
+{"id": 82, "source": "^ffcc00学习需求^ffffff - 主角等级20级。"}
+{"id": 83, "source": "^ffcc00学习需求^ffffff - 主角等级25级。"}
+{"id": 84, "source": "^ffcc00学习需求^ffffff - 主角等级30级。<CRLF>学后可向神秘马商请教关于骑战的问题。"}
+{"id": 85, "source": "^ffcc00学习需求^ffffff - 已学会^c3dbff高等骑术^ffffff，人物等级^c3dbff30^ffffff级。<CRLF>^ffcc00特效^ffffff - 进入骑战状态时可在马上战斗，<CRLF>此时马匹近战抗性降低10，间抗降低20，<CRLF>基础骑乘速度提升0.5，可以骑乘战斗，<CRLF>此时普攻获得1斗气，并可使用骑战招式。<CRLF>注：在进入和退出骑战状态时，角色强化<CRLF>效果将消失，如通过下坐骑退出骑战，<CRLF>下次再上坐骑时会自动进入骑战状态。"}
+{"id": 86, "source": "^ffcc00效果 ^ffffff - 9秒内总共造成350点伤害，降低直接抗性<CRLF>同摧心爪。"}
+{"id": 87, "source": "^ffcc00效果 ^ffffff - 使得舞的治疗技能也能为自己增加斗气。"}
+{"id": 88, "source": "^ffcc00效果 ^ffffff - 使用挑打、逆打有%d%%几率增加连舞持续时间，使用锋刺、胡贯有%d%%几率增加连舞持续时间"}
+{"id": 89, "source": "^ffcc00效果 ^ffffff - 增加2秒定身时间。"}
+{"id": 90, "source": "^ffcc00效果 ^ffffff - 增加刺破点数，<CRLF>0刺杀：持续5秒；<CRLF>1刺杀：持续7秒；<CRLF>2刺杀：持续9秒；<CRLF>3刺杀：持续11秒；<CRLF>4刺杀：持续13秒；<CRLF>5刺杀：持续15秒。"}
+{"id": 91, "source": "^ffcc00效果 ^ffffff - 攻击力和防御增强效果的持续时间延长50%%。"}
+{"id": 92, "source": "^ffcc00效果 ^ffffff - 流星箭可最多减速2米/秒"}
+{"id": 93, "source": "^ffcc00效果 ^ffffff - 附带效果增加5%%招式攻击强度。"}
+{"id": 94, "source": "^ffcc00效果 ^ffffff - 附带效果增加5点招式命中。"}
+{"id": 95, "source": "^ffcc00效果 ^ffffff - 隐匿自身，让敌人无法察觉，<CRLF>每2秒耗5点体力，攻击现身后冷却10秒。"}
+{"id": 96, "source": "^ffcc00效果 ^ffffff12秒内附近的友军免疫迟缓和定身类效果。"}
+{"id": 97, "source": "^ffcc00效果^ffffff<CRLF>回旋刀投掷 - 有较大几率附带3秒的缴械效果；<CRLF>回旋刀连掷 - 迷惑将造成高达1.5倍的攻击速度降低效果；<CRLF>闪击回旋 - 撕裂伤口造成的伤害提升33%%；<CRLF>毒刃回旋 - 降低狂乱、昏迷、减速效果被敌人抵抗的几率。"}
+{"id": 98, "source": "^ffcc00效果^ffffff  -每层“斩岳”提升下次力劈华山<CRLF>的伤害30%%。"}
+{"id": 99, "source": "^ffcc00效果^ffffff  -每层“破峰”减少力劈华山8秒冷却时间，<CRLF>同时提升下次力劈华山的伤害10%%。"}
+{"id": 100, "source": "^ffcc00效果^ffffff - <CRLF>目标在碎金状态下受到的法术伤害最多提升10%%"}
+{"id": 101, "source": "^ffcc00效果^ffffff - %d%%基础伤害，比流星箭低30命中。"}
+{"id": 102, "source": "^ffcc00效果^ffffff - 20%%的几率脱离定身状态。"}
+{"id": 103, "source": "^ffcc00效果^ffffff - 33%%的几率解除所有封印类负面效果。"}
+{"id": 104, "source": "^ffcc00效果^ffffff - “凝神”状态攻击速度提升30%%。"}
+{"id": 105, "source": "^ffcc00效果^ffffff - 伤害抗性加满，持续10秒。"}
+{"id": 106, "source": "^ffcc00效果^ffffff - 使圆月斩造成的击晕时间提升1秒。"}
+{"id": 107, "source": "^ffcc00效果^ffffff - 使处于燃烧状态的目标眩晕%d秒"}
+{"id": 108, "source": "^ffcc00效果^ffffff - 使得鼓振之舞也可以对周围20米范围内的队友生效"}
+{"id": 109, "source": "^ffcc00效果^ffffff - 使用五步射时100%%几率能<CRLF>打消目标的防御状态并造成4秒破招效果。"}
+{"id": 110, "source": "^ffcc00效果^ffffff - 使用流星矢可无视目标间接抗性20点。"}
+{"id": 111, "source": "^ffcc00效果^ffffff - 冷却时间减少60秒。"}
+{"id": 112, "source": "^ffcc00效果^ffffff - 准备时间缩短0.5秒，伤害提升50%%"}
+{"id": 113, "source": "^ffcc00效果^ffffff - 凝神效果提升33%%。"}
+{"id": 114, "source": "^ffcc00效果^ffffff - 凝神矢可打破目标格挡状态。"}
+{"id": 115, "source": "^ffcc00效果^ffffff - 刺杀点数上限增加"}
+{"id": 116, "source": "^ffcc00效果^ffffff - 却月矢有15%%几率重置冷却时间。"}
+{"id": 117, "source": "^ffcc00效果^ffffff - 却月矢有50%%几率使目标进入箭伤状态。"}
+{"id": 118, "source": "^ffcc00效果^ffffff - 可以达到4段运筹。"}
+{"id": 119, "source": "^ffcc00效果^ffffff - 可使目标眩晕3秒，若同时触发封影状态，<CRLF>则眩晕时间为5秒。"}
+{"id": 120, "source": "^ffcc00效果^ffffff - 各种控制招式效果时间改变为：<CRLF>五步射眩晕时间增加2秒（招式造成眩晕总时间不超过6秒）；<CRLF>连矢射攒射专精迟缓时间增加2秒。"}
+{"id": 121, "source": "^ffcc00效果^ffffff - 嘲讽状态持续时间增加2秒。"}
+{"id": 122, "source": "^ffcc00效果^ffffff - 在轻弩状态下使用凝神矢，可使目标定身2秒。"}
+{"id": 123, "source": "^ffcc00效果^ffffff - 增加2个仇恨点，可以在战斗内使用。"}
+{"id": 124, "source": "^ffcc00效果^ffffff - 增加2个仇恨点，必须在战斗外使用。"}
+{"id": 125, "source": "^ffcc00效果^ffffff - 增加暴击几率<CRLF>风球：25%%机率<CRLF>风弹：15%%机率<CRLF>龙卷术：40%%机率<CRLF>^ffcc00效果^ffffff - 增加溅射几率<CRLF>风球：  提升30%%<CRLF>风弹：  提升15%%<CRLF>龙卷术：提升40%%"}
+{"id": 126, "source": "^ffcc00效果^ffffff - 大卸八块基础攻击力提升(移动速度-4.5)*%d%%，最多不超过150%%"}
+{"id": 127, "source": "^ffcc00效果^ffffff - 定身几率增加到100%%。"}
+{"id": 128, "source": "^ffcc00效果^ffffff - 对格挡目标造成4秒眩晕。"}
+{"id": 129, "source": "^ffcc00效果^ffffff - 封云袭攻击人数增加2。"}
+{"id": 130, "source": "^ffcc00效果^ffffff - 幻影状态下提升防御和暴击抗性的效果增加50%%。"}
+{"id": 131, "source": "^ffcc00效果^ffffff - 开启后，每击中目标一次，提升5%%攻击速度。"}
+{"id": 132, "source": "^ffcc00效果^ffffff - 开启后，每秒增加10点斗气值，持续10秒。"}
+{"id": 133, "source": "^ffcc00效果^ffffff - 强化劲弩状态下使用技能将使目标随机减速0.1~2米/秒。"}
+{"id": 134, "source": "^ffcc00效果^ffffff - 强化轻弩状态下使用技能可提升10%%暴击几率。"}
+{"id": 135, "source": "^ffcc00效果^ffffff - 当使用速砍击中对手时，<CRLF>会中断其招式出招动作。"}
+{"id": 136, "source": "^ffcc00效果^ffffff - 当处于背袭效果下，背刺攻击<CRLF>敌人会额外获得一层刺杀效果。"}
+{"id": 137, "source": "^ffcc00效果^ffffff - 当招式命中时吸取目标5点斗气"}
+{"id": 138, "source": "^ffcc00效果^ffffff - 恢复15点斗气。"}
+{"id": 139, "source": "^ffcc00效果^ffffff - 战斗中立即遁形，以避开敌人的急攻。"}
+{"id": 140, "source": "^ffcc00效果^ffffff - 截脉刺出招时间减少1秒，<CRLF>封喉刺出招时间减少0.3秒。"}
+{"id": 141, "source": "^ffcc00效果^ffffff - 打消敌人的格挡状态时会额外造成<CRLF>相当于55%%最大攻击力的无视防御伤害。"}
+{"id": 142, "source": "^ffcc00效果^ffffff - 打消敌人的防备状态，造成3秒破招效果。"}
+{"id": 143, "source": "^ffcc00效果^ffffff - 招式攻击带有刺伤效果的敌人造成定身效果。"}
+{"id": 144, "source": "^ffcc00效果^ffffff - 提升%d%%防御力。"}
+{"id": 145, "source": "^ffcc00效果^ffffff - 提升200闪避，闪避成功后回到正常。"}
+{"id": 146, "source": "^ffcc00效果^ffffff - 提升5%%攻击强度。"}
+{"id": 147, "source": "^ffcc00效果^ffffff - 提升火球、炎爆术、裂炎术、野火燎原5%%爆击几率<CRLF>^ffcc00效果^ffffff - 增加溅射几率<CRLF>火球：  提升30%%<CRLF>火种：  提升30%%<CRLF>炎爆术：提升40%%"}
+{"id": 148, "source": "^ffcc00效果^ffffff - 提高3%%生命值上限。"}
+{"id": 149, "source": "^ffcc00效果^ffffff - 提高5%%生命值上限和5命中。"}
+{"id": 150, "source": "^ffcc00效果^ffffff - 提高战斗纹身与磐石纹身的效果20%%。"}
+{"id": 151, "source": "^ffcc00效果^ffffff - 撕裂敌人的伤口20秒。"}
+{"id": 152, "source": "^ffcc00效果^ffffff - 攻击获得战法点数的几率提升至100%%。"}
+{"id": 153, "source": "^ffcc00效果^ffffff - 放漫天箭雨时，自身可获得一个极强的吸伤罩，<CRLF>吸收所有伤害，持续3秒。"}
+{"id": 154, "source": "^ffcc00效果^ffffff - 效果为每秒回复1点体力。"}
+{"id": 155, "source": "^ffcc00效果^ffffff - 断月斩攻击倒地中敌人时<CRLF>会额外造成相当于25%%最大攻击力的无视防御伤害。"}
+{"id": 156, "source": "^ffcc00效果^ffffff - 施放“地恸击”后自身的昏迷时间缩短1秒。"}
+{"id": 157, "source": "^ffcc00效果^ffffff - 昏迷敌人10秒。"}
+{"id": 158, "source": "^ffcc00效果^ffffff - 最多吸收25%%自身生命上限的伤害。"}
+{"id": 159, "source": "^ffcc00效果^ffffff - 最大额外降低15点暴击抗性。"}
+{"id": 160, "source": "^ffcc00效果^ffffff - 有%d%%几率使下次释放冰刺时无消耗"}
+{"id": 161, "source": "^ffcc00效果^ffffff - 有%d%%几率忽视目标的眩晕抵抗效果"}
+{"id": 162, "source": "^ffcc00效果^ffffff - 格挡中遭到攻击可<CRLF>消耗5点体力，获得5点斗气。"}
+{"id": 163, "source": "^ffcc00效果^ffffff - 每闪避一次攻击，将会增加一个仇恨点，持续10秒。"}
+{"id": 164, "source": "^ffcc00效果^ffffff - 洞察额外提升命中5点，<CRLF>精准额外提升穿透2点。"}
+{"id": 165, "source": "^ffcc00效果^ffffff - 消耗体力降低3%%，爆击率提高3%%，<CRLF>最多叠加10次。<CRLF>^ffcc00效果^ffffff - 增加溅射几率<CRLF>冰刺：  提升30%%<CRLF>咒冰术：提升40%%"}
+{"id": 166, "source": "^ffcc00效果^ffffff - 漫天箭雨第三段，可使目标麻痹3秒。"}
+{"id": 167, "source": "^ffcc00效果^ffffff - 狂乱、减速、昏迷效果的持续时间分别为8/6/4秒。"}
+{"id": 168, "source": "^ffcc00效果^ffffff - 生命上限+100，攻击力+5"}
+{"id": 169, "source": "^ffcc00效果^ffffff - 生命上限+100，防御力+3"}
+{"id": 170, "source": "^ffcc00效果^ffffff - 生命上限+100，防御力+8"}
+{"id": 171, "source": "^ffcc00效果^ffffff - 生命上限+3%%，攻击力+8"}
+{"id": 172, "source": "^ffcc00效果^ffffff - 生命上限+3%%，攻击强度+2%%"}
+{"id": 173, "source": "^ffcc00效果^ffffff - 生命上限+3%%，致命一击率+2"}
+{"id": 174, "source": "^ffcc00效果^ffffff - 生命上限+3%%，虚弱抗性+5"}
+{"id": 175, "source": "^ffcc00效果^ffffff - 生命上限+3%%，防御力+5"}
+{"id": 176, "source": "^ffcc00效果^ffffff - 生命上限+3%，防御力+5"}
+{"id": 177, "source": "^ffcc00效果^ffffff - 生命值+100，命中+3"}
+{"id": 178, "source": "^ffcc00效果^ffffff - 生命值+100，攻击力+8"}
+{"id": 179, "source": "^ffcc00效果^ffffff - 生命值+100，攻击强度+2%%"}
+{"id": 180, "source": "^ffcc00效果^ffffff - 生命值+100，直接抗性+5"}
+{"id": 181, "source": "^ffcc00效果^ffffff - 生命值+100，致命一击伤害+5%%"}
+{"id": 182, "source": "^ffcc00效果^ffffff - 生命值+100，致命一击抗性+3%%"}
+{"id": 183, "source": "^ffcc00效果^ffffff - 生命值+100，致命一击率+2"}
+{"id": 184, "source": "^ffcc00效果^ffffff - 生命值+100，闪避+3"}
+{"id": 185, "source": "^ffcc00效果^ffffff - 生命值+100，间接抗性+5"}
+{"id": 186, "source": "^ffcc00效果^ffffff - 瞬间移动到敌人身边。"}
+{"id": 187, "source": "^ffcc00效果^ffffff - 破胆造成的斗气流失效果提升%d%%。"}
+{"id": 188, "source": "^ffcc00效果^ffffff - 移动速度降低2米/秒"}
+{"id": 189, "source": "^ffcc00效果^ffffff - 穿透增加5点。"}
+{"id": 190, "source": "^ffcc00效果^ffffff - 虎入羊群眩晕几率提升25%%。"}
+{"id": 191, "source": "^ffcc00效果^ffffff - 让你可以穿上护铠，与普通护甲相比，<CRLF>护铠通常能更好地应对战斗。"}
+{"id": 192, "source": "^ffcc00效果^ffffff - 进入战斗后体力回复速度增加1点。"}
+{"id": 193, "source": "^ffcc00效果^ffffff - 造成100%%最大攻击力的伤害。"}
+{"id": 194, "source": "^ffcc00效果^ffffff - 造成的生命流失效果提升50%%。"}
+{"id": 195, "source": "^ffcc00效果^ffffff - 部分招式的冷却时间缩短。"}
+{"id": 196, "source": "^ffcc00效果^ffffff - 部分招式的暴击几率最多提升20%%。"}
+{"id": 197, "source": "^ffcc00效果^ffffff - 长虹贯日的伤害提升100%%"}
+{"id": 198, "source": "^ffcc00效果^ffffff - 长虹贯日的攻击间隔<CRLF>缩短30秒，暴击增加25。"}
+{"id": 199, "source": "^ffcc00效果^ffffff - 附带短时迟缓效果。"}
+{"id": 200, "source": "^ffcc00效果^ffffff - 雀落棍将造成目标眩晕%d秒"}
+{"id": 201, "source": "^ffcc00效果^ffffff - 雷甲术的吟唱加速效果提升5%%，<CRLF>疾电、落雷术、惊雷术伤害最多提升20%%，<CRLF>并使疾电额外减少0.5秒准备时间。<CRLF>^ffcc00效果^ffffff - 增加溅射几率<CRLF>惊雷术： 提升20%%<CRLF>落雷术： 提升40%%"}
+{"id": 202, "source": "^ffcc00效果^ffffff - 青龙偃月的伤害倍率提升100%%，<CRLF>骑战时对目标造成的伤害提升50%%。"}
+{"id": 203, "source": "^ffcc00效果^ffffff - 青龙偃月的使用间隔时间<CRLF>缩短30秒，本招式暴击增加25点。"}
+{"id": 204, "source": "^ffcc00效果^ffffff - 额外治疗相当于涓涓之舞治疗效果的20%%"}
+{"id": 205, "source": "^ffcc00效果^ffffff - 额外眩晕2秒。"}
+{"id": 206, "source": "^ffcc00效果^ffffff - 额外造成120%%最大攻击力的<CRLF>无视防御伤害，并使敌人沉默5秒。"}
+{"id": 207, "source": "^ffcc00效果^ffffff：最多回复20000点生命。"}
+{"id": 208, "source": "^ffcc00效果^ffffff：每层印魂降低目标直接抗性1点，闪避1点。"}
+{"id": 209, "source": "^ffcc00效果^ffffff：每层天罡提升自身防御60点，昏迷抗性4点。"}
+{"id": 210, "source": "^ffcc00特效^ffffff - 使队友生命上限提升%d，持续30秒。<CRLF>此招式特效还受使用者资质影响。"}
+{"id": 211, "source": "^ffcc00特效^ffffff - 使骑乘的移动速度提升0.5米/秒，<CRLF>持续4秒，最高移速到可达3米/秒。"}
+{"id": 212, "source": "^ffcc00特效^ffffff - 使骑乘的移动速度提升0.5米/秒，<CRLF>玩家每秒损失7体力值，持续最多300秒。"}
+{"id": 213, "source": "^ffcc00特效^ffffff - 使骑乘的移动速度提升1.5米/秒，<CRLF>玩家每秒损失6体力值，持续最多300秒。"}
+{"id": 214, "source": "^ffcc00特效^ffffff - 使骑乘的移动速度提升1米/秒，<CRLF>冲锋超过3秒将获得状态“瞬杀”，命中提升20，<CRLF>且近身兵器的部分骑战招式此时有特效，<CRLF>冲锋和瞬杀状态均会在任意攻击后失效。"}
+{"id": 215, "source": "^ffcc00特效^ffffff - 使骑乘的移动速度提升1米/秒，<CRLF>冲锋超过3秒获得状态“瞬杀”，马上命中提升20，<CRLF>且近身兵器的部分骑战招式此时有特效，<CRLF>冲锋和瞬杀状态均会在任意攻击后失效。"}
+{"id": 216, "source": "^ffcc00特效^ffffff - 使骑乘的移动速度提升1米/秒，<CRLF>强袭超过3秒将获得状态“破天”，命中提升40，<CRLF>且近身兵器的部分骑战招式此时有特效，<CRLF>强袭和破天状态均会在任意攻击后失效。"}
+{"id": 217, "source": "^ffcc00特效^ffffff - 使骑乘的移动速度提升1米/秒，<CRLF>强袭超过3秒获得状态“破天”，马上命中提升40，<CRLF>且近身兵器的部分骑战招式此时有特效，<CRLF>强袭和破天状态均会在任意攻击后失效。"}
+{"id": 218, "source": "^ffcc00特效^ffffff - 使骑乘的移动速度提升1米/秒，<CRLF>玩家每秒损失5体力值，持续最多300秒。"}
+{"id": 219, "source": "^ffcc00特效^ffffff - 可背对敌人使用，必定命中，<CRLF>使敌人陷入短时封印，6秒内无法使用任何招式，<CRLF>目标如受到攻击效果会中止。"}
+{"id": 220, "source": "^ffcc00特效^ffffff - 命中修正+0，击中获得5斗气。"}
+{"id": 221, "source": "^ffcc00特效^ffffff - 命中修正+15。<CRLF>目标如处于疾走、冲锋、强袭等状态时，<CRLF>这些行动增益效果将被打消。"}
+{"id": 222, "source": "^ffcc00特效^ffffff - 命中修正+20。<CRLF>使用后同时驱散定身及绊马状态。"}
+{"id": 223, "source": "^ffcc00特效^ffffff - 命中修正+50，使敌人眩晕3秒。<CRLF>击中敌人后8秒内闪避提升35，间抗提升15。"}
+{"id": 224, "source": "^ffcc00特效^ffffff - 命中修正-15，击中获得15斗气；<CRLF>如果紧接牵制攻击使用，招式命中提升30，准备时间缩短0.5秒；<CRLF>如果紧接奋力攻击使用，招式命中提升20，准备时间缩短1.5秒。"}
+{"id": 225, "source": "^ffcc00特效^ffffff - 命中修正-20，击中获得15斗气。<CRLF>如果紧接牵制攻击使用，招式命中提升30。"}
+{"id": 226, "source": "^ffcc00特效^ffffff - 命中修正-40，击中获得15斗气。<CRLF>如果紧接牵制攻击使用，招式命中提升30，且准备时间缩短0.5秒；<CRLF>如果紧接标准攻击使用，招式命中提升50，且准备时间缩短1秒。"}
+{"id": 227, "source": "^ffcc00特效^ffffff - 命中修正-40，击中获得15斗气。<CRLF>如果紧接牵制攻击使用，招式命中提升30；<CRLF>如果紧接标准攻击使用，招式命中提升50。<CRLF>同时有50%%机率造成10秒箭伤效果。"}
+{"id": 228, "source": "^ffcc00特效^ffffff - 命中修正-5。<CRLF>被击中的目标将被减速2米/秒，<CRLF>并有机率使其受绊马效果影响，<CRLF>骑乘速度下降2.5米/秒，持续6秒。"}
+{"id": 229, "source": "^ffcc00特效^ffffff - 命中修正0，<CRLF>每击中1人获1斗气，最多命中4人。<CRLF>当斗气大于10且体力不满时，将消耗10斗气、5体力，<CRLF>反之则消耗15体力。"}
+{"id": 230, "source": "^ffcc00特效^ffffff - 命中修正0，<CRLF>每击中1人获1斗气，最多命中5人。<CRLF>当斗气大于15且体力不满时，<CRLF>将消耗15斗气、5体力。"}
+{"id": 231, "source": "^ffcc00特效^ffffff - 必定命中，目标间接抗性下降10%%，<CRLF>且每秒受到伤害10%%自己平均攻击力的伤害，<CRLF>攻击时有50%%机率受到绊马效果影响，持续5秒。"}
+{"id": 232, "source": "^ffcc00特效^ffffff - 每秒提升“奋勇”效果，<CRLF>每层提升15命中，2点暴击，<CRLF>最后可获5斗气，可叠至3层，持续30秒。<CRLF>近身兵器的部分骑战招式此时有特效，<CRLF>“奋勇”效果会在任意攻击后失效。"}
+{"id": 233, "source": "^ffcc00特效^ffffff - 获得20斗气（4秒内不会流失），<CRLF>同时使自已的攻击提升%d，无时限。"}
+{"id": 234, "source": "^ffcc00特效^ffffff - 获得20斗气（4秒内不会流失），<CRLF>同时使防御提升%d，间抗提升5，无时限。<CRLF>坚守状态下，每次被攻击都有%d%%几率获得坚甲状态，<CRLF>直接、间接抗性提升1点，持续10秒，状态可叠加5层。"}
+{"id": 235, "source": "^ffcc00特效^ffffff - 获得20斗气（4秒内不会流失），<CRLF>同时使马上攻击提升%d点，<CRLF>马上暴击提升5点，无时限。"}
+{"id": 236, "source": "^ffcc00特效^ffffff - 获得20斗气（4秒内不会流失），<CRLF>同时使马匹防御提升%d点，<CRLF>马匹暴击抗性提升5点，无时限。"}
+{"id": 237, "source": "^ffcc00等级 %d/1^ffffff -  对目标造成30%%基础伤害，<CRLF>并且造成目标混乱与致盲。"}
+{"id": 238, "source": "^ffcc00等级 %d/1^ffffff - %d%%概率，触发10秒连击模式。<CRLF>攻击速度提升%d%%，攻击距离提升%d米，持续3秒。"}
+{"id": 239, "source": "^ffcc00等级 %d/1^ffffff - 一剑凌风的伤害倍率提升%d%%"}
+{"id": 240, "source": "^ffcc00等级 %d/1^ffffff - 一剑凌风的使用间隔时间<CRLF>缩短%d秒，暴击增加%d，溅射的持续时间提升15秒。<CRLF>一剑凌风释放过程中自身伤害抗性提升%d点。"}
+{"id": 241, "source": "^ffcc00等级 %d/1^ffffff - 乘风刺造成的弃甲状态持续时间增加%d秒"}
+{"id": 242, "source": "^ffcc00等级 %d/1^ffffff - 伤害抗性提升31点"}
+{"id": 243, "source": "^ffcc00等级 %d/1^ffffff - 伤害抗性提升7点<CRLF>对目标造成的伤害将依次递增%d%%"}
+{"id": 244, "source": "^ffcc00等级 %d/1^ffffff - 同时也提升3点穿透。"}
+{"id": 245, "source": "^ffcc00等级 %d/1^ffffff - 对目标造成50%%基础伤害，<CRLF>若目标处于防御状态，则概率破坏对方防御。<CRLF>若目标携带“破绽”状态，则概率击倒目标。 "}
+{"id": 246, "source": "^ffcc00等级 %d/1^ffffff - 提升1.5米/秒移动速度，每秒耗7点体力。"}
+{"id": 247, "source": "^ffcc00等级 %d/1^ffffff - 格挡中受到攻击则会增加斗气、减少体力。<CRLF>格挡会抵御一些敌人攻击带来的限制效果。"}
+{"id": 248, "source": "^ffcc00等级 %d/1^ffffff - 每点连击提升%d点暴击<CRLF>3层疾风下，暴击伤害提升%d%%。"}
+{"id": 249, "source": "^ffcc00等级 %d/1^ffffff - 溅射几率提升%d%%，持续时间提升3秒。"}
+{"id": 250, "source": "^ffcc00等级 %d/1^ffffff - 溅射机率提升%d%%，持续时间提升3秒。<CRLF>直刺后有%d%%几率触发10秒连击模式。"}
+{"id": 251, "source": "^ffcc00等级 %d/2^ffffff<CRLF>^c3dbff等级1^ffffff效果：每次挨打时直接抗性提升1点；<CRLF>^c3dbff等级2^ffffff效果：每次挨打时直接抗性提升1点，间接抗性提升1点。"}
+{"id": 252, "source": "^ffcc00等级 %d/2^ffffff - %d%%几率会中断<CRLF>敌人出招动作并造成3秒破招效果。"}
+{"id": 253, "source": "^ffcc00等级 %d/2^ffffff - %d%%几率打断并破招。"}
+{"id": 254, "source": "^ffcc00等级 %d/2^ffffff - %d%%几率生效。"}
+{"id": 255, "source": "^ffcc00等级 %d/2^ffffff - %d%%几率获得1点战法点数。"}
+{"id": 256, "source": "^ffcc00等级 %d/2^ffffff - %d%%的几率打消敌人的格挡状态。"}
+{"id": 257, "source": "^ffcc00等级 %d/2^ffffff - %d%%的几率短暂眩晕。"}
+{"id": 258, "source": "^ffcc00等级 %d/2^ffffff - %d%%的几率让敌人减速1.5米/秒。"}
+{"id": 259, "source": "^ffcc00等级 %d/2^ffffff - %d层连击状态<CRLF>可重置觅心刺冷却时间"}
+{"id": 260, "source": "^ffcc00等级 %d/2^ffffff - 不受这些负面效果影响%d秒。"}
+{"id": 261, "source": "^ffcc00等级 %d/2^ffffff - 乱云弩可使目标移动速度降低%.1f米/秒。"}
+{"id": 262, "source": "^ffcc00等级 %d/2^ffffff - 仇恨点持续时间增加%d秒"}
+{"id": 263, "source": "^ffcc00等级 %d/2^ffffff - 伤害抗性提升%d%%。"}
+{"id": 264, "source": "^ffcc00等级 %d/2^ffffff - 伤害抗性提升%d点"}
+{"id": 265, "source": "^ffcc00等级 %d/2^ffffff - 伤害提升%d%%。"}

@@ -1,0 +1,71 @@
+scanning 1208 files in Translate/
+ffbc3cPermanent Effect       360
+unR                          287
+fe00Permanent Effect         244
+self                         211
+rSource                      141
+rFaction                     138
+rSeal                        126
+ID                           104
+a800ffPermanent Effect       103
+Main                         100
+rLevel                       99
+Type                         94
+rDifficulty                  76
+Troop Type to the next rank  72
+rStory                       71
+rObjective                   68
+DlgTemplate                  63
+rQualification               60
+type                         59
+Parameter 1                  55
+roop Type to the next stage  54
+ffPermanent Effect           49
+Hua Niang                    48
+ed at your current level is  43
+s Renown Ranking             42
+Parameter 2                  30
+rTrainer NPC                 25
+rNote                        22
+rConflict                    22
+rTime                        22
+rPlayers                     21
+ffc556Permanent Effect       20
+lable at your current level  20
+rCurrent learnable rank      19
+fe00Title Level              18
+to 22                        18
+ffffff                       18
+ConsoleBox                   17
+rCurrent learnable level     16
+LevelTip                     13
+CharHead                     13
+available at current level   13
+Parameter 3                  13
+ff7d2fPermanent Effect       12
+ffbc3cActive Weekly          12
+function DlgTemplate         11
+function UIManTemplate       11
+y Maintenance and Sunday 24  10
+GuideHint                    10
+AssociationTip               10
+rNPC to learn from           10
+rSkills                      10
+rFirepower                   10
+rRange                       10
+rArmor                       10
+rMobility                    10
+rClaimable Sunday evening18  9
+rEquippable Medal            9
+rFoes                        9
+rStatus                      8
+Luo Fishing Joy              8
+rMatchup                     8
+ffffffType                   8
+Daily Activity               8
+fff600Time                   8
+fff600Level                  8
+s four great ideals          8
+Loot                         7
+GiftTip                      7
+fff600NPC                    7

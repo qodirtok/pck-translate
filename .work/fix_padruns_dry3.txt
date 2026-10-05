@@ -1,0 +1,5 @@
+mode: DRY-RUN
+records repaired: 2 / 2
+unfixable: 0
+violations: 0
+exit=0

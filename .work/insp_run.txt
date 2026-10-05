@@ -1,0 +1,138 @@
+### batch_001/13  lines src=6 dst=6
+  L0   src_runs=[]                 '^c3dbff八方风雨^ffffff'
+       dst_runs=[]                 '^c3dbffEight-Direction Gale and Rain^ffffff'
+  L1   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L2   src_runs=[]                 '战车专用             冷却时间：30秒'
+       dst_runs=[6]                'Chariot Only\u3000\u3000\u3000\u3000\u3000\u3000Cooldown: 30s'   <<<
+  L3   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L4   src_runs=[]                 '车载火具发射火弹，对前方最远15米处，'
+       dst_runs=[]                 'Mounted fire weapon launches fire bombs, dealing 240%% base damage'
+  L5   src_runs=[]                 '6米范围内目标造成240%%基础伤害。'
+       dst_runs=[]                 'to targets within a 6-meter area up to 15 meters ahead.'
+
+### batch_002/1  lines src=13 dst=13
+  L0   src_runs=[]                 '^c3dbff力战·怒'
+       dst_runs=[]                 '^c3dbffBattle Might: Wrath'
+  L1   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L2   src_runs=[8]                '^ffffff兵器：枪\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300015体力'
+       dst_runs=[]                 '^ffffffWeapon: Spear                 15 Stamina'   <<<
+  L3   src_runs=[8]                '武技：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却60秒'
+       dst_runs=[]                 'Skill: Instant                   Cool-down 60 sec'   <<<
+  L4   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L5   src_runs=[]                 '凝视敌人，激发自身斗志，使自身在10秒'
+       dst_runs=[]                 'Gaze at an enemy and ignite your own battle spirit, granting'
+  L6   src_runs=[]                 '内，每次击中目标都可使自身攻击强度随'
+       dst_runs=[]                 'that for 10 sec, each time you hit the target, your Attack'
+  L7   src_runs=[]                 '机提升。'
+       dst_runs=[]                 'Strength increases randomly.'
+  L8   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L9   src_runs=[]                 '^c3dbff注：技能在力战·破之后使用，可增加攻'
+       dst_runs=[]                 '^c3dbffNote: Using this skill after Battle Might: Break increases the'
+  L10  src_runs=[]                 '击强度提升上限；'
+       dst_runs=[]                 'cap on Attack Strength gain;'
+  L11  src_runs=[]                 '技能在力战·军之后使用，可使每次击中'
+       dst_runs=[]                 'using this skill after Battle Might: Command gives each hit a'
+  L12  src_runs=[]                 '有概率提升自身的暴击。'
+       dst_runs=[]                 'chance to raise your Critical.'
+
+### batch_002/7  lines src=9 dst=9
+  L0   src_runs=[]                 '^c3dbff劲弩'
+       dst_runs=[]                 '^c3dbffPowerful Crossbow'
+  L1   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L2   src_runs=[11]               '^ffffff兵器：弩\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300020体力'
+       dst_runs=[]                 '^ffffffWeapon: Crossbow                      20 Stamina'   <<<
+  L3   src_runs=[11]               '策略：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000持续时间：10分钟'
+       dst_runs=[]                 'Tactic: Instant                      Duration: 10 min'   <<<
+  L4   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L5   src_runs=[]                 '消耗体力在一定时间内提升攻击距离5米，'
+       dst_runs=[]                 'Consumes Stamina to raise your attack range by 5 m for a time,'
+  L6   src_runs=[]                 '同时提升攻击力及穿透点数。'
+       dst_runs=[]                 'while also boosting Attack Power and Penetration.'
+  L7   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L8   src_runs=[]                 '^c3dbff注：自身属性强化推荐技能。'
+       dst_runs=[]                 '^c3dbffNote: Recommended skill for boosting personal attributes.'
+
+### batch_002/11  lines src=9 dst=9
+  L0   src_runs=[]                 '^c3dbff勇往直前'
+       dst_runs=[]                 '^c3dbffPress On Bravely'
+  L1   src_runs=[]                 '^ffffff需要至少在“辅”类专精上投入30点。'
+       dst_runs=[]                 '^ffffffRequires at least 30 points invested in Support Mastery.'
+  L2   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L3   src_runs=[8]                '^ffffff兵器：舞\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300020体力'
+       dst_runs=[]                 '^ffffffWeapon: Dance                 20 Stamina'   <<<
+  L4   src_runs=[8]                '武技：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却1分钟'
+       dst_runs=[]                 'Move: Instant                  Cool-down 1 min'   <<<
+  L5   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L6   src_runs=[]                 '激励友军在战场上驰骋纵横，不可阻挡。'
+       dst_runs=[]                 'Urge your allies to charge across the battlefield, unstoppable.'
+  L7   src_runs=[]                 '招式使用后，身周20米范围内的友军立即解除迟缓、定身效果，'
+       dst_runs=[]                 'After using this Move, allies within 20 m are instantly freed from'
+  L8   src_runs=[]                 '并在12秒内不受到此类限制效果的影响。'
+       dst_runs=[]                 'Slowness and Immobilize effects, and are immune to such effects for 12 sec.'
+
+### batch_005/110  lines src=10 dst=10
+  L0   src_runs=[]                 '^c3dbff掠影爪'
+       dst_runs=[]                 '^c3dbffShadow Claw'
+  L1   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L2   src_runs=[8, 1]             '^ffffff兵器：爪\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u30005斗气\u30005体力'
+       dst_runs=[4]                '^ffffffWeapon: Claws\u3000\u3000\u3000\u30005 Battle Qi 5 Stamina'   <<<
+  L3   src_runs=[8]                '武技:立即出招\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却15秒'
+       dst_runs=[5]                'Move: Instant Strike\u3000\u3000\u3000\u3000\u3000Cool-down 15s'
+  L4   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L5   src_runs=[]                 '双爪挥动掠影如风，攻击敌人头部要害，使敌人'
+       dst_runs=[]                 "Twin claws sweep like shadow and wind, striking the Enemy's vital points on the head,"
+  L6   src_runs=[]                 '短时间致盲。'
+       dst_runs=[]                 'blinding them briefly.'
+  L7   src_runs=[]                 '攻击敌人使其致盲3秒，致盲状态下视线将一片模糊，'
+       dst_runs=[]                 'Attacking the Enemy blinds them for 3 seconds. While blinded their vision is blurred,'
+  L8   src_runs=[]                 '丢失锁定目标，攻击与技能无法命中敌人。'
+       dst_runs=[]                 'they lose their locked target, and Attacks and Skills cannot hit them.'
+  L9   src_runs=[]                 '造成40%%基础伤害。'
+       dst_runs=[]                 'Deals 40%% base damage.'
+
+### batch_012/116  lines src=8 dst=8
+  L0   src_runs=[]                 '^c3dbff逆袭棍'
+       dst_runs=[]                 '^c3dbffCounterattack Staff'
+  L1   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L2   src_runs=[6, 1]             '^ffffff兵器：棍\u3000\u3000\u3000\u3000\u3000\u300025斗气\u30005体力'
+       dst_runs=[6, 1]             '^ffffffWeapon: Staff\u3000\u3000\u3000\u3000\u3000\u300025 Battle Qi\u30005 Stamina'
+  L3   src_runs=[2, 4]             '专精：瞬发\u3000\u3000           冷却1分钟\u3000\u3000\u3000\u3000'
+       dst_runs=[4]                'Mastery: Instant           Cooldown 1 min\u3000\u3000\u3000\u3000'   <<<
+  L4   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L5   src_runs=[]                 '增加自身防御力，'
+       dst_runs=[]                 'Boosts your own Defense;'
+  L6   src_runs=[]                 '每次敌人近身攻击命中都会受到反弹伤害。'
+       dst_runs=[]                 "each time an enemy's melee attack hits you, they take reflected damage."
+  L7   src_runs=[]                 '招式所造成的伤害无法被闪避。'
+       dst_runs=[]                 'The damage this move deals cannot be dodged.'
+
+### batch_014/25  lines src=7 dst=7
+  L0   src_runs=[]                 '^c3dbff闪电盾'
+       dst_runs=[]                 '^c3dbffLightning Shield'
+  L1   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L2   src_runs=[2, 10]            '^ffffff兵器：剑、斧、钩、锏、锤、爪\u3000\u3000 50体力\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000'
+       dst_runs=[2]                '^ffffffWeapons: Sword, Axe, Hooksword, Mace, Hammer, Claw\u3000\u3000 50 Stamina'   <<<
+  L3   src_runs=[7]                '招式：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000 冷却60秒'
+       dst_runs=[7]                'Move: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000Cool-down 60 sec'
+  L4   src_runs=[]                 ''
+       dst_runs=[]                 ''
+  L5   src_runs=[]                 '以钩引天之雷，护于自身'
+       dst_runs=[]                 "Use the hooksword to draw heaven's lightning, guarding yourself"
+  L6   src_runs=[]                 '增加限制、封印抗性，持续6秒'
+       dst_runs=[]                 'Increases Restriction and Seal Resistance for 6 sec'
+

@@ -1,0 +1,4 @@
+mode: DRY-RUN
+colour-code fixes: 10   text fixes: 1
+violations: 1
+   ('batch_012', 97, 'still differs from source: colour,numbers')

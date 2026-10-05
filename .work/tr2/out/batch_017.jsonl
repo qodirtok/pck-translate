@@ -1,0 +1,458 @@
+{"id": 1, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target in the Despair state."}
+{"id": 2, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target in the Weakness state"}
+{"id": 3, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target in the Armor Break state."}
+{"id": 4, "english": "^ffcc00Level %d^ffffff - %d%% chance to put yourself in the Hardened Armor state."}
+{"id": 5, "english": "^ffcc00Level %d^ffffff - %d%% chance to execute the target."}
+{"id": 6, "english": "^ffcc00Level %d^ffffff - %d%% chance to Ignore enemy Defense"}
+{"id": 7, "english": "^ffcc00Level %d^ffffff - %d%% chance to enter the Bloodbath state."}
+{"id": 8, "english": "^ffcc00Level %d^ffffff - %d%% chance to deal damage that Ignores Defense."}
+{"id": 9, "english": "^ffcc00Level %d^ffffff - %d%% chance to Reduce enemy healing effects."}
+{"id": 10, "english": "^ffcc00Level %d^ffffff - %d%% chance to Reduce the target's Attack and casting speed"}
+{"id": 11, "english": "^ffcc00Level %d^ffffff - %d%% chance to Reduce direct Resistance and Slow the target at the same time."}
+{"id": 12, "english": "^ffcc00Level %d^ffffff - %d%% chance to enter the Spirit Gathering state"}
+{"id": 13, "english": "^ffcc00Level %d^ffffff - - HP +%d, Attack Power +%d"}
+{"id": 14, "english": "^ffcc00Level %d^ffffff - Recover %d HP over 15 seconds"}
+{"id": 15, "english": "^ffcc00Level %d^ffffff - Recover %d%% of the master's Max HP over 30 seconds"}
+{"id": 16, "english": "^ffcc00Level %d^ffffff - Recover %d HP of your own over 30 seconds"}
+{"id": 17, "english": "^ffcc00Level %d^ffffff - The three hits each add %d/%d/%d Damage"}
+{"id": 18, "english": "^ffcc00Level %d^ffffff - Next attack gains %d%% Crit Rate"}
+{"id": 19, "english": "^ffcc00Level %d^ffffff - Master's Constitution +%d"}
+{"id": 20, "english": "^ffcc00Level %d^ffffff - Master's Movement Speed +%.1f m/s"}
+{"id": 21, "english": "^ffcc00Level %d^ffffff - Character Crit Rate and mounted Crit Rate are each reduced by 5."}
+{"id": 22, "english": "^ffcc00Level %d^ffffff - Critical Strike Chance +%d%%"}
+{"id": 23, "english": "^ffcc00Level %d^ffffff - Damage varies by up to 30%%."}
+{"id": 24, "english": "^ffcc00Level %d^ffffff - Stamina recovery speed reduced by %d for %d seconds"}
+{"id": 25, "english": "^ffcc00Level %d^ffffff - Constitution reduced by %d"}
+{"id": 26, "english": "^ffcc00Level %d^ffffff - Deals %d%%, %d%%, %d%% base Damage in sequence"}
+{"id": 27, "english": "^ffcc00Level %d^ffffff - Applies %d, %d, %d,<CRLF>%d, %d, %d Damage in sequence"}
+{"id": 28, "english": "^ffcc00Level %d^ffffff - Immune to dismount for 5 seconds."}
+{"id": 29, "english": "^ffcc00Level %d^ffffff - Immune to mounted Slow and Immobilize for 3 seconds."}
+{"id": 30, "english": "^ffcc00Level %d^ffffff - While in the Nether Qi state, the target loses %d HP over 10 seconds"}
+{"id": 31, "english": "^ffcc00Level %d^ffffff - Charge grants 10 Battle Qi."}
+{"id": 32, "english": "^ffcc00Level %d^ffffff - Cool-down time reduced by %d seconds"}
+{"id": 33, "english": "^ffcc00Level %d^ffffff - Cool-down time reduced by 2 seconds."}
+{"id": 34, "english": "^ffcc00Level %d^ffffff - Cool-down time reduced by 5 seconds."}
+{"id": 35, "english": "^ffcc00Level %d^ffffff - Cool-down time reduced by %d seconds"}
+{"id": 36, "english": "^ffcc00Level %d^ffffff - Cool-down time reduced by 2 seconds."}
+{"id": 37, "english": "^ffcc00Level %d^ffffff - Slow and Immobilize duration increased by 50%%"}
+{"id": 38, "english": "^ffcc00Level %d^ffffff - Applies %d, %d Damage respectively"}
+{"id": 39, "english": "^ffcc00Level %d^ffffff - Applies %d, %d, %d Damage respectively"}
+{"id": 40, "english": "^ffcc00Level %d^ffffff - Applies %d, %d, %d, %d Damage respectively"}
+{"id": 41, "english": "^ffcc00Level %d^ffffff - While in the Resolute state, Defense increased by %d;<CRLF>while in the Martial Valor state, Attack Strength increased by %d%%."}
+{"id": 42, "english": "^ffcc00Level %d^ffffff - Bonus rate is %d%% × “Guardian Focus Coefficient”."}
+{"id": 43, "english": "^ffcc00Level %d^ffffff - Bonus rate is %d%% × “Guardian Valor Coefficient”."}
+{"id": 44, "english": "^ffcc00Level %d^ffffff - Bonus rate is %d%% × “Guardian Wisdom Coefficient”."}
+{"id": 45, "english": "^ffcc00Level %d^ffffff - Bonus rate is %d%% × “Guardian Agility Coefficient”."}
+{"id": 46, "english": "^ffcc00Level %d^ffffff - Bonus rate is %d%% × “Guardian Hot-Blooded Coefficient”."}
+{"id": 47, "english": "^ffcc00Level %d^ffffff - Using other Attack moves while performing this action will Increase Attack Strength by %d%%"}
+{"id": 48, "english": "^ffcc00Level %d^ffffff - Reflects %d%% of Melee Damage taken and Increases Defense by %d"}
+{"id": 49, "english": "^ffcc00Level %d^ffffff - Reflects %d%% base Damage"}
+{"id": 50, "english": "^ffcc00Level %d^ffffff - Damage taken reduced by %d%%"}
+{"id": 51, "english": "^ffcc00Level %d^ffffff - When attacked, %d%% chance to dispel Slow and %d%% chance to dispel Immobilize."}
+{"id": 52, "english": "^ffcc00Level %d^ffffff - Casting time reduced by 0.5 seconds."}
+{"id": 53, "english": "^ffcc00Level %d^ffffff - Absorbs %d Damage"}
+{"id": 54, "english": "^ffcc00Level %d^ffffff - Absorbs %d Crit"}
+{"id": 55, "english": "^ffcc00Level %d^ffffff - Absorbs Damage equal to your Attack Power + %d"}
+{"id": 56, "english": "^ffcc00Level %d^ffffff - Hit increased by %d"}
+{"id": 57, "english": "^ffcc00Level %d^ffffff - Hit reduced by %d"}
+{"id": 58, "english": "^ffcc00Level %d^ffffff - Taunt lasts at most 3 seconds."}
+{"id": 59, "english": "^ffcc00Level %d^ffffff - Nightmare Annihilation deals %d%% Max Attack Damage every 2 seconds"}
+{"id": 60, "english": "^ffcc00Level %d^ffffff - The four hits each add %d/%d/%d/%d Damage"}
+{"id": 61, "english": "^ffcc00Level %d^ffffff - Recover HP equal to %.1f × your own level (after rebirth, “80 + Hero Level”)."}
+{"id": 62, "english": "^ffcc00Level %d^ffffff - While in the National Beauty state, own Stun Resistance increased by %d;<CRLF>while in the Heavenly Fragrance state, own Crit increased by %d;<CRLF>Movement Speed increased by %.1f m/s in both states."}
+{"id": 63, "english": "^ffcc00Level %d^ffffff - Recover %d HP over 20 seconds."}
+{"id": 64, "english": "^ffcc00Level %d^ffffff - Base Damage increased by 12%%"}
+{"id": 65, "english": "^ffcc00Level %d^ffffff - Movement Speed increased by %.1f m/s"}
+{"id": 66, "english": "^ffcc00Level %d^ffffff - Stun, Immobilize and Seal Resistance increased by %d;"}
+{"id": 67, "english": "^ffcc00Level %d^ffffff - Stun Resistance increased by %d;"}
+{"id": 68, "english": "^ffcc00Level %d^ffffff - Battle Qi + %d"}
+{"id": 69, "english": "^ffcc00Level %d^ffffff - HP recovery + %d"}
+{"id": 70, "english": "^ffcc00Level %d^ffffff - Attack + %d"}
+{"id": 71, "english": "^ffcc00Level %d^ffffff - Dodge + %d; when hit, Attack Power + %d"}
+{"id": 72, "english": "^ffcc00Level %d^ffffff - Defense + %d"}
+{"id": 73, "english": "^ffcc00Level %d^ffffff - Attack increased by “Character Level × %d” points"}
+{"id": 74, "english": "^ffcc00Level %d^ffffff - Max Battle Qi + %d"}
+{"id": 75, "english": "^ffcc00Level %d^ffffff - Crit chance gained is %d%% × “Guardian Focus Coefficient”."}
+{"id": 76, "english": "^ffcc00Level %d^ffffff - Crit chance gained is %d%% × “Guardian Valor Coefficient”."}
+{"id": 77, "english": "^ffcc00Level %d^ffffff - Crit chance gained is %d%% × “Guardian Wisdom Coefficient”."}
+{"id": 78, "english": "^ffcc00Level %d^ffffff - Crit chance gained is %d%% × “Guardian Agility Coefficient”."}
+{"id": 79, "english": "^ffcc00Level %d^ffffff - Crit chance gained is %d%% × “Guardian Hot-Blooded Coefficient”."}
+{"id": 80, "english": "^ffcc00Level %d^ffffff - Healing received increased by %d%%"}
+{"id": 81, "english": "^ffcc00Level %d^ffffff - Mounted Skill Hit increased by %d"}
+{"id": 82, "english": "^ffcc00Level %d^ffffff - Mounted Skill Crit increased by %d"}
+{"id": 83, "english": "^ffcc00Level %d^ffffff - Revived target regains at least %d%% of Max HP; Heal amount is boosted by this bonus, and Stamina is recovered by %d."}
+{"id": 84, "english": "^ffcc00Level %d^ffffff - While in the Soul-Drain state, the target's Indirect Resistance is reduced by %d."}
+{"id": 85, "english": "^ffcc00Level %d^ffffff - Immobilize lasts 2 seconds."}
+{"id": 86, "english": "^ffcc00Level %d^ffffff - Deals %d%% base Damage to the enemy"}
+{"id": 87, "english": "^ffcc00Level %d^ffffff - Deals %d%% base Damage to the enemy."}
+{"id": 88, "english": "^ffcc00Level %d^ffffff - Deals %d%% base Damage to the enemy, with %d%% chance to gain the Iron Cavalry state"}
+{"id": 89, "english": "^ffcc00Level %d^ffffff - Deals 100%%, 120%%, 150%% base Damage to the enemy.<CRLF>Mount Steadfast can Reduce the chance of being thrown from the mount."}
+{"id": 90, "english": "^ffcc00Level %d^ffffff - Deals 110%% base Damage to the enemy."}
+{"id": 91, "english": "^ffcc00Level %d^ffffff - Deals 200%% base Damage to the enemy<CRLF>Mount Steadfast can Reduce the chance of being thrown from the mount."}
+{"id": 92, "english": "^ffcc00Level %d^ffffff - Deals 200%% base Damage to the enemy.<CRLF>Mount Steadfast can Reduce the chance of being thrown from the mount."}
+{"id": 93, "english": "^ffcc00Level %d^ffffff - Deals 200%% base Damage to the enemy, and deals<CRLF>damage to the enemy that Ignores Defense equal to at least 60%% of their Max Attack Power."}
+{"id": 94, "english": "^ffcc00Level %d^ffffff - Deals 250%% base Damage to the enemy, and deals<CRLF>damage to the enemy that Ignores Defense equal to at least 50%% of their Max Attack Power."}
+{"id": 95, "english": "^ffcc00Level %d^ffffff - Deals %d%% base Damage to the target"}
+{"id": 96, "english": "^ffcc00Level %d^ffffff - Deals %d%% base Damage to the target."}
+{"id": 97, "english": "^ffcc00Level %d^ffffff - Deals %d%% base Damage to the target.<CRLF>Skill requires %d seconds of aiming"}
+{"id": 98, "english": "^ffcc00Level %d^ffffff - Deals %d%% base Damage to the target,<CRLF>and recovers %d Battle Qi."}
+{"id": 99, "english": "^ffcc00Level %d^ffffff - Deals %d%% base Damage to the target,<CRLF>Chaos lasts %d seconds"}
+{"id": 100, "english": "^ffcc00Level %d^ffffff - Deals %d%% Damage to the target"}
+{"id": 101, "english": "^ffcc00Level %d^ffffff - Damage dealt to the target increases by %d%% each time"}
+{"id": 102, "english": "^ffcc00Level %d^ffffff - Deals 240%% base Damage to the primary target."}
+{"id": 103, "english": "^ffcc00Level %d^ffffff - Deals a total of %d%% base Damage to the target,<CRLF>Dodge increased by %d"}
+{"id": 104, "english": "^ffcc00Level %d^ffffff - Recover %d HP."}
+{"id": 105, "english": "^ffcc00Level %d^ffffff - While in the Terror state, the target's direct Resistance is reduced by %d."}
+{"id": 106, "english": "^ffcc00Level %d^ffffff - Recover %d Battle Qi per second in combat"}
+{"id": 107, "english": "^ffcc00Level %d^ffffff - Recover %d Battle Qi per second in combat,<CRLF>%d Battle Qi per second out of combat"}
+{"id": 108, "english": "^ffcc00Level %d^ffffff - Stamina recovery increased by %.1f out of combat, Dodge increased by %.1f"}
+{"id": 109, "english": "^ffcc00Level %d^ffffff - Battle Qi recovery %d per second out of combat"}
+{"id": 110, "english": "^ffcc00Level %d^ffffff - Battle Qi bonus from War Tactic increased by 10."}
+{"id": 111, "english": "^ffcc00Level %d^ffffff - Skill Damage increased by 10%%"}
+{"id": 112, "english": "^ffcc00Level %d^ffffff - Skill Damage increased by 10%%."}
+{"id": 113, "english": "^ffcc00Level %d^ffffff - Skill Damage increased by 20%%"}
+{"id": 114, "english": "^ffcc00Level %d^ffffff - Skill Damage increased by 50%%."}
+{"id": 115, "english": "^ffcc00Level %d^ffffff - Grants Self the Stealth state for 3 seconds."}
+{"id": 116, "english": "^ffcc00Level %d^ffffff - Skill cool-down reduced by 3 seconds."}
+{"id": 117, "english": "^ffcc00Level %d^ffffff - Skill Hit rate increased by 30."}
+{"id": 118, "english": "^ffcc00Level %d^ffffff - Skill Crit Damage increased by 50%%"}
+{"id": 119, "english": "^ffcc00Level %d^ffffff - Skill Crit Damage increased by 50%%."}
+{"id": 120, "english": "^ffcc00Level %d^ffffff - Skill Crit Rate increased by 10."}
+{"id": 121, "english": "^ffcc00Level %d^ffffff - Drains %d Stamina from the target"}
+{"id": 122, "english": "^ffcc00Level %d^ffffff - Move effect:<CRLF>0 Assassination: deals %.1f total Damage over 5 seconds and Reduces direct Resistance by %d;<CRLF>1 Assassination: deals %.1f total Damage over 7 seconds and Reduces direct Resistance by %d;<CRLF>2 Assassination: deals %.1f total Damage over 9 seconds and Reduces direct Resistance by %d;<CRLF>3 Assassination: deals %.1f total Damage over 11 seconds and Reduces direct Resistance by %d;<CRLF>4 Assassination: deals %.1f total Damage over 13 seconds and Reduces direct Resistance by %d;<CRLF>5 Assassination: deals %.1f total Damage over 15 seconds and Reduces direct Resistance by %d;"}
+{"id": 123, "english": "^ffcc00Level %d^ffffff - Continuous recovery of %d HP"}
+{"id": 124, "english": "^ffcc00Level %d^ffffff - Discourage state lasts 5 seconds."}
+{"id": 125, "english": "^ffcc00Level %d^ffffff - Increases chance by %d%% × “Guardian Focus Coefficient”."}
+{"id": 126, "english": "^ffcc00Level %d^ffffff - Increases chance by %d%% × “Guardian Valor Coefficient”."}
+{"id": 127, "english": "^ffcc00Level %d^ffffff - Increases chance by %d%% × “Guardian Wisdom Coefficient”."}
+{"id": 128, "english": "^ffcc00Level %d^ffffff - Increases chance by %d%% × “Guardian Agility Coefficient”."}
+{"id": 129, "english": "^ffcc00Level %d^ffffff - Increases chance by %d%% × “Guardian Hot-Blooded Coefficient”."}
+{"id": 130, "english": "^ffcc00Level %d^ffffff - Base Damage increased by %d%%."}
+{"id": 131, "english": "^ffcc00Level %d^ffffff - Hit increased by %d; each kill recovers %d HP."}
+{"id": 132, "english": "^ffcc00Level %d^ffffff - Attack increased by %d"}
+{"id": 133, "english": "^ffcc00Level %d^ffffff - Attack Power increased by %d and Attack Strength by %d%%."}
+{"id": 134, "english": "^ffcc00Level %d^ffffff - Attack Power increased by %d and Penetration by %d."}
+{"id": 135, "english": "^ffcc00Level %d^ffffff - Crit increased by %d and<CRLF>Crit Damage increased by %d%%."}
+{"id": 136, "english": "^ffcc00Level %d^ffffff - Crit bonus Damage increased by %d"}
+{"id": 137, "english": "^ffcc00Level %d^ffffff - Defense increased by %d"}
+{"id": 138, "english": "^ffcc00Level %d^ffffff - Defense increased by %d and direct Resistance by %d."}
+{"id": 139, "english": "^ffcc00Level %d^ffffff - Master's Hit increased by %d."}
+{"id": 140, "english": "^ffcc00Level %d^ffffff - Master's Max HP increased by %d"}
+{"id": 141, "english": "^ffcc00Level %d^ffffff - Master's Max HP increased by %d<CRLF>Recovers %d HP of the master over 15 seconds"}
+{"id": 142, "english": "^ffcc00Level %d^ffffff - Master's Max HP increased by %d%%"}
+{"id": 143, "english": "^ffcc00Level %d^ffffff - Master's Dodge increased by %d"}
+{"id": 144, "english": "^ffcc00Level %d^ffffff - Target Attack Power increased by %.1f%% of your own Attack Power"}
+{"id": 145, "english": "^ffcc00Level %d^ffffff - Target Attack Power increased by %.1f%% of your own Attack Power."}
+{"id": 146, "english": "^ffcc00Level %d^ffffff - Own Crit increased by %d"}
+{"id": 147, "english": "^ffcc00Level %d^ffffff - Increases Damage Resistance by “Strategy Level × %d”."}
+{"id": 148, "english": "^ffcc00Level %d^ffffff - While in the Tearing state, the target loses %d%% of Attack Power +%d HP over 10 seconds."}
+{"id": 149, "english": "^ffcc00Level %d^ffffff - Attack Power + %d, Defense + %d"}
+{"id": 150, "english": "^ffcc00Level %d^ffffff - Attack Power increased by %d"}
+{"id": 151, "english": "^ffcc00Level %d^ffffff - Attack increased by %d"}
+{"id": 152, "english": "^ffcc00Level %d^ffffff - Attack Strength increased by %d%%"}
+{"id": 153, "english": "^ffcc00Level %d^ffffff - Attack Strength reduced by 20%%."}
+{"id": 154, "english": "^ffcc00Level %d^ffffff - Attack Strength reduced by 30%%,<CRLF>Attack Power reduction scales with the target's Level."}
+{"id": 155, "english": "^ffcc00Level %d^ffffff - Attack Strength reduced by 30%%,<CRLF>mounted Attack Hit reduction scales with the target's Level."}
+{"id": 156, "english": "^ffcc00Level %d^ffffff - The attacker has a 40%% chance of being thrown from the mount."}
+{"id": 157, "english": "^ffcc00Level %d^ffffff - The attacker has a 40%% chance of being Frozen."}
+{"id": 158, "english": "^ffcc00Level %d^ffffff - Attack Speed and casting speed reduced by %d%%"}
+{"id": 159, "english": "^ffcc00Level %d^ffffff - Attack adds %d Damage"}
+{"id": 160, "english": "^ffcc00Level %d^ffffff - Effect lasts %d seconds"}
+{"id": 161, "english": "^ffcc00Level %d^ffffff - Effect duration extended by 1 second."}
+{"id": 162, "english": "^ffcc00Level %d^ffffff - Effect increased by 100%%."}
+{"id": 163, "english": "^ffcc00Level %d^ffffff - Effect increased by 30%%."}
+{"id": 164, "english": "^ffcc00Level %d^ffffff - Max Battle Qi increased by %d"}
+{"id": 165, "english": "^ffcc00Level %d^ffffff - Max Battle Qi increased by %d,<CRLF>recover %d Battle Qi every 2 seconds."}
+{"id": 166, "english": "^ffcc00Level %d^ffffff - Battle Qi decay reduced by %d%%; when attacked, %.1f%% chance for Crit Resistance to be increased"}
+{"id": 167, "english": "^ffcc00Level %d^ffffff - Crit Damage increased by %d%%"}
+{"id": 168, "english": "^ffcc00Level %d^ffffff - Crit Damage increased by 25%%."}
+{"id": 169, "english": "^ffcc00Level %d^ffffff - Crit Damage reduced by %d%%"}
+{"id": 170, "english": "^ffcc00Level %d^ffffff - Crit Resistance reduced by %d"}
+{"id": 171, "english": "^ffcc00Level %d^ffffff - Crit increased by %d"}
+{"id": 172, "english": "^ffcc00Level %d^ffffff - Crit bonus Damage reduced by %d"}
+{"id": 173, "english": "^ffcc00Level %d^ffffff - Up to %d attacks"}
+{"id": 174, "english": "^ffcc00Level %d^ffffff - Affects up to %d targets"}
+{"id": 175, "english": "^ffcc00Level %d^ffffff - Sacrifices up to %d%% of current HP.<CRLF>Every 5 points of own HP deals %.1f Damage to nearby targets that Ignores Defense."}
+{"id": 176, "english": "^ffcc00Level %d^ffffff - Deals direct Damage equal to up to %d%% of your own Attack Power."}
+{"id": 177, "english": "^ffcc00Level %d^ffffff - %d%% chance to Slow the enemy"}
+{"id": 178, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target in the Eight Desolates state."}
+{"id": 179, "english": "^ffcc00Level %d^ffffff - %d%% chance to put the target in the Shattered Chaos state."}
+{"id": 180, "english": "^ffcc00Level %d^ffffff - %d%% chance to knock the enemy directly off the mount"}
+{"id": 181, "english": "^ffcc00Level %d^ffffff - %d%% chance to Ignore %d of the target's Defense."}
+{"id": 182, "english": "^ffcc00Level %d^ffffff - %d%% chance to Interrupt and break the Move."}
+{"id": 183, "english": "^ffcc00Level %d^ffffff - 20%% chance to Freeze and Immobilize the target."}
+{"id": 184, "english": "^ffcc00Level %d^ffffff - 20%% chance to Immobilize the target."}
+{"id": 185, "english": "^ffcc00Level %d^ffffff - 20%% chance to cause 3 seconds of Silence."}
+{"id": 186, "english": "^ffcc00Level %d^ffffff - 30%% chance to Stun the target."}
+{"id": 187, "english": "^ffcc00Level %d^ffffff - 30%% chance to strike immediately."}
+{"id": 188, "english": "^ffcc00Level %d^ffffff - 35%% chance to not enter cool-down."}
+{"id": 189, "english": "^ffcc00Level %d^ffffff - 35%% chance to Immobilize the enemy."}
+{"id": 190, "english": "^ffcc00Level %d^ffffff - 35% chance to Freeze the enemy directly."}
+{"id": 191, "english": "^ffcc00Level %d^ffffff - 40%% chance to add 5 seconds of Bewilderment. "}
+{"id": 192, "english": "^ffcc00Level %d^ffffff - 40%% chance to gain the Graceful state for 3 seconds."}
+{"id": 193, "english": "^ffcc00Level %d^ffffff - 40%% chance to gain the Solid Shield state for 4 seconds."}
+{"id": 194, "english": "^ffcc00Level %d^ffffff - 40%% chance to cause the Whip Strength effect."}
+{"id": 195, "english": "^ffcc00Level %d^ffffff - 45%% chance to cause 3 seconds of Silence."}
+{"id": 196, "english": "^ffcc00Level %d^ffffff - 45%% chance to cause 3 seconds of Howl Stun."}
+{"id": 197, "english": "^ffcc00Level %d^ffffff - 50%% chance to Silence the enemy."}
+{"id": 198, "english": "^ffcc00Level %d^ffffff - 50%% chance to cause the Slow effect."}
+{"id": 199, "english": "^ffcc00Level %d^ffffff - Chance to increase own Attack Power by %d"}
+{"id": 200, "english": "^ffcc00Level %d^ffffff - Chance to enter the Wild Ferocity state, Crit increased by %d"}
+{"id": 201, "english": "^ffcc00Level %d^ffffff - Chance to reduce the enemy's Crit by %d."}
+{"id": 202, "english": "^ffcc00Level %d^ffffff - Chance to reduce the target's Crit Damage by %d%%."}
+{"id": 203, "english": "^ffcc00Level %d^ffffff - Chance to reduce the target's Armor Pierce by %d."}
+{"id": 204, "english": "^ffcc00Level %d^ffffff - Chance to reduce the target's HP recovery speed by %d."}
+{"id": 205, "english": "^ffcc00Level %d^ffffff - Chance to reduce the target's Penetration by %d"}
+{"id": 206, "english": "^ffcc00Level %d^ffffff - Chance to reduce the target's Crit bonus Damage by %d."}
+{"id": 207, "english": "^ffcc00Level %d^ffffff - Sweeping Strike Damage increased directly by 20%%"}
+{"id": 208, "english": "^ffcc00Level %d^ffffff - The enemy loses HP equal to 20%% of Max Attack Power every 2 seconds."}
+{"id": 209, "english": "^ffcc00Level %d^ffffff - Loses HP equal to %d%% of your average Attack every 2 seconds"}
+{"id": 210, "english": "^ffcc00Level %d^ffffff - Deals Damage equal to 20%% of the target's Max Attack Power every 2 seconds."}
+{"id": 211, "english": "^ffcc00Level %d^ffffff - Every 5 Battle Qi increases Skill Damage by 2%%."}
+{"id": 212, "english": "^ffcc00Level %d^ffffff - Each stack increases Attack Strength by 3%%."}
+{"id": 213, "english": "^ffcc00Level %d^ffffff - Each stack's Damage boost increased by 5%%"}
+{"id": 214, "english": "^ffcc00Level %d^ffffff - Mounted Attack Power gained per stack depends on your own Level."}
+{"id": 215, "english": "^ffcc00Level %d^ffffff - Each stack additionally increases mounted Crit by 1."}
+{"id": 216, "english": "^ffcc00Level %d^ffffff - Each projectile adds %d Damage"}
+{"id": 217, "english": "^ffcc00Level %d^ffffff - Each hit adds damage equal to %.1f × your Max Attack<CRLF>Weapon Lost state lasts %d seconds"}
+{"id": 218, "english": "^ffcc00Level %d^ffffff - Each time Thunder Roars Through the Nine Heavens is used,<CRLF>Skill base Damage increased by %d%%."}
+{"id": 219, "english": "^ffcc00Level %d^ffffff - Each hit additionally recovers 1 Battle Qi."}
+{"id": 220, "english": "^ffcc00Level %d^ffffff - Each reflect deals Damage equal to %d%% of Max Attack"}
+{"id": 221, "english": "^ffcc00Level %d^ffffff - Each Hit increases Hit by %d"}
+{"id": 222, "english": "^ffcc00Level %d^ffffff - Recovers %d HP each time"}
+{"id": 223, "english": "^ffcc00Level %d^ffffff - Each hit deals %d%%, %d%%, %d%%, %d%% base Damage to the target,<CRLF>Crit Resistance reduced by %d."}
+{"id": 224, "english": "^ffcc00Level %d^ffffff - Each hit deals %d%%, %d%%, %d%%, %d%% base Damage to the target,<CRLF>direct Resistance reduced by %d"}
+{"id": 225, "english": "^ffcc00Level %d^ffffff - Each hit deals %d%% base Damage to the target,<CRLF>Crit Resistance reduced by %d"}
+{"id": 226, "english": "^ffcc00Level %d^ffffff - Each attack recovers %d HP for you"}
+{"id": 227, "english": "^ffcc00Level %d^ffffff - Each Hit increases Spell Strength by %d%%"}
+{"id": 228, "english": "^ffcc00Level %d^ffffff - Each Hit increases Attack Power by %d"}
+{"id": 229, "english": "^ffcc00Level %d^ffffff - Each attack deals Damage equal to %d%% of Max Attack"}
+{"id": 230, "english": "^ffcc00Level %d^ffffff - Each attack adds %d Damage"}
+{"id": 231, "english": "^ffcc00Level %d^ffffff - Each Poison tick additionally deals %d Damage"}
+{"id": 232, "english": "^ffcc00Level %d^ffffff - Recovers %d HP each time"}
+{"id": 233, "english": "^ffcc00Level %d^ffffff - Each Strategy raises HP recovery speed by %.1f."}
+{"id": 234, "english": "^ffcc00Level %d^ffffff - Each hit deals %d%% base Damage."}
+{"id": 235, "english": "^ffcc00Level %d^ffffff - Adds %d Damage each time"}
+{"id": 236, "english": "^ffcc00Level %d^ffffff - Each hit adds %d Damage"}
+{"id": 237, "english": "^ffcc00Level %d^ffffff - Each hit deals %d%% base Damage"}
+{"id": 238, "english": "^ffcc00Level %d^ffffff - Each hit deals %d%% base Damage,<CRLF>plus random Damage of “Hit count × (0~%d%%)”"}
+{"id": 239, "english": "^ffcc00Level %d^ffffff - Each hit adds %d Damage"}
+{"id": 240, "english": "^ffcc00Level %d^ffffff - Each hit adds %d Damage; each enemy hit recovers %d HP."}
+{"id": 241, "english": "^ffcc00Level %d^ffffff - Each Stamina point negates Damage equal to 5%% of your Attack Power +%d"}
+{"id": 242, "english": "^ffcc00Level %d^ffffff - Dodge reduced by %d per Level"}
+{"id": 243, "english": "^ffcc00Level %d^ffffff - Each round adds %d Damage"}
+{"id": 244, "english": "^ffcc00Level %d^ffffff - Effect is better than the previous level"}
+{"id": 245, "english": "^ffcc00Level %d^ffffff - Healing effect increased by %d%%"}
+{"id": 246, "english": "^ffcc00Level %d^ffffff - Blood Soak has a %d%% chance to put the target in the Mortally Wounded state."}
+{"id": 247, "english": "^ffcc00Level %d^ffffff - Stamina cost reduced by %d"}
+{"id": 248, "english": "^ffcc00Level %d^ffffff - Chaos lasts 2 seconds."}
+{"id": 249, "english": "^ffcc00Level %d^ffffff - Flame Woe has a %d%% chance to Crit."}
+{"id": 250, "english": "^ffcc00Level %d^ffffff - Blazing Flame has a %d%% chance to Crit."}
+{"id": 251, "english": "^ffcc00Level %d^ffffff - State lasts %d seconds"}
+{"id": 252, "english": "^ffcc00Level %d^ffffff - Max HP + %d%%, Attack Power + %d"}
+{"id": 253, "english": "^ffcc00Level %d^ffffff - Max HP + %d%%, Crit + %d"}
+{"id": 254, "english": "^ffcc00Level %d^ffffff - Max HP + %d, Armor Pierce + %d"}
+{"id": 255, "english": "^ffcc00Level %d^ffffff - Max HP + %d, Penetration + %d"}
+{"id": 256, "english": "^ffcc00Level %d^ffffff - Max HP + %d, Defense + %d"}
+{"id": 257, "english": "^ffcc00Level %d^ffffff - Max HP increased by %d"}
+{"id": 258, "english": "^ffcc00Level %d^ffffff - Max HP reduced by %d"}
+{"id": 259, "english": "^ffcc00Level %d^ffffff - Max HP reduced by %d%%"}
+{"id": 260, "english": "^ffcc00Level %d^ffffff - HP + %d, Fatal Strike Rate +2"}
+{"id": 261, "english": "^ffcc00Level %d^ffffff - HP + %d, Indirect Resistance +5"}
+{"id": 262, "english": "^ffcc00Level %d^ffffff - HP recovered equals “Dancer's own Attack Power”;<CRLF>Attack Power gained and HP recovery speed scale with the target's Level.<CRLF>Damage Resistance increased by %d, Crit Resistance increased by %d"}
+{"id": 263, "english": "^ffcc00Level %d^ffffff - HP recovery speed increased by %d"}
+{"id": 264, "english": "^ffcc00Level %d^ffffff - Slows the target by %.1f m/s"}
+{"id": 265, "english": "^ffcc00Level %d^ffffff - Slows the target by %.1f m/s,<CRLF>slows Self by %.1f m/s."}
+{"id": 266, "english": "^ffcc00Level %d^ffffff - Direct Damage taken by the target increased by 10%%"}
+{"id": 267, "english": "^ffcc00Level %d^ffffff - Target loses %d%% of current Battle Qi."}
+{"id": 268, "english": "^ffcc00Level %d^ffffff - Target takes Damage equal to %d%% of Max Attack Power every 2 seconds"}
+{"id": 269, "english": "^ffcc00Level %d^ffffff - Target's Movement Speed reduced by %.1f m/s and Attack Strength reduced by %d%%,<CRLF>all debuffs remain for at least 3 seconds after the Move finishes."}
+{"id": 270, "english": "^ffcc00Level %d^ffffff - Target's direct Resistance reduced by 5."}
+{"id": 271, "english": "^ffcc00Level %d^ffffff - Target's Defense reduced by %d"}
+{"id": 272, "english": "^ffcc00Level %d^ffffff - Direct Resistance increased by %d"}
+{"id": 273, "english": "^ffcc00Level %d^ffffff - Penetration increased by up to %d."}
+{"id": 274, "english": "^ffcc00Level %d^ffffff - Instantly recovers %d HP"}
+{"id": 275, "english": "^ffcc00Level %d^ffffff - Hit 1 adds %d Damage<CRLF>^ffcc00Level %d^ffffff - Hit 2 adds %d Damage"}
+{"id": 276, "english": "^ffcc00Level %d^ffffff - Hit 1 adds %d Damage<CRLF>^ffcc00Level %d^ffffff - Hit 2 adds %d Damage<CRLF>^ffcc00Level %d^ffffff - Hit 3 adds %d Damage"}
+{"id": 277, "english": "^ffcc00Level %d^ffffff - Hit 1 adds %d Damage<CRLF>^ffffff - Hit 2 adds %d Damage<CRLF>^ffffff - Hit 3 adds %d Damage"}
+{"id": 278, "english": "^ffcc00Level %d^ffffff - Hit 1 adds %d Damage,<CRLF>Hit 2 deals Damage equal to up to 40%% of Max Attack Power"}
+{"id": 279, "english": "^ffcc00Level %d^ffffff - Hit 1 adds %d Damage,<CRLF>Hit 2 adds %d Damage"}
+{"id": 280, "english": "^ffcc00Level %d^ffffff - Hit 1 adds %d Damage, Hit 2 adds %d Damage"}
+{"id": 281, "english": "^ffcc00Level %d^ffffff - Hit 1 adds %d Damage;<CRLF>Hit 2 adds %d Damage."}
+{"id": 282, "english": "^ffcc00Level %d^ffffff - Stamina recovered scales with the target's Attack Power."}
+{"id": 283, "english": "^ffcc00Level %d^ffffff - Own Attack Strength increased by up to %d%%."}
+{"id": 284, "english": "^ffcc00Level %d^ffffff - Dismount chance increased by 20%%."}
+{"id": 285, "english": "^ffcc00Level %d^ffffff - Weakness Resistance increased by %d"}
+{"id": 286, "english": "^ffcc00Level %d^ffffff - While in the Blood Curse state, the target loses %d HP over 10 seconds."}
+{"id": 287, "english": "^ffcc00Level %d^ffffff - When hit, Attack increased by %d"}
+{"id": 288, "english": "^ffcc00Level %d^ffffff - Healing received reduced by %d%%"}
+{"id": 289, "english": "^ffcc00Level %d^ffffff - Illumination triggers at most once every %d seconds"}
+{"id": 290, "english": "^ffcc00Level %d^ffffff - Deals %d%% base Damage"}
+{"id": 291, "english": "^ffcc00Level %d^ffffff - Deals %d× Damage"}
+{"id": 292, "english": "^ffcc00Level %d^ffffff - Deals %d Damage."}
+{"id": 293, "english": "^ffcc00Level %d^ffffff - Deals %d deadly Poison Damage, then %d damage per tick"}
+{"id": 294, "english": "^ffcc00Level %d^ffffff - Deals damage that Ignores Defense equal to 50%% of their Max Attack Power."}
+{"id": 295, "english": "^ffcc00Level %d^ffffff - Deals extra Damage equal to their Max Attack Power."}
+{"id": 296, "english": "^ffcc00Level %d^ffffff - Trip chance increased by 10%%."}
+{"id": 297, "english": "^ffcc00Level %d^ffffff - Deals Damage equal to %d%% of your own Attack Power."}
+{"id": 298, "english": "^ffcc00Level %d^ffffff - Struck units lose %d Battle Qi per second and %d Stamina per second, and Crit Resistance is reduced by %d"}
+{"id": 299, "english": "^ffcc00Level %d^ffffff - Dodge increased by %d"}
+{"id": 300, "english": "^ffcc00Level %d^ffffff - Dodge reduced by %d"}
+{"id": 301, "english": "^ffcc00Level %d^ffffff - Indirect Resistance increased by %d"}
+{"id": 302, "english": "^ffcc00Level %d^ffffff - Defense increased by %d"}
+{"id": 303, "english": "^ffcc00Level %d^ffffff - Defense increased by %d"}
+{"id": 304, "english": "^ffcc00Level %d^ffffff - Defense increased by %d; in the Chain state,<CRLF>Defense increased by %d."}
+{"id": 305, "english": "^ffcc00Level %d^ffffff - Adds %d Damage"}
+{"id": 306, "english": "^ffcc00Level %d^ffffff - Adds %d Damage<CRLF>^00FFFFSkill Mods:<CRLF><CRLF>^00FF40Cost +10 Stamina<CRLF>^FF8000Generates 20 extra Battle Qi<CRLF>^FFFF00Deals enemies an extra 100%% base Damage"}
+{"id": 307, "english": "^ffcc00Level %d^ffffff - Adds %d Damage<CRLF>^00FFFFSkill Mods:<CRLF><CRLF>^00FF40Cost +20 Stamina<CRLF>Cost +20 Battle Qi<CRLF>^FF00FF+4 Hit against enemies<CRLF>^FFFF00Deals enemies an extra 200%% base Damage"}
+{"id": 308, "english": "^ffcc00Level %d^ffffff - Adds %d Damage<CRLF>^00FFFFSkill Mods:<CRLF><CRLF>^00FF40Cost +25 Stamina<CRLF>Cost +20 Battle Qi<CRLF>^FF8000Generates 20 extra Battle Qi<CRLF>^FFFF00Deals enemies an extra 100%% base Damage"}
+{"id": 309, "english": "^ffcc00Level %d^ffffff - Adds %d Damage<CRLF>^00FFFFSkill Mods:<CRLF><CRLF>^00FF40Cost +25 Stamina<CRLF>Cost +30 Battle Qi<CRLF>^FF8000Generates 40 extra Battle Qi<CRLF>^FFFF00Deals enemies an extra 250%% base Damage"}
+{"id": 310, "english": "^ffcc00Level %d^ffffff - Adds %d Damage<CRLF>^00FFFFSkill Mods:<CRLF><CRLF>^00FF40Cost +35 Stamina<CRLF>Cost +20 Battle Qi<CRLF>^FF00FF+4 Hit against enemies<CRLF>^FFFF00Deals enemies an extra 200%% base Damage"}
+{"id": 311, "english": "^ffcc00Level %d^ffffff - Adds %d Damage<CRLF>^00FFFFSkill Mods:<CRLF><CRLF>^00FF40Cost +35 Stamina<CRLF>Cost +30 Battle Qi<CRLF>^FF8000Generates 20 extra Battle Qi<CRLF>^FFFF00Deals enemies an extra 200%% base Damage"}
+{"id": 312, "english": "^ffcc00Level %d^ffffff - Adds %d Damage<CRLF>^00FFFFSkill Mods:<CRLF><CRLF>^00FF40Cost +40 Stamina<CRLF>Cost +30 Battle Qi<CRLF>^FF8000Generates 25 extra Battle Qi<CRLF>^FFFF00Deals enemies an extra 200%% base Damage"}
+{"id": 313, "english": "^ffcc00Level %d^ffffff - Adds %d Damage<CRLF>^00FFFFSkill Mods:<CRLF><CRLF>^00FF40Cost +45 Stamina<CRLF>Cost +10 Battle Qi<CRLF>^FFFF00Deals enemies an extra 300%% base Damage"}
+{"id": 314, "english": "^ffcc00Level %d^ffffff - Adds %d Damage<CRLF>Reduces the target's Attack by %d"}
+{"id": 315, "english": "^ffcc00Level %d^ffffff - Adds %d Damage<CRLF>Reduces the target's Attack Speed and casting speed."}
+{"id": 316, "english": "^ffcc00Level %d^ffffff - Adds %d Damage<CRLF>Reduces the target's Crit Resistance by %d,<CRLF>and Increases own Crit by %d."}
+{"id": 317, "english": "^ffcc00Level %d^ffffff - Adds %d Damage."}
+{"id": 318, "english": "^ffcc00Level %d^ffffff - Adds %d Damage.<CRLF>0 Assassination: causes 1 second of Stun;<CRLF>1 Assassination: causes 1 second of Stun;<CRLF>2 Assassination: causes 2 seconds of Stun;<CRLF>3 Assassination: causes 3 seconds of Stun;<CRLF>4 Assassination: causes 4 seconds of Stun;<CRLF>5 Assassination: causes 5 seconds of Stun."}
+{"id": 319, "english": "^ffcc00Level %d^ffffff - Adds %d Damage,<CRLF>Shock Paralyze chance %d%%"}
+{"id": 320, "english": "^ffcc00Level %d^ffffff - Adds %d Damage,<CRLF>randomly Reduces the target's Defense by 50~%d"}
+{"id": 321, "english": "^ffcc00Level %d^ffffff - Adds %d Damage, Slows by 2.5 m/s"}
+{"id": 322, "english": "^ffcc00Level %d^ffffff - Adds %d Damage; to prone targets, deals damage to the target that Ignores Defense<CRLF>equal to %d%% × Breaker points of your Attack Power"}
+{"id": 323, "english": "^ffcc00Level %d^ffffff - Adds %d Damage, Stuns for %.1f seconds"}
+{"id": 324, "english": "^ffcc00Level %d^ffffff - Adds %d Damage; targets with the Tidal Surge state<CRLF>have a %d%% chance to enter the “Sea-Surge” state"}
+{"id": 325, "english": "^ffcc00Level %d^ffffff - Adds %d Damage, increases Self Movement Speed by %.1f m/s"}
+{"id": 326, "english": "^ffcc00Level %d^ffffff - Bonus: %d Damage"}
+{"id": 327, "english": "^ffcc00Level %d^ffffff - Damage taken reduced by %d%%"}
+{"id": 328, "english": "^ffcc00Level %d^ffffff - Attack Speed reduced by %d%%, adds %d Damage."}
+{"id": 329, "english": "^ffcc00Level %d^ffffff - Attack reduced by %d"}
+{"id": 330, "english": "^ffcc00Level %d^ffffff - Target's Attack Strength reduced by %d%%."}
+{"id": 331, "english": "^ffcc00Level %d^ffffff - Target's Attack Power reduced by %d"}
+{"id": 332, "english": "^ffcc00Level %d^ffffff - Struck units have Attack reduced by %d, Defense reduced by %d, direct Resistance reduced by %d, indirect Resistance reduced by %d"}
+{"id": 333, "english": "^ffcc00Level %d^ffffff - Indirect Damage Resistance reduced by %d"}
+{"id": 334, "english": "^ffcc00Level %d^ffffff - Additionally reduced by 5."}
+{"id": 335, "english": "^ffcc00Level %d^ffffff - Mount's direct Damage Resistance increased by 5."}
+{"id": 336, "english": "^ffcc00Level %d^ffffff - Mount's direct Resistance increased by 10."}
+{"id": 337, "english": "^ffcc00Level %d^ffffff - Mount's indirect Damage Resistance increased by 5."}
+{"id": 338, "english": "^ffcc00Level %d^ffffff - Dispels the skill effects of Charge and Assault."}
+{"id": 339, "english": "^ffcc00Level %d^ffffff - Riding Speed reduced by 2.5 m/s, ground Speed reduced by 2 m/s."}
+{"id": 340, "english": "^ffcc00Level %d^ffffff - Riding Speed reduced by 2 m/s, ground Speed reduced by 1 m/s."}
+{"id": 341, "english": "^ffcc00Level %d^ffffff - Deals %d%% extra Damage to the target while mounted."}
+{"id": 342, "english": "^ffcc00Level %d^ffffff - Deals %d%% extra Damage to the target while mounted.<CRLF>^00FFFFSkill Mods:<CRLF><CRLF>^00FF40Cost +95 Stamina<CRLF>Cost +40 Battle Qi<CRLF>^FF00FF+4 Hit against enemies<CRLF>^FFFF00Deals enemies an extra 750%% base Damage"}
+{"id": 343, "english": "^ffcc00Level %d^ffffff - Riding Agility increased by 20."}
+{"id": 344, "english": "^ffcc00Level %d^ffffff - Charm effect causes Movement Speed reduced by %.1f,<CRLF>Attack Strength reduced by %d%%, lasting up to 5 seconds."}
+{"id": 345, "english": "^ffcc00Level %d^ffffff -On hit, recovers HP equal to %d%% of Max Attack Power"}
+{"id": 346, "english": "^ffcc00Level %d^ffffff -Armor Pierce increased by %d."}
+{"id": 347, "english": "^ffcc00Level %d^ffffff -Damage Resistance increased by %d,<CRLF>Restriction Resistance increased by %d, Seal Resistance increased by %d."}
+{"id": 348, "english": "^ffcc00Level %d^ffffff -Healing received increased by %d%%"}
+{"id": 349, "english": "^ffcc00Level %d^ffffff -Hit increased by %d."}
+{"id": 350, "english": "^ffcc00Level %d^ffffff -Mount Stamina value increased higher than the previous level.<CRLF>Also increases mount Defense by %d."}
+{"id": 351, "english": "^ffcc00Level %d^ffffff -Final Crit Damage taken reduced by %d%%."}
+{"id": 352, "english": "^ffcc00Level %d^ffffff -Final direct Damage taken reduced by %d%%."}
+{"id": 353, "english": "^ffcc00Level %d^ffffff -Final indirect Damage taken reduced by %d%%."}
+{"id": 354, "english": "^ffcc00Level %d^ffffff -Hit value increased by %d"}
+{"id": 355, "english": "^ffcc00Level %d^ffffff -Stun Resistance increased by %d<CRLF>or Crit Resistance increased by %d"}
+{"id": 356, "english": "^ffcc00Level %d^ffffff -Attack and Defense both reduced by up to %d"}
+{"id": 357, "english": "^ffcc00Level %d^ffffff -Attack Power increased by %d%%."}
+{"id": 358, "english": "^ffcc00Level %d^ffffff -Attack Power increased by %d,<CRLF>Attack Strength increased by %d%%, Hit increased by %d."}
+{"id": 359, "english": "^ffcc00Level %d^ffffff -Attack Power increased by %d, Defense increased by %d"}
+{"id": 360, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Long Charge state,<CRLF>Movement Speed increased by %.1f m/s, Restriction Resistance increased by %d"}
+{"id": 361, "english": "^ffcc00Level %d^ffffff -Attack Strength increased by %d%%."}
+{"id": 362, "english": "^ffcc00Level %d^ffffff -Attack increased by %d."}
+{"id": 363, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Balance state,<CRLF>Attack increased by %d, Defense increased by %d, Max HP increased by %d."}
+{"id": 364, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Beauty state,<CRLF>each attack recovers HP equal to %d%% of your own Attack Power."}
+{"id": 365, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Crouching Dragon state,<CRLF>each time you are hit, recovers %d Battle Qi and %d Stamina."}
+{"id": 366, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Twin Heroes state,<CRLF>Attack increased by %d%%, Hit increased by %d."}
+{"id": 367, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Eye-Devouring state,<CRLF>Hit increased by %d."}
+{"id": 368, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Expand Frontiers state,<CRLF>Attack increased by %d%%, Crit increased by %d."}
+{"id": 369, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; Rites state lasts %d seconds."}
+{"id": 370, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Quick Wit state,<CRLF>Movement Speed increased by %.1f m/s, casting speed increased by %d%%."}
+{"id": 371, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Punish Traitors state,<CRLF>Armor Pierce increased by %d."}
+{"id": 372, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Thousand Enemies state,<CRLF>Armor Pierce value increased by %d."}
+{"id": 373, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Rescue state,<CRLF>instantly recovers HP equal to %d%% of Max Attack Power."}
+{"id": 374, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Tyrant state,<CRLF>each attack loses HP equal to %d%% of Max Attack Power and increases Crit by %d."}
+{"id": 375, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Insight state,<CRLF>target's Attack Power reduced by %d%%."}
+{"id": 376, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Shu Tribute state,<CRLF>Attack increased by %d%%, Attack Strength increased by %d%%."}
+{"id": 377, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Remonstrance state, Attack Strength increased by %d%%."}
+{"id": 378, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Phoenix Blessing state,<CRLF>Restriction Resistance increased by %d, state lasts %d seconds."}
+{"id": 379, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Surprise Attack state,<CRLF>Attack Strength increased by %d%%."}
+{"id": 380, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Hundred Paces state,<CRLF>Penetration value increased by %d."}
+{"id": 381, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Bandit-Suppressing state,<CRLF>Crit increased by %d, Crit Damage increased by %d%%."}
+{"id": 382, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Tiger-Crazed state,<CRLF>Attack increased by up to %d."}
+{"id": 383, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; when attacked, %d%% chance to gain the Peerless state."}
+{"id": 384, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; when attacked, %d%% chance to reflect the Silence state."}
+{"id": 385, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Welcome the Imperial state,<CRLF>Crit increased by %d."}
+{"id": 386, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Hegemon state,<CRLF>Attack increased by %d%%, Hit increased by %d."}
+{"id": 387, "english": "^ffcc00Level %d^ffffff -Attack increased by %d; while in the Valor state,<CRLF>Attack Power increased by %d%%."}
+{"id": 388, "english": "^ffcc00Level %d^ffffff -Attack Speed reduced by %d%%,<CRLF>Hit rate reduced by %d."}
+{"id": 389, "english": "^ffcc00Level %d^ffffff -Attack Speed reduced by %d%%,<CRLF>Attack Strength reduced by %d%%."}
+{"id": 390, "english": "^ffcc00Level %d^ffffff -Attack reduced by %d"}
+{"id": 391, "english": "^ffcc00Level %d^ffffff -Crit Resistance increased by %d."}
+{"id": 392, "english": "^ffcc00Level %d^ffffff -Crit increased by %d."}
+{"id": 393, "english": "^ffcc00Level %d^ffffff -Crit Rate increased by up to %d"}
+{"id": 394, "english": "^ffcc00Level %d^ffffff -For every 10%% HP present, Attack Power increased by %d,<CRLF>for every 10%% HP missing, Defense increased by %d."}
+{"id": 395, "english": "^ffcc00Level %d^ffffff -Each stack reduces Attack Power by %d"}
+{"id": 396, "english": "^ffcc00Level %d^ffffff -Recovers %d Stamina per second"}
+{"id": 397, "english": "^ffcc00Level %d^ffffff -Loses HP equal to %d%% of Max Attack Power per second"}
+{"id": 398, "english": "^ffcc00Level %d^ffffff -Healing effect increased by %d%%."}
+{"id": 399, "english": "^ffcc00Level %d^ffffff -Heal amount increased by %d."}
+{"id": 400, "english": "^ffcc00Level %d^ffffff -Magic Resistance + %d, Defense + %d%%"}
+{"id": 401, "english": "^ffcc00Level %d^ffffff -Magic Penetration + %d, Spell Strength + %d%%, Dodge + %d"}
+{"id": 402, "english": "^ffcc00Level %d^ffffff -Drain Resistance reduced by %d."}
+{"id": 403, "english": "^ffcc00Level %d^ffffff -Max HP + %d%%, Attack Power + %d"}
+{"id": 404, "english": "^ffcc00Level %d^ffffff -Max HP + %d%%, Fatal Strike Rate +2"}
+{"id": 405, "english": "^ffcc00Level %d^ffffff -Max HP + %d%%, Defense + %d"}
+{"id": 406, "english": "^ffcc00Level %d^ffffff -Max HP + %d, Crit Resistance +3%%"}
+{"id": 407, "english": "^ffcc00Level %d^ffffff -Max HP + %d, Defense + %d"}
+{"id": 408, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d."}
+{"id": 409, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d,<CRLF>Movement Speed increased by %.1f m/s while Charging,<CRLF>Movement Speed increased by %.1f m/s while Assaulting."}
+{"id": 410, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d,<CRLF>after interrupting a skill use, %d%% chance to Slow the target."}
+{"id": 411, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d,<CRLF>%d%% chance to Stun the attacker for 3 seconds."}
+{"id": 412, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d,<CRLF>the target's extra HP recovered equals %d%% of the Heal amount."}
+{"id": 413, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d,<CRLF>Block-Breaking skill has %d%% chance to cast instantly."}
+{"id": 414, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d,<CRLF>Movement Speed increased by %.1f m/s, Restriction Resistance increased by %d,<CRLF>Stun Resistance increased by %d."}
+{"id": 415, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d,<CRLF>some of your own blessing skills gain an extra %d Defense."}
+{"id": 416, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d,<CRLF>Flying General cool-down reduced by %d seconds."}
+{"id": 417, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d,<CRLF>Movement Speed increased by %.1f m/s while mounted,<CRLF>indirect Resistance increased by %d."}
+{"id": 418, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d,<CRLF>Movement Speed increased by %.1f m/s while mounted, direct Resistance increased by %d."}
+{"id": 419, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; Unbowed state lasts %d seconds."}
+{"id": 420, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d, Charge skill cool-down reduced by %d seconds,<CRLF>will have %d%% chance to Stun the target,<CRLF>additionally deals damage to the target that Ignores Defense equal to %d%% of your Max Attack Power"}
+{"id": 421, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; while in the Duty state,<CRLF>target's Attack Strength reduced by %d%%, Hit reduced by %d."}
+{"id": 422, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d, Leap skill cool-down reduced by %d seconds,<CRLF>will have %d%% chance to Stun the target for 2 seconds,<CRLF>additionally deals damage to the target that Ignores Defense equal to %d%% of your Max Attack Power."}
+{"id": 423, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; while in the Barbarian King state,<CRLF>direct Damage taken by the target increased by %d%%."}
+{"id": 424, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; Dragon Courage state lasts %d seconds."}
+{"id": 425, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; while in the Three Sighs state,<CRLF>healing effect increased by %d%%."}
+{"id": 426, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; while in the Benevolence state,<CRLF>healing received increased by %d%%."}
+{"id": 427, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; while in the Treacherous Bone state,<CRLF>target's Crit Damage taken increased by %d%%."}
+{"id": 428, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; Heaven's Righteousness state lasts %d seconds."}
+{"id": 429, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; while in the Cunning Hero state,<CRLF>reflects %d%% of Ranged Damage."}
+{"id": 430, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; while in the Broken Army state,<CRLF>target's Max HP reduced by %d%%."}
+{"id": 431, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; Carefree state lasts %d seconds."}
+{"id": 432, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; while in the Great Talent state,<CRLF>target's indirect Damage taken increased by %d%%."}
+{"id": 433, "english": "^ffcc00Level %d^ffffff -Max HP increased by %d; while in the Heroic Valor state,<CRLF>Crit increased by %d, Crit Damage increased by %d%%."}
+{"id": 434, "english": "^ffcc00Level %d^ffffff -HP + %d, Hit + %d"}
+{"id": 435, "english": "^ffcc00Level %d^ffffff -HP + %d, Attack Strength +2%%"}
+{"id": 436, "english": "^ffcc00Level %d^ffffff -HP + %d, Direct Resistance +5"}
+{"id": 437, "english": "^ffcc00Level %d^ffffff -HP + %d, Fatal Strike Damage +5%%"}
+{"id": 438, "english": "^ffcc00Level %d^ffffff -HP + %d, Dodge +3"}
+{"id": 439, "english": "^ffcc00Level %d^ffffff -HP increased by %d; while in the Grudge state,<CRLF>reflects %d%% of Melee Damage."}
+{"id": 440, "english": "^ffcc00Level %d^ffffff -Direct and indirect Damage Resistance both increased by %d"}
+{"id": 441, "english": "^ffcc00Level %d^ffffff -Direct Damage Resistance reduction effect decreased by %d, indirect Damage Resistance reduction effect decreased by %d"}
+{"id": 442, "english": "^ffcc00Level %d^ffffff -Direct Resistance increased by %d."}
+{"id": 443, "english": "^ffcc00Level %d^ffffff -Penetration value increased by %d."}
+{"id": 444, "english": "^ffcc00Level %d^ffffff -Soaring Dragon Strike deals %d%% base Damage to the target."}
+{"id": 445, "english": "^ffcc00Level %d^ffffff -Struck target has %d%% chance to enter the Silence state,<CRLF>each attack deals %d%% base Damage."}
+{"id": 446, "english": "^ffcc00Level %d^ffffff -Dodge increased by %d."}
+{"id": 447, "english": "^ffcc00Level %d^ffffff -Indirect Resistance increased by %d."}
+{"id": 448, "english": "^ffcc00Level %d^ffffff -Defense increased by %d,<CRLF>20% chance to increase Dodge by %d"}
+{"id": 449, "english": "^ffcc00Level %d^ffffff -Defense increased by %d."}
+{"id": 450, "english": "^ffcc00Level %d^ffffff -Defense increased by %d; recovers %d%% of Max HP over 5 seconds."}
+{"id": 451, "english": "^ffcc00Level %d^ffffff -Defense increased by %d; while in the One Dragon state,<CRLF>indirect Resistance increased by %d."}
+{"id": 452, "english": "^ffcc00Level %d^ffffff -Defense increased by %d; while in the Unyielding state,<CRLF>indirect Damage taken reduced by %d%%."}
+{"id": 453, "english": "^ffcc00Level %d^ffffff -Defense increased by %d; while in the Raid Camp state,<CRLF>Movement Speed increased by %.1f m/s."}
+{"id": 454, "english": "^ffcc00Level %d^ffffff -Defense increased by %d; while in the Formation Expert state,<CRLF>Crit Damage taken reduced by %d%%."}
+{"id": 455, "english": "^ffcc00Level %d^ffffff -Defense increased by %d; while in the Wondrous Aid state,<CRLF>absorbs %d Damage."}
+{"id": 456, "english": "^ffcc00Level %d^ffffff -Defense increased by %d; while in the Loyal and Upright state,<CRLF>direct Resistance increased by %d."}
+{"id": 457, "english": "^ffcc00Level %d^ffffff -Defense increased by %d; while in the Tearful state,<CRLF>target's HP reduced by %.1f%% of current HP with each attack."}
+{"id": 458, "english": "^ffcc00Level %d^ffffff -Defense increased by %d; while in the Poison Scholar state,<CRLF>healing received by the target reduced by %d%%."}

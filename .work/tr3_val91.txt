@@ -1,0 +1,71 @@
+value-not-key records: 91
+
+======================================================================
+batch_000.jsonl id=235
+  in/ src    len=104    realLF=0    realCR=0    lit\r=0    lit\n=0    <CRLF>=0   <LF>=3   <CR>=0  
+  key        len=95     realLF=3    realCR=0    lit\r=0    lit\n=0    <CRLF>=0   <LF>=0   <CR>=0  
+  value      len=104    realLF=0    realCR=0    lit\r=0    lit\n=0    <CRLF>=0   <LF>=3   <CR>=0  
+  in/ src == key : False
+  in/ src repr   : '^7fffff优惠出售礼包^ffffff<LF>新手专用之豪华礼包，居家旅行、杀怪练级必备<LF>之物。包括天女纱1个、补天石1个、缩地令旗5个、千里传音10个、粗木炭2个、黄铜纺缍<LF>2个、海盐20个。'
+  key repr       : '^7fffff优惠出售礼包^ffffff\n新手专用之豪华礼包，居家旅行、杀怪练级必备\n之物。包括天女纱1个、补天石1个、缩地令旗5个、千里传音10个、粗木炭2个、黄铜纺缍\n2个、海盐20个。'
+======================================================================
+batch_003.jsonl id=262
+  in/ src    len=90     realLF=0    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=2   <CR>=0  
+  key        len=84     realLF=2    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=0   <CR>=0  
+  value      len=90     realLF=0    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=2   <CR>=0  
+  in/ src == key : False
+  in/ src repr   : '^7fffff使用：右键点击开启礼包。\\r<LF>^fff600从礼袋中获得的豪华礼包，内含白鹤羽冠(男)一个！\\r<LF>^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+  key repr       : '^7fffff使用：右键点击开启礼包。\\r\n^fff600从礼袋中获得的豪华礼包，内含白鹤羽冠(男)一个！\\r\n^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+======================================================================
+batch_003.jsonl id=263
+  in/ src    len=90     realLF=0    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=2   <CR>=0  
+  key        len=84     realLF=2    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=0   <CR>=0  
+  value      len=90     realLF=0    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=2   <CR>=0  
+  in/ src == key : False
+  in/ src repr   : '^7fffff使用：右键点击开启礼包。\\r<LF>^fff600从礼袋中获得的豪华礼包，内含白鹤羽衣(女)一个！\\r<LF>^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+  key repr       : '^7fffff使用：右键点击开启礼包。\\r\n^fff600从礼袋中获得的豪华礼包，内含白鹤羽衣(女)一个！\\r\n^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+======================================================================
+batch_003.jsonl id=264
+  in/ src    len=90     realLF=0    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=2   <CR>=0  
+  key        len=84     realLF=2    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=0   <CR>=0  
+  value      len=90     realLF=0    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=2   <CR>=0  
+  in/ src == key : False
+  in/ src repr   : '^7fffff使用：右键点击开启礼包。\\r<LF>^fff600从礼袋中获得的豪华礼包，内含白鹤羽袍(男)一个！\\r<LF>^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+  key repr       : '^7fffff使用：右键点击开启礼包。\\r\n^fff600从礼袋中获得的豪华礼包，内含白鹤羽袍(男)一个！\\r\n^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+======================================================================
+batch_003.jsonl id=265
+  in/ src    len=90     realLF=0    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=2   <CR>=0  
+  key        len=84     realLF=2    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=0   <CR>=0  
+  value      len=90     realLF=0    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=2   <CR>=0  
+  in/ src == key : False
+  in/ src repr   : '^7fffff使用：右键点击开启礼包。\\r<LF>^fff600从礼袋中获得的豪华礼包，内含白鹤羽饰(女)一个！\\r<LF>^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+  key repr       : '^7fffff使用：右键点击开启礼包。\\r\n^fff600从礼袋中获得的豪华礼包，内含白鹤羽饰(女)一个！\\r\n^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+======================================================================
+batch_003.jsonl id=266
+  in/ src    len=87     realLF=0    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=2   <CR>=0  
+  key        len=81     realLF=2    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=0   <CR>=0  
+  value      len=87     realLF=0    realCR=0    lit\r=2    lit\n=0    <CRLF>=0   <LF>=2   <CR>=0  
+  in/ src == key : False
+  in/ src repr   : '^7fffff使用：右键点击开启礼包。\\r<LF>^fff600从礼袋中获得的豪华礼包，内含秘文·狂一个！\\r<LF>^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+  key repr       : '^7fffff使用：右键点击开启礼包。\\r\n^fff600从礼袋中获得的豪华礼包，内含秘文·狂一个！\\r\n^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+
+======================================================================
+need.json keys containing real LF: 91
+total real LF across those keys: 244
+  key   : '^7fffff优惠出售礼包^ffffff\n新手专用之豪华礼包，居家旅行、杀怪练级必备\n之物。包括天女纱1个、补天石1个、缩地令旗5个、千里传音10个、粗木炭2个、黄铜纺缍\n2个、海盐20个。'
+  value : '^7fffff优惠出售礼包^ffffff<LF>新手专用之豪华礼包，居家旅行、杀怪练级必备<LF>之物。包括天女纱1个、补天石1个、缩地令旗5个、千里传音10个、粗木炭2个、黄铜纺缍<LF>2个、海盐20个。'
+  value has sentinels: <CRLF>=0 <LF>=3 <CR>=0  realLF=0
+
+  key   : '^7fffff使用：右键点击开启礼包。\\r\n^fff600从礼袋中获得的豪华礼包，内含白鹤羽冠(男)一个！\\r\n^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+  value : '^7fffff使用：右键点击开启礼包。\\r<LF>^fff600从礼袋中获得的豪华礼包，内含白鹤羽冠(男)一个！\\r<LF>^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+  value has sentinels: <CRLF>=0 <LF>=2 <CR>=0  realLF=0
+
+  key   : '^7fffff使用：右键点击开启礼包。\\r\n^fff600从礼袋中获得的豪华礼包，内含白鹤羽衣(女)一个！\\r\n^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+  value : '^7fffff使用：右键点击开启礼包。\\r<LF>^fff600从礼袋中获得的豪华礼包，内含白鹤羽衣(女)一个！\\r<LF>^7fffff请在包裹栏中留出至少1格以便领取礼包物品。'
+  value has sentinels: <CRLF>=0 <LF>=2 <CR>=0  realLF=0
+
+======================================================================
+file contains the multi-line original? idx=813914
+  file span == key: True
+  file span repr  : '^7fffff优惠出售礼包^ffffff\n新手专用之豪华礼包，居家旅行、杀怪练级必备\n之物。包括天女纱1个、补天石1个、缩地令旗5个、千里传音10个、粗木炭2个、黄铜纺缍\n2个、海盐20个。'
+exit=0

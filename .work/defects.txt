@@ -1,0 +1,17 @@
+non-ascii punctuation chars found: {'”': 399, '“': 399, '—': 59, '–': 11, '’': 117, '…': 2}
+
+records where source line1 has U+00B7 but english line1 lost it and has a colon: 193
+   ('batch_002', 1, '^c3dbff力战·怒', '^c3dbffBattle Might: Wrath')
+   ('batch_002', 2, '^c3dbff力战·破', '^c3dbffBattle Might: Break')
+   ('batch_002', 4, '^c3dbff力透千钧·强攻', '^c3dbffPiercing Force: Fierce Attack')
+   ('batch_002', 5, '^c3dbff力透千钧·血浴', '^c3dbffPiercing Force: Blood Bath')
+   ('batch_002', 13, '^c3dbff勇战三英·力', '^c3dbffDuel the Three Heroes: Force')
+   ('batch_002', 14, '^c3dbff勇战三英·技', '^c3dbffDuel the Three Heroes: Skill')
+
+records with "Req.:" style typo: 24
+   ('batch_014', 8, '^c3dbffHeart-Piercing Fury^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: II<CRLF>Learning Req.: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attacks ')
+   ('batch_014', 9, '^c3dbffHeart-Piercing Fury: Assault<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffBoosts the damage ')
+   ('batch_014', 10, '^c3dbffHeart-Piercing Fury: Awe<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffHeart-Piercing Fury ha')
+   ('batch_014', 33, '^c3dbffYama Strike^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: II<CRLF>Learning Req.: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the tar')
+   ('batch_014', 34, '^c3dbffYama Strike: Assault<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt b')
+   ('batch_014', 35, '^c3dbffYama Strike: Drift<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Melee<CRLF><CRLF>^ffffffYama Strike has a chance to')

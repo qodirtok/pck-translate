@@ -1,0 +1,231 @@
+{"id": 1, "english": "^c3dbffEscape Unscathed<CRLF><CRLF>^ffffffEscape Unscathed"}
+{"id": 2, "english": "^c3dbffEscape Unscathed<CRLF><CRLF>^ffffffEscape Unscathed."}
+{"id": 3, "english": "^c3dbffEight Wastelands<CRLF><CRLF>If hit by a critical strike, you will suffer additional HP loss."}
+{"id": 4, "english": "^c3dbffEight Formations<CRLF><CRLF>^ffffffDefense and attack intensity increased."}
+{"id": 5, "english": "^c3dbffSix Strategies<CRLF><CRLF>^ffffffThis book can be read in the safe zone, granting a certain amount of Civilian Merit every 5 minutes."}
+{"id": 6, "english": "^c3dbffSlay the Traitor Together<CRLF><CRLF>^ffffffLet us join forces and bring down Han Xuan!"}
+{"id": 7, "english": "^c3dbffKing of Guanzhong<CRLF><CRLF>^ffffffCompleted the King of Guanzhong quest."}
+{"id": 8, "english": "^c3dbffArt of War<CRLF><CRLF>^ffffffThis book can be read in the safe zone.<CRLF>Gain a certain amount of Training and Experience value every minute,<CRLF>as well as a certain amount of Merit value every 5 minutes."}
+{"id": 9, "english": "^c3dbffArt of War<CRLF><CRLF>^ffffffThis book can be read in the safe zone.<CRLF>Gain a certain amount of EXP every minute,<CRLF>as well as a certain amount of Merit value every 5 minutes."}
+{"id": 10, "english": "^c3dbffSupply Line Severed<CRLF><CRLF>Reduced bonus damage."}
+{"id": 11, "english": "^c3dbffInternal Injury<CRLF><CRLF>^ffffffHitting a target will cause you to suffer some damage."}
+{"id": 12, "english": "^c3dbffLegion Frozen<CRLF>^ffffffYou have changed your original Legion affiliation, and cannot join some Legion-related activities for now.<CRLF>You may join normally again from 00:00 next Monday."}
+{"id": 13, "english": "^c3dbffLegion Base Lost<CRLF><CRLF>^ffffffIn the Legion Base battle, the base unfortunately fell. The entire Legion mourns."}
+{"id": 14, "english": "^c3dbffArmy Formation<CRLF><CRLF>^ffffffAttack greatly increased!"}
+{"id": 15, "english": "^c3dbffNether Aura<CRLF><CRLF>^ffffffContinuously lose HP."}
+{"id": 16, "english": "^c3dbffNether Aura<CRLF><CRLF>^ffffffEvery attack drains HP<CRLF>Recovers to normal after taking damage 3 times"}
+{"id": 17, "english": "^c3dbffFreeze<CRLF><CRLF>^ffffffMount frozen."}
+{"id": 18, "english": "^c3dbffFreeze<CRLF><CRLF>^ffffffUnable to move."}
+{"id": 19, "english": "^c3dbffFreeze<CRLF><CRLF>^ffffffUnable to move or attack."}
+{"id": 20, "english": "^c3dbffIcebound<CRLF><CRLF>^ffffffMust land four hits, otherwise you will freeze yourself."}
+{"id": 21, "english": "^c3dbffIce Heart<CRLF><CRLF>^ffffffBeing hit may trigger the Lament status."}
+{"id": 22, "english": "^c3dbffIce Breath<CRLF><CRLF>^ffffffContinuously causes frostbite and immobilization, and lowers maximum HP."}
+{"id": 23, "english": "^c3dbffIce Qi<CRLF><CRLF>^ffffffContinuously lose HP."}
+{"id": 24, "english": "^c3dbffIce Armor<CRLF><CRLF>^ffffffCrystal ice gathers to form an inviolable armor.<CRLF>Attacking Lu Xun while he is in the Ice Armor status will cause you to enter the Frozen status."}
+{"id": 25, "english": "^c3dbffIce Armor Art<CRLF><CRLF>^ffffffAn armor technique used by civil officials who wield fans.<CRLF>When activated, Defense is raised, while Restriction Resistance is greatly increased.<CRLF>"}
+{"id": 26, "english": "^c3dbffIce Assault<CRLF><CRLF>^ffffffThe attacker's mount has a chance to be affected by the icy aura,<CRLF>giving it a chance to be frozen and immobilized. Takes effect at most 10 times."}
+{"id": 27, "english": "^c3dbffIce Rain<CRLF>^ffffffEvasion reduced."}
+{"id": 28, "english": "^c3dbffKnock Down<CRLF><CRLF>^ffffffKnocks down a target on foot."}
+{"id": 29, "english": "^c3dbffDash<CRLF><CRLF>^ffffffMovement speed increased."}
+{"id": 30, "english": "^c3dbffDash Tactic<CRLF><CRLF>^ffffffA tactic used by generals who wield hammers.<CRLF>When activated, movement speed gradually increases outside of battle,<CRLF>and some moves gain special effects while dashing.<CRLF>Stops once you attack."}
+{"id": 31, "english": "^c3dbffDash Tactic<CRLF><CRLF>^ffffffA tactic used by generals who wield hammers.<CRLF>When activated, movement speed gradually increases outside of battle,<CRLF>and some moves gain special effects while dashing.<CRLF>Stops once you attack.<CRLF>---This is the main status"}
+{"id": 32, "english": "^c3dbffRam<CRLF><CRLF>^ffffffDeals damage to enemies you collide with,<CRLF>and has a chance to interrupt their skill casting."}
+{"id": 33, "english": "^c3dbffCharge<CRLF><CRLF>^ffffffMounted combat speed increased."}
+{"id": 34, "english": "^c3dbffCharge<CRLF>^ffffffCharge the fray, forge your name and claim your glory!"}
+{"id": 35, "english": "^c3dbffOvercharged<CRLF>^ffffffYou cannot gain too many Power boosts."}
+{"id": 36, "english": "^c3dbffCharge the Foe<CRLF><CRLF>^ffffffFight on! The Wu soldiers have broken through the enemy lines!"}
+{"id": 37, "english": "^c3dbffCharge the Foe<CRLF><CRLF>^ffffffFight on! The Shu soldiers have broken through the enemy lines!"}
+{"id": 38, "english": "^c3dbffCharge the Foe<CRLF><CRLF>^ffffffFight on! The Wei soldiers have broken through the enemy lines!<CRLF><CRLF>"}
+{"id": 39, "english": "^c3dbffFormation Rush<CRLF><CRLF>^ffffffBoosts the effects of certain skills."}
+{"id": 40, "english": "^c3dbffKnock Away<CRLF><CRLF>^ffffffKnocks a target on foot flying."}
+{"id": 41, "english": "^c3dbffCool Down<CRLF><CRLF>^ffffffYour fury has subsided a little."}
+{"id": 42, "english": "^c3dbffCold Blood<CRLF><CRLF>^ffffffCritical chance of your next attack increased."}
+{"id": 43, "english": "^c3dbffFrostbite<CRLF><CRLF>^ffffffThe target is Frostbitten.<CRLF>Movement speed reduced, and healing effects weakened."}
+{"id": 44, "english": "^c3dbffNumbed<CRLF><CRLF>^ffffffEvasion greatly reduced!"}
+{"id": 45, "english": "^c3dbffFrost Snow Weather<CRLF><CRLF>^ffffffHit and evasion reduced, resistance greatly reduced."}
+{"id": 46, "english": "^c3dbffDisheveled<CRLF><CRLF>^ffffffThe next time you are hit, you will be immobilized."}
+{"id": 47, "english": "^c3dbffDisheveled<CRLF><CRLF>^ffffffBeing hit has a chance to stun you."}
+{"id": 48, "english": "^c3dbffRising Wind<CRLF><CRLF>^ffffffMount Defense increased,<CRLF>and mount critical resistance increased by 5."}
+{"id": 49, "english": "^c3dbffSlow<CRLF><CRLF>^ffffffGreatly reduces mount movement speed."}
+{"id": 50, "english": "^c3dbffSlow<CRLF><CRLF>^ffffffSlows a target on foot."}
+{"id": 51, "english": "^c3dbffSlow<CRLF><CRLF>^ffffffMovement speed reduced."}
+{"id": 52, "english": "^c3dbffFocused Mind<CRLF><CRLF>^ffffffSubsequent martial skill critical chance increased."}
+{"id": 53, "english": "^c3dbffConcentration<CRLF><CRLF>^ffffffAttack speed increased."}
+{"id": 54, "english": "^c3dbffConcentration<CRLF><CRLF>^ffffffHP recovery speed greatly increased.<CRLF>Also effective in combat."}
+{"id": 55, "english": "^c3dbffSteady Stance<CRLF><CRLF>^ffffffRecovers HP and increases damage resistance."}
+{"id": 56, "english": "^c3dbffPhoenix Grace<CRLF><CRLF>^ffffffRestriction Resistance increased."}
+{"id": 57, "english": "^c3dbffPhoenix Dance<CRLF><CRLF>^ffffffEnter the Phoenix Dance state, continuously draining Stamina."}
+{"id": 58, "english": "^c3dbffFengchu Appears<CRLF><CRLF>^ffffffJust as Zhuge Liang predicted."}
+{"id": 59, "english": "^c3dbffFengchu Born<CRLF><CRLF>^ffffffJust as Zhuge Liang predicted."}
+{"id": 60, "english": "^c3dbffKnockdown<CRLF><CRLF>^ffffffKnocked down."}
+{"id": 61, "english": "^c3dbffKnockdown<CRLF><CRLF>^ffffffA severe stun. Unable to act, and direct resistance reduced."}
+{"id": 62, "english": "^c3dbffKnockdown<CRLF><CRLF>^ffffffKnocked to the ground, unable to act, and Defense reduced."}
+{"id": 63, "english": "^c3dbffStun Resistance Boosted"}
+{"id": 64, "english": "^c3dbffStun Resistance Reduced"}
+{"id": 65, "english": "^c3dbffKill Protection<CRLF><CRLF>^ffffffWithin 5 minutes, if you are killed 5 times,<CRLF>your killers will no longer earn Merit from you."}
+{"id": 66, "english": "^c3dbffKill the Grain Thief<CRLF>"}
+{"id": 67, "english": "^c3dbffKill the Enemy General<CRLF>^ffffffComplete the quest by killing the enemy general."}
+{"id": 68, "english": "^c3dbffBreak<CRLF><CRLF>^ffffffResistance to stun reduced."}
+{"id": 69, "english": "^c3dbffBroke Through Rest Gate Stage 1"}
+{"id": 70, "english": "^c3dbffBroke Through Rest Gate Stage 7"}
+{"id": 71, "english": "^c3dbffBroke Through Rest Gate Stage 3"}
+{"id": 72, "english": "^c3dbffBroke Through Rest Gate Stage 2"}
+{"id": 73, "english": "^c3dbffBroke Through Rest Gate Stage 5"}
+{"id": 74, "english": "^c3dbffBroke Through Rest Gate Stage 8"}
+{"id": 75, "english": "^c3dbffBroke Through Rest Gate Stage 6"}
+{"id": 76, "english": "^c3dbffBroke Through Rest Gate Stage 4"}
+{"id": 77, "english": "^c3dbffBroke Through Chaofeng"}
+{"id": 78, "english": "^c3dbffDefeated the Enraged Snowman!<CRLF><CRLF>^ffffffYou defeated the Enraged Snowman! For the next hour you cannot again gain<CRLF>^ffffffrewards from defeating the Enraged Snowman."}
+{"id": 79, "english": "^c3dbffDrove Off the Defender"}
+{"id": 80, "english": "^c3dbffDrove Off the Defender<CRLF>"}
+{"id": 81, "english": "^c3dbffKnocked Back<CRLF><CRLF>^ffffffKnocked back, unable to move or attack.<CRLF>Critical resistance reduced."}
+{"id": 82, "english": "^c3dbffBlade of Sha<CRLF><CRLF>^ffffffA special dance state that produces additional effects."}
+{"id": 83, "english": "^c3dbffBlade of Sha<CRLF><CRLF>^ffffffA special dance that boosts your attack state."}
+{"id": 84, "english": "^c3dbffShare the Turkey<CRLF><CRLF>^ffffffA delicious, juicy turkey.<CRLF>Come and share it with your friends!<CRLF>"}
+{"id": 85, "english": "^c3dbffDistracted<CRLF><CRLF>^ffffffMaximum HP reduced!"}
+{"id": 86, "english": "^c3dbffDaze<CRLF><CRLF>^ffffffAttack intensity and hit rate reduced."}
+{"id": 87, "english": "^c3dbffClone's Blessing<CRLF><CRLF>^ffffffThe commander is shielded by the clone.<CRLF>You will take no damage until the clone disappears."}
+{"id": 88, "english": "^c3dbffSwitch Stance<CRLF><CRLF>^ffffffAdjust how you carry your weapon outside of combat.<CRLF>When on foot, you can hide your weapon outside of battle.<CRLF>When mounted, you will hold your weapon in hand.<CRLF>Specific actions (such as horsewhip, mounted combat, etc.) will end this state."}
+{"id": 89, "english": "^c3dbffLie<CRLF>^ffffffAn inspiring art that boosts war chariot attributes."}
+{"id": 90, "english": "^c3dbffValiant<CRLF><CRLF>^ffffffAttack Power increased."}
+{"id": 91, "english": "^c3dbffSavage<CRLF><CRLF>^ffffffDefense and critical resistance increased."}
+{"id": 92, "english": "^c3dbffFortitude<CRLF><CRLF>^ffffffDefense increased."}
+{"id": 93, "english": "^c3dbffBasic Dispel"}
+{"id": 94, "english": "^c3dbffSharp Edge<CRLF><CRLF>^ffffffAttack intensity increased by 5%."}
+{"id": 95, "english": "^c3dbffScrape the Bone<CRLF><CRLF>^ffffffRecovers HP"}
+{"id": 96, "english": "^c3dbffBalance<CRLF><CRLF>^ffffffAttack, Defense and maximum HP increased."}
+{"id": 97, "english": "^c3dbffBalance<CRLF><CRLF>^ffffffCritical resistance raised to 100."}
+{"id": 98, "english": "^c3dbffOverpower<CRLF><CRLF>^ffffffYour dominance is manifest; your next attack is guaranteed to be a critical."}
+{"id": 99, "english": "^c3dbffPierce Wound<CRLF><CRLF>^ffffffDamage resistance reduced, and damage dealt immediately."}
+{"id": 100, "english": "^c3dbffPierce Wound<CRLF><CRLF>^ffffffReduces damage resistance, Defense points, and healing effects."}
+{"id": 101, "english": "^c3dbffAssassinate<CRLF>^ffffffGreatly increases the damage of finishing moves."}
+{"id": 102, "english": "^c3dbffSpiked Armor<CRLF><CRLF>^ffffffDirect damage resistance reduced."}
+{"id": 103, "english": "^c3dbffPierce Boosted"}
+{"id": 104, "english": "^c3dbffPierce Points Increased<CRLF>"}
+{"id": 105, "english": "^c3dbffPierce<CRLF><CRLF>^ffffffHeavy blood loss, with Stamina continuously draining."}
+{"id": 106, "english": "^c3dbffPierce Beauty<CRLF><CRLF>^ffffffRecovers HP with every attack"}
+{"id": 107, "english": "^c3dbffPierce to the Bone<CRLF><CRLF>^ffffffSpeed reduced, and direct damage taken increased."}
+{"id": 108, "english": "^c3dbffQian<CRLF>^ffffffAn inspiring art that boosts war chariot attributes."}
+{"id": 109, "english": "^c3dbffSword Aura<CRLF><CRLF>^ffffffDirect and indirect resistance increased."}
+{"id": 110, "english": "^c3dbffSword Aura<CRLF><CRLF>^ffffffMount direct resistance increased."}
+{"id": 111, "english": "^c3dbffLethal Poison<CRLF><CRLF>^ffffffStruck by lethal poison, continuously taking damage.<CRLF>"}
+{"id": 112, "english": "^c3dbffGash<CRLF><CRLF>^ffffffLoses a certain amount of HP every 2 seconds."}
+{"id": 113, "english": "^c3dbffCleave Wound<CRLF><CRLF>^ffffffReduces maximum HP and Defense points."}
+{"id": 114, "english": "^c3dbffCleave Wound<CRLF><CRLF>^ffffffReduces maximum HP, Defense points, and healing effects."}
+{"id": 115, "english": "^c3dbffForceful Combat<CRLF><CRLF>^ffffffEach hit randomly increases attack intensity."}
+{"id": 116, "english": "^c3dbffMerit Reward<CRLF>^ffffffIn the Battle of Red Cliffs daily commission quests,<CRLF>copper and silver coin rewards are doubled."}
+{"id": 117, "english": "^c3dbffHaste<CRLF><CRLF>^ffffffMovement speed increased."}
+{"id": 118, "english": "^c3dbffHaste Aura<CRLF><CRLF>^ffffffIncreases movement speed."}
+{"id": 119, "english": "^c3dbffRaid the Camp<CRLF><CRLF>^ffffffMovement speed increased."}
+{"id": 120, "english": "^c3dbffHeavy Crossbow<CRLF><CRLF>^ffffffAttack range increased,<CRLF>with Attack Power and Pierce points increased."}
+{"id": 121, "english": "^c3dbffLabor Day Reward<CRLF>^ffffffYou were hit by a Labor Day fruit!"}
+{"id": 122, "english": "^c3dbffBravest in the Army<CRLF><CRLF>^ffffffYou will receive the finest rewards!"}
+{"id": 123, "english": "^c3dbffClimb to New Heights<CRLF><CRLF>^ffffffKeep it up!"}
+{"id": 124, "english": "^c3dbffClimb to New Heights<CRLF><CRLF>^ffffffKeep it up!<CRLF>"}
+{"id": 125, "english": "^c3dbffValor<CRLF><CRLF>^ffffffImmune to slow and immobilization effects."}
+{"id": 126, "english": "^c3dbffValor<CRLF><CRLF>^ffffffImmune to stun effects."}
+{"id": 127, "english": "^c3dbffAmbush from All Sides<CRLF><CRLF>^ffffffBeing hit by Ambush from All Sides again deals extra damage, lasting up to 20 seconds."}
+{"id": 128, "english": "^c3dbffThousand Cavalry<CRLF><CRLF>^ffffffUsing the “Wrath” or “Break”<CRLF>skill while this state is active grants additional effects."}
+{"id": 129, "english": "^c3dbffThousand-Split Kick<CRLF><CRLF>^ffffffYour lower body has been struck, leaving you stunned.<CRLF>Enemies can exploit this moment to press their attack."}
+{"id": 130, "english": "^c3dbffRising Dragon<CRLF><CRLF>^ffffffWind-Chase Thrust combo changes into Rising Dragon."}
+{"id": 131, "english": "^c3dbffCapture the Outpost<CRLF><CRLF>^ffffffYou have successfully recaptured the outpost from the Yellow Turban Army."}
+{"id": 132, "english": "^c3dbffCapture Baidi City: Our forces charged the fray and seized Baidi City in victory!"}
+{"id": 133, "english": "^c3dbffSleeping Dragon<CRLF><CRLF>^ffffffRecovers Stamina and fighting spirit when hit."}
+{"id": 134, "english": "^c3dbffDragon's Rebirth<CRLF>^ffffffKill Zhou Gongjin, who is blocking the Sleeping Dragon's rebirth, to earn a reward!"}
+{"id": 135, "english": "^c3dbffSoul Seal<CRLF>^ffffffDirect resistance and evasion reduced."}
+{"id": 136, "english": "^c3dbffDanger Lurks on All Sides<CRLF><CRLF>^ffffffYou are in the Wuzhangyuan military restricted zone."}
+{"id": 137, "english": "^c3dbffFierce Wind<CRLF><CRLF>^ffffffSubsequent skills' base attack multiplier increased."}
+{"id": 138, "english": "^c3dbffSuppress<CRLF><CRLF>^ffffffCannot use in-combat movement skills."}
+{"id": 139, "english": "^c3dbffSuppress Tactic<CRLF><CRLF>^ffffffA tactic used by generals who wield halberds.<CRLF>When activated, Attack Power is increased,<CRLF>and you can gain fighting spirit from normal attacks."}
+{"id": 140, "english": "^c3dbffParticipation Reward<CRLF>^ffffffTaking part is what matters."}
+{"id": 141, "english": "^c3dbffTwin Heroes<CRLF><CRLF>^ffffffHit rate increased."}
+{"id": 142, "english": "^c3dbffTwin Heroes<CRLF><CRLF>^ffffffAttack Power greatly increased."}
+{"id": 143, "english": "^c3dbffCounterattack<CRLF><CRLF>^ffffffCounterattack points, up to a maximum of 10."}
+{"id": 144, "english": "^c3dbffCounterattack<CRLF><CRLF>^ffffffAttack Power increased."}
+{"id": 145, "english": "^c3dbffCounterattack (Deprecated)<CRLF><CRLF>^ffffffCan immediately use counterattack moves."}
+{"id": 146, "english": "^c3dbffBacklash<CRLF>^ffffffWeakens the effect of Tiger Roar."}
+{"id": 147, "english": "^c3dbffAnti-Cheat Reward<CRLF><CRLF>^ffffffYou passed the anti-cheat quiz verification.<CRLF>Your HP, Stamina, and fighting spirit have been restored."}
+{"id": 148, "english": "^c3dbffReflected Light<CRLF><CRLF>^ffffffDisarmed."}
+{"id": 149, "english": "^c3dbffReflect All Damage"}
+{"id": 150, "english": "^c3dbffReflect Weaken Body"}
+{"id": 151, "english": "^c3dbffReflect Melee Damage"}
+{"id": 152, "english": "^c3dbffReflect Ranged Damage"}
+{"id": 153, "english": "^c3dbffReflect Ranged Damage<CRLF>"}
+{"id": 154, "english": "^c3dbffRebellious Bone<CRLF><CRLF>^ffffffCritical damage taken increased."}
+{"id": 155, "english": "^c3dbffWounded Counterattack"}
+{"id": 156, "english": "^c3dbffWounded Counterattack<CRLF><CRLF>^ffffffDeals damage after 30 seconds."}
+{"id": 157, "english": "^c3dbffDamage Resistance Reduced"}
+{"id": 158, "english": "^c3dbffAssailed<CRLF><CRLF>^ffffffAttacked and covered in wounds.<CRLF>"}
+{"id": 159, "english": "^c3dbffAncient Book<CRLF><CRLF>^ffffffThis book can be read in the safe zone.<CRLF>Gain a certain amount of Training and Experience value every minute."}
+{"id": 160, "english": "^c3dbffAncient Book<CRLF><CRLF>^ffffffThis book can be read in the safe zone.<CRLF>Gain a certain amount of EXP every minute."}
+{"id": 161, "english": "^c3dbffAncient Evil<CRLF><CRLF>^ffffffAttack Power increased.<CRLF>In the Awakened state, attacks have a chance to trigger the Evil Lai state."}
+{"id": 162, "english": "^c3dbffGuding<CRLF><CRLF>^ffffffCannot benefit from Pierce effects."}
+{"id": 163, "english": "^c3dbffEye of Jumang<CRLF><CRLF>^ffffffA blessing state; gain a certain amount of Training value every 30 seconds.<CRLF>Also has a chance to obtain a Tiger Talisman Treasure Chest.<CRLF>"}
+{"id": 164, "english": "^c3dbffCommand<CRLF><CRLF>^ffffffGain 30 Stamina. Affected by this effect at most once every 4 seconds."}
+{"id": 165, "english": "^c3dbffEat Bun<CRLF>^ffffffYou ate a bun."}
+{"id": 166, "english": "^c3dbffEat Roast Chicken<CRLF>^ffffffYou ate a roast chicken."}
+{"id": 167, "english": "^c3dbffEat Chicken Leg<CRLF>^ffffffYou ate a chicken leg."}
+{"id": 168, "english": "^c3dbffVertical Alliance<CRLF><CRLF>^ffffffFighting alongside Shadow Guards greatly reduces the target's melee resistance."}
+{"id": 169, "english": "^c3dbffFestive Celebration<CRLF>^ffffffThe whole world celebrates together, with plentiful rewards."}
+{"id": 170, "english": "^c3dbffMutual Destruction<CRLF><CRLF>^ffffffYou take damage with every attack.<CRLF>"}
+{"id": 171, "english": "^c3dbffAllied Assault: Those who follow the Way receive much aid. Gather the strength of your allies to defeat the lone army!"}
+{"id": 172, "english": "^c3dbffComrades-in-Arms, Never Abandoned<CRLF><CRLF>^ffffffWith this, you automatically obtain the title “Comrades-in-Arms, Never Abandoned.”"}
+{"id": 173, "english": "^c3dbffStrike First<CRLF><CRLF>^ffffffCritical chance of your next attack increased."}
+{"id": 174, "english": "^c3dbffDevourer<CRLF><CRLF>^ffffffDrains a certain amount of fighting spirit to yourself when attacking."}
+{"id": 175, "english": "^c3dbffSwallow the Nation Battle Merit<CRLF>^ffffffYou participated in slaying three key enemy figures in the Battle of Red Cliffs.<CRLF>Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle ends.<CRLF>Slaying two key figures earns a Formation-Breaking tier Battle Merit reward after the battle ends.<CRLF>Slaying three to five key figures earns a Nation-Swallowing tier Battle Merit reward after the battle ends.<CRLF>Slaying six key figures earns an Unmatched tier Battle Merit reward after the battle ends.<CRLF>"}
+{"id": 176, "english": "^c3dbffSwallow the Nation Battle Merit<CRLF>^ffffffYou participated in slaying five key enemy figures in the Battle of Red Cliffs.<CRLF>Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle ends.<CRLF>Slaying two key figures earns a Formation-Breaking tier Battle Merit reward after the battle ends.<CRLF>Slaying three to five key figures earns a Nation-Swallowing tier Battle Merit reward after the battle ends.<CRLF>Slaying six key figures earns an Unmatched tier Battle Merit reward after the battle ends."}
+{"id": 177, "english": "^c3dbffSwallow the Nation Battle Merit<CRLF>^ffffffYou participated in slaying four key enemy figures in the Battle of Red Cliffs.<CRLF>Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle ends.<CRLF>Slaying two key figures earns a Formation-Breaking tier Battle Merit reward after the battle ends.<CRLF>Slaying three to five key figures earns a Nation-Swallowing tier Battle Merit reward after the battle ends.<CRLF>Slaying six key figures earns an Unmatched tier Battle Merit reward after the battle ends."}
+{"id": 178, "english": "^c3dbffSwallow the Nation Battle Merit<CRLF>^ffffffYou participated in slaying three key enemy figures in the Red Cliffs Outpost Battle.<CRLF>Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle ends.<CRLF>Slaying two key figures earns a Formation-Breaking tier Battle Merit reward after the battle ends.<CRLF>Slaying three to five key figures earns a Nation-Swallowing tier Battle Merit reward after the battle ends.<CRLF>Slaying six key figures earns an Unmatched tier Battle Merit reward after the battle ends."}
+{"id": 179, "english": "^c3dbffSwallow the Nation Battle Merit<CRLF>^ffffffYou participated in slaying five key enemy figures in the Red Cliffs Outpost Battle.<CRLF>Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle ends.<CRLF>Slaying two key figures earns a Formation-Breaking tier Battle Merit reward after the battle ends.<CRLF>Slaying three to five key figures earns a Nation-Swallowing tier Battle Merit reward after the battle ends.<CRLF>Slaying six key figures earns an Unmatched tier Battle Merit reward after the battle ends."}
+{"id": 180, "english": "^c3dbffSwallow the Nation Battle Merit<CRLF>^ffffffYou participated in slaying four key enemy figures in the Red Cliffs Outpost Battle.<CRLF>Slaying one key figure earns a General-Slaying tier Battle Merit reward after the battle ends.<CRLF>Slaying two key figures earns a Formation-Breaking tier Battle Merit reward after the battle ends.<CRLF>Slaying three to five key figures earns a Nation-Swallowing tier Battle Merit reward after the battle ends.<CRLF>Slaying six key figures earns an Unmatched tier Battle Merit reward after the battle ends.<CRLF>"}
+{"id": 181, "english": "^c3dbffListening Force<CRLF><CRLF>^ffffffIncreases critical chance, critical resistance, and critical damage."}
+{"id": 182, "english": "^c3dbffListening Force<CRLF><CRLF>^ffffffSense your opponent's power through the clash of weapons."}
+{"id": 183, "english": "^c3dbffActivated<CRLF>^ffffffThis wooden dummy has been activated."}
+{"id": 184, "english": "^c3dbffMarquis of Wu<CRLF><CRLF>^ffffffWhen you hit or are hit,<CRLF>you may enter the Heroic state."}
+{"id": 185, "english": "^c3dbffMarquis of Wu<CRLF><CRLF>^ffffffAttack Power and Defense increased."}
+{"id": 186, "english": "^c3dbffWu Defeat<CRLF><CRLF>^ffffffWu was defeated in this national war."}
+{"id": 187, "english": "^c3dbffWu Soldier<CRLF><CRLF>^ffffffAn elite soldier of Wu."}
+{"id": 188, "english": "^c3dbffWu Victory<CRLF><CRLF>^ffffffWu has won the national war."}
+{"id": 189, "english": "^c3dbffWu Victory<CRLF>^ffffffWei was defeated at Wuzhangyuan<CRLF>^ffffffShu was defeated at Wuzhangyuan"}
+{"id": 190, "english": "^c3dbffAbsorb Shield<CRLF><CRLF>^ffffffCompletely absorbs damage."}
+{"id": 191, "english": "^c3dbffVampiric<CRLF>^ffffffSiphon all things."}
+{"id": 192, "english": "^c3dbffVampire<CRLF><CRLF>^ffffffDrains a certain amount of HP to yourself when attacking."}
+{"id": 193, "english": "^c3dbffSoul Drain - Wrath<CRLF><CRLF>^ffffffA special Soul Drain effect that increases critical chance."}
+{"id": 194, "english": "^c3dbffSoul Drain - Spirit<CRLF><CRLF>^ffffffA special Soul Drain effect that increases maximum HP."}
+{"id": 195, "english": "^c3dbffSoul Drain - Fury<CRLF><CRLF>^ffffffA special Soul Drain effect that increases attack intensity."}
+{"id": 196, "english": "^c3dbffSoul Drain - Flash<CRLF><CRLF>^ffffffA special Soul Drain effect that increases evasion."}
+{"id": 197, "english": "^c3dbffCommand the Wind and Rain<CRLF><CRLF>^ffffffThe target continuously loses HP and has reduced indirect resistance,<CRLF>and has a chance to be affected by Leg Trip every time it is attacked."}
+{"id": 198, "english": "^c3dbffHit Rate Boosted"}
+{"id": 199, "english": "^c3dbffHit Rate Boosted; high-level Precision will increase Attack Power"}
+{"id": 200, "english": "^c3dbffHit Rate Reduced"}
+{"id": 201, "english": "^c3dbffHit Rate Reduced; Attack Power Reduced"}
+{"id": 202, "english": "^c3dbffHit Reduced"}
+{"id": 203, "english": "^c3dbffHit Reduced<CRLF><CRLF>^ffffffReach the Eye of Taiji Yin-Yang quickly to remove this status."}
+{"id": 204, "english": "^c3dbffRoar<CRLF><CRLF>^ffffffFrightens nearby enemies, briefly reducing their hit rate."}
+{"id": 205, "english": "^c3dbffRoar<CRLF><CRLF>^ffffffDefense increased."}
+{"id": 206, "english": "^c3dbffMourning<CRLF><CRLF>^ffffffAttack intensity reduced."}
+{"id": 207, "english": "^c3dbffDevour the Eyes<CRLF><CRLF>^ffffffHit rate increased."}
+{"id": 208, "english": "^c3dbffHowl Stun<CRLF><CRLF>^ffffffStunned, and mount critical resistance reduced."}
+{"id": 209, "english": "^c3dbffSilver Tongue<CRLF><CRLF>^ffffffContinuously recovers HP."}
+{"id": 210, "english": "^c3dbffMaster of Formations<CRLF><CRLF>^ffffffCritical damage taken reduced."}
+{"id": 211, "english": "^c3dbffHappily Wed<CRLF><CRLF>^ffffffSweet fragrance fills the curtained bed; in the bridal chamber, spring warmth stirs tender affection."}
+{"id": 212, "english": "^c3dbffShout Break<CRLF><CRLF>^ffffffCritical chance reduced."}
+{"id": 213, "english": "^c3dbffShout Down<CRLF><CRLF>^ffffffAttack Power and hit rate reduced."}
+{"id": 214, "english": "^c3dbffThe savory pork chop offers a delicious feast"}
+{"id": 215, "english": "^c3dbffBloodlust for Killing<CRLF><CRLF>^ffffffYour mind is consumed by bloodlust; lose a certain amount of HP every 2 seconds.<CRLF>Only killing an enemy or landing 10 hits can lift this effect."}
+{"id": 216, "english": "^c3dbffBloodthirsty<CRLF><CRLF>^ffffffConsumed by the lust for blood; Attack Power greatly increased."}
+{"id": 217, "english": "^c3dbffBloodthirsty<CRLF><CRLF>^ffffffGrants massive HP recovery with every attack."}
+{"id": 218, "english": "^c3dbffBloodthirsty<CRLF>^ffffffAfter slaying an enemy, his hunger for heads drives him mad."}
+{"id": 219, "english": "^c3dbffTaunt<CRLF><CRLF>^ffffffProvoked; unable to change attack target."}
+{"id": 220, "english": "^c3dbffNightmare Wound<CRLF><CRLF>^ffffffAfter waking from the Nightmare Slumber, you will suffer additional continuous damage."}
+{"id": 221, "english": "^c3dbffNightmare Slumber<CRLF><CRLF>^ffffffEnter a sleeping state; being attacked will wake you."}
+{"id": 222, "english": "^c3dbffSoul Devouring Art<CRLF><CRLF>Maximum HP reduced"}
+{"id": 223, "english": "^c3dbffBlood Devour<CRLF><CRLF>^ffffffDrains the enemy's HP.<CRLF>"}
+{"id": 224, "english": "^c3dbffBlood Devour<CRLF><CRLF>^ffffffBlood Devour; recovers HP with every instance of damage taken."}
+{"id": 225, "english": "^c3dbffBlood Devour<CRLF><CRLF>^ffffffAttack Power increased, and the first 5<CRLF>hits on a target can recover HP."}
+{"id": 226, "english": "^c3dbffSoul Devour<CRLF><CRLF>^ffffffMovement speed gradually decreasing!"}
+{"id": 227, "english": "^c3dbffHeaven-Reversing Shield<CRLF><CRLF>^ffffffAbsorbs damage."}
+{"id": 228, "english": "^c3dbffReturning Edge Slash<CRLF>^ffffffCan now use the Reverse Edge Slash skill."}
+{"id": 229, "english": "^c3dbffReturning Edge Assault<CRLF>^ffffffEach stack increases Reverse Edge Slash damage by 10%."}
+{"id": 230, "english": "^c3dbffBy Heaven's Timing<CRLF><CRLF>^ffffffHundred Rivers Converge evades all attackers"}
+{"id": 231, "english": "^c3dbffUnity and Mutual Aid<CRLF>^ffffffYour team has a balanced spread of players across level ranges.<CRLF>You receive the Unity and Mutual Aid reward."}

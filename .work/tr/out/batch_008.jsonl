@@ -1,0 +1,1167 @@
+{"id": 1, "english": "^ffffffTest Magic Status<CRLF>^c3dbffMagic Crit Damage 1 pt <CRLF>Horse Magic Crit Damage 1 pt<CRLF>Magic Resistance 5 <CRLF>Horse Magic Resistance 5<CRLF>Magic Damage Reduction 50 pts<CRLF>"}
+{"id": 2, "english": "^ffffffChaos<CRLF>After 4 stacks, instant death!<CRLF>Everyone attack the lamps quickly to dispel this status!<CRLF>"}
+{"id": 3, "english": "^ffffffMax HP Reduced"}
+{"id": 4, "english": "^ffffffHP Recovery<CRLF>"}
+{"id": 5, "english": "^ffffffHP Recovery Speed Is Zero"}
+{"id": 6, "english": "^ffffffDirect Damage Resistance Reduced."}
+{"id": 7, "english": "^ffffffArrow Tower is being built/upgraded.<CRLF>Cannot attack."}
+{"id": 8, "english": "^ffffffFighting Bare-Chested<CRLF>Attack Power and Defense greatly increased."}
+{"id": 9, "english": "^ffffffIt is windy in the valley—a fine time for a ride.<CRLF>Mount Speed +1 m/s"}
+{"id": 10, "english": "^ffffffIt is raining in the valley. The road is slippery, so take care.<CRLF>Movement Speed +1 m/s"}
+{"id": 11, "english": "^ffffffSnow is falling in the valley. Put on more clothes.<CRLF>Defense +20 pts"}
+{"id": 12, "english": "^ffffffThe Chibi Skirmish has ended. You will be teleported out of the scene."}
+{"id": 13, "english": "^ffffffYou have yet to earn War Merit in the Battle of Red Cliffs.<CRLF>Board the ships with your comrades, attack the enemy naval camp,<CRLF>and defeat enemy guards to earn War Merit!"}
+{"id": 14, "english": "auto_revive // Auto Revive"}
+{"id": 15, "english": "auto_revive_time 0 // Auto Revive Wait Time (ms)"}
+{"id": 16, "english": "auto_revive_time 5000 // Auto Revive Wait Time"}
+{"id": 17, "english": "Lifelong Companionship<CRLF>You need to find an opposite-sex player with the status “Lifelong Promise” to form a team.<CRLF>The male player should be leader; accept the quest “A Lifetime Together” from Liu Xiaoyue.<CRLF>Complete the quest for great rewards!"}
+{"id": 18, "english": "Lifelong Promise<CRLF>You need to find an opposite-sex player with the status “Lifelong Companionship” to form a team.<CRLF>The male player should be leader; accept the quest “A Lifetime Together” from Liu Xiaoyue.<CRLF>Complete the quest for great rewards!"}
+{"id": 19, "english": "Qixi Festival"}
+{"id": 20, "english": "Qixi Romance Value Rankings"}
+{"id": 21, "english": "Seven Captures of Meng Huo 1"}
+{"id": 22, "english": "Seven Captures of Meng Huo 2"}
+{"id": 23, "english": "Seven Captures of Meng Huo 3"}
+{"id": 24, "english": "Seven Captures of Meng Huo 4"}
+{"id": 25, "english": "Seven Captures of Meng Huo 5"}
+{"id": 26, "english": "Seven Star Lake"}
+{"id": 27, "english": "Last Week's Kill Rankings"}
+{"id": 28, "english": "Last Week Wu Kingdom Legion Activity"}
+{"id": 29, "english": "Last Week Wu Kingdom Legion Funds Earned "}
+{"id": 30, "english": "Last Week Wu Kingdom Player Funds Earned "}
+{"id": 31, "english": "Last Week's Renown Earned"}
+{"id": 32, "english": "Last Week's Activity Leaderboard"}
+{"id": 33, "english": "Last Week Shu Kingdom Legion Activity"}
+{"id": 34, "english": "Last Week Shu Kingdom Legion Funds Earned "}
+{"id": 35, "english": "Last Week Shu Kingdom Player Funds Earned "}
+{"id": 36, "english": "Last Week Wei Kingdom Legion Activity"}
+{"id": 37, "english": "Last Week Wei Kingdom Legion Funds Earned "}
+{"id": 38, "english": "Last Week Wei Kingdom Player Funds Earned "}
+{"id": 39, "english": "Last Month's Personal Arena EXP"}
+{"id": 40, "english": "Last Month's Renown Earned"}
+{"id": 41, "english": "Last Month's Mentor Virtue Rankings"}
+{"id": 42, "english": "Last Month's Spending Points Rankings"}
+{"id": 43, "english": "Next Hit Guaranteed Crit"}
+{"id": 44, "english": "Fully synchronized with Swift Spur; no actual effect; cannot be dispelled"}
+{"id": 45, "english": "Eastern Sea"}
+{"id": 46, "english": "Personal Kill Leaderboard"}
+{"id": 47, "english": "Personal Faction Reputation Leaderboard"}
+{"id": 48, "english": "Personal Regional Reputation Leaderboard"}
+{"id": 49, "english": "Personal Combat Power Score"}
+{"id": 50, "english": "Personal War Soul Score"}
+{"id": 51, "english": "Personal Rank:"}
+{"id": 52, "english": "Personal Leaderboard"}
+{"id": 53, "english": "Personal Healing Score"}
+{"id": 54, "english": "Personal Arena Leaderboard"}
+{"id": 55, "english": "Personal Arena Level"}
+{"id": 56, "english": "Personal Arena EXP"}
+{"id": 57, "english": "Personal Level"}
+{"id": 58, "english": "Personal Overall Leaderboard"}
+{"id": 59, "english": "Personal Overall Score"}
+{"id": 60, "english": "Personal Defense Score"}
+{"id": 61, "english": "Personal Faction Reputation Leaderboard"}
+{"id": 62, "english": "Central Army Camp"}
+{"id": 63, "english": "Poisoned. Common soldiers will die after being poisoned for 60 seconds."}
+{"id": 64, "english": "Master<CRLF><CRLF>Xiaohu has submitted to you! From now on, you are its master."}
+{"id": 65, "english": "Master Name"}
+{"id": 66, "english": "Capital City Battle. Jianye"}
+{"id": 67, "english": "Capital City Battle. Hanzhong"}
+{"id": 68, "english": "Capital City Battle. Xuchang"}
+{"id": 69, "english": "Wild Dance Tactic Hidden Status"}
+{"id": 70, "english": "Player Count"}
+{"id": 71, "english": "Popularity Invincible<CRLF><CRLF>You received flowers sent by a friend."}
+{"id": 72, "english": "Benevolence Value Rankings"}
+{"id": 73, "english": "Only grants Combat Qi to characters above Level 2"}
+{"id": 74, "english": "Immortal's Tale"}
+{"id": 75, "english": "Tiger Quelling Token"}
+{"id": 76, "english": "Everyone worked together to resolve the crisis of demons running rampant in the valley. Fan Li, the Spirit of the Valley, expresses his gratitude!"}
+{"id": 77, "english": "Critical Hit Combat Qi Recovery Effect 6"}
+{"id": 78, "english": "Teleport Item"}
+{"id": 79, "english": "Damage Resistance Greatly Increased"}
+{"id": 80, "english": "Ambush Innate Passive Status"}
+{"id": 81, "english": "Generate 1 When Below 25"}
+{"id": 82, "english": "Void"}
+{"id": 83, "english": "You are cursed by the Ghost King! Lose 1% HP every 3 seconds. Kill the Ghost King to dispel it!"}
+{"id": 84, "english": "You defeated the Berserk Destroyer General!"}
+{"id": 85, "english": "You have successfully defeated Meng Huo!"}
+{"id": 86, "english": "You received a reward for defeating the Persistent Bandit!"}
+{"id": 87, "english": "You received the thanks of Xi Shi, Spirit of the Valley!"}
+{"id": 88, "english": "You are carrying Wutugu's precious armor!"}
+{"id": 89, "english": "You killed the male musk deer!<CRLF>Within the next 5 minutes,<CRLF>if the female musk deer is not killed, you may receive the “Hunt and Release” reward.<CRLF>If the female musk deer also dies, you can only receive two musk deer meat."}
+{"id": 90, "english": "You killed the pregnant female musk deer!<CRLF>Killing the hen for eggs and extermination—short-sightedness will cost you future hunting opportunities. Take the two musk deer meat now."}
+{"id": 91, "english": "You killed Sun En, the Water Bandit Leader!"}
+{"id": 92, "english": "You killed the Ghost King!"}
+{"id": 93, "english": "You received the Hero's Blessing!<CRLF><CRLF>^c3dbffHaving both this status and the Hero Mystic Stone triggers the “Receive the Hero's Blessing!” quest for a reward"}
+{"id": 94, "english": "Scout Main Effect. Applied When HP Below 35%"}
+{"id": 95, "english": "Proof of Cultivation"}
+{"id": 96, "english": "Dance of City-Toppling Beauty"}
+{"id": 97, "english": "Immune to Healing"}
+{"id": 98, "english": "Immune to Domination<CRLF>"}
+{"id": 99, "english": "Immune to Ancestral Status"}
+{"id": 100, "english": "Immune to Xu Chu's Killing Move"}
+{"id": 101, "english": "Immune to Consecutive Hit CD"}
+{"id": 102, "english": "Immune to Heavy Halberd Mountain Crush"}
+{"id": 103, "english": "Immune to Golden Drum Earthshaker"}
+{"id": 104, "english": "Full Immunity"}
+{"id": 105, "english": "Guanzhong"}
+{"id": 106, "english": "Guanzhong Horse Race"}
+{"id": 107, "english": "Actually just a normal healing effect"}
+{"id": 108, "english": "Tale of Dian Wei 1"}
+{"id": 109, "english": "Tale of Dian Wei 2"}
+{"id": 110, "english": "Tale of Dian Wei 3"}
+{"id": 111, "english": "Tale of Dian Wei 4"}
+{"id": 112, "english": "Tale of Dian Wei 5"}
+{"id": 113, "english": "Legion Member Count"}
+{"id": 114, "english": "Legion Renown Earned Leaderboard"}
+{"id": 115, "english": "Legion Regional Reputation Leaderboard"}
+{"id": 116, "english": "Legion Base 1"}
+{"id": 117, "english": "Legion Base 2"}
+{"id": 118, "english": "Legion Base 3"}
+{"id": 119, "english": "Legion Base 4"}
+{"id": 120, "english": "Legion Base Map 1"}
+{"id": 121, "english": "Legion Base Map 10"}
+{"id": 122, "english": "Legion Base Map 11"}
+{"id": 123, "english": "Legion Base Map 12"}
+{"id": 124, "english": "Legion Base Map 13"}
+{"id": 125, "english": "Legion Base Map 14"}
+{"id": 126, "english": "Legion Base Map 15"}
+{"id": 127, "english": "Legion Base Map 16"}
+{"id": 128, "english": "Legion Base Map 17"}
+{"id": 129, "english": "Legion Base Map 18"}
+{"id": 130, "english": "Legion Base Map 19"}
+{"id": 131, "english": "Legion Base Map 2"}
+{"id": 132, "english": "Legion Base Map 20"}
+{"id": 133, "english": "Legion Base Map 21"}
+{"id": 134, "english": "Legion Base Map 22"}
+{"id": 135, "english": "Legion Base Map 23"}
+{"id": 136, "english": "Legion Base Map 24"}
+{"id": 137, "english": "Legion Base Map 25"}
+{"id": 138, "english": "Legion Base Map 26"}
+{"id": 139, "english": "Legion Base Map 27"}
+{"id": 140, "english": "Legion Base Map 28"}
+{"id": 141, "english": "Legion Base Map 29"}
+{"id": 142, "english": "Legion Base Map 3"}
+{"id": 143, "english": "Legion Base Map 30"}
+{"id": 144, "english": "Legion Base Map 31"}
+{"id": 145, "english": "Legion Base Map 32"}
+{"id": 146, "english": "Legion Base Map 33"}
+{"id": 147, "english": "Legion Base Map 34"}
+{"id": 148, "english": "Legion Base Map 35"}
+{"id": 149, "english": "Legion Base Map 36"}
+{"id": 150, "english": "Legion Base Map 37"}
+{"id": 151, "english": "Legion Base Map 38"}
+{"id": 152, "english": "Legion Base Map 39"}
+{"id": 153, "english": "Legion Base Map 4"}
+{"id": 154, "english": "Legion Base Map 40"}
+{"id": 155, "english": "Legion Base Map 41"}
+{"id": 156, "english": "Legion Base Map 42"}
+{"id": 157, "english": "Legion Base Map 43"}
+{"id": 158, "english": "Legion Base Map 44"}
+{"id": 159, "english": "Legion Base Map 45"}
+{"id": 160, "english": "Legion Base Map 46"}
+{"id": 161, "english": "Legion Base Map 47"}
+{"id": 162, "english": "Legion Base Map 48"}
+{"id": 163, "english": "Legion Base Map 49"}
+{"id": 164, "english": "Legion Base Map 5"}
+{"id": 165, "english": "Legion Base Map 50"}
+{"id": 166, "english": "Legion Base Map 6"}
+{"id": 167, "english": "Legion Base Map 7"}
+{"id": 168, "english": "Legion Base Map 8"}
+{"id": 169, "english": "Legion Base Map 9"}
+{"id": 170, "english": "Legion Construction Level"}
+{"id": 171, "english": "Legion Rank:"}
+{"id": 172, "english": "Legion Leaderboard"}
+{"id": 173, "english": "Legion Activity Leaderboard"}
+{"id": 174, "english": "Legion Level"}
+{"id": 175, "english": "Legion Command Level"}
+{"id": 176, "english": "Legion Overall Leaderboard"}
+{"id": 177, "english": "Legion Wealth"}
+{"id": 178, "english": "Legion Faction Reputation Leaderboard"}
+{"id": 179, "english": "Meditation"}
+{"id": 180, "english": "Winter Island"}
+{"id": 181, "english": "Charge Stun, No Effect"}
+{"id": 182, "english": "Charge Interrupt"}
+{"id": 183, "english": "Charge Ignores Defense Damage"}
+{"id": 184, "english": "Charge Breaks Defense"}
+{"id": 185, "english": "Charge Status Not Displayed"}
+{"id": 186, "english": "Slow"}
+{"id": 187, "english": "Phoenix Cry Mountain"}
+{"id": 188, "english": "With this, you automatically receive the Huarong Road<CRLF>current points reward."}
+{"id": 189, "english": "With this, you automatically receive the Huarong Road<CRLF>current points reward.<CRLF>"}
+{"id": 190, "english": "Kill"}
+{"id": 191, "english": "Slay the Chanyu"}
+{"id": 192, "english": "Proof of defeating the Southern bandits!"}
+{"id": 193, "english": "Slay the Axe Spirit!"}
+{"id": 194, "english": "Slay the Fire-Tail Tiger"}
+{"id": 195, "english": "Slay the Mysterious Man"}
+{"id": 196, "english": "Slay Dong Zhuo"}
+{"id": 197, "english": "Slay Consort Yu"}
+{"id": 198, "english": "Slay Xiang Yu"}
+{"id": 199, "english": "Boss Defeat Reward!"}
+{"id": 200, "english": "Defeated the Azure Dragon Hermit!<CRLF>"}
+{"id": 201, "english": "Defeated the Plagued Tree Demon!"}
+{"id": 202, "english": "Repelled the Ghost Horse!"}
+{"id": 203, "english": "Repelled the Black-Clad Man!<CRLF><CRLF>"}
+{"id": 204, "english": "Disappears on Scene Change"}
+{"id": 205, "english": "If Swift Spur was just used, using it again shortly after triggers a Gallop effect"}
+{"id": 206, "english": "Just performed a Fervent Attack"}
+{"id": 207, "english": "Applied when struck after a Fervent Attack"}
+{"id": 208, "english": "Applied when struck after a Normal Attack"}
+{"id": 209, "english": "Just performed a Standard Attack"}
+{"id": 210, "english": "Just performed a Suppression Attack"}
+{"id": 211, "english": "Applied when struck after a Suppression Attack"}
+{"id": 212, "english": "Assassination<CRLF><CRLF>Used to strengthen various assassination skills."}
+{"id": 213, "english": "Go, World Cup!"}
+{"id": 214, "english": "Faction Reputation"}
+{"id": 215, "english": "Northern Mang Imperial Mausoleum 1"}
+{"id": 216, "english": "Northern Mang Imperial Mausoleum 2"}
+{"id": 217, "english": "Northern Mang Imperial Mausoleum 3"}
+{"id": 218, "english": "Northern Mang Imperial Mausoleum 4"}
+{"id": 219, "english": "Northern Mang Imperial Mausoleum 5"}
+{"id": 220, "english": "The Northern Mang Imperial Mausoleum is collapsing!"}
+{"id": 221, "english": "Huarong Road 1"}
+{"id": 222, "english": "Huarong Road 2"}
+{"id": 223, "english": "Huarong Road 3"}
+{"id": 224, "english": "Huarong Road 4"}
+{"id": 225, "english": "Huarong Road 5"}
+{"id": 226, "english": "Huarong Road One 1"}
+{"id": 227, "english": "Huarong Road One 2"}
+{"id": 228, "english": "Huarong Road One 3"}
+{"id": 229, "english": "Huarong Road One 4"}
+{"id": 230, "english": "Huarong Road One 5"}
+{"id": 231, "english": "Huarong Road Two 1"}
+{"id": 232, "english": "Huarong Road Two 2"}
+{"id": 233, "english": "Huarong Road Two 3"}
+{"id": 234, "english": "Huarong Road Two 4"}
+{"id": 235, "english": "Huarong Road Two 5"}
+{"id": 236, "english": "Huarong Road Victory<CRLF><CRLF>Successfully escorted Cao Cao through Huarong Road!"}
+{"id": 237, "english": "Lone Rider Rescues His Lord 1"}
+{"id": 238, "english": "Lone Rider Rescues His Lord 2"}
+{"id": 239, "english": "Lone Rider Rescues His Lord 3"}
+{"id": 240, "english": "Lone Rider Rescues His Lord 4"}
+{"id": 241, "english": "Lone Rider Rescues His Lord 5"}
+{"id": 242, "english": "Battle for Nanzhong 1"}
+{"id": 243, "english": "Battle for Nanzhong 2"}
+{"id": 244, "english": "Battle for Nanzhong 3"}
+{"id": 245, "english": "Battle for Nanzhong 4"}
+{"id": 246, "english": "Battle for Nanzhong 5"}
+{"id": 247, "english": "Southern Barbarians"}
+{"id": 248, "english": "Erudition Value Rankings"}
+{"id": 249, "english": "Crouching Dragon Nine Heavens"}
+{"id": 250, "english": "Crouching Dragon Nine Heavens-Boss"}
+{"id": 251, "english": "Training Item"}
+{"id": 252, "english": "Fork"}
+{"id": 253, "english": "Launched an attack."}
+{"id": 254, "english": "Grant Hooked Fish"}
+{"id": 255, "english": "Grant Festive Ingots"}
+{"id": 256, "english": "Grant Birthday Longevity Noodles"}
+{"id": 257, "english": "Grant Fortunate Ingots"}
+{"id": 258, "english": "Grant Snowballs"}
+{"id": 259, "english": "You can explore Water Bandit Island."}
+{"id": 260, "english": "May obtain a Friend Card<CRLF>"}
+{"id": 261, "english": "Battle of Hefei 1"}
+{"id": 262, "english": "Battle of Hefei 2"}
+{"id": 263, "english": "Battle of Hefei 3"}
+{"id": 264, "english": "Battle of Hefei 4"}
+{"id": 265, "english": "Battle of Hefei 5"}
+{"id": 266, "english": "Renown Earned Last Week"}
+{"id": 267, "english": "Renown Earned Last Month"}
+{"id": 268, "english": "Renown Earned This Week"}
+{"id": 269, "english": "Renown Earned This Month"}
+{"id": 270, "english": "Wu Last Week Wuzhang Plains Contribution"}
+{"id": 271, "english": "Wu Kingdom Last Week's Kill Rankings"}
+{"id": 272, "english": "Wu Kingdom Last Week's Renown Earned"}
+{"id": 273, "english": "Wu Kingdom Last Month's Renown Earned"}
+{"id": 274, "english": "Wu Kingdom Legion National Funds"}
+{"id": 275, "english": "Wu Kingdom Renown"}
+{"id": 276, "english": "Wu Kingdom Guard Status: Fierce Battle"}
+{"id": 277, "english": "Wu Kingdom Guard Status: Desperate Battle"}
+{"id": 278, "english": "Wu Kingdom Guard Status: Iron Wall"}
+{"id": 279, "english": "Wu Kingdom Total Kill Rankings"}
+{"id": 280, "english": "Wu Kingdom Leaderboard"}
+{"id": 281, "english": "Wu Kingdom Civil Merit"}
+{"id": 282, "english": "Wu Kingdom This Week's Renown Earned"}
+{"id": 283, "english": "Wu Kingdom This Month's Renown Earned"}
+{"id": 284, "english": "Wu Kingdom Military Merit"}
+{"id": 285, "english": "Wu Kingdom Player National Funds"}
+{"id": 286, "english": "Wu Capital Jianye"}
+{"id": 287, "english": "Soul Drain"}
+{"id": 288, "english": "Cash Shop Spending Points Leaderboard"}
+{"id": 289, "english": "Taunt"}
+{"id": 290, "english": "Mark for First Hit of Spinning Blade Combo Throws"}
+{"id": 291, "english": "Spear Feint<CRLF><CRLF>The next Spear Feint strikes immediately and restores 20 Combat Qi."}
+{"id": 292, "english": "National Quest"}
+{"id": 293, "english": "National Funds Leaderboard"}
+{"id": 294, "english": "National War 1"}
+{"id": 295, "english": "National War 10"}
+{"id": 296, "english": "National War 11"}
+{"id": 297, "english": "National War 12"}
+{"id": 298, "english": "National War 13"}
+{"id": 299, "english": "National War 14"}
+{"id": 300, "english": "National War 15"}
+{"id": 301, "english": "National War 16"}
+{"id": 302, "english": "National War 17"}
+{"id": 303, "english": "National War 18"}
+{"id": 304, "english": "National War 19"}
+{"id": 305, "english": "National War 2"}
+{"id": 306, "english": "National War 20"}
+{"id": 307, "english": "National War 21"}
+{"id": 308, "english": "National War 22"}
+{"id": 309, "english": "National War 23"}
+{"id": 310, "english": "National War 24"}
+{"id": 311, "english": "National War 25"}
+{"id": 312, "english": "National War 26"}
+{"id": 313, "english": "National War 27"}
+{"id": 314, "english": "National War 28"}
+{"id": 315, "english": "National War 29"}
+{"id": 316, "english": "National War 3"}
+{"id": 317, "english": "National War 30"}
+{"id": 318, "english": "National War 31"}
+{"id": 319, "english": "National War 32"}
+{"id": 320, "english": "National War 33"}
+{"id": 321, "english": "National War 34"}
+{"id": 322, "english": "National War 35"}
+{"id": 323, "english": "National War 36"}
+{"id": 324, "english": "National War 37"}
+{"id": 325, "english": "National War 38"}
+{"id": 326, "english": "National War 39"}
+{"id": 327, "english": "National War 4"}
+{"id": 328, "english": "National War 5"}
+{"id": 329, "english": "National War 6"}
+{"id": 330, "english": "National War 7"}
+{"id": 331, "english": "National War 8"}
+{"id": 332, "english": "National War 9"}
+{"id": 333, "english": "Codex Quality Rankings"}
+{"id": 334, "english": "On earth, may we become a tree with joined branches."}
+{"id": 335, "english": "You won the Battle of Red Cliffs!"}
+{"id": 336, "english": "You breached the enemy naval camp in the Battle of Red Cliffs!"}
+{"id": 337, "english": "The Palace Stone Demon has been repelled!"}
+{"id": 338, "english": "Love Beyond Time<CRLF>You need to find an opposite-sex player with the status “Love Beyond Death” to form a team.<CRLF>The male player should be leader; accept the quest “Rather Be Mandarin Ducks Than Immortals” from Emperor Xian of Han.<CRLF>Complete the quest for great rewards!"}
+{"id": 339, "english": "Mount"}
+{"id": 340, "english": "Base Immune to War Soul Damage Buff"}
+{"id": 341, "english": "Healing Points +50"}
+{"id": 342, "english": "Greatly Increases Defense"}
+{"id": 343, "english": "Morale Item"}
+{"id": 344, "english": "Prestige Value"}
+{"id": 345, "english": "Prestige Rankings"}
+{"id": 346, "english": "Mark for First Hit of Multi-Hit Generation"}
+{"id": 347, "english": "Mark for First Hit of Multi-Hit"}
+{"id": 348, "english": "Shout out your heart's desire!"}
+{"id": 349, "english": "Skyfall Spring"}
+{"id": 350, "english": "Headgear"}
+{"id": 351, "english": "Battle of Yiling"}
+{"id": 352, "english": "Raid Battle 1"}
+{"id": 353, "english": "Raid Battle 10"}
+{"id": 354, "english": "Raid Battle 11"}
+{"id": 355, "english": "Raid Battle 12"}
+{"id": 356, "english": "Raid Battle 13"}
+{"id": 357, "english": "Raid Battle 14"}
+{"id": 358, "english": "Raid Battle 15"}
+{"id": 359, "english": "Raid Battle 16"}
+{"id": 360, "english": "Raid Battle 17"}
+{"id": 361, "english": "Raid Battle 18"}
+{"id": 362, "english": "Raid Battle 19"}
+{"id": 363, "english": "Raid Battle 2"}
+{"id": 364, "english": "Raid Battle 20"}
+{"id": 365, "english": "Raid Battle 21"}
+{"id": 366, "english": "Raid Battle 22"}
+{"id": 367, "english": "Raid Battle 23"}
+{"id": 368, "english": "Raid Battle 24"}
+{"id": 369, "english": "Raid Battle 25"}
+{"id": 370, "english": "Raid Battle 26"}
+{"id": 371, "english": "Raid Battle 27"}
+{"id": 372, "english": "Raid Battle 28"}
+{"id": 373, "english": "Raid Battle 29"}
+{"id": 374, "english": "Raid Battle 3"}
+{"id": 375, "english": "Raid Battle 30"}
+{"id": 376, "english": "Raid Battle 31"}
+{"id": 377, "english": "Raid Battle 32"}
+{"id": 378, "english": "Raid Battle 33"}
+{"id": 379, "english": "Raid Battle 34"}
+{"id": 380, "english": "Raid Battle 35"}
+{"id": 381, "english": "Raid Battle 36"}
+{"id": 382, "english": "Raid Battle 37"}
+{"id": 383, "english": "Raid Battle 38"}
+{"id": 384, "english": "Raid Battle 39"}
+{"id": 385, "english": "Raid Battle 4"}
+{"id": 386, "english": "Raid Battle 5"}
+{"id": 387, "english": "Raid Battle 6"}
+{"id": 388, "english": "Raid Battle 7"}
+{"id": 389, "english": "Raid Battle 8"}
+{"id": 390, "english": "Raid Battle 9"}
+{"id": 391, "english": "Fervent Attack - Self Group"}
+{"id": 392, "english": "Gifts Given, a Happy Life"}
+{"id": 393, "english": "The majestic Heavenly God has been defeated! Your Legion's unity is beyond imagination!"}
+{"id": 394, "english": "Ziwu Valley"}
+{"id": 395, "english": "Save Type with Hit Counter"}
+{"id": 396, "english": "Save Type with Time and Kill Counter"}
+{"id": 397, "english": "Save Type with Time"}
+{"id": 398, "english": "Save Type with Time, Disappears on Scene Change"}
+{"id": 399, "english": "Save Type with Kill Counter"}
+{"id": 400, "english": "Save Type, Activates When Hit"}
+{"id": 401, "english": "Save Type, Normal"}
+{"id": 402, "english": "Tale of Sun Quan 1"}
+{"id": 403, "english": "Tale of Sun Quan 2"}
+{"id": 404, "english": "Tale of Sun Quan 3"}
+{"id": 405, "english": "Tale of Sun Quan 4"}
+{"id": 406, "english": "Tale of Sun Quan 5"}
+{"id": 407, "english": "Battle of Guandu"}
+{"id": 408, "english": "Official Rank Reward"}
+{"id": 409, "english": "Mount Dingjun 1"}
+{"id": 410, "english": "Mount Dingjun 10"}
+{"id": 411, "english": "Mount Dingjun 2"}
+{"id": 412, "english": "Mount Dingjun 3"}
+{"id": 413, "english": "Mount Dingjun 4"}
+{"id": 414, "english": "Mount Dingjun 5"}
+{"id": 415, "english": "Mount Dingjun 6"}
+{"id": 416, "english": "Mount Dingjun 7"}
+{"id": 417, "english": "Mount Dingjun 8"}
+{"id": 418, "english": "Mount Dingjun 9"}
+{"id": 419, "english": "Treasure Earth Passive Status"}
+{"id": 420, "english": "Treasure Wood Passive Status"}
+{"id": 421, "english": "Treasure Water Passive Status"}
+{"id": 422, "english": "Treasure Fire Passive Status"}
+{"id": 423, "english": "Treasure Metal Passive Status"}
+{"id": 424, "english": "Guidance<CRLF><CRLF>Speeds up the execution of certain shooting skills."}
+{"id": 425, "english": "Small Village"}
+{"id": 426, "english": "Small Golden Zongzi"}
+{"id": 427, "english": "Southern Sichuan"}
+{"id": 428, "english": "Proof of touring the Three Kingdoms!"}
+{"id": 429, "english": "Bashu"}
+{"id": 430, "english": "Sapper Plants Mines"}
+{"id": 431, "english": "Virtue Value"}
+{"id": 432, "english": "Lucky Star's Shine<CRLF>A reward can be triggered every 60 seconds."}
+{"id": 433, "english": "Fantasy Eight Trigrams"}
+{"id": 434, "english": "Fantasy Eight Trigrams · Seven Star Formation"}
+{"id": 435, "english": "Fantasy Eight Trigrams Rest Gate 1"}
+{"id": 436, "english": "Fantasy Eight Trigrams Rest Gate 2"}
+{"id": 437, "english": "Fantasy Eight Trigrams Rest Gate 3"}
+{"id": 438, "english": "Fantasy Eight Trigrams Rest Gate 4"}
+{"id": 439, "english": "Fantasy Eight Trigrams Rest Gate 5"}
+{"id": 440, "english": "Fantasy Eight Trigrams Open Gate 1"}
+{"id": 441, "english": "Fantasy Eight Trigrams Open Gate 2"}
+{"id": 442, "english": "Fantasy Eight Trigrams Open Gate 3"}
+{"id": 443, "english": "Fantasy Eight Trigrams Open Gate 4"}
+{"id": 444, "english": "Fantasy Eight Trigrams Open Gate 5"}
+{"id": 445, "english": "Fantasy Eight Trigrams Open Gate (Boss) 1"}
+{"id": 446, "english": "Fantasy Eight Trigrams Open Gate (Boss) 2"}
+{"id": 447, "english": "Fantasy Eight Trigrams Open Gate (Boss) 3"}
+{"id": 448, "english": "Fantasy Eight Trigrams Open Gate (Boss) 4"}
+{"id": 449, "english": "Fantasy Eight Trigrams Open Gate (Boss) 5"}
+{"id": 450, "english": "Obsolete"}
+{"id": 451, "english": "Obsolete<CRLF>"}
+{"id": 452, "english": "Obsolete^c3dbffGale Stun<CRLF><CRLF>^ffffffStruck while in Sword Gale status; stacking<CRLF>to 3 layers will stun.<CRLF>"}
+{"id": 453, "english": "Delayed HP Deduction"}
+{"id": 454, "english": "Delayed Instant Kill Generation"}
+{"id": 455, "english": "Delayed Heaven-Breaking Generation"}
+{"id": 456, "english": "Construction Points"}
+{"id": 457, "english": "Enable Insignia Light Effect"}
+{"id": 458, "english": "Activate Passive Skill 'Windchaser Ascending Dragon'"}
+{"id": 459, "english": "Bow"}
+{"id": 460, "english": "Lightning Hook Dispels Attack Speed Buff"}
+{"id": 461, "english": "Enhancement Upgrade Item"}
+{"id": 462, "english": "Enhancement Stone"}
+{"id": 463, "english": "Fierce Assault Tactic Hidden Status"}
+{"id": 464, "english": "Forced Dismount"}
+{"id": 465, "english": "Fierce Assault<CRLF><CRLF>^c3dbffCritical rate and critical damage increased"}
+{"id": 466, "english": "Current Region: Seven Star Lake"}
+{"id": 467, "english": "Current Region: Phoenix Cry Mountain"}
+{"id": 468, "english": "Current Region: Ziwu Valley"}
+{"id": 469, "english": "Current Region: Water Bandit Island"}
+{"id": 470, "english": "Current Region: Baidi City"}
+{"id": 471, "english": "Current Region: Xiaoyao Ford"}
+{"id": 472, "english": "Current Attack Power"}
+{"id": 473, "english": "Current HP"}
+{"id": 474, "english": "Current Strategy"}
+{"id": 475, "english": "This Month's EXP"}
+{"id": 476, "english": "Realm of the Afterlife 1"}
+{"id": 477, "english": "Realm of the Afterlife 2"}
+{"id": 478, "english": "Delayed Combat Qi Reduction for Ambush"}
+{"id": 479, "english": "You received the divine power of an ancient hero!"}
+{"id": 480, "english": "Direct Thrust follows Wind-Riding Thrust"}
+{"id": 481, "english": "Loyalty Item"}
+{"id": 482, "english": "Monster Generic Aura"}
+{"id": 483, "english": "Monster Generic Delayed Self-Destruct<CRLF>"}
+{"id": 484, "english": "Total Kill Rankings"}
+{"id": 485, "english": "Total Slain Count Rankings"}
+{"id": 486, "english": "Health Restored"}
+{"id": 487, "english": "Congratulations on defeating Lin Piaopiao!"}
+{"id": 488, "english": "Congratulations on defeating Guan Yu in challenge!"}
+{"id": 489, "english": "Congratulations on defeating Dian Wei in challenge!"}
+{"id": 490, "english": "Congratulations on defeating Lu Bu in challenge!"}
+{"id": 491, "english": "Congratulations on defeating Zhao Yun in challenge!"}
+{"id": 492, "english": "Congratulations on defeating Ma Chao in challenge!"}
+{"id": 493, "english": "Congratulations on receiving a Christmas gift!"}
+{"id": 494, "english": "Congratulations on your victory!"}
+{"id": 495, "english": "Congratulations!<CRLF>You have received a Spirit Energy reward."}
+{"id": 496, "english": "You have entered Baidi City.<CRLF>The contest is underway—beware of danger!"}
+{"id": 497, "english": "You received a gift from a GM!"}
+{"id": 498, "english": "A special Valentine's Day effect<CRLF>Speeds up HP recovery in and out of combat"}
+{"id": 499, "english": "The Love Demon's Lament."}
+{"id": 500, "english": "Affection runs deep."}
+{"id": 501, "english": "Fool's Day"}
+{"id": 502, "english": "Successfully slew the Harvest Bully<CRLF>"}
+{"id": 503, "english": "Successful block restores Combat Qi"}
+{"id": 504, "english": "Enemies successfully repelled!"}
+{"id": 505, "english": "Our army won the Chibi Decisive Battle!"}
+{"id": 506, "english": "Our army won the Chibi Skirmish!"}
+{"id": 507, "english": "My Personal Leaderboard"}
+{"id": 508, "english": "All My Personal Ranks"}
+{"id": 509, "english": "All My Legion Ranks"}
+{"id": 510, "english": "All My Arena Ranks"}
+{"id": 511, "english": "All My Camp Ranks"}
+{"id": 512, "english": "My Legion Leaderboard"}
+{"id": 513, "english": "My Leaderboard"}
+{"id": 514, "english": "My Arena Leaderboard"}
+{"id": 515, "english": "My Camp Leaderboard"}
+{"id": 516, "english": "War Merit Value Rankings"}
+{"id": 517, "english": "Illustrious War Merit"}
+{"id": 518, "english": "Battlefield 1-10A"}
+{"id": 519, "english": "Battlefield 1-10B"}
+{"id": 520, "english": "Battlefield 1-10C"}
+{"id": 521, "english": "Battlefield 1-10D"}
+{"id": 522, "english": "Battlefield 1-10E"}
+{"id": 523, "english": "Battlefield 1-10F"}
+{"id": 524, "english": "Battlefield 1-10G"}
+{"id": 525, "english": "Battlefield 1-10H"}
+{"id": 526, "english": "Battlefield 1-10I"}
+{"id": 527, "english": "Battlefield 1-10J"}
+{"id": 528, "english": "Battlefield 1-11A"}
+{"id": 529, "english": "Battlefield 1-11B"}
+{"id": 530, "english": "Battlefield 1-11C"}
+{"id": 531, "english": "Battlefield 1-11D"}
+{"id": 532, "english": "Battlefield 1-11E"}
+{"id": 533, "english": "Battlefield 1-12A"}
+{"id": 534, "english": "Battlefield 1-12B"}
+{"id": 535, "english": "Battlefield 1-12C"}
+{"id": 536, "english": "Battlefield 1-12D"}
+{"id": 537, "english": "Battlefield 1-12E"}
+{"id": 538, "english": "Battlefield 1-1A"}
+{"id": 539, "english": "Battlefield 1-1B"}
+{"id": 540, "english": "Battlefield 1-1C"}
+{"id": 541, "english": "Battlefield 1-1D"}
+{"id": 542, "english": "Battlefield 1-1E"}
+{"id": 543, "english": "Battlefield 1-1F"}
+{"id": 544, "english": "Battlefield 1-2A"}
+{"id": 545, "english": "Battlefield 1-2B"}
+{"id": 546, "english": "Battlefield 1-2C"}
+{"id": 547, "english": "Battlefield 1-2D"}
+{"id": 548, "english": "Battlefield 1-2E"}
+{"id": 549, "english": "Battlefield 1-3A"}
+{"id": 550, "english": "Battlefield 1-3B"}
+{"id": 551, "english": "Battlefield 1-3C"}
+{"id": 552, "english": "Battlefield 1-3D"}
+{"id": 553, "english": "Battlefield 1-3E"}
+{"id": 554, "english": "Battlefield 1-4A"}
+{"id": 555, "english": "Battlefield 1-4B"}
+{"id": 556, "english": "Battlefield 1-4C"}
+{"id": 557, "english": "Battlefield 1-4D"}
+{"id": 558, "english": "Battlefield 1-4E"}
+{"id": 559, "english": "Battlefield 1-5A"}
+{"id": 560, "english": "Battlefield 1-5B"}
+{"id": 561, "english": "Battlefield 1-5C"}
+{"id": 562, "english": "Battlefield 1-5D"}
+{"id": 563, "english": "Battlefield 1-5E"}
+{"id": 564, "english": "Battlefield 1-6A"}
+{"id": 565, "english": "Battlefield 1-6B"}
+{"id": 566, "english": "Battlefield 1-6C"}
+{"id": 567, "english": "Battlefield 1-6D"}
+{"id": 568, "english": "Battlefield 1-6E"}
+{"id": 569, "english": "Battlefield 1-7A"}
+{"id": 570, "english": "Battlefield 1-7B"}
+{"id": 571, "english": "Battlefield 1-7C"}
+{"id": 572, "english": "Battlefield 1-7D"}
+{"id": 573, "english": "Battlefield 1-7E"}
+{"id": 574, "english": "Battlefield 1-7F"}
+{"id": 575, "english": "Battlefield 1-7G"}
+{"id": 576, "english": "Battlefield 1-7H"}
+{"id": 577, "english": "Battlefield 1-7I"}
+{"id": 578, "english": "Battlefield 1-7J"}
+{"id": 579, "english": "Battlefield 1-8A"}
+{"id": 580, "english": "Battlefield 1-8B"}
+{"id": 581, "english": "Battlefield 1-8C"}
+{"id": 582, "english": "Battlefield 1-8D"}
+{"id": 583, "english": "Battlefield 1-8E"}
+{"id": 584, "english": "Battlefield 1-9A"}
+{"id": 585, "english": "Battlefield 1-9B"}
+{"id": 586, "english": "Battlefield 1-9C"}
+{"id": 587, "english": "Battlefield 1-9D"}
+{"id": 588, "english": "Battlefield 1-9E"}
+{"id": 589, "english": "14s Cooldown in Combat"}
+{"id": 590, "english": "Combat Power Score"}
+{"id": 591, "english": "War Soul"}
+{"id": 592, "english": "War Soul Related"}
+{"id": 593, "english": "War Soul Score"}
+{"id": 594, "english": "Halberd"}
+{"id": 595, "english": "All mounted combat skills only consume Combat Qi after Level 74<CRLF><CRLF>Changed"}
+{"id": 596, "english": "Fan"}
+{"id": 597, "english": "Defeated the Nightmare Abbot!<CRLF>"}
+{"id": 598, "english": "Defeated the Charming Noble!"}
+{"id": 599, "english": "Skill Book"}
+{"id": 600, "english": "Skill Slot Item"}
+{"id": 601, "english": "Consecutive Hit Status"}
+{"id": 602, "english": "Capture Item"}
+{"id": 603, "english": "Armor"}
+{"id": 604, "english": "Guard Skill Book"}
+{"id": 605, "english": "Guard Rank:"}
+{"id": 606, "english": "Guard Attack Power Leaderboard"}
+{"id": 607, "english": "Guard HP Leaderboard"}
+{"id": 608, "english": "Guard Related"}
+{"id": 609, "english": "Guard Overall Leaderboard"}
+{"id": 610, "english": "Guard Strategy Leaderboard"}
+{"id": 611, "english": "Registration Interrupt"}
+{"id": 612, "english": "With the Moon Palace Messenger's blessing, you may claim a daily reward!"}
+{"id": 613, "english": "Wheel About<CRLF><CRLF>Lure the enemy in. If any skill hits the enemy while this is active, the effect disappears."}
+{"id": 614, "english": "Continuous EXP Gain"}
+{"id": 615, "english": "Challenge Tower"}
+{"id": 616, "english": "Controls the reset of Heartseeker Thrust CD; takes effect at most once every 20s."}
+{"id": 617, "english": "Raises Max Combat Qi"}
+{"id": 618, "english": "Stirring Sea Form 1 Target"}
+{"id": 619, "english": "Arena Tournament Season 1"}
+{"id": 620, "english": "Arena Tournament Lightweight Class"}
+{"id": 621, "english": "Collection Codex Quality"}
+{"id": 622, "english": "Civil Merit Rankings"}
+{"id": 623, "english": "Civil Officials' Renown Earned Last Month"}
+{"id": 624, "english": "Civil Officials' Renown Earned This Month"}
+{"id": 625, "english": "Axe"}
+{"id": 626, "english": "Slay the General"}
+{"id": 627, "english": "Total Slain Count"}
+{"id": 628, "english": "New National War PVP"}
+{"id": 629, "english": "New National War PVP. Guanzhong"}
+{"id": 630, "english": "New National War PVP. Bashu"}
+{"id": 631, "english": "New National War PVP. Jianye"}
+{"id": 632, "english": "New National War PVP. Hanzhong"}
+{"id": 633, "english": "New National War PVP. Jiangnan"}
+{"id": 634, "english": "New National War PVP. Hebei"}
+{"id": 635, "english": "New National War PVP. Luoyang"}
+{"id": 636, "english": "New National War PVP. Jingxiang"}
+{"id": 637, "english": "New National War PVP. Xiliang"}
+{"id": 638, "english": "New National War PVP. Xuchang"}
+{"id": 639, "english": "Newlywed Bliss, a sweet newlywed status"}
+{"id": 640, "english": "Claim the top spot in the New Year and receive the highest good fortune!"}
+{"id": 641, "english": "Peerless 07"}
+{"id": 642, "english": "New Spring Fortune"}
+{"id": 643, "english": "Whirlwind Type Counter, stacks up to 8 times"}
+{"id": 644, "english": "Peerless Loulan Ancient Palace"}
+{"id": 645, "english": "Peerless Xuanyuan Ruins 1"}
+{"id": 646, "english": "Peerless Xuanyuan Ruins 10"}
+{"id": 647, "english": "Peerless Xuanyuan Ruins 2"}
+{"id": 648, "english": "Peerless Xuanyuan Ruins 3"}
+{"id": 649, "english": "Peerless Xuanyuan Ruins 4"}
+{"id": 650, "english": "Peerless Xuanyuan Ruins 5"}
+{"id": 651, "english": "Peerless Xuanyuan Ruins 6"}
+{"id": 652, "english": "Peerless Xuanyuan Ruins 7"}
+{"id": 653, "english": "Peerless Xuanyuan Ruins 8"}
+{"id": 654, "english": "Peerless Xuanyuan Ruins 9"}
+{"id": 655, "english": "Peerless Demon Realm of the Hegemon King 1"}
+{"id": 656, "english": "Peerless Demon Realm of the Hegemon King 10"}
+{"id": 657, "english": "Peerless Demon Realm of the Hegemon King 2"}
+{"id": 658, "english": "Peerless Demon Realm of the Hegemon King 3"}
+{"id": 659, "english": "Peerless Demon Realm of the Hegemon King 4"}
+{"id": 660, "english": "Peerless Demon Realm of the Hegemon King 5"}
+{"id": 661, "english": "Peerless Demon Realm of the Hegemon King 6"}
+{"id": 662, "english": "Peerless Demon Realm of the Hegemon King 7"}
+{"id": 663, "english": "Peerless Demon Realm of the Hegemon King 8"}
+{"id": 664, "english": "Peerless Demon Realm of the Hegemon King 9"}
+{"id": 665, "english": "Free-for-all Practice"}
+{"id": 666, "english": "Invincible"}
+{"id": 667, "english": "Useless"}
+{"id": 668, "english": "Useless, No Icon"}
+{"id": 669, "english": "Ignores Destruction"}
+{"id": 670, "english": "Temporarily Void"}
+{"id": 671, "english": "Critical Rate Reduced"}
+{"id": 672, "english": "Critical Counter"}
+{"id": 673, "english": "Tale of Cao Zhi"}
+{"id": 674, "english": "Substitute Doll"}
+{"id": 675, "english": "This Week's Renown Earned"}
+{"id": 676, "english": "This Week's Total Activity Rankings"}
+{"id": 677, "english": "This Month's Renown Earned"}
+{"id": 678, "english": "This Month's Virtue Earned Rankings"}
+{"id": 679, "english": "This Month's Spending Points Earned Rankings"}
+{"id": 680, "english": "Vermilion Bird Flame Instant Damage, No Icon"}
+{"id": 681, "english": "Chance to Be Immune to Stun"}
+{"id": 682, "english": "Chance to Be Immune to Immobilize"}
+{"id": 683, "english": "Miscellaneous"}
+{"id": 684, "english": "Spear"}
+{"id": 685, "english": "Standard Attack - Self Group"}
+{"id": 686, "english": "Dream Space (Floor 1)"}
+{"id": 687, "english": "Dream Space (Floor 3)"}
+{"id": 688, "english": "Dream Space (Floor 2)"}
+{"id": 689, "english": "Staff"}
+{"id": 690, "english": "Loulan Ancient Palace"}
+{"id": 691, "english": "Loulan Sand Sea"}
+{"id": 692, "english": "Song Lounges and Dance Terraces, Admire the Graceful"}
+{"id": 693, "english": "This Entry Is Void"}
+{"id": 694, "english": "Military Merit Rankings"}
+{"id": 695, "english": "Military Officials' Renown Earned Last Month"}
+{"id": 696, "english": "Military Officials' Renown Earned This Month"}
+{"id": 697, "english": "Snowfield of Sorrow"}
+{"id": 698, "english": "Gain a certain amount of Training every minute."}
+{"id": 699, "english": "Water Bandit Island"}
+{"id": 700, "english": "Jiangnan"}
+{"id": 701, "english": "Hebei"}
+{"id": 702, "english": "Healing Stamina"}
+{"id": 703, "english": "Healing Score"}
+{"id": 704, "english": "Luoyang"}
+{"id": 705, "english": "Activity Points reached 1000!<CRLF>Tier 1 reward available!"}
+{"id": 706, "english": "Activity Points reached 2000!<CRLF>Tier 2 reward available!"}
+{"id": 707, "english": "Activity Points reached 2500!<CRLF>Tier 4 reward available!"}
+{"id": 708, "english": "Activity Points reached 3000!<CRLF>Tier 3 reward available!"}
+{"id": 709, "english": "Activity Points reached 3000!<CRLF>Tier 5 reward available!"}
+{"id": 710, "english": "Test-Useless"}
+{"id": 711, "english": "Test_Increase Injury Resistance"}
+{"id": 712, "english": "Test_Increase Accuracy<CRLF>Yang Jun used this in Northern Mang, do not mess with it"}
+{"id": 713, "english": "Test_Increase Seal Resistance "}
+{"id": 714, "english": "Test_Increase Attack <CRLF>Yang Jun used this in Northern Mang, do not mess with it"}
+{"id": 715, "english": "Test_Increase Critical Resistance "}
+{"id": 716, "english": "Test_Increase Drain Resistance "}
+{"id": 717, "english": "Test_Increase Weakness Resistance"}
+{"id": 718, "english": "Test_Increase Dodge"}
+{"id": 719, "english": "Test_Increase Defense<CRLF>Yang Jun used this in Northern Mang, do not mess with it"}
+{"id": 720, "english": "Test_Increase Restriction Resistance"}
+{"id": 721, "english": "Test_Direct HP Reduction"}
+{"id": 722, "english": "Test_Direct and Resistance Dual Boost"}
+{"id": 723, "english": "Test_Blood-Fury Physique Full Boost "}
+{"id": 724, "english": "Test_Reset Skill CD"}
+{"id": 725, "english": "Testz13"}
+{"id": 726, "english": "Testz8"}
+{"id": 727, "english": "Test-Only Scene"}
+{"id": 728, "english": "Test-Only Skill Corresponding Status"}
+{"id": 729, "english": "Test Reflect Status"}
+{"id": 730, "english": "Test Scene 1"}
+{"id": 731, "english": "Test Scene 2"}
+{"id": 732, "english": "Test Scene 3"}
+{"id": 733, "english": "Test Generate Reflect Status "}
+{"id": 734, "english": "Consumable Item"}
+{"id": 735, "english": "Drowning. HP greatly reduced until death."}
+{"id": 736, "english": "Romance: Battle of Yizhou"}
+{"id": 737, "english": "Martial Arena"}
+{"id": 738, "english": "Stealth Cooldown"}
+{"id": 739, "english": "Activate Mystic Stone Light Effect"}
+{"id": 740, "english": "Battle of Puyang-II"}
+{"id": 741, "english": "Battle of Puyang (Heroic)"}
+{"id": 742, "english": "Defeat in Puyang Heroic Expedition Battlefield"}
+{"id": 743, "english": "Draw in Puyang Heroic Expedition Battlefield"}
+{"id": 744, "english": "Victory in Puyang Heroic Expedition Battlefield"}
+{"id": 745, "english": "Spirit Mountain Secret Path"}
+{"id": 746, "english": "Roll Call"}
+{"id": 747, "english": "Soul Refining +10 Status"}
+{"id": 748, "english": "Soul Refining +11 Status"}
+{"id": 749, "english": "Soul Refining +12 Status"}
+{"id": 750, "english": "Soul Refining +13 Status"}
+{"id": 751, "english": "Soul Refining +14 Status"}
+{"id": 752, "english": "Soul Refining +15 Status"}
+{"id": 753, "english": "Soul Refining +1 Status"}
+{"id": 754, "english": "Soul Refining +2 Status"}
+{"id": 755, "english": "Soul Refining +3 Status"}
+{"id": 756, "english": "Soul Refining +4 Status"}
+{"id": 757, "english": "Soul Refining +5 Status"}
+{"id": 758, "english": "Soul Refining +6 Status"}
+{"id": 759, "english": "Soul Refining +7 Status"}
+{"id": 760, "english": "Soul Refining +8 Status"}
+{"id": 761, "english": "Soul Refining +9 Status"}
+{"id": 762, "english": "Soul Refining Status"}
+{"id": 763, "english": "The blind bear has been driven off, and the hunting grounds are peaceful again.<CRLF>Claim your reward."}
+{"id": 764, "english": "Burn<CRLF><CRLF>"}
+{"id": 765, "english": "Claws"}
+{"id": 766, "english": "Shepherd God"}
+{"id": 767, "english": "Item"}
+{"id": 768, "english": "Suppression Attack Destruction Effect"}
+{"id": 769, "english": "Suppression Attack - Self Group"}
+{"id": 770, "english": "The leaping flames have been put out—the beef won't be scorched.<CRLF>The mouth-watering aroma makes you drool; your EXP from grilling the beef has increased.<CRLF>Put out the flames 3 times to claim a generous reward!"}
+{"id": 771, "english": "Heart of the Black Tortoise"}
+{"id": 772, "english": "Ring"}
+{"id": 773, "english": "Ganlu Temple 1"}
+{"id": 774, "english": "Ganlu Temple 2"}
+{"id": 775, "english": "Ganlu Temple 3"}
+{"id": 776, "english": "Ganlu Temple 4"}
+{"id": 777, "english": "Ganlu Temple 5"}
+{"id": 778, "english": "Generate Rest"}
+{"id": 779, "english": "Generate Valor"}
+{"id": 780, "english": "Generate Windride"}
+{"id": 781, "english": "Generate Departure"}
+{"id": 782, "english": "Deck<CRLF>The deck of a warship"}
+{"id": 783, "english": "Battle of Jieqiao"}
+{"id": 784, "english": "Valley of Lasting Fragrance"}
+{"id": 785, "english": "Baidi City 2"}
+{"id": 786, "english": "Instant Stamina Recovery"}
+{"id": 787, "english": "Shield"}
+{"id": 788, "english": "Invisible; generates defense boost when hit"}
+{"id": 789, "english": "Instant HP Recovery"}
+{"id": 790, "english": "Instant HP Recovery with Continuous Regen"}
+{"id": 791, "english": "Army Breaker"}
+{"id": 792, "english": "Gift Pack"}
+{"id": 793, "english": "Gift Bag"}
+{"id": 794, "english": "Prayer Status"}
+{"id": 795, "english": "Shenzhou Horse Race"}
+{"id": 796, "english": "Blocks HP Recovery, Stamina Recovery, and Criticals"}
+{"id": 797, "english": "Prosperity Star Shines High"}
+{"id": 798, "english": "Lucky Star Shines High"}
+{"id": 799, "english": "Proof of planting elm trees!<CRLF>Collect all four proofs—poplar, bamboo, elm, and red maple<CRLF>to claim a surprise reward!"}
+{"id": 800, "english": "Proof of planting poplar trees!<CRLF>Collect all four proofs—poplar, bamboo, elm, and red maple<CRLF>to claim a surprise reward!"}
+{"id": 801, "english": "Proof of planting bamboo!<CRLF>Collect all four proofs—poplar, bamboo, elm, and red maple<CRLF>to claim a surprise reward!"}
+{"id": 802, "english": "Proof of planting red maples!<CRLF>Collect all four proofs—poplar, bamboo, elm, and red maple<CRLF>to claim a surprise reward!"}
+{"id": 803, "english": "Secret Text"}
+{"id": 804, "english": "Points"}
+{"id": 805, "english": "Steady 'Sink the Boats' Effect"}
+{"id": 806, "english": "Arena Legion Contributions Last Week"}
+{"id": 807, "english": "Arena Legion Rank:"}
+{"id": 808, "english": "Arena Legion Leaderboard"}
+{"id": 809, "english": "Arena Legion Level Rankings"}
+{"id": 810, "english": "Arena 001 Mausoleum"}
+{"id": 811, "english": "Arena 002 Mausoleum"}
+{"id": 812, "english": "Arena 003 Mausoleum"}
+{"id": 813, "english": "Arena 004 Mausoleum"}
+{"id": 814, "english": "Arena 005 Mausoleum"}
+{"id": 815, "english": "Arena 006 Mausoleum"}
+{"id": 816, "english": "Arena 007 Mausoleum"}
+{"id": 817, "english": "Arena 008 Mausoleum"}
+{"id": 818, "english": "Arena 009 Mausoleum"}
+{"id": 819, "english": "Arena 010 Mausoleum"}
+{"id": 820, "english": "Arena 011 Mausoleum"}
+{"id": 821, "english": "Arena 012 Mausoleum"}
+{"id": 822, "english": "Arena 013 Mausoleum"}
+{"id": 823, "english": "Arena 014 Mausoleum"}
+{"id": 824, "english": "Arena 015 Mausoleum"}
+{"id": 825, "english": "Arena 016 Mausoleum"}
+{"id": 826, "english": "Arena 017 Mausoleum"}
+{"id": 827, "english": "Arena 018 Mausoleum"}
+{"id": 828, "english": "Arena 019 Mausoleum"}
+{"id": 829, "english": "Arena 020 Mausoleum"}
+{"id": 830, "english": "Arena 021 Mausoleum"}
+{"id": 831, "english": "Arena 022 Mausoleum"}
+{"id": 832, "english": "Arena 023 Mausoleum"}
+{"id": 833, "english": "Arena 024 Mausoleum"}
+{"id": 834, "english": "Arena 025 Mausoleum"}
+{"id": 835, "english": "Arena 026 Mausoleum"}
+{"id": 836, "english": "Arena 027 Mausoleum"}
+{"id": 837, "english": "Arena 028 Mausoleum"}
+{"id": 838, "english": "Arena 029 Mausoleum"}
+{"id": 839, "english": "Arena 030 Mausoleum"}
+{"id": 840, "english": "Arena 031 Mausoleum"}
+{"id": 841, "english": "Arena 032 Mausoleum"}
+{"id": 842, "english": "Arena 033 Mausoleum"}
+{"id": 843, "english": "Arena 034 Mausoleum"}
+{"id": 844, "english": "Arena 035 Mausoleum"}
+{"id": 845, "english": "Arena 036 Mausoleum"}
+{"id": 846, "english": "Arena 037 Mausoleum"}
+{"id": 847, "english": "Arena 038 Mausoleum"}
+{"id": 848, "english": "Arena 039 Mausoleum"}
+{"id": 849, "english": "Arena 040 Mausoleum"}
+{"id": 850, "english": "Arena 041 Mausoleum"}
+{"id": 851, "english": "Arena 042 Mausoleum"}
+{"id": 852, "english": "Arena 043 Mausoleum"}
+{"id": 853, "english": "Arena 044 Mausoleum"}
+{"id": 854, "english": "Arena 045 Mausoleum"}
+{"id": 855, "english": "Arena 046 Mausoleum"}
+{"id": 856, "english": "Arena 047 Mausoleum"}
+{"id": 857, "english": "Arena 048 Mausoleum"}
+{"id": 858, "english": "Arena 049 Mausoleum"}
+{"id": 859, "english": "Arena 050 Mausoleum"}
+{"id": 860, "english": "Arena 051 Mausoleum"}
+{"id": 861, "english": "Arena 052 Mausoleum"}
+{"id": 862, "english": "Arena 053 Mausoleum"}
+{"id": 863, "english": "Arena 054 Mausoleum"}
+{"id": 864, "english": "Arena 055 Mausoleum"}
+{"id": 865, "english": "Arena 056 Mausoleum"}
+{"id": 866, "english": "Arena 057 Mausoleum"}
+{"id": 867, "english": "Arena 058 Mausoleum"}
+{"id": 868, "english": "Arena 059 Mausoleum"}
+{"id": 869, "english": "Arena 060 Mausoleum"}
+{"id": 870, "english": "Arena 061 Mausoleum"}
+{"id": 871, "english": "Arena 062 Mausoleum"}
+{"id": 872, "english": "Arena 063 Mausoleum"}
+{"id": 873, "english": "Arena 064 Mausoleum"}
+{"id": 874, "english": "Arena 065 Red Maple Valley"}
+{"id": 875, "english": "Arena 066 Red Maple Valley"}
+{"id": 876, "english": "Arena 067 Red Maple Valley"}
+{"id": 877, "english": "Arena 068 Red Maple Valley"}
+{"id": 878, "english": "Arena 069 Red Maple Valley"}
+{"id": 879, "english": "Arena 070 Red Maple Valley"}
+{"id": 880, "english": "Arena 071 Red Maple Valley"}
+{"id": 881, "english": "Arena 072 Red Maple Valley"}
+{"id": 882, "english": "Arena 073 Red Maple Valley"}
+{"id": 883, "english": "Arena 074 Red Maple Valley"}
+{"id": 884, "english": "Arena 075 Red Maple Valley"}
+{"id": 885, "english": "Arena 076 Red Maple Valley"}
+{"id": 886, "english": "Arena 077 Red Maple Valley"}
+{"id": 887, "english": "Arena 078 Red Maple Valley"}
+{"id": 888, "english": "Arena 079 Red Maple Valley"}
+{"id": 889, "english": "Arena 080 Red Maple Valley"}
+{"id": 890, "english": "Arena 081 Red Maple Valley"}
+{"id": 891, "english": "Arena 082 Red Maple Valley"}
+{"id": 892, "english": "Arena 083 Red Maple Valley"}
+{"id": 893, "english": "Arena 084 Red Maple Valley"}
+{"id": 894, "english": "Arena 085 Red Maple Valley"}
+{"id": 895, "english": "Arena 086 Red Maple Valley"}
+{"id": 896, "english": "Arena 087 Red Maple Valley"}
+{"id": 897, "english": "Arena 088 Red Maple Valley"}
+{"id": 898, "english": "Arena 089 Red Maple Valley"}
+{"id": 899, "english": "Arena 090 Red Maple Valley"}
+{"id": 900, "english": "Arena 091 Red Maple Valley"}
+{"id": 901, "english": "Arena 092 Red Maple Valley"}
+{"id": 902, "english": "Arena 093 Red Maple Valley"}
+{"id": 903, "english": "Arena 094 Red Maple Valley"}
+{"id": 904, "english": "Arena 095 Red Maple Valley"}
+{"id": 905, "english": "Arena 096 Red Maple Valley"}
+{"id": 906, "english": "Arena 097 Five Braves Valley"}
+{"id": 907, "english": "Arena 098 Five Braves Valley"}
+{"id": 908, "english": "Arena 099 Five Braves Valley"}
+{"id": 909, "english": "Arena 100 Five Braves Valley"}
+{"id": 910, "english": "Arena 101 Five Braves Valley"}
+{"id": 911, "english": "Arena 102 Five Braves Valley"}
+{"id": 912, "english": "Arena 103 Five Braves Valley"}
+{"id": 913, "english": "Arena 104 Five Braves Valley"}
+{"id": 914, "english": "Arena 105 Five Braves Valley"}
+{"id": 915, "english": "Arena 106 Five Braves Valley"}
+{"id": 916, "english": "Arena 107 Five Braves Valley"}
+{"id": 917, "english": "Arena 108 Five Braves Valley"}
+{"id": 918, "english": "Arena 109 Five Braves Valley"}
+{"id": 919, "english": "Arena 110 Five Braves Valley"}
+{"id": 920, "english": "Arena 111 Five Braves Valley"}
+{"id": 921, "english": "Arena 112 Five Braves Valley"}
+{"id": 922, "english": "Arena 113 Zhurong Hall"}
+{"id": 923, "english": "Arena 114 Zhurong Hall"}
+{"id": 924, "english": "Arena 115 Zhurong Hall"}
+{"id": 925, "english": "Arena 116 Zhurong Hall"}
+{"id": 926, "english": "Arena 117 Zhurong Hall"}
+{"id": 927, "english": "Arena 118 Zhurong Hall"}
+{"id": 928, "english": "Arena 119 Zhurong Hall"}
+{"id": 929, "english": "Arena 120 Zhurong Hall"}
+{"id": 930, "english": "Arena 121 Red Maple Valley"}
+{"id": 931, "english": "Arena 122 Red Maple Valley"}
+{"id": 932, "english": "Arena 123 Red Maple Valley"}
+{"id": 933, "english": "Arena 124 Red Maple Valley"}
+{"id": 934, "english": "Arena 125 Five Braves Tomb"}
+{"id": 935, "english": "Arena 126 Five Braves Tomb"}
+{"id": 936, "english": "Arena 127 Zhurong Hall"}
+{"id": 937, "english": "Arena 12 Players"}
+{"id": 938, "english": "Arena 1 Player"}
+{"id": 939, "english": "Arena Rank:"}
+{"id": 940, "english": "Arena Rankings"}
+{"id": 941, "english": "Arena Leaderboard"}
+{"id": 942, "english": "Arena Hero Battle"}
+{"id": 943, "english": "Lap 1, 1/3 "}
+{"id": 944, "english": "Lap 1, 2/3"}
+{"id": 945, "english": "Lap 1 Complete"}
+{"id": 946, "english": "Lap 2, 1/3 "}
+{"id": 947, "english": "Lap 2, 2/3"}
+{"id": 948, "english": "Lap 2 Complete"}
+{"id": 949, "english": "Lap 3, 1/3 "}
+{"id": 950, "english": "Lap 3, 2/3"}
+{"id": 951, "english": "Lap 3 Complete"}
+{"id": 952, "english": "Lap 4, 1/3 "}
+{"id": 953, "english": "Lap 4, 2/3"}
+{"id": 954, "english": "Lap 4 Complete"}
+{"id": 955, "english": "Lap 5, 1/3 "}
+{"id": 956, "english": "Lap 5, 2/3"}
+{"id": 957, "english": "Lap 5 Complete"}
+{"id": 958, "english": "Level"}
+{"id": 959, "english": "Level Rankings"}
+{"id": 960, "english": "Duel Challenge"}
+{"id": 961, "english": "Practice Racetrack"}
+{"id": 962, "english": "Sworn Brotherhood Contributions Last Week"}
+{"id": 963, "english": "Sworn Brotherhood Total Contributions"}
+{"id": 964, "english": "Sworn Brotherhood Total Contribution Leaderboard"}
+{"id": 965, "english": "Sworn Brotherhood Rank:"}
+{"id": 966, "english": "Crimson-Striped Snake Venom"}
+{"id": 967, "english": "Command Value"}
+{"id": 968, "english": "Overall Rating"}
+{"id": 969, "english": "Overall Score"}
+{"id": 970, "english": "Heroes' Assembly"}
+{"id": 971, "english": "Heroes' Assembly · Finals"}
+{"id": 972, "english": "Heroes' Assembly · Preliminaries"}
+{"id": 973, "english": "Heroes' Assembly · Second Round"}
+{"id": 974, "english": "Heroes' Assembly Field"}
+{"id": 975, "english": "Earrings"}
+{"id": 976, "english": "Valley of Gathered Worthies"}
+{"id": 977, "english": "Shoulder Armor"}
+{"id": 978, "english": "Trips Mount When Hit from Behind"}
+{"id": 979, "english": "Backstab<CRLF><CRLF>Increases critical damage and critical rate of attacks from behind."}
+{"id": 980, "english": "Chest Armor"}
+{"id": 981, "english": "Wrist Armor"}
+{"id": 982, "english": "Wrist Armor"}
+{"id": 983, "english": "Leap Interrupt"}
+{"id": 984, "english": "Leap Ignores Defense"}
+{"id": 985, "english": "Leap Breaks Defense"}
+{"id": 986, "english": "Leg Armor"}
+{"id": 987, "english": "Leg Armor"}
+{"id": 988, "english": "Auto Revive"}
+{"id": 989, "english": "Free Practice"}
+{"id": 990, "english": "Love Beyond Death<CRLF>You need to find an opposite-sex player with the status “Love Beyond Time” to form a team.<CRLF>The male player should be leader; accept the quest “Rather Be Mandarin Ducks Than Immortals” from Emperor Xian of Han.<CRLF>Complete the quest for great rewards!"}
+{"id": 991, "english": "Dance"}
+{"id": 992, "english": "Pondering"}
+{"id": 993, "english": "Heroic Tales 01: Tale of Xu Chu 1"}
+{"id": 994, "english": "Heroic Tales 01: Tale of Xu Chu 2"}
+{"id": 995, "english": "Heroic Tales 01: Tale of Xu Chu 3"}
+{"id": 996, "english": "Heroic Tales 01: Tale of Xu Chu 4"}
+{"id": 997, "english": "Heroic Tales 01: Tale of Xu Chu 5"}
+{"id": 998, "english": "Heroic Tales 01: Tale of Xu Chu 6"}
+{"id": 999, "english": "Heroic Tales 02: Tale of Gan Ning 1"}
+{"id": 1000, "english": "Heroic Tales 02: Tale of Gan Ning 2"}
+{"id": 1001, "english": "Heroic Tales 02: Tale of Gan Ning 3"}
+{"id": 1002, "english": "Heroic Tales 02: Tale of Gan Ning 4"}
+{"id": 1003, "english": "Heroic Tales 02: Tale of Gan Ning 5"}
+{"id": 1004, "english": "Heroic Tales 02: Tale of Gan Ning 6"}
+{"id": 1005, "english": "Heroic Tales: Tale of Huang Zhong"}
+{"id": 1006, "english": "Jingxiang"}
+{"id": 1007, "english": "Jingxiang Escape 1"}
+{"id": 1008, "english": "Jingxiang Escape 2"}
+{"id": 1009, "english": "Jingxiang Escape 3"}
+{"id": 1010, "english": "Jingxiang Escape 4"}
+{"id": 1011, "english": "Jingxiang Escape 5"}
+{"id": 1012, "english": "Jingxiang Escape 6"}
+{"id": 1013, "english": "Jingxiang Escape 7"}
+{"id": 1014, "english": "Jingxiang Escape 8"}
+{"id": 1015, "english": "Grassland"}
+{"id": 1016, "english": "Borrowing Arrows with Straw Boats"}
+{"id": 1017, "english": "Borrowing Arrows with Straw Boats Last Week's Points Leaderboard"}
+{"id": 1018, "english": "Borrowing Arrows with Straw Boats Last Month's Points Leaderboard"}
+{"id": 1019, "english": "Glory Value Rankings"}
+{"id": 1020, "english": "Medicine"}
+{"id": 1021, "english": "Falling Plume Shot<CRLF><CRLF>Increases the attack strength and attack power of the next shot."}
+{"id": 1022, "english": "Dong Zhuo's Imperial Palace"}
+{"id": 1023, "english": "Jiameng Pass Time-Limited"}
+{"id": 1024, "english": "Jiang Gan Steals the Letter 1"}
+{"id": 1025, "english": "Jiang Gan Steals the Letter 10"}
+{"id": 1026, "english": "Jiang Gan Steals the Letter 2"}
+{"id": 1027, "english": "Jiang Gan Steals the Letter 3"}
+{"id": 1028, "english": "Jiang Gan Steals the Letter 4"}
+{"id": 1029, "english": "Jiang Gan Steals the Letter 5"}
+{"id": 1030, "english": "Jiang Gan Steals the Letter 6"}
+{"id": 1031, "english": "Jiang Gan Steals the Letter 7"}
+{"id": 1032, "english": "Jiang Gan Steals the Letter 8"}
+{"id": 1033, "english": "Jiang Gan Steals the Letter 9"}
+{"id": 1034, "english": "Hunt tigers in the Year of the Tiger—a great start to the year."}
+{"id": 1035, "english": "Hulao Pass"}
+{"id": 1036, "english": "Hulao Pass Heroes Assembly Heroic 1"}
+{"id": 1037, "english": "Hulao Pass Heroes Assembly Heroic 2"}
+{"id": 1038, "english": "Hulao Pass Heroes Assembly Heroic 3"}
+{"id": 1039, "english": "Hulao Pass Heroes Assembly Heroic 4"}
+{"id": 1040, "english": "Hulao Pass Heroes Assembly Heroic 5"}
+{"id": 1041, "english": "Tiger Vigor Gift Pack"}
+{"id": 1042, "english": "Virtual Currency"}
+{"id": 1043, "english": "Shu Last Week Wuzhang Plains Contribution"}
+{"id": 1044, "english": "Shu Kingdom Last Week's Kill Rankings"}
+{"id": 1045, "english": "Shu Kingdom Last Week's Renown Earned"}
+{"id": 1046, "english": "Shu Kingdom Last Month's Renown Earned"}
+{"id": 1047, "english": "Shu Kingdom Legion National Funds"}
+{"id": 1048, "english": "Shu Kingdom Renown"}
+{"id": 1049, "english": "Shu Kingdom Guard Status: Fierce Battle"}
+{"id": 1050, "english": "Shu Kingdom Guard Status: Desperate Battle"}
+{"id": 1051, "english": "Shu Kingdom Guard Status: Iron Wall"}
+{"id": 1052, "english": "Shu Kingdom Total Kill Rankings"}
+{"id": 1053, "english": "Shu Kingdom Leaderboard"}
+{"id": 1054, "english": "Shu Kingdom Civil Merit"}
+{"id": 1055, "english": "Shu Kingdom This Week's Renown Earned"}
+{"id": 1056, "english": "Shu Kingdom This Month's Renown Earned"}
+{"id": 1057, "english": "Shu Kingdom Military Merit"}
+{"id": 1058, "english": "Shu Kingdom Player National Funds"}
+{"id": 1059, "english": "Shu Capital Hanzhong"}
+{"id": 1060, "english": "Butterfly Dream Incense"}
+{"id": 1061, "english": "Blood Valor + Blast Resistance"}
+{"id": 1062, "english": "Blood Valor's Immovable Mountain Effect"}
+{"id": 1063, "english": "Blood Valor's Steadfast Will Effect"}
+{"id": 1064, "english": "HP Potion"}
+{"id": 1065, "english": "Emote"}
+{"id": 1066, "english": "You have been confessed to—your heart blooms with joy."}
+{"id": 1067, "english": "Cloud-Splitting Strike"}
+{"id": 1068, "english": "Battle of Xiangyang"}
+{"id": 1069, "english": "Xiliang"}
+{"id": 1070, "english": "Xiliang Turmoil"}
+{"id": 1071, "english": "Western Regions Mirage City"}
+{"id": 1072, "english": "Fortress Contest Participation"}
+{"id": 1073, "english": "Fortress Contest Draw"}
+{"id": 1074, "english": "Fortress Contest Victory"}
+{"id": 1075, "english": "Tale of Xu Chu Victory<CRLF><CRLF>Successfully cleared Tale of Xu Chu!"}
+{"id": 1076, "english": "Tale of Xu Chu Victory<CRLF><CRLF>Successfully cleared Difficulty 1 Tale of Xu Chu!"}
+{"id": 1077, "english": "Tale of Xu Chu Victory<CRLF><CRLF>Successfully cleared Difficulty 2 Tale of Xu Chu!"}
+{"id": 1078, "english": "Tale of Xu Chu Victory<CRLF><CRLF>Successfully cleared Difficulty 3 Tale of Xu Chu!"}
+{"id": 1079, "english": "Tale of Xu Chu Victory<CRLF><CRLF>Successfully cleared Difficulty 4 Tale of Xu Chu!"}
+{"id": 1080, "english": "Tale of Xu Chu Victory<CRLF><CRLF>Successfully cleared Difficulty 5 Tale of Xu Chu!"}
+{"id": 1081, "english": "Trial_Increase Crit"}
+{"id": 1082, "english": "Trial Ground"}
+{"id": 1083, "english": "Details"}
+{"id": 1084, "english": "Diaochan: The Untold Tale"}
+{"id": 1085, "english": "Contribution Value"}
+{"id": 1086, "english": "Wealth Rankings"}
+{"id": 1087, "english": "Wealth (Gold)"}
+{"id": 1088, "english": "Stun After Using a Movement Skill in Horse Race"}
+{"id": 1089, "english": "Horse Race Warm-Up Status"}
+{"id": 1090, "english": "Battle of Chibi"}
+{"id": 1091, "english": "Chibi Decisive Battle Ended"}
+{"id": 1092, "english": "Chibi Skirmish Ended"}
+{"id": 1093, "english": "Battle of Red Cliffs PVP"}
+{"id": 1094, "english": "Tale of Zhao Yun"}
+{"id": 1095, "english": "Driven back a hunting beast!"}
+{"id": 1096, "english": "Drove off the Christmas Black-Clad Man!"}
+{"id": 1097, "english": "Trade run in progress. You cannot use the Baidi City Teleport Flag or the Secret Path Token."}
+{"id": 1098, "english": "Cross-Server PK Battle"}
+{"id": 1099, "english": "Cross-Server PK Qualifier"}
+{"id": 1100, "english": "Cross-Server City War"}
+{"id": 1101, "english": "Cross-Server Battlefield Transfer"}
+{"id": 1102, "english": "Cross-Server Leaderboard"}
+{"id": 1103, "english": "Cross-Server Arena · Cross-Server Tournament Line 10"}
+{"id": 1104, "english": "Cross-Server Arena · Cross-Server Tournament Line 11"}
+{"id": 1105, "english": "Cross-Server Arena · Cross-Server Tournament Line 3"}
+{"id": 1106, "english": "Cross-Server Arena · Cross-Server Tournament Line 4"}
+{"id": 1107, "english": "Cross-Server Arena · Cross-Server Tournament Line 5"}
+{"id": 1108, "english": "Cross-Server Arena · Cross-Server Tournament Line 6"}
+{"id": 1109, "english": "Cross-Server Arena · Cross-Server Tournament Line 7"}
+{"id": 1110, "english": "Cross-Server Arena · Cross-Server Tournament Line 8"}
+{"id": 1111, "english": "Cross-Server Arena · Cross-Server Tournament Line 9"}
+{"id": 1112, "english": "Cross-Server Arena · Qualifier Line 3"}
+{"id": 1113, "english": "Cross-Server Arena · Qualifier Line 4"}
+{"id": 1114, "english": "Cross-Server Arena · Qualifier Line 5"}
+{"id": 1115, "english": "Cross-Server Arena · Qualifier Line 6"}
+{"id": 1116, "english": "Cross-Server Arena · Qualifier Line 7"}
+{"id": 1117, "english": "Cross-Server Arena · Qualifier Line 8"}
+{"id": 1118, "english": "Cross-Server Arena Practice Field"}
+{"id": 1119, "english": "Xuanyuan Ruins"}
+{"id": 1120, "english": "Light Cavalry Long Charge hidden effect; generates a mount trip when hit"}
+{"id": 1121, "english": "Through Passes, Slashing Generals"}
+{"id": 1122, "english": "Stratagem Hidden"}
+{"id": 1123, "english": "Consecutive Hit Mode<CRLF><CRLF>Continuous firing within 15 seconds grants a boosted effect."}
+{"id": 1124, "english": "Consecutive Hit Mode<CRLF><CRLF>Continuous firing within 30 seconds grants a boosted effect."}
+{"id": 1125, "english": "Continuous Thrust<CRLF>"}
+{"id": 1126, "english": "Continuous Cleave"}
+{"id": 1127, "english": "If the first hit of Continuous Cleave lands, add the next—used to judge whether both hits connected."}
+{"id": 1128, "english": "Chain Kill<CRLF><CRLF>Any attack skill stuns the enemy"}
+{"id": 1129, "english": "Continuous Dance Hit Combat Qi Recovery Effect 10"}
+{"id": 1130, "english": "Continuous Dance Hit Combat Qi Recovery Effect 8"}
+{"id": 1131, "english": "Enchanted Flower Rainforest"}
+{"id": 1132, "english": "Tracking<CRLF><CRLF>Found a marked stone! Keep going—when the tracking status stacks to 6 layers, the job is done."}
+{"id": 1133, "english": "After using Windchaser, lasts 3 seconds.<CRLF>For testing time use<CRLF>Generates the Wind Escape skill (5905).<CRLF>Absorbed damage max 20,000.<CRLF>Immune to stun and slow.<CRLF>Adjust attack interval by 20%.<CRLF>Adjust attack range by 3 meters."}
+{"id": 1134, "english": "Xiaoyao Ford"}
+{"id": 1135, "english": "The Carefree Hermit quietly handed you a letter."}
+{"id": 1136, "english": "Recipe Scroll"}
+{"id": 1137, "english": "Drunken Butterfly Incense"}
+{"id": 1138, "english": "Gold Coins"}
+{"id": 1139, "english": "Fishing Dispel"}
+{"id": 1140, "english": "Hook"}
+{"id": 1141, "english": "Broadaxe"}
+{"id": 1142, "english": "Clanging Dance: after 5 seconds, gain Combat Qi every second"}
+{"id": 1143, "english": "Clanging Dance: for the first 5 seconds, gain Combat Qi every second"}
+{"id": 1144, "english": "Iron Mace"}
+{"id": 1145, "english": "Hammer"}
+{"id": 1146, "english": "Hammer Ultimate Skill<CRLF>Generates a race ultimate-skill boost status and stun"}
+{"id": 1147, "english": "When Hammer blocks<CRLF>generates Fierce Assault and Wild Dance points"}
+{"id": 1148, "english": "Flash Strike<CRLF><CRLF>Attack increased after emerging from stealth."}
+{"id": 1149, "english": "Evasion<CRLF><CRLF>Dodge enemy skill attacks for 3 seconds."}
+{"id": 1150, "english": "Team Arena Leaderboard"}
+{"id": 1151, "english": "Team Level"}
+{"id": 1152, "english": "Team Level Rankings"}
+{"id": 1153, "english": "Team EXP"}
+{"id": 1154, "english": "Team Overall Score"}
+{"id": 1155, "english": "Team Overall Score Rankings"}
+{"id": 1156, "english": "Defense Score"}
+{"id": 1157, "english": "Camp Prestige"}
+{"id": 1158, "english": "Camp Rank:"}
+{"id": 1159, "english": "Camp Leaderboard"}
+{"id": 1160, "english": "Camp Duel. Jianye"}
+{"id": 1161, "english": "Camp Duel. Hanzhong"}
+{"id": 1162, "english": "Camp Duel. Xuchang"}
+{"id": 1163, "english": "Additional Attribute Type Definitions:"}
+{"id": 1164, "english": "Greatly Reduces Defense"}
+{"id": 1165, "english": "Hidden"}
+{"id": 1166, "english": "Hidden Status"}
+{"id": 1167, "english": "The Rain God Descends!<CRLF>Use this status to claim the region Prestige reward from a Rain Prayer Messenger.<CRLF>Disappears on logout! Disappears on scene change!"}

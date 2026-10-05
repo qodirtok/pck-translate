@@ -1,0 +1,202 @@
+file=skillstr.txt  fmt=txt  src_lines=33604  dst_lines=33604
+lines where has_cjk_in_spans(dst, fmt) is true: 33
+
+L9318   dest_spans_with_cjk=1
+   SRC: 3621  "空手自动攻击，在不能使用正常武器普攻时调用"
+   DST: 3621  "Bare handed auto attack，called when a normal weapon attack cannot be used"
+   cjk span texts: ['Bare handed auto attack，called when a normal weapon attack cannot be used']
+   of which were extracted payloads: []
+
+L11169  dest_spans_with_cjk=1
+   SRC: 20241  "配合爵位1级生效，加生命值100"
+   DST: 20241  "Takes effect with Nobility Level 1，adds 100 HP"
+   cjk span texts: ['Takes effect with Nobility Level 1，adds 100 HP']
+   of which were extracted payloads: []
+
+L11172  dest_spans_with_cjk=1
+   SRC: 20251  "配合爵位2级生效，加生命值200"
+   DST: 20251  "Takes effect with Nobility Level 2，adds 200 HP"
+   cjk span texts: ['Takes effect with Nobility Level 2，adds 200 HP']
+   of which were extracted payloads: []
+
+L11175  dest_spans_with_cjk=1
+   SRC: 20261  "配合爵位3级生效，加生命值300"
+   DST: 20261  "Takes effect with Nobility Level 3，adds 300 HP"
+   cjk span texts: ['Takes effect with Nobility Level 3，adds 300 HP']
+   of which were extracted payloads: []
+
+L11178  dest_spans_with_cjk=1
+   SRC: 20271  "配合爵位4级生效，加生命值400"
+   DST: 20271  "Takes effect with Nobility Level 4，adds 400 HP"
+   cjk span texts: ['Takes effect with Nobility Level 4，adds 400 HP']
+   of which were extracted payloads: []
+
+L11181  dest_spans_with_cjk=1
+   SRC: 20281  "配合爵位5级生效，加生命值500"
+   DST: 20281  "Takes effect with Nobility Level 5，adds 500 HP"
+   cjk span texts: ['Takes effect with Nobility Level 5，adds 500 HP']
+   of which were extracted payloads: []
+
+L11184  dest_spans_with_cjk=1
+   SRC: 20291  "配合爵位6级生效，加生命值600"
+   DST: 20291  "Takes effect with Nobility Level 6，adds 600 HP"
+   cjk span texts: ['Takes effect with Nobility Level 6，adds 600 HP']
+   of which were extracted payloads: []
+
+L11187  dest_spans_with_cjk=1
+   SRC: 20301  "配合爵位7级生效，加生命值700"
+   DST: 20301  "Takes effect with Nobility Level 7，adds 700 HP"
+   cjk span texts: ['Takes effect with Nobility Level 7，adds 700 HP']
+   of which were extracted payloads: []
+
+L11190  dest_spans_with_cjk=1
+   SRC: 20311  "配合爵位8级生效，加生命值800"
+   DST: 20311  "Takes effect with Nobility Level 8，adds 800 HP"
+   cjk span texts: ['Takes effect with Nobility Level 8，adds 800 HP']
+   of which were extracted payloads: []
+
+L11193  dest_spans_with_cjk=1
+   SRC: 20321  "配合爵位9级生效，加生命值900"
+   DST: 20321  "Takes effect with Nobility Level 9，adds 900 HP"
+   cjk span texts: ['Takes effect with Nobility Level 9，adds 900 HP']
+   of which were extracted payloads: []
+
+L14812  dest_spans_with_cjk=1
+   SRC: 56392  "^ffcc00效果^ffffff：最多回复20000点生命。"
+   DST: 56392  "^ffcc00Effect^ffffff：Restores up to 20000 HP."
+   cjk span texts: ['^ffcc00Effect^ffffff：Restores up to 20000 HP.']
+   of which were extracted payloads: []
+
+L14825  dest_spans_with_cjk=1
+   SRC: 56402  "^ffcc00效果^ffffff：每层天罡提升自身防御60点，昏迷抗性4点。"
+   DST: 56402  "^ffcc00Effect^ffffff：Each stack of Heavenly Palisade grants +60 Defense and +4 Coma Resistance."
+   cjk span texts: ['^ffcc00Effect^ffffff：Each stack of Heavenly Palisade grants +60 Defense and +4 Coma Resistance.']
+   of which were extracted payloads: []
+
+L14837  dest_spans_with_cjk=1
+   SRC: 56412  "^ffcc00效果^ffffff：每层印魂降低目标直接抗性1点，闪避1点。"
+   DST: 56412  "^ffcc00Effect^ffffff：Each stack of Soul Imprint reduces the target's direct Resistance by 1 and 
+   cjk span texts: ["^ffcc00Effect^ffffff：Each stack of Soul Imprint reduces the target's direct Resistance by 1 and Dodge by 1."]
+   of which were extracted payloads: []
+
+L17199  dest_spans_with_cjk=1
+   SRC: 27541  "选中对象使用，可以降低对方20点攻击力，持续1分钟。冷却时间1分钟。"
+   DST: 27541  "Use on the selected target，reduces its attack by 20 points，lasting 1 minute. Cooldown 1 minute."
+   cjk span texts: ['Use on the selected target，reduces its attack by 20 points，lasting 1 minute. Cooldown 1 minute.']
+   of which were extracted payloads: []
+
+L19408  dest_spans_with_cjk=1
+   SRC: 44621  "自身为圆心10米范围内所有目标受到3倍本体攻击伤害，且附带眩晕3秒。"
+   DST: 44621  "All targets within a 10 meter radius centered on self take 3 times the main attack damage，and ar
+   cjk span texts: ['All targets within a 10 meter radius centered on self take 3 times the main attack damage，and are Stunned for 3 seconds.']
+   of which were extracted payloads: []
+
+L19411  dest_spans_with_cjk=1
+   SRC: 44631  "蓄力5秒，选中100米内的一个目标,对其造成50%血量伤害。(被选中玩家有标记光效，此蓄力过程黄忠若被打断，技能使用失败)"
+   DST: 44631  "Charge for 5 seconds，select one target within 100 meters and deal 50% of its max HP as damage. (
+   cjk span texts: ['Charge for 5 seconds，select one target within 100 meters and deal 50% of its max HP as damage. (The selected player displays a mark light effect，if Huang Zhong is interrupted during this charge，the skill fails)']
+   of which were extracted payloads: []
+
+L19414  dest_spans_with_cjk=1
+   SRC: 44641  "选中6米内一个目标，对其造成2倍、2倍、3倍伤害，并造成浮空状态。"
+   DST: 44641  "Select a target within 6 meters，dealing 2x, 2x and 3x damage to it，and causing the Knock Up stat
+   cjk span texts: ['Select a target within 6 meters，dealing 2x, 2x and 3x damage to it，and causing the Knock Up state.']
+   of which were extracted payloads: []
+
+L19417  dest_spans_with_cjk=1
+   SRC: 44651  "面朝方向，45度半角内所有单位受到1倍,1倍,1倍,1倍,5倍伤害。"
+   DST: 44651  "In the facing direction，all units within a 45 degree half angle take 1x, 1x, 1x, 1x, 5x damage."
+   cjk span texts: ['In the facing direction，all units within a 45 degree half angle take 1x, 1x, 1x, 1x, 5x damage.']
+   of which were extracted payloads: []
+
+L19420  dest_spans_with_cjk=1
+   SRC: 44661  "空动作，将手中的武器切换为弓箭。"
+   DST: 44661  "Empty action，switches the weapon in hand to a bow."
+   cjk span texts: ['Empty action，switches the weapon in hand to a bow.']
+   of which were extracted payloads: []
+
+L19423  dest_spans_with_cjk=1
+   SRC: 44671  "空动作，将手中的武器切换为短剑。"
+   DST: 44671  "Empty action，switches the weapon in hand to a short sword."
+   cjk span texts: ['Empty action，switches the weapon in hand to a short sword.']
+   of which were extracted payloads: []
+
+L19432  dest_spans_with_cjk=1
+   SRC: 44701  "选中玩家释放的群攻技能，对玩家造成一定伤害，秒杀此玩家周围5米内指定怪（水鸟id）"
+   DST: 44701  "A group attack released on a selected player，dealing some damage to the player，and instantly kil
+   cjk span texts: ['A group attack released on a selected player，dealing some damage to the player，and instantly killing the designated monster within 5 meters around that player (Water Bird id)']
+   of which were extracted payloads: []
+
+L19435  dest_spans_with_cjk=1
+   SRC: 44711  "选中一个玩家对其做标记，5s后对其释放单体攻击造成60%伤害。"
+   DST: 44711  "Select a player and mark it，then release a single target attack after 5s for 60% damage."
+   cjk span texts: ['Select a player and mark it，then release a single target attack after 5s for 60% damage.']
+   of which were extracted payloads: []
+
+L19438  dest_spans_with_cjk=1
+   SRC: 44721  "自身为圆心5米范围内所有目标增加移动速度提升为7米/秒，持续6秒，并且提高基础攻击20%。持续10秒。"
+   DST: 44721  "All targets within a 5 meter radius centered on self have their movement speed increased to 7 m/
+   cjk span texts: ['All targets within a 5 meter radius centered on self have their movement speed increased to 7 m/s，for 6 seconds，and basic attack increased by 20%. Lasts 10 seconds.']
+   of which were extracted payloads: []
+
+L19441  dest_spans_with_cjk=1
+   SRC: 44731  "自身为圆心5米范围内所有目标被定身，持续6秒，并且受到持续伤害每秒受到0.5%的伤害。持续10秒。"
+   DST: 44731  "All targets within a 5 meter radius centered on self are Immobilized，for 6 seconds，and take cont
+   cjk span texts: ['All targets within a 5 meter radius centered on self are Immobilized，for 6 seconds，and take continuous damage of 0.5% per second. Lasts 10 seconds.']
+   of which were extracted payloads: []
+
+L19447  dest_spans_with_cjk=1
+   SRC: 44751  "面朝方向10米宽，15米长的范围内所有目标受到大量伤害，并附带浮空效果。"
+   DST: 44751  "All targets within a 10 meter wide，15 meter long area in the facing direction take heavy damage，
+   cjk span texts: ['All targets within a 10 meter wide，15 meter long area in the facing direction take heavy damage，and are Knocked Up.']
+   of which were extracted payloads: []
+
+L19450  dest_spans_with_cjk=1
+   SRC: 44761  "面朝方向宽8米长12米的的范围内目标受到5倍伤害，并附带击倒效果。"
+   DST: 44761  "Targets within an 8 meter wide and 12 meter long area in the facing direction take 5 times damag
+   cjk span texts: ['Targets within an 8 meter wide and 12 meter long area in the facing direction take 5 times damage，and are Knocked Down.']
+   of which were extracted payloads: []
+
+L19453  dest_spans_with_cjk=1
+   SRC: 44771  "自身为圆心20米半径内所有目标受到巨大的百分比伤害，并附带浮空效果。"
+   DST: 44771  "All targets within a 20 meter radius centered on self take huge percentage damage，and are Knocke
+   cjk span texts: ['All targets within a 20 meter radius centered on self take huge percentage damage，and are Knocked Up.']
+   of which were extracted payloads: []
+
+L19477  dest_spans_with_cjk=1
+   SRC: 44851  "选中目标，造成目标及其周围5米内多名敌人造成250%伤害并降低50%命中5秒"
+   DST: 44851  "Select a target，dealing 250% damage to it and multiple enemies within 5 meters around it and red
+   cjk span texts: ['Select a target，dealing 250% damage to it and multiple enemies within 5 meters around it and reducing accuracy by 50% for 5 seconds']
+   of which were extracted payloads: []
+
+L30225  dest_spans_with_cjk=1
+   SRC: 45211  "破军状态下使用连环击，基础伤害提升4%*level"
+   DST: 45211  "While in the Armybreaker state，using Chain Link Strike increases base damage by 4%*level"
+   cjk span texts: ['While in the Armybreaker state，using Chain Link Strike increases base damage by 4%*level']
+   of which were extracted payloads: []
+
+L30358  dest_spans_with_cjk=1
+   SRC: 45421  "速攻在破军状态下，提升技能基础倍率"
+   DST: 45421  "Rapid Assault in the Armybreaker state，increases the skill base multiplier"
+   cjk span texts: ['Rapid Assault in the Armybreaker state，increases the skill base multiplier']
+   of which were extracted payloads: []
+
+L30403  dest_spans_with_cjk=1
+   SRC: 45511  "破军状态下，破环式基础伤害提升5%*level"
+   DST: 45511  "While in the Armybreaker state，Ring Break Form base damage increases by 5%*level"
+   cjk span texts: ['While in the Armybreaker state，Ring Break Form base damage increases by 5%*level']
+   of which were extracted payloads: []
+
+L30435  dest_spans_with_cjk=1
+   SRC: 45561  "破军状态下使用旋风式，将提高技能基础倍率4%*level"
+   DST: 45561  "While in the Armybreaker state，using Whirlwind Form increases the skill base multiplier by 4%*le
+   cjk span texts: ['While in the Armybreaker state，using Whirlwind Form increases the skill base multiplier by 4%*level']
+   of which were extracted payloads: []
+
+L30441  dest_spans_with_cjk=1
+   SRC: 45581  "破军状态下，使用碎环式，将提升碎环式基础伤害4%*level"
+   DST: 45581  "While in the Armybreaker state，using Ring Shatter Form，increases Ring Shatter Form base damage b
+   cjk span texts: ['While in the Armybreaker state，using Ring Shatter Form，increases Ring Shatter Form base damage by 4%*level']
+   of which were extracted payloads: []
+
+exit=0

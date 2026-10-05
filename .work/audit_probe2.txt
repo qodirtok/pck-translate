@@ -1,0 +1,109 @@
+========================================================================
+skillstr.txt   (fmt=txt)
+  --- CJK inside translatable spans ---
+    L20     extracted=False
+      SRC: 10  "攻击"
+      DST: 10  "攻击"
+    L194    extracted=False
+      SRC: 130  "空"
+      DST: 130  "空"
+    L414    extracted=False
+      SRC: 4790  "空"
+      DST: 4790  "空"
+    L539    extracted=False
+      SRC: 17030  "空"
+      DST: 17030  "空"
+    L542    extracted=False
+      SRC: 17040  "空"
+      DST: 17040  "空"
+    L545    extracted=False
+      SRC: 17050  "空"
+      DST: 17050  "空"
+    L548    extracted=False
+      SRC: 17060  "空"
+      DST: 17060  "空"
+    L560    extracted=False
+      SRC: 210  "攻击"
+      DST: 210  "攻击"
+    total CJK-span lines: 124   of which source span was never extracted: 124
+  --- trailing-whitespace presence flips ---
+    L646    src_tws=False dst_tws=True
+      SRC tail: '等级 %d^ffffff - 每次对目标造成%d%%、%d%%、%d%%、%d%%基础伤害，'
+      DST tail: ', %d%%, %d%%, %d%% base Damage to the target, '
+    L1131   src_tws=False dst_tws=True
+      SRC tail: '482  "^ffcc00等级 %d^ffffff - 每次对目标造成%d%%基础伤害，'
+      DST tail: 'ach hit deals %d%% base Damage to the target, '
+    L1613   src_tws=False dst_tws=True
+      SRC tail: '682  "^ffcc00等级 %d^ffffff - 对目标造成%d%%基础伤害，'
+      DST tail: 'fffff - Deals %d%% base Damage to the target, '
+    L2002   src_tws=False dst_tws=True
+      SRC tail: '852  "^ffcc00等级 %d^ffffff - 第一段附加%d点伤害，'
+      DST tail: 'ffcc00Level %d^ffffff - Hit 1 adds %d Damage, '
+    L2537   src_tws=False dst_tws=True
+      SRC tail: '082  "^ffcc00等级 %d^ffffff -被击中目标有%d%%几率进入沉默状态,'
+      DST tail: 't has %d%% chance to enter the Silence state, '
+    L3789   src_tws=False dst_tws=True
+      SRC tail: '1522  "^ffcc00等级 %d^ffffff - 战斗中每秒回复斗气%d点，'
+      DST tail: ' - Recover %d Battle Qi per second in combat, '
+    L5612   src_tws=False dst_tws=True
+      SRC tail: '0刺杀：5秒内总共造成%.1f点伤害，降低直接抗性%d点；'
+      DST tail: ' seconds and Reduces direct Resistance by %d; '
+    L5613   src_tws=False dst_tws=True
+      SRC tail: '1刺杀：7秒内总共造成%.1f点伤害，降低直接抗性%d点；'
+      DST tail: ' seconds and Reduces direct Resistance by %d; '
+    total tws presence flips: 116
+========================================================================
+skillgbk.txt   (fmt=txt)
+  --- CJK inside translatable spans ---
+    L20     extracted=False
+      SRC: 10  "攻击"
+      DST: 10  "攻击"
+    L153    extracted=False
+      SRC: 130  "空"
+      DST: 130  "空"
+    L357    extracted=False
+      SRC: 4790  "空"
+      DST: 4790  "空"
+    L482    extracted=False
+      SRC: 17030  "空"
+      DST: 17030  "空"
+    L485    extracted=False
+      SRC: 17040  "空"
+      DST: 17040  "空"
+    L488    extracted=False
+      SRC: 17050  "空"
+      DST: 17050  "空"
+    L491    extracted=False
+      SRC: 17060  "空"
+      DST: 17060  "空"
+    L503    extracted=False
+      SRC: 210  "攻击"
+      DST: 210  "攻击"
+    total CJK-span lines: 124   of which source span was never extracted: 124
+  --- trailing-whitespace presence flips ---
+    L589    src_tws=False dst_tws=True
+      SRC tail: '等级 %d^ffffff - 每次对目标造成%d%%、%d%%、%d%%、%d%%基础伤害，'
+      DST tail: ', %d%%, %d%%, %d%% base Damage to the target, '
+    L1074   src_tws=False dst_tws=True
+      SRC tail: '482  "^ffcc00等级 %d^ffffff - 每次对目标造成%d%%基础伤害，'
+      DST tail: 'ach hit deals %d%% base Damage to the target, '
+    L1556   src_tws=False dst_tws=True
+      SRC tail: '682  "^ffcc00等级 %d^ffffff - 对目标造成%d%%基础伤害，'
+      DST tail: 'fffff - Deals %d%% base Damage to the target, '
+    L1945   src_tws=False dst_tws=True
+      SRC tail: '852  "^ffcc00等级 %d^ffffff - 第一段附加%d点伤害，'
+      DST tail: 'ffcc00Level %d^ffffff - Hit 1 adds %d Damage, '
+    L2480   src_tws=False dst_tws=True
+      SRC tail: '082  "^ffcc00等级 %d^ffffff -被击中目标有%d%%几率进入沉默状态,'
+      DST tail: 't has %d%% chance to enter the Silence state, '
+    L3732   src_tws=False dst_tws=True
+      SRC tail: '1522  "^ffcc00等级 %d^ffffff - 战斗中每秒回复斗气%d点，'
+      DST tail: ' - Recover %d Battle Qi per second in combat, '
+    L5555   src_tws=False dst_tws=True
+      SRC tail: '0刺杀：5秒内总共造成%.1f点伤害，降低直接抗性%d点；'
+      DST tail: ' seconds and Reduces direct Resistance by %d; '
+    L5556   src_tws=False dst_tws=True
+      SRC tail: '1刺杀：7秒内总共造成%.1f点伤害，降低直接抗性%d点；'
+      DST tail: ' seconds and Reduces direct Resistance by %d; '
+    total tws presence flips: 116
+exit=0

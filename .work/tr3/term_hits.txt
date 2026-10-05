@@ -1,0 +1,121 @@
+=== 声望
+  Translate/script/text.lua :: 9,护卫提高声望服务指引
+  Translate/script/text.lua :: PetGuide[9] = {text="^ff6fb3Increase Guard Reputation\r\r^ffffffGuard reputation is currently divided into six tiers: Unknown Talent, ^72fe00Slightly Known^ffffff, ^0184f
+  Translate/script/config/title_def.lua :: title_definition['称号_中原族系声望01'] = {id = 3001 , note = "^72fe00Rookie of Central Plains" , desc = "0^72fe00Permanent Effect:\r^ffffffStamina +10\r^ffc556ClanRenownTitle on
+=== 名望
+  Translate/script/config/title_def.lua :: title_definition['军团名望每周排行魏国第2'] = {id = 7315 , note = "^a800ff【Great Wei Heroic Lord】" , desc = "0^a800ffWei 2nd Ranked Legion Commander\rThis week Legion orders increas
+  Translate/script/config/title_def.lua :: title_definition['军团名望每周排行魏国第3'] = {id = 7316 , note = "^a800ff【Great Wei Wise Lord】" , desc = "0^a800ffWei 3rd Ranked Legion Commander\rThis week Legion orders increase 
+  Translate/script/config/title_def.lua :: title_definition['军团名望每周排行魏国第4'] = {id = 7317 , note = "^a800ff【Great Wei Mighty Lord】" , desc = "0^a800ffWei 4th Ranked Legion Commander\rThis week Legion orders increas
+=== 功勋
+  Translate/configs/title_def.lua :: title_definition['白帝城文官称号'] = {id = 7370 , note = "^d181ff【智谋贯通】" , desc = "0^d181ff获得了所有八枚文官列传图鉴的嘉奖，\r可向长安图鉴使者张华一次性领取10000点文勋和10000点功勋。" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['白帝城武官称号'] = {id = 7371 , note = "^d181ff【兵法透彻】" , desc = "0^d181ff获得了所有八枚武官列传图鉴的嘉奖，\r可向长安图鉴使者张华一次性领取10000点武勋和10000点功勋。" , desc_1 = "" , desc_2 = ""}
+  current/script/gameui.lua :: --	--各品官职的资料表(等级需求/NPCid/官职名/官品Level/官职类型：军职文官武官/需要文勋武勋/消耗功勋值)
+=== 武勋
+  Translate/script/config/title_def.lua :: title_definition['魏国武勋排行1'] = {id = 7145 , note = "^ff7d2f【Great Wei Commander-in-Chief】" , desc = "1^ff7d2fTitle earned by the meritorious general of Kingdom of Wei\rQua
+  Translate/script/config/title_def.lua :: title_definition['魏国武勋排行2-5'] = {id = 7146 , note = "^a800ff【Great Wei Supreme General】" , desc = "1^a800ffTitle earned by the meritorious general of Kingdom of Wei\rQual
+  Translate/script/config/title_def.lua :: title_definition['魏国武勋排行6-20'] = {id = 7147 , note = "^0184ff【Great Wei Renowned General】" , desc = "1^0184ffTitle earned by the meritorious general of Kingdom of Wei\rQu
+=== 文勋
+  Translate/script/config/title_def.lua :: title_definition['魏国文勋排行1'] = {id = 7150 , note = "^ff7d2f【Great Wei Chief Minister】" , desc = "1^ff7d2fTitle earned by the outstanding civil minister of Kingdom of Wei\r
+  Translate/script/config/title_def.lua :: title_definition['魏国文勋排行2-5'] = {id = 7151 , note = "^a800ff【Great Wei Capable Minister】" , desc = "1^a800ffTitle earned by the outstanding civil minister of Kingdom of W
+  Translate/script/config/title_def.lua :: title_definition['魏国文勋排行6-20'] = {id = 7152 , note = "^0184ff【Great Wei Renowned Minister】" , desc = "1^0184ffTitle earned by the outstanding civil minister of Kingdom of
+=== 秘文
+  Translate/script/interfaces/gearscoreguide1.lua :: --秘文
+  Translate/script/interfaces/gearscoreguide1.lua :: GearScoreGuide1[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂
+  Translate/script/interfaces/gearscoreguide3.lua :: --秘文
+=== 符玉
+  Translate/script/interfaces/gearscoreguide1.lua :: --符玉
+  Translate/script/interfaces/gearscoreguide3.lua :: --符玉
+  Translate/script/interfaces/gearscoreguide2.lua :: --符玉
+=== 木牛流马
+=== 的卢马
+=== 心心相印
+=== 未央宫
+  current/script/gameui.lua :: EventMsg[7] = {Time = {20}, Level = 58, EventIcon="CB\\Calendar\\征战令大.tga", TopImage="", Finish="", Hint= "^ff7d2f领取征战令\r^fff962活动开始时间：20：00\r^fff962等级限制58级以上\r^ffffff玩家可
+  current/script/gameui.lua :: EventMsg[22] = {Year = 0, Month = 0, Date = 25, Level = 16, EventIcon="CB\\Calendar\\七巧锦囊.tga", TopImage="", Finish="", Hint= "^ff7d2f领工资\r^fff962活动开始时间：每月25日至当月月底\r^fff9
+  current/script/config/reputation_desc.lua :: REPUTATION40DESCRIPTION = "\r^ffffff2010年07月22日-2010年09月5日期间，\r玩家每天点卯后，每累积在线1小时可以\r获得1点新三国积分，每天最多可以累积\r8点新三国积分，积分可以在未央宫中的\r新三国犒赏官处兑换奖励。为了保证大家\r更好的游戏体验，8月30日-9月5日期间，\r玩家每天
+=== 虎小虎
+=== 醉颜红
+=== 将星录
+=== 北斗星君
+  current/script/gameui.lua :: EventMsg[16] = {AllTime = 1, Level = 60, EventIcon="CB\\Calendar\\七巧锦囊.tga", TopImage="", Finish="", Hint= "^ff7d2f七巧锦囊\r^fff962等级限制60级以上\r^ffffff玩家视不同等级，每隔4小时可在长安北斗星君（13
+  current/script/interfaces/gameui.lua :: EventMsg[16] = {AllTime = 1, Level = 60, EventIcon="CB\\Calendar\\七巧锦囊.tga", TopImage="", Finish="", Hint= "^ff7d2f七巧锦囊\r^fff962等级限制60级以上\r^ffffff玩家视不同等级，每隔4小时可在长安北斗星君（13
+=== 三分天下
+  current/script/config/collection_def.lua :: collection_definition['白帝城文官图鉴11'] = {id = 374 , note = "周瑜列传" , desc = "字公瑾，庐江舒县人，人称美周郎。自幼与孙坚之子孙策交好。美姿容，精音律，长壮有姿貌。民间流传名句：曲有误，周郎顾。建安十三年在赤壁之战中大败曹军，奠定了三分天下的基础。后图进中原，不幸病逝于巴丘
+  current/script/config/title_def.lua :: title_definition['2015资料片称号'] = {id = 10005 , note = "^ff4ca4【我是阵营一块砖·哪里需要哪里搬】" , desc = "0^ffffff《三分天下》资料片专属称号。" , desc_1 = "" , desc_2 = ""}
+  current/script/config/title_def.lua :: title_definition['20151202双12活动1'] = {id = 10014 , note = "^ffc556【三分天下·天关破军】" , desc = "0^ffc556永久生效:\r^ffffff生命值 +1000\r攻击力 +30\r防御力 +10\r刺破 +1\r穿透 +1\r攻击强度 +2%\r暴击附加伤害
+=== 赤壁
+  Translate/script/config/title_def.lua :: title_definition['2010资料片赤壁之战1'] = {id = 7452 , note = "^72fe00【Chibi Oarsman】" , desc = "0^72fe00Permanent Effect:\r^ffffffAttack+2\rCrit Resist+1\rDefense+1" , desc_1 =
+  Translate/script/config/title_def.lua :: title_definition['2010资料片赤壁之战2'] = {id = 7453 , note = "^0184ff【Chibi Archer】" , desc = "0^0184ffPermanent Effect:\r^ffffffAttack+5\rCrit Resist+2\rDefense+2" , desc_1 = 
+  Translate/script/config/title_def.lua :: title_definition['2010资料片赤壁之战3'] = {id = 7454 , note = "^0184ff【Chibi Cannoneer】" , desc = "0^0184ffPermanent Effect:\r^ffffffAttack+10\rCrit Resist+3\rDefense+5" , desc_
+=== 泪石
+=== 美玉
+  current/script/interfaces/cyclopaedia.lua :: ChiBiDataLib[89] = {Classid = 10, Title = "坐骑的名称", Txt = "神驹类：\r火龙赤兔      等级要求20\r              装备限制：基本骑术 \r              移动速度（米/秒）6.30\r              坐骑类别：神驹 \r         
+=== 火精
+=== 商票
+  Translate/script/interfaces/qshop.lua :: [1] = "^ff5a00商票商城、汉铢商城已全面开启，欢迎玩家购买！",
+  Translate/script/interfaces/qshop.lua :: [3] = "^ff5a00商票商城可购买与元宝商城相同的物品，商票可在游戏内与官方网站获得！",
+  current/script/interfaces/qshop.lua :: [2] = { text = "^ff5a00商票商城全新上架“秘文相关”可购买秘文·心至秘文兵，欢迎玩家购买。", startTime = "2012-9-10 0:0:0", endTime = "2012-9-30 23:59:59" },
+=== 军备令
+=== 宝囊
+=== 新兵宝囊
+=== Renown
+  Translate/script/text.lua :: ConsoleList[35] = {title = "Add Renown Increment", cate = "Other", command = "d_c2scmd 2020 ", parameter = 1, desc = "Parameter 1: value"}
+  Translate/script/text.lua :: ConsoleList[36] = {title = "Add Renown", cate = "Other", command = "d_c2scmd 7002 ", parameter = 1, desc = "Parameter 1: value. Items: 13141 adds Legion Command; 21818 ad
+  Translate/script/text.lua :: PetGuide[9] = {text="^ff6fb3Increase Guard Reputation\r\r^ffffffGuard reputation is currently divided into six tiers: Unknown Talent, ^72fe00Slightly Known^ffffff, ^0184f
+=== Reputation
+  Translate/script/text.lua :: ConsoleList[19] = {title = "Obtain Personal Reputation", cate = "Common", command = "d_c2scmd 7000 ", parameter = 2, desc = "Parameter 1: Reputation index; Parameter 2: v
+  Translate/script/text.lua :: PetGuide[9] = {text="^ff6fb3Increase Guard Reputation\r\r^ffffffGuard reputation is currently divided into six tiers: Unknown Talent, ^72fe00Slightly Known^ffffff, ^0184f
+  Translate/script/text.lua :: PetGuide[11] = {text="^ff6fb3Guard Inheritance\r\r^ffffffGuard inheritance transfers a portion of one guard's (the donor) attributes to another guard (the recipient), usi
+=== Merit
+  Translate/script/text.lua :: GNR_POSITION_EXPLOIT1 = "Civil Merit"
+  Translate/script/text.lua :: GNR_POSITION_EXPLOIT2 = "Military Merit"
+  Translate/script/text.lua :: petst[23]="$name, if my reputation has not reached its maximum yet, you can use the Merit Book at the Whispers on Yun Terrace in Chang'an to raise my reputation."
+=== Secret Text
+  Translate/script/text.lua :: LEVELHELP_TEXT1 = "^ff6fb3In-game security features:^ffffff\r^fedc40Safety Lock Feature^ffffff\rRecommended rating: ★★★★\rWhile Safety Lock is active, the following restr
+  Translate/script/interfaces/qshop.lua :: [2] = { text = "^ff5a00New arrivals in the Merchant Token Shop: "Secret Text Related" items. Secret Text·Heart to Secret Text Weapon now available. Players welcome!", sta
+  Translate/configs/skillgbk.txt :: 47280  "Common Secret Text"
+=== Skill Jade
+  Translate/configs/skillgbk.txt :: 51740  "Skill Jade Axe Generate Silence"
+  Translate/configs/skillgbk.txt :: 51840  "Skill Jade Halberd Generate Crit"
+  Translate/configs/skillgbk.txt :: 52010  "Skill Jade Halberd Reflect HP Recovery"
+=== Wooden Ox
+  Translate/configs/skillgbk.txt :: 49980  "Wooden Ox and Flowing Horse"
+  Translate/configs/skillgbk.txt :: 49981  "^c3dbffWooden Ox and Flowing Horse^ffffff                                        ^ffcc00Level %d^ffffff
+  Translate/configs/skillgbk.txt :: Summon the hero soul fused into your body to cast the Wooden Ox or Flowing Horse state on yourself.
+=== Dilu
+=== Hearts
+  Translate/script/config/title_def.lua :: title_definition['夫妻称号1'] = {id = 9001 , note = "^72fe00【Hearts Linked as One】" , desc = "0^72fe00Title Level: 1\rWhen you obtain a higher Marriage title\rattributes will
+  Translate/script/config/title_def.lua :: title_definition['情人节活动称号男'] = {id = 7226 , note = "^ff4ca4【Regretting Meeting Too Late; Two Hearts Understand】" , desc = "0^72fe00Valentine's Day couple-exclusive title.
+  Translate/script/config/title_def.lua :: title_definition['聚贤谷声望5'] = {id = 7519 , note = "^ff7d2f【Commanding the World; All Hearts Turn to You】" ,desc = "0^ff7d2fThe Duke of Zhou Spits Out His Meal; The World T
+=== Chibi
+  Translate/script/config/title_def.lua :: title_definition['称号_活动2'] = {id = 7102 , note = "^72fe00【Splash Dark Ink, Paint Three Kingdoms Sorrow】" , desc = "0^72fe00First time won the Chibi Side Story Battlefield
+  Translate/script/config/title_def.lua :: title_definition['称号_活动3'] = {id = 7103 , note = "^0184ff【With Heavy Brush, Speak of the Great River】" , desc = "0^72fe00Second time won the Chibi Side Story Battlefield 
+  Translate/script/config/title_def.lua :: title_definition['称号_活动4'] = {id = 7104 , note = "^a800ff【Painting with Vivid Colors the Glorious Blood and Fire】" , desc = "0^72fe00Third time won the Chibi Side Story B
+=== Mirage
+  Translate/script/config/title_def.lua :: title_definition['演义唇楼称号1'] = {id = 7206 , note = "^72fe00【Celebrity of the Mirage】" , desc = "0^72fe00Permanent Effect\r^ffffffAttack +2\rBonus Damage +5" , desc_1 = "" 
+  Translate/script/config/title_def.lua :: title_definition['演义唇楼称号2'] = {id = 7207 , note = "^0184ff【Mirage City Advisor】" , desc = "0^72fe00Permanent Effect\r^ffffffAttack +4\rMax HP +10\rBonus Damage +5" , desc
+  Translate/configs/skillgbk.txt :: 28022  "^ffcc00Effect^ffffff - While in Mirage, Defense and Crit Resistance bonuses are increased by 50%%."
+=== Loulan
+  Translate/script/text.lua :: --ID:293 Ancient Loulan Palace
+  Translate/script/text.lua :: "Type: Co-op, Boss Kill\rDifficulty:★★★★★★★★\rLevel:76+\rFoes:Exploration Team VS Xiongnu Coalition\rObjective:Destroy the evil conspiracy of the Ancient Palace of Loulan
+  Translate/script/text.lua :: "Destroy the evil conspiracy of the Ancient Palace of Loulan",
+=== Snowlands
+=== Gift Pack
+  Translate/script/interfaces/qshop.lua :: [3] = { text = "^ff5a00"Guard Ruyi Gift Pack", "Guard Auspicious Gift Pack", "Master Manual" from Sep 10 to Sep 16开始销售，请查看限时促销处购买。", startTime = "2012-9-10 0:0:0", endTim
+  Translate/configs/skillgbk.txt :: 24520  "Event 09 GM Lucky Gift Pack"
+  Translate/configs/skillgbk.txt :: 26650  "Tiger's Might Gift Pack Skill"
+=== 使用等级
+=== 开启等级
+=== 官阶限制
+=== 等级需求
+  current/script/gameui.lua :: --各阶装备的等级需求表(1武器2衣服3护肩4护腿5鞋6腰带7护腕)
+  current/script/gameui.lua :: --	--各品官职的资料表(等级需求/NPCid/官职名/官品Level/官职类型：军职文官武官/需要文勋武勋/消耗功勋值)
+  current/script/interfaces/gameui.lua :: --各阶装备的等级需求表(1武器2衣服3护肩4护腿5鞋6腰带7护腕)
+=== Cool-down
+  Translate/configs/skillgbk.txt :: Tactic: InstantCool-down 8s
+  Translate/configs/skillgbk.txt :: Move: InstantCool-down 5s
+  Translate/configs/skillgbk.txt :: Move: 1.5 second wind-upCool-down 8 seconds
+=== Right-click
+  Translate/script/text.lua :: "Right-clicking a target will automatically attack that target.",
+  Translate/script/text.lua :: "Right-click an NPC to talk to that NPC.",
+  Translate/script/text.lua :: FightGuide[2] = {text="^ff6fb3Requirements:^ffffff\rFrom 0 o'clock Monday to 0 o'clock Saturday each week, any player ranked in the top 500 of the Personal Overall Rating

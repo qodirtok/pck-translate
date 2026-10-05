@@ -1,0 +1,9 @@
+mode: DRY-RUN
+records repaired: 21 / 26
+unalignable: 5
+    ('batch_000', 181, 'token counts differ')
+    ('batch_002', 29, 'token counts differ')
+    ('batch_002', 56, 'token counts differ')
+    ('batch_002', 117, 'token counts differ')
+    ('batch_005', 110, 'token counts differ')
+violations: 0

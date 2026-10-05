@@ -1,0 +1,9 @@
+records skipped due to colon-count mismatch: 1
+
+武器类型     n=5     Weapon Type(5)
+攻击间隔     n=5     Attack Interval(5)
+招式类型     n=5     Move Type(5)
+攻击方式     n=5     Attack Mode(5)
+攻击范围     n=5     Attack Range(5)
+招式消耗     n=5     Move Cost(5)
+专精影响     n=1     Mastery Effects(1)

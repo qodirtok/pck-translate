@@ -1,0 +1,458 @@
+{"id": 1, "source": "^ffcc00等级 %d^ffffff - %d%%几率使目标进入落魄状态。"}
+{"id": 2, "source": "^ffcc00等级 %d^ffffff - %d%%几率使目标进入虚弱状态"}
+{"id": 3, "source": "^ffcc00等级 %d^ffffff - %d%%几率使目标进入裂甲状态。"}
+{"id": 4, "source": "^ffcc00等级 %d^ffffff - %d%%几率使自己进入坚甲状态。"}
+{"id": 5, "source": "^ffcc00等级 %d^ffffff - %d%%几率对目标进行追杀。"}
+{"id": 6, "source": "^ffcc00等级 %d^ffffff - %d%%几率忽略敌人防御"}
+{"id": 7, "source": "^ffcc00等级 %d^ffffff - %d%%几率进入血浴状态。"}
+{"id": 8, "source": "^ffcc00等级 %d^ffffff - %d%%几率附带无视防御伤害。"}
+{"id": 9, "source": "^ffcc00等级 %d^ffffff - %d%%几率降低敌人治疗效果。"}
+{"id": 10, "source": "^ffcc00等级 %d^ffffff - %d%%几率降低目标攻击、吟唱速度"}
+{"id": 11, "source": "^ffcc00等级 %d^ffffff - %d%%概率同时降低直接抗性并减速。"}
+{"id": 12, "source": "^ffcc00等级 %d^ffffff - %d%%进入聚灵状态"}
+{"id": 13, "source": "^ffcc00等级 %d^ffffff - - 生命值+%d，攻击力+%d"}
+{"id": 14, "source": "^ffcc00等级 %d^ffffff - 15秒内回复%d点生命"}
+{"id": 15, "source": "^ffcc00等级 %d^ffffff - 30秒内回复主人生命值上限%d%%的生命"}
+{"id": 16, "source": "^ffcc00等级 %d^ffffff - 30秒内回复自身%d的生命"}
+{"id": 17, "source": "^ffcc00等级 %d^ffffff - 三段分别附加%d/%d/%d点伤害"}
+{"id": 18, "source": "^ffcc00等级 %d^ffffff - 下一次攻击增加%d%%爆击率"}
+{"id": 19, "source": "^ffcc00等级 %d^ffffff - 主人体质提升%d"}
+{"id": 20, "source": "^ffcc00等级 %d^ffffff - 主人移动速度提升%.1f米/秒"}
+{"id": 21, "source": "^ffcc00等级 %d^ffffff - 人物的暴击率与马上暴击率降低5点。"}
+{"id": 22, "source": "^ffcc00等级 %d^ffffff - 会心击暴击几率提升%d%%"}
+{"id": 23, "source": "^ffcc00等级 %d^ffffff - 伤害会有30%%的上下波动效果。"}
+{"id": 24, "source": "^ffcc00等级 %d^ffffff - 体力回复速度降低%d，持续%d秒"}
+{"id": 25, "source": "^ffcc00等级 %d^ffffff - 体质降低%d"}
+{"id": 26, "source": "^ffcc00等级 %d^ffffff - 依次造成%d%%、%d%%、%d%%基础伤害"}
+{"id": 27, "source": "^ffcc00等级 %d^ffffff - 依次附加%d、%d、%d、<CRLF>%d、%d、%d点伤害"}
+{"id": 28, "source": "^ffcc00等级 %d^ffffff - 免疫落马时间持续5秒。"}
+{"id": 29, "source": "^ffcc00等级 %d^ffffff - 免疫骑战减速定身3秒。"}
+{"id": 30, "source": "^ffcc00等级 %d^ffffff - 冥气状态下，目标10秒内流失%d的生命"}
+{"id": 31, "source": "^ffcc00等级 %d^ffffff - 冲锋可获得10点斗气。"}
+{"id": 32, "source": "^ffcc00等级 %d^ffffff - 冷却时间减少%d秒"}
+{"id": 33, "source": "^ffcc00等级 %d^ffffff - 冷却时间缩短2秒。"}
+{"id": 34, "source": "^ffcc00等级 %d^ffffff - 冷却时间缩短5秒。"}
+{"id": 35, "source": "^ffcc00等级 %d^ffffff - 冷却时间降低%d秒"}
+{"id": 36, "source": "^ffcc00等级 %d^ffffff - 冷却时间降低2秒。"}
+{"id": 37, "source": "^ffcc00等级 %d^ffffff - 减速、定身持续时间提升50%%"}
+{"id": 38, "source": "^ffcc00等级 %d^ffffff - 分别附加%d，%d点伤害"}
+{"id": 39, "source": "^ffcc00等级 %d^ffffff - 分别附加%d，%d，%d点伤害"}
+{"id": 40, "source": "^ffcc00等级 %d^ffffff - 分别附加%d，%d，%d，%d点伤害"}
+{"id": 41, "source": "^ffcc00等级 %d^ffffff - 刚毅状态下提升自身防御力%d点，<CRLF>威烈状态下，提升自身攻击强度%d%%。"}
+{"id": 42, "source": "^ffcc00等级 %d^ffffff - 加成比例为%d%%×“护卫专注系数”。"}
+{"id": 43, "source": "^ffcc00等级 %d^ffffff - 加成比例为%d%%×“护卫勇猛系数”。"}
+{"id": 44, "source": "^ffcc00等级 %d^ffffff - 加成比例为%d%%×“护卫智慧系数”。"}
+{"id": 45, "source": "^ffcc00等级 %d^ffffff - 加成比例为%d%%×“护卫灵活系数”。"}
+{"id": 46, "source": "^ffcc00等级 %d^ffffff - 加成比例为%d%%×“护卫热血系数”。"}
+{"id": 47, "source": "^ffcc00等级 %d^ffffff - 动作中使用其它攻击招式会出现攻击强度增加%d%%的效果"}
+{"id": 48, "source": "^ffcc00等级 %d^ffffff - 反弹所受近身伤害的%d%%，增加自身防御%d点"}
+{"id": 49, "source": "^ffcc00等级 %d^ffffff - 反弹造成%d%%基础伤害"}
+{"id": 50, "source": "^ffcc00等级 %d^ffffff - 受到的伤害降低%d%%"}
+{"id": 51, "source": "^ffcc00等级 %d^ffffff - 受攻击有%d%%几率驱散减速效果，有%d%%几率驱散定身效果。"}
+{"id": 52, "source": "^ffcc00等级 %d^ffffff - 吟唱时间缩短0.5秒。"}
+{"id": 53, "source": "^ffcc00等级 %d^ffffff - 吸收%d点伤害"}
+{"id": 54, "source": "^ffcc00等级 %d^ffffff - 吸收暴击%d点"}
+{"id": 55, "source": "^ffcc00等级 %d^ffffff - 吸收自身攻击力+%d点伤害"}
+{"id": 56, "source": "^ffcc00等级 %d^ffffff - 命中提升%d"}
+{"id": 57, "source": "^ffcc00等级 %d^ffffff - 命中降低%d"}
+{"id": 58, "source": "^ffcc00等级 %d^ffffff - 嘲讽状态最多持续3秒。"}
+{"id": 59, "source": "^ffcc00等级 %d^ffffff - 噩梦之湮造成每2秒%d%%最大攻击力伤害"}
+{"id": 60, "source": "^ffcc00等级 %d^ffffff - 四次攻击分别附加%d/%d/%d/%d点伤害"}
+{"id": 61, "source": "^ffcc00等级 %d^ffffff - 回复自身血量，点数为%.1f倍自身等级（转生后为“80+英雄等级”）。"}
+{"id": 62, "source": "^ffcc00等级 %d^ffffff - 国色状态下提升身自眩晕抗性%d点，<CRLF>天香状态下提升自身暴击%d点，<CRLF>国色及天香状态下，移动速度均提升%.1f米/秒。"}
+{"id": 63, "source": "^ffcc00等级 %d^ffffff - 在20秒内回复%d点生命。"}
+{"id": 64, "source": "^ffcc00等级 %d^ffffff - 基础伤害提升12%%"}
+{"id": 65, "source": "^ffcc00等级 %d^ffffff - 增加%.1f米/秒移动速度"}
+{"id": 66, "source": "^ffcc00等级 %d^ffffff - 增加%d击晕、限制、封印抗性；"}
+{"id": 67, "source": "^ffcc00等级 %d^ffffff - 增加%d击晕抗性；"}
+{"id": 68, "source": "^ffcc00等级 %d^ffffff - 增加%d斗气"}
+{"id": 69, "source": "^ffcc00等级 %d^ffffff - 增加%d点HP回复"}
+{"id": 70, "source": "^ffcc00等级 %d^ffffff - 增加%d点攻击"}
+{"id": 71, "source": "^ffcc00等级 %d^ffffff - 增加%d点闪避、被击中增加%d点攻击"}
+{"id": 72, "source": "^ffcc00等级 %d^ffffff - 增加%d点防御"}
+{"id": 73, "source": "^ffcc00等级 %d^ffffff - 增加攻击“人物自身等级*%d”点"}
+{"id": 74, "source": "^ffcc00等级 %d^ffffff - 增加斗气上限%d"}
+{"id": 75, "source": "^ffcc00等级 %d^ffffff - 增加的暴击几率为%d%%×“护卫专注系数”。"}
+{"id": 76, "source": "^ffcc00等级 %d^ffffff - 增加的暴击几率为%d%%×“护卫勇猛系数”。"}
+{"id": 77, "source": "^ffcc00等级 %d^ffffff - 增加的暴击几率为%d%%×“护卫智慧系数”。"}
+{"id": 78, "source": "^ffcc00等级 %d^ffffff - 增加的暴击几率为%d%%×“护卫灵活系数”。"}
+{"id": 79, "source": "^ffcc00等级 %d^ffffff - 增加的暴击几率为%d%%×“护卫热血系数”。"}
+{"id": 80, "source": "^ffcc00等级 %d^ffffff - 增加被治疗效果%d%%"}
+{"id": 81, "source": "^ffcc00等级 %d^ffffff - 增加骑战技能命中%d点"}
+{"id": 82, "source": "^ffcc00等级 %d^ffffff - 增加骑战技能暴击%d点"}
+{"id": 83, "source": "^ffcc00等级 %d^ffffff - 复活目标获得最少%d%%生命最大值的血量，治疗点数将会对此进行加成，回复体力%d点。"}
+{"id": 84, "source": "^ffcc00等级 %d^ffffff - 夺魄状态下，目标间接抗性降低%d。"}
+{"id": 85, "source": "^ffcc00等级 %d^ffffff - 定身时间持续2秒。"}
+{"id": 86, "source": "^ffcc00等级 %d^ffffff - 对敌人造成%d%%基础伤害"}
+{"id": 87, "source": "^ffcc00等级 %d^ffffff - 对敌人造成%d%%基础伤害。"}
+{"id": 88, "source": "^ffcc00等级 %d^ffffff - 对敌人造成%d%%基础伤害，有%d%%几率获得铁骑状态"}
+{"id": 89, "source": "^ffcc00等级 %d^ffffff - 对敌人造成100%%、120%%、150%%基础伤害。<CRLF>马匹稳固可以降低自身被甩落下马的概率。"}
+{"id": 90, "source": "^ffcc00等级 %d^ffffff - 对敌人造成110%%基础伤害。"}
+{"id": 91, "source": "^ffcc00等级 %d^ffffff - 对敌人造成200%%基础伤害<CRLF>马匹稳固可以降低自身被甩落下马的概率。"}
+{"id": 92, "source": "^ffcc00等级 %d^ffffff - 对敌人造成200%%基础伤害。<CRLF>马匹稳固可以降低自身被甩落下马的概率。"}
+{"id": 93, "source": "^ffcc00等级 %d^ffffff - 对敌人造成200%%基础伤害，并对<CRLF>敌人造成至少其60%%最大攻击力的无视防御伤害。"}
+{"id": 94, "source": "^ffcc00等级 %d^ffffff - 对敌人造成250%%基础伤害，并对<CRLF>敌人造成至少其50%%最大攻击力的无视防御伤害。"}
+{"id": 95, "source": "^ffcc00等级 %d^ffffff - 对目标造成%d%%基础伤害"}
+{"id": 96, "source": "^ffcc00等级 %d^ffffff - 对目标造成%d%%基础伤害。"}
+{"id": 97, "source": "^ffcc00等级 %d^ffffff - 对目标造成%d%%基础伤害。<CRLF>技能需要瞄准时间%d秒"}
+{"id": 98, "source": "^ffcc00等级 %d^ffffff - 对目标造成%d%%基础伤害，<CRLF>同时回复%d点斗气。"}
+{"id": 99, "source": "^ffcc00等级 %d^ffffff - 对目标造成%d%%基础伤害，<CRLF>混乱状态持续%d秒"}
+{"id": 100, "source": "^ffcc00等级 %d^ffffff - 对目标造成%d%%的伤害"}
+{"id": 101, "source": "^ffcc00等级 %d^ffffff - 对目标造成的伤害将依次递增%d%%"}
+{"id": 102, "source": "^ffcc00等级 %d^ffffff - 对首要目标造成240%%基础伤害。"}
+{"id": 103, "source": "^ffcc00等级 %d^ffffff - 总计对目标造成%d%%基础伤害，<CRLF>闪避值提升%d点"}
+{"id": 104, "source": "^ffcc00等级 %d^ffffff - 恢复生命%d点。"}
+{"id": 105, "source": "^ffcc00等级 %d^ffffff - 惊魂状态下，目标直接抗性降低%d。"}
+{"id": 106, "source": "^ffcc00等级 %d^ffffff - 战斗中每秒回复斗气%d点"}
+{"id": 107, "source": "^ffcc00等级 %d^ffffff - 战斗中每秒回复斗气%d点，<CRLF>战斗外每秒回复斗气%d点"}
+{"id": 108, "source": "^ffcc00等级 %d^ffffff - 战斗外体力回复提升%.1f，闪避提升%.1f"}
+{"id": 109, "source": "^ffcc00等级 %d^ffffff - 战斗外斗气回复%d点/秒"}
+{"id": 110, "source": "^ffcc00等级 %d^ffffff - 战法附带的斗气提升10点。"}
+{"id": 111, "source": "^ffcc00等级 %d^ffffff - 技能伤害提升10%%"}
+{"id": 112, "source": "^ffcc00等级 %d^ffffff - 技能伤害提升10%%。"}
+{"id": 113, "source": "^ffcc00等级 %d^ffffff - 技能伤害提升20%%"}
+{"id": 114, "source": "^ffcc00等级 %d^ffffff - 技能伤害提升50%%。"}
+{"id": 115, "source": "^ffcc00等级 %d^ffffff - 技能使自身获得3秒隐伏状态。"}
+{"id": 116, "source": "^ffcc00等级 %d^ffffff - 技能冷却时间缩短3秒。"}
+{"id": 117, "source": "^ffcc00等级 %d^ffffff - 技能命中率提升30点。"}
+{"id": 118, "source": "^ffcc00等级 %d^ffffff - 技能暴击伤害提升50%%"}
+{"id": 119, "source": "^ffcc00等级 %d^ffffff - 技能暴击伤害提升50%%。"}
+{"id": 120, "source": "^ffcc00等级 %d^ffffff - 技能暴击率提升10点。"}
+{"id": 121, "source": "^ffcc00等级 %d^ffffff - 抽取对方%d点体力"}
+{"id": 122, "source": "^ffcc00等级 %d^ffffff - 招式效果造成，<CRLF>0刺杀：5秒内总共造成%.1f点伤害，降低直接抗性%d点；<CRLF>1刺杀：7秒内总共造成%.1f点伤害，降低直接抗性%d点；<CRLF>2刺杀：9秒内总共造成%.1f点伤害，降低直接抗性%d点；<CRLF>3刺杀：11秒内总共造成%.1f点伤害，降低直接抗性%d点；<CRLF>4刺杀：13秒内总共造成%.1f点伤害，降低直接抗性%d点；<CRLF>5刺杀：15秒内总共造成%.1f点伤害，降低直接抗性%d点；"}
+{"id": 123, "source": "^ffcc00等级 %d^ffffff - 持续回复%d生命值"}
+{"id": 124, "source": "^ffcc00等级 %d^ffffff - 挫志状态持续5秒。"}
+{"id": 125, "source": "^ffcc00等级 %d^ffffff - 提升%d%%×“护卫专注系数”的几率。"}
+{"id": 126, "source": "^ffcc00等级 %d^ffffff - 提升%d%%×“护卫勇猛系数”的几率。"}
+{"id": 127, "source": "^ffcc00等级 %d^ffffff - 提升%d%%×“护卫智慧系数”的几率。"}
+{"id": 128, "source": "^ffcc00等级 %d^ffffff - 提升%d%%×“护卫灵活系数”的几率。"}
+{"id": 129, "source": "^ffcc00等级 %d^ffffff - 提升%d%%×“护卫热血系数”的几率。"}
+{"id": 130, "source": "^ffcc00等级 %d^ffffff - 提升%d%%基础伤害。"}
+{"id": 131, "source": "^ffcc00等级 %d^ffffff - 提升%d命中，每次击杀回复%d生命。"}
+{"id": 132, "source": "^ffcc00等级 %d^ffffff - 提升%d攻击"}
+{"id": 133, "source": "^ffcc00等级 %d^ffffff - 提升%d点攻击力和%d%%攻击强度。"}
+{"id": 134, "source": "^ffcc00等级 %d^ffffff - 提升%d点攻击力和%d点穿透。"}
+{"id": 135, "source": "^ffcc00等级 %d^ffffff - 提升%d点暴击和<CRLF>%d%%暴击伤害。"}
+{"id": 136, "source": "^ffcc00等级 %d^ffffff - 提升%d点暴击附加伤害"}
+{"id": 137, "source": "^ffcc00等级 %d^ffffff - 提升%d点防御力"}
+{"id": 138, "source": "^ffcc00等级 %d^ffffff - 提升%d点防御和%d点直接抗性。"}
+{"id": 139, "source": "^ffcc00等级 %d^ffffff - 提升主人命中%d点。"}
+{"id": 140, "source": "^ffcc00等级 %d^ffffff - 提升主人生命上限%d"}
+{"id": 141, "source": "^ffcc00等级 %d^ffffff - 提升主人生命上限%d<CRLF>15秒内回复主人生命值%d的生命"}
+{"id": 142, "source": "^ffcc00等级 %d^ffffff - 提升主人生命值上限%d%%"}
+{"id": 143, "source": "^ffcc00等级 %d^ffffff - 提升主人闪避%d点"}
+{"id": 144, "source": "^ffcc00等级 %d^ffffff - 提升目标攻击力相当于%.1f%%自身攻击力"}
+{"id": 145, "source": "^ffcc00等级 %d^ffffff - 提升目标攻击力相当于%.1f%%自身攻击力。"}
+{"id": 146, "source": "^ffcc00等级 %d^ffffff - 提升自身暴击%d点"}
+{"id": 147, "source": "^ffcc00等级 %d^ffffff - 提高“运筹”等级*%d的受伤抗性。"}
+{"id": 148, "source": "^ffcc00等级 %d^ffffff - 撕裂状态下，目标10秒内流失%d%%攻击力+%d的生命。"}
+{"id": 149, "source": "^ffcc00等级 %d^ffffff - 攻击力+%d，防御力+%d"}
+{"id": 150, "source": "^ffcc00等级 %d^ffffff - 攻击力提升%d点"}
+{"id": 151, "source": "^ffcc00等级 %d^ffffff - 攻击增加%d点"}
+{"id": 152, "source": "^ffcc00等级 %d^ffffff - 攻击强度提升%d%%"}
+{"id": 153, "source": "^ffcc00等级 %d^ffffff - 攻击强度降低20%%。"}
+{"id": 154, "source": "^ffcc00等级 %d^ffffff - 攻击强度降低30%%、<CRLF>攻击力降低点数与目标等级有关。"}
+{"id": 155, "source": "^ffcc00等级 %d^ffffff - 攻击强度降低30%%、<CRLF>马上攻击命中降低与目标等级相关。"}
+{"id": 156, "source": "^ffcc00等级 %d^ffffff - 攻击者有40%%的概率落马。"}
+{"id": 157, "source": "^ffcc00等级 %d^ffffff - 攻击者有40%%的概率被冰冻。"}
+{"id": 158, "source": "^ffcc00等级 %d^ffffff - 攻击速度与吟唱速度降低%d%%"}
+{"id": 159, "source": "^ffcc00等级 %d^ffffff - 攻击附加%d点伤害"}
+{"id": 160, "source": "^ffcc00等级 %d^ffffff - 效果持续%d秒"}
+{"id": 161, "source": "^ffcc00等级 %d^ffffff - 效果持续时间延长1秒。"}
+{"id": 162, "source": "^ffcc00等级 %d^ffffff - 效果提升100%%。"}
+{"id": 163, "source": "^ffcc00等级 %d^ffffff - 效果提升30%%。"}
+{"id": 164, "source": "^ffcc00等级 %d^ffffff - 斗气上限提升%d点"}
+{"id": 165, "source": "^ffcc00等级 %d^ffffff - 斗气上限提升%d点，<CRLF>每2秒回复斗气%d点。"}
+{"id": 166, "source": "^ffcc00等级 %d^ffffff - 斗气下降减缓%d%%，被攻击有%.1f%%几率暴击抗性提升"}
+{"id": 167, "source": "^ffcc00等级 %d^ffffff - 暴击伤害提升%d%%"}
+{"id": 168, "source": "^ffcc00等级 %d^ffffff - 暴击伤害提升25%%。"}
+{"id": 169, "source": "^ffcc00等级 %d^ffffff - 暴击伤害降低%d%%"}
+{"id": 170, "source": "^ffcc00等级 %d^ffffff - 暴击抗性降低%d点"}
+{"id": 171, "source": "^ffcc00等级 %d^ffffff - 暴击提升%d"}
+{"id": 172, "source": "^ffcc00等级 %d^ffffff - 暴击附加伤害降低%d"}
+{"id": 173, "source": "^ffcc00等级 %d^ffffff - 最多%d次攻击"}
+{"id": 174, "source": "^ffcc00等级 %d^ffffff - 最多影响%d个目标"}
+{"id": 175, "source": "^ffcc00等级 %d^ffffff - 最多牺牲自身%d%%当前生命。<CRLF>每5点自身血量将对周围目标造成%.1f点无视防御伤害。"}
+{"id": 176, "source": "^ffcc00等级 %d^ffffff - 最多造成自身攻击力%d%%的直接伤害。"}
+{"id": 177, "source": "^ffcc00等级 %d^ffffff - 有%d%%几率使敌人减速"}
+{"id": 178, "source": "^ffcc00等级 %d^ffffff - 有%d%%几率使目标进入八荒状态。"}
+{"id": 179, "source": "^ffcc00等级 %d^ffffff - 有%d%%几率使目标进入崩乱状态。"}
+{"id": 180, "source": "^ffcc00等级 %d^ffffff - 有%d%%几率将敌人直接震落马下"}
+{"id": 181, "source": "^ffcc00等级 %d^ffffff - 有%d%%几率忽略目标%d点防御。"}
+{"id": 182, "source": "^ffcc00等级 %d^ffffff - 有%d%%几率打断并破招。"}
+{"id": 183, "source": "^ffcc00等级 %d^ffffff - 有20%%概率使目标冰冻定身。"}
+{"id": 184, "source": "^ffcc00等级 %d^ffffff - 有20%%概率使目标定身。"}
+{"id": 185, "source": "^ffcc00等级 %d^ffffff - 有20%%概率造成3秒沉默效果。"}
+{"id": 186, "source": "^ffcc00等级 %d^ffffff - 有30%%概率对目标造成眩晕。"}
+{"id": 187, "source": "^ffcc00等级 %d^ffffff - 有30%%的概率直接出招。"}
+{"id": 188, "source": "^ffcc00等级 %d^ffffff - 有35%%几率不进入冷却。"}
+{"id": 189, "source": "^ffcc00等级 %d^ffffff - 有35%%概率定身敌人。"}
+{"id": 190, "source": "^ffcc00等级 %d^ffffff - 有35%概率直接冰冻敌人。"}
+{"id": 191, "source": "^ffcc00等级 %d^ffffff - 有40%%几率附带5秒凌乱状态。 "}
+{"id": 192, "source": "^ffcc00等级 %d^ffffff - 有40%%概率获得3秒灵动状态。"}
+{"id": 193, "source": "^ffcc00等级 %d^ffffff - 有40%%概率获得4秒坚盾状态。"}
+{"id": 194, "source": "^ffcc00等级 %d^ffffff - 有40%%概率造成鞭劲效果。"}
+{"id": 195, "source": "^ffcc00等级 %d^ffffff - 有45%%概率造成3秒沉默效果。"}
+{"id": 196, "source": "^ffcc00等级 %d^ffffff - 有45%%概率造成啸眩状态3秒"}
+{"id": 197, "source": "^ffcc00等级 %d^ffffff - 有50%%概率使敌人沉默。"}
+{"id": 198, "source": "^ffcc00等级 %d^ffffff - 有50%%概率造成减速效果。"}
+{"id": 199, "source": "^ffcc00等级 %d^ffffff - 有几率增加自身攻击力%d"}
+{"id": 200, "source": "^ffcc00等级 %d^ffffff - 有几率进入狂猛状态，暴击提升%d"}
+{"id": 201, "source": "^ffcc00等级 %d^ffffff - 有几率降低敌人暴击%d。"}
+{"id": 202, "source": "^ffcc00等级 %d^ffffff - 有几率降低目标%d%%暴击伤害。"}
+{"id": 203, "source": "^ffcc00等级 %d^ffffff - 有几率降低目标%d点刺破。"}
+{"id": 204, "source": "^ffcc00等级 %d^ffffff - 有几率降低目标%d点生命回复速度。"}
+{"id": 205, "source": "^ffcc00等级 %d^ffffff - 有几率降低目标%d点穿透"}
+{"id": 206, "source": "^ffcc00等级 %d^ffffff - 有几率降低目标暴击附加伤害%d点。"}
+{"id": 207, "source": "^ffcc00等级 %d^ffffff - 横抡伤害直接提升20%%"}
+{"id": 208, "source": "^ffcc00等级 %d^ffffff - 每2秒损失敌人20%%最大攻击力的生命值。"}
+{"id": 209, "source": "^ffcc00等级 %d^ffffff - 每2秒流失相当于%d%%自身平均攻击的血量"}
+{"id": 210, "source": "^ffcc00等级 %d^ffffff - 每2秒造成目标20%%最大攻击力的伤害。"}
+{"id": 211, "source": "^ffcc00等级 %d^ffffff - 每5点斗气提升2%%技能伤害。"}
+{"id": 212, "source": "^ffcc00等级 %d^ffffff - 每层提升攻击强度3%%。"}
+{"id": 213, "source": "^ffcc00等级 %d^ffffff - 每层提升的伤害幅度增加5%%"}
+{"id": 214, "source": "^ffcc00等级 %d^ffffff - 每层提升的马上攻击力与自身等级有关。"}
+{"id": 215, "source": "^ffcc00等级 %d^ffffff - 每层额外提升马上暴击1点。"}
+{"id": 216, "source": "^ffcc00等级 %d^ffffff - 每弹附加%d点伤害"}
+{"id": 217, "source": "^ffcc00等级 %d^ffffff - 每次伤害附加攻击相当于自身最大攻击的%.1f倍<CRLF>丢失武器状态持续时间为%d秒"}
+{"id": 218, "source": "^ffcc00等级 %d^ffffff - 每次使用雷动九天，<CRLF>将提升%d%%技能基础伤害。"}
+{"id": 219, "source": "^ffcc00等级 %d^ffffff - 每次击中额外回复斗气1点。"}
+{"id": 220, "source": "^ffcc00等级 %d^ffffff - 每次反弹造成%d%%最大攻击伤害"}
+{"id": 221, "source": "^ffcc00等级 %d^ffffff - 每次命中提升%d命中"}
+{"id": 222, "source": "^ffcc00等级 %d^ffffff - 每次回复%d点生命"}
+{"id": 223, "source": "^ffcc00等级 %d^ffffff - 每次对目标造成%d%%、%d%%、%d%%、%d%%基础伤害，<CRLF>暴击抗性降低%d点。"}
+{"id": 224, "source": "^ffcc00等级 %d^ffffff - 每次对目标造成%d%%、%d%%、%d%%、%d%%基础伤害，<CRLF>直接抗性降低%d点"}
+{"id": 225, "source": "^ffcc00等级 %d^ffffff - 每次对目标造成%d%%基础伤害，<CRLF>暴击抗性降低%d点"}
+{"id": 226, "source": "^ffcc00等级 %d^ffffff - 每次攻击为自身回复%d点生命"}
+{"id": 227, "source": "^ffcc00等级 %d^ffffff - 每次攻击命中提升%d%%法术强度"}
+{"id": 228, "source": "^ffcc00等级 %d^ffffff - 每次攻击命中提升%d点攻击力"}
+{"id": 229, "source": "^ffcc00等级 %d^ffffff - 每次攻击造成%d%%最大攻击伤害"}
+{"id": 230, "source": "^ffcc00等级 %d^ffffff - 每次攻击附加%d点伤害"}
+{"id": 231, "source": "^ffcc00等级 %d^ffffff - 每次毒伤额外附加%d点伤害"}
+{"id": 232, "source": "^ffcc00等级 %d^ffffff - 每次生命值回复%d点"}
+{"id": 233, "source": "^ffcc00等级 %d^ffffff - 每次运筹提升%.1f点生命恢复速度。"}
+{"id": 234, "source": "^ffcc00等级 %d^ffffff - 每次造成%d%%基础伤害。"}
+{"id": 235, "source": "^ffcc00等级 %d^ffffff - 每次附加%d点伤害"}
+{"id": 236, "source": "^ffcc00等级 %d^ffffff - 每段攻击附加%d点伤害"}
+{"id": 237, "source": "^ffcc00等级 %d^ffffff - 每段造成%d%%倍基础伤害"}
+{"id": 238, "source": "^ffcc00等级 %d^ffffff - 每段造成%d%%基础伤害，<CRLF>并造成的“段数X（0~%d%%）”随机伤害"}
+{"id": 239, "source": "^ffcc00等级 %d^ffffff - 每段附加%d点伤害"}
+{"id": 240, "source": "^ffcc00等级 %d^ffffff - 每段附加%d点伤害，每击中一个敌人回复生命值%d点。"}
+{"id": 241, "source": "^ffcc00等级 %d^ffffff - 每点体力化解5%%自身攻击力+%d点伤害"}
+{"id": 242, "source": "^ffcc00等级 %d^ffffff - 每级闪避降低%d"}
+{"id": 243, "source": "^ffcc00等级 %d^ffffff - 每轮附加%d点伤害"}
+{"id": 244, "source": "^ffcc00等级 %d^ffffff - 比上一级效果更好"}
+{"id": 245, "source": "^ffcc00等级 %d^ffffff - 治疗效果提升%d%%"}
+{"id": 246, "source": "^ffcc00等级 %d^ffffff - 浸血有%d%%的几率使目标进入重创状态。"}
+{"id": 247, "source": "^ffcc00等级 %d^ffffff - 消耗体力降低%d点"}
+{"id": 248, "source": "^ffcc00等级 %d^ffffff - 混乱持续时间2秒。"}
+{"id": 249, "source": "^ffcc00等级 %d^ffffff - 火殇有%d%%的几率暴击。"}
+{"id": 250, "source": "^ffcc00等级 %d^ffffff - 烈焰有%d%%的几率暴击。"}
+{"id": 251, "source": "^ffcc00等级 %d^ffffff - 状态持续%d秒"}
+{"id": 252, "source": "^ffcc00等级 %d^ffffff - 生命上限+%d%%，攻击力+%d"}
+{"id": 253, "source": "^ffcc00等级 %d^ffffff - 生命上限+%d%%，暴击+%d"}
+{"id": 254, "source": "^ffcc00等级 %d^ffffff - 生命上限+%d，刺破+%d"}
+{"id": 255, "source": "^ffcc00等级 %d^ffffff - 生命上限+%d，穿透+%d"}
+{"id": 256, "source": "^ffcc00等级 %d^ffffff - 生命上限+%d，防御力+%d"}
+{"id": 257, "source": "^ffcc00等级 %d^ffffff - 生命上限提升%d"}
+{"id": 258, "source": "^ffcc00等级 %d^ffffff - 生命上限降低%d"}
+{"id": 259, "source": "^ffcc00等级 %d^ffffff - 生命上限降低%d%%"}
+{"id": 260, "source": "^ffcc00等级 %d^ffffff - 生命值+%d，致命一击率+2"}
+{"id": 261, "source": "^ffcc00等级 %d^ffffff - 生命值+%d，间接抗性+5"}
+{"id": 262, "source": "^ffcc00等级 %d^ffffff - 生命值回复量为“舞师自身攻击力”点，<CRLF>增加的攻击力和生命回复速度与目标等级有关。<CRLF>伤害抗性提升%d点，暴击抗性提升%d点"}
+{"id": 263, "source": "^ffcc00等级 %d^ffffff - 生命回复速度提升%d"}
+{"id": 264, "source": "^ffcc00等级 %d^ffffff - 目标减速%.1f米/秒"}
+{"id": 265, "source": "^ffcc00等级 %d^ffffff - 目标减速%.1f米/秒，<CRLF>自身减速%.1f米/秒。"}
+{"id": 266, "source": "^ffcc00等级 %d^ffffff - 目标受到的直接伤害提升10%%"}
+{"id": 267, "source": "^ffcc00等级 %d^ffffff - 目标损失%d%%当前斗气值。"}
+{"id": 268, "source": "^ffcc00等级 %d^ffffff - 目标每2秒受到%d%%最大攻击力伤害"}
+{"id": 269, "source": "^ffcc00等级 %d^ffffff - 目标的移动速度减低%.1f米/秒，攻击强度降低%d%%，<CRLF>招式施放结束后所有负面效果仍然会持续至少3秒。"}
+{"id": 270, "source": "^ffcc00等级 %d^ffffff - 目标直接抗性降低5点。"}
+{"id": 271, "source": "^ffcc00等级 %d^ffffff - 目标防御力降低%d点"}
+{"id": 272, "source": "^ffcc00等级 %d^ffffff - 直接抗性提升%d"}
+{"id": 273, "source": "^ffcc00等级 %d^ffffff - 穿透最大提升%d点。"}
+{"id": 274, "source": "^ffcc00等级 %d^ffffff - 立即回复%d点生命"}
+{"id": 275, "source": "^ffcc00等级 %d^ffffff - 第一段附加%d点伤害<CRLF>^ffcc00等级 %d^ffffff - 第二段附加%d点伤害"}
+{"id": 276, "source": "^ffcc00等级 %d^ffffff - 第一段附加%d点伤害<CRLF>^ffcc00等级 %d^ffffff - 第二段附加%d点伤害<CRLF>^ffcc00等级 %d^ffffff - 第三段附加%d点伤害"}
+{"id": 277, "source": "^ffcc00等级 %d^ffffff - 第一段附加%d点伤害<CRLF>^ffffff - 第二段附加%d点伤害<CRLF>^ffffff - 第三段附加%d点伤害"}
+{"id": 278, "source": "^ffcc00等级 %d^ffffff - 第一段附加%d点伤害，<CRLF>第二段最多造成40%%最大攻击力的伤害"}
+{"id": 279, "source": "^ffcc00等级 %d^ffffff - 第一段附加%d点伤害，<CRLF>第二段附加%d点伤害"}
+{"id": 280, "source": "^ffcc00等级 %d^ffffff - 第一段附加%d点伤害，第二段附加%d点伤害"}
+{"id": 281, "source": "^ffcc00等级 %d^ffffff - 第一段附加%d点伤害；<CRLF>第二段附加%d点伤害。"}
+{"id": 282, "source": "^ffcc00等级 %d^ffffff - 耐力回复值与目标攻击力有关。"}
+{"id": 283, "source": "^ffcc00等级 %d^ffffff - 自身攻击强度最大提升%d%%。"}
+{"id": 284, "source": "^ffcc00等级 %d^ffffff - 落马概率提升20%%。"}
+{"id": 285, "source": "^ffcc00等级 %d^ffffff - 虚弱抗性提升%d点"}
+{"id": 286, "source": "^ffcc00等级 %d^ffffff - 血咒状态下，目标10秒内流失%d的生命。"}
+{"id": 287, "source": "^ffcc00等级 %d^ffffff - 被击中增加%d点攻击"}
+{"id": 288, "source": "^ffcc00等级 %d^ffffff - 被治疗效果降低%d%%"}
+{"id": 289, "source": "^ffcc00等级 %d^ffffff - 通明效果最快每隔%d秒触发一次"}
+{"id": 290, "source": "^ffcc00等级 %d^ffffff - 造成%d%%基础伤害"}
+{"id": 291, "source": "^ffcc00等级 %d^ffffff - 造成%d倍伤害"}
+{"id": 292, "source": "^ffcc00等级 %d^ffffff - 造成%d点伤害。"}
+{"id": 293, "source": "^ffcc00等级 %d^ffffff - 造成%d点剧毒伤害，之后造成每次%d的持续伤害"}
+{"id": 294, "source": "^ffcc00等级 %d^ffffff - 造成其50%%最大攻击力的无视防御伤害。"}
+{"id": 295, "source": "^ffcc00等级 %d^ffffff - 造成其最大攻击力的额外伤害。"}
+{"id": 296, "source": "^ffcc00等级 %d^ffffff - 造成绊马效果的概率提升10%%。"}
+{"id": 297, "source": "^ffcc00等级 %d^ffffff - 造成自身攻击力%d%%的伤害。"}
+{"id": 298, "source": "^ffcc00等级 %d^ffffff - 造成被击中单位斗气流失%d点/秒，体力流失%d点/秒，降低暴击抗性%d点"}
+{"id": 299, "source": "^ffcc00等级 %d^ffffff - 闪避提升%d"}
+{"id": 300, "source": "^ffcc00等级 %d^ffffff - 闪避降低%d"}
+{"id": 301, "source": "^ffcc00等级 %d^ffffff - 间接抗性提升%d"}
+{"id": 302, "source": "^ffcc00等级 %d^ffffff - 防御力提升%d点"}
+{"id": 303, "source": "^ffcc00等级 %d^ffffff - 防御提升%d"}
+{"id": 304, "source": "^ffcc00等级 %d^ffffff - 防御提升%d，连环状态下，<CRLF>防御力提升%d点。"}
+{"id": 305, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害"}
+{"id": 306, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害<CRLF>^00FFFF技能修改：<CRLF><CRLF>^00FF40消耗+10体力<CRLF>^FF8000额外产生20点斗气<CRLF>^FFFF00对敌人额外附加造成100%%基础伤害"}
+{"id": 307, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害<CRLF>^00FFFF技能修改：<CRLF><CRLF>^00FF40消耗+20体力<CRLF>消耗+20斗气<CRLF>^FF00FF击中敌人+4<CRLF>^FFFF00对敌人额外附加造成200%%基础伤害"}
+{"id": 308, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害<CRLF>^00FFFF技能修改：<CRLF><CRLF>^00FF40消耗+25体力<CRLF>消耗+20斗气<CRLF>^FF8000额外产生20点斗气<CRLF>^FFFF00对敌人额外附加造成100%%基础伤害"}
+{"id": 309, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害<CRLF>^00FFFF技能修改：<CRLF><CRLF>^00FF40消耗+25体力<CRLF>消耗+30斗气<CRLF>^FF8000额外产生40点斗气<CRLF>^FFFF00对敌人额外附加造成250%%基础伤害"}
+{"id": 310, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害<CRLF>^00FFFF技能修改：<CRLF><CRLF>^00FF40消耗+35体力<CRLF>消耗+20斗气<CRLF>^FF00FF击中敌人+4<CRLF>^FFFF00对敌人额外附加造成200%%基础伤害"}
+{"id": 311, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害<CRLF>^00FFFF技能修改：<CRLF><CRLF>^00FF40消耗+35体力<CRLF>消耗+30斗气<CRLF>^FF8000额外产生20点斗气<CRLF>^FFFF00对敌人额外附加造成200%%基础伤害"}
+{"id": 312, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害<CRLF>^00FFFF技能修改：<CRLF><CRLF>^00FF40消耗+40体力<CRLF>消耗+30斗气<CRLF>^FF8000额外产生25点斗气<CRLF>^FFFF00对敌人额外附加造成200%%基础伤害"}
+{"id": 313, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害<CRLF>^00FFFF技能修改：<CRLF><CRLF>^00FF40消耗+45体力<CRLF>消耗+10斗气<CRLF>^FFFF00对敌人额外附加造成300%%基础伤害"}
+{"id": 314, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害<CRLF>降低目标攻击%d点"}
+{"id": 315, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害<CRLF>降低目标攻击速度，吟唱速度。"}
+{"id": 316, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害<CRLF>降低目标暴击抗性%d点，<CRLF>并提高自身暴击%d点。"}
+{"id": 317, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害。"}
+{"id": 318, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害。<CRLF>0刺杀：造成1秒眩晕；<CRLF>1刺杀：造成1秒眩晕；<CRLF>2刺杀：造成2秒眩晕；<CRLF>3刺杀：造成3秒眩晕；<CRLF>4刺杀：造成4秒眩晕；<CRLF>5刺杀：造成5秒眩晕。"}
+{"id": 319, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害，<CRLF>电击麻痹机率%d%%"}
+{"id": 320, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害，<CRLF>随机降低目标防御50~%d"}
+{"id": 321, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害，减速2.5米/秒"}
+{"id": 322, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害，对倒地目标造成自身攻击力的<CRLF>%d%%X破军点数的无视防御伤害"}
+{"id": 323, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害，晕眩%.1f秒"}
+{"id": 324, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害，有搅海势状态的目标<CRLF>有%d%%几率进入“搅海”状态"}
+{"id": 325, "source": "^ffcc00等级 %d^ffffff - 附加%d点伤害，自身移动速度提升%.1f米/秒"}
+{"id": 326, "source": "^ffcc00等级 %d^ffffff - 附加：%d点伤害"}
+{"id": 327, "source": "^ffcc00等级 %d^ffffff - 降低%d%%所受伤害"}
+{"id": 328, "source": "^ffcc00等级 %d^ffffff - 降低%d%%攻击速度，附加%d点伤害。"}
+{"id": 329, "source": "^ffcc00等级 %d^ffffff - 降低%d点攻击"}
+{"id": 330, "source": "^ffcc00等级 %d^ffffff - 降低目标%d%%攻击强度。"}
+{"id": 331, "source": "^ffcc00等级 %d^ffffff - 降低目标攻击力%d"}
+{"id": 332, "source": "^ffcc00等级 %d^ffffff - 降低被击中单位攻击%d点，防御%d点，直接抗性%d点，间接抗性%d点"}
+{"id": 333, "source": "^ffcc00等级 %d^ffffff - 降低间接伤害抗性%d点"}
+{"id": 334, "source": "^ffcc00等级 %d^ffffff - 额外降低5点。"}
+{"id": 335, "source": "^ffcc00等级 %d^ffffff - 马匹直接伤害抗性提升5点。"}
+{"id": 336, "source": "^ffcc00等级 %d^ffffff - 马匹直接抗性提升10点。"}
+{"id": 337, "source": "^ffcc00等级 %d^ffffff - 马匹间接伤害抗性提升5点。"}
+{"id": 338, "source": "^ffcc00等级 %d^ffffff - 驱散冲锋、强袭的技能效果。"}
+{"id": 339, "source": "^ffcc00等级 %d^ffffff - 骑乘速度降低2.5米/秒，地面速度降低2米/秒。"}
+{"id": 340, "source": "^ffcc00等级 %d^ffffff - 骑乘速度降低2米/秒，地面速度降低1米/秒。"}
+{"id": 341, "source": "^ffcc00等级 %d^ffffff - 骑战时对目标造成%d%%额外伤害。"}
+{"id": 342, "source": "^ffcc00等级 %d^ffffff - 骑战时对目标造成%d%%额外伤害。<CRLF>^00FFFF技能修改：<CRLF><CRLF>^00FF40消耗+95体力<CRLF>消耗+40斗气<CRLF>^FF00FF击中敌人+4<CRLF>^FFFF00对敌人额外附加造成750%%基础伤害"}
+{"id": 343, "source": "^ffcc00等级 %d^ffffff - 骑术灵敏提高20点。"}
+{"id": 344, "source": "^ffcc00等级 %d^ffffff - 魅惑效果造成移动速度减低%.1f，<CRLF>攻击强度降低%d%%，最多持续5秒。"}
+{"id": 345, "source": "^ffcc00等级 %d^ffffff -击中回复%d%%最大攻击力的生命"}
+{"id": 346, "source": "^ffcc00等级 %d^ffffff -刺破提升%d点。"}
+{"id": 347, "source": "^ffcc00等级 %d^ffffff -受伤抗性提升%d点，<CRLF>限制抗性提升%d点，封印抗性提升%d点。"}
+{"id": 348, "source": "^ffcc00等级 %d^ffffff -受到的治疗效果提升%d%%"}
+{"id": 349, "source": "^ffcc00等级 %d^ffffff -命中提升%d点。"}
+{"id": 350, "source": "^ffcc00等级 %d^ffffff -增加马匹耐力值比上一级高。<CRLF>同时增加%d点马匹防御。"}
+{"id": 351, "source": "^ffcc00等级 %d^ffffff -所受到的暴击伤害最终值减少%d%%。"}
+{"id": 352, "source": "^ffcc00等级 %d^ffffff -所受到的直接伤害最终值减少%d%%。"}
+{"id": 353, "source": "^ffcc00等级 %d^ffffff -所受的间接伤害最终值降低%d%%。"}
+{"id": 354, "source": "^ffcc00等级 %d^ffffff -提升%d命中值"}
+{"id": 355, "source": "^ffcc00等级 %d^ffffff -提升%d点昏迷抗性<CRLF>或者提升%d点暴击抗性"}
+{"id": 356, "source": "^ffcc00等级 %d^ffffff -攻击与防御最大同时降低%d点"}
+{"id": 357, "source": "^ffcc00等级 %d^ffffff -攻击力提升%d%%。"}
+{"id": 358, "source": "^ffcc00等级 %d^ffffff -攻击力提升%d点，<CRLF>攻击强度提升%d%%，命中提升%d点。"}
+{"id": 359, "source": "^ffcc00等级 %d^ffffff -攻击力提升%d点，防御力提升%d点"}
+{"id": 360, "source": "^ffcc00等级 %d^ffffff -攻击增加%d点，长驱状态下，<CRLF>移动速度提升%.1f米/秒，限制抗性提升%d点"}
+{"id": 361, "source": "^ffcc00等级 %d^ffffff -攻击强度提升%d%%。"}
+{"id": 362, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点。"}
+{"id": 363, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，制衡状态下，<CRLF>攻击提升%d，防御提升%d，生命上限提升%d。"}
+{"id": 364, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，刺美状态下，<CRLF>每次攻击回复自身攻击力%d%%的血量。"}
+{"id": 365, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，卧龙状态下，<CRLF>每次被攻击，回复%d点斗气，%d点体力。"}
+{"id": 366, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，双雄状态下，<CRLF>攻击提升%d%%，命中提升%d。"}
+{"id": 367, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，啖睛状态下，<CRLF>命中提升%d点。"}
+{"id": 368, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，开疆状态下，<CRLF>攻击提升%d%%，暴击提升%d。"}
+{"id": 369, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，循礼状态持续%d秒。"}
+{"id": 370, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，急智状态下，<CRLF>移动速度提升%.1f米/秒，吟唱速度提升%d%%。"}
+{"id": 371, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，惩叛状态下，<CRLF>刺破提升%d点。"}
+{"id": 372, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，敌万状态下，<CRLF>刺破点数提升%d。"}
+{"id": 373, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，救应状态下，<CRLF>一次性回复最大攻击力%d%%的血量。"}
+{"id": 374, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，暴虐状态下，<CRLF>每次攻击自身减少最大攻击力%d%%的血量，提升%d点暴击。"}
+{"id": 375, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，洞察状态下，<CRLF>目标攻击力下降%d%%。"}
+{"id": 376, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，献蜀状态下，<CRLF>攻击提升%d%%，攻击强度提升%d%%。"}
+{"id": 377, "source": "^ffcc00等级 %d^ffffff -攻击提升%d点，谏言状态下，攻击强度提升%d%%。"}
+{"id": 378, "source": "^ffcc00等级 %d^ffffff -攻击提升%d，凤佑状态下，<CRLF>限制抗性提升%d，状态持续%d秒。"}
+{"id": 379, "source": "^ffcc00等级 %d^ffffff -攻击提升%d，奇袭状态下，<CRLF>攻击强度提升%d%%。"}
+{"id": 380, "source": "^ffcc00等级 %d^ffffff -攻击提升%d，百步状态下，<CRLF>穿透点数提升%d。"}
+{"id": 381, "source": "^ffcc00等级 %d^ffffff -攻击提升%d，荡寇状态下，<CRLF>暴击提升%d，暴击伤害提升%d%%。"}
+{"id": 382, "source": "^ffcc00等级 %d^ffffff -攻击提升%d，虎痴状态下，<CRLF>最多提升%d点攻击。"}
+{"id": 383, "source": "^ffcc00等级 %d^ffffff -攻击提升%d，被攻击时有%d%%几率获得无双状态。"}
+{"id": 384, "source": "^ffcc00等级 %d^ffffff -攻击提升%d，被攻击有%d%%几率反弹默言状态。"}
+{"id": 385, "source": "^ffcc00等级 %d^ffffff -攻击提升%d，迎驾状态下，<CRLF>暴击提升%d点。"}
+{"id": 386, "source": "^ffcc00等级 %d^ffffff -攻击提升%d，霸王状态下，<CRLF>攻击提升%d%%，命中提升%d。"}
+{"id": 387, "source": "^ffcc00等级 %d^ffffff -攻击提升%d，骁果状态下，<CRLF>攻击力提升%d%%。"}
+{"id": 388, "source": "^ffcc00等级 %d^ffffff -攻击速度降低%d%%，<CRLF>命中率降低%d点。"}
+{"id": 389, "source": "^ffcc00等级 %d^ffffff -攻击速度降低%d%%，<CRLF>攻击强度降低%d%%。"}
+{"id": 390, "source": "^ffcc00等级 %d^ffffff -攻击降低%d点"}
+{"id": 391, "source": "^ffcc00等级 %d^ffffff -暴击抗性提升%d点。"}
+{"id": 392, "source": "^ffcc00等级 %d^ffffff -暴击提升%d点。"}
+{"id": 393, "source": "^ffcc00等级 %d^ffffff -暴击率最高提升%d点"}
+{"id": 394, "source": "^ffcc00等级 %d^ffffff -每存在10%%生命，提升攻击力%d点，<CRLF>每缺损10%%生命，提升防御力%d点。"}
+{"id": 395, "source": "^ffcc00等级 %d^ffffff -每层降低%d点攻击力"}
+{"id": 396, "source": "^ffcc00等级 %d^ffffff -每秒回复体力%d点"}
+{"id": 397, "source": "^ffcc00等级 %d^ffffff -每秒损失%d%%最大攻击力的生命"}
+{"id": 398, "source": "^ffcc00等级 %d^ffffff -治疗效果提升%d%%。"}
+{"id": 399, "source": "^ffcc00等级 %d^ffffff -治疗点数提升%d点。"}
+{"id": 400, "source": "^ffcc00等级 %d^ffffff -法抗+%d，防御力+%d%%"}
+{"id": 401, "source": "^ffcc00等级 %d^ffffff -法穿+%d，法强+%d%%，闪避+%d"}
+{"id": 402, "source": "^ffcc00等级 %d^ffffff -流失抗性降低%d点。"}
+{"id": 403, "source": "^ffcc00等级 %d^ffffff -生命上限+%d%%，攻击力+%d"}
+{"id": 404, "source": "^ffcc00等级 %d^ffffff -生命上限+%d%%，致命一击率+2"}
+{"id": 405, "source": "^ffcc00等级 %d^ffffff -生命上限+%d%%，防御力+%d"}
+{"id": 406, "source": "^ffcc00等级 %d^ffffff -生命上限+%d，暴击抗性+3%%"}
+{"id": 407, "source": "^ffcc00等级 %d^ffffff -生命上限+%d，防御力+%d"}
+{"id": 408, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点。"}
+{"id": 409, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，<CRLF>冲锋时移动速度提升%.1f米/秒，<CRLF>强袭时移动速度提升%.1f米/秒。"}
+{"id": 410, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，<CRLF>打断技能使用后，有%d%%几率使目标减速。"}
+{"id": 411, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，<CRLF>有%d%%几率使攻击者眩晕3秒。"}
+{"id": 412, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，<CRLF>目标额外回复的生命值为治疗量的%d%%。"}
+{"id": 413, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，<CRLF>破格挡技能有%d%%几率瞬发。"}
+{"id": 414, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，<CRLF>移动速度提升%.1f米/秒，限制抗性提升%d，<CRLF>眩晕抗性提升%d。"}
+{"id": 415, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，<CRLF>部分自身祝福技能将额外获得%d点防御提升。"}
+{"id": 416, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，<CRLF>飞将冷却时间减少%d秒。"}
+{"id": 417, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，<CRLF>骑战时移动速度提升%.1f米/秒，<CRLF>间接抗性提升%d点。"}
+{"id": 418, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，<CRLF>骑战时移动速度提升%.1f米/秒，直接抗性提升%d点。"}
+{"id": 419, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，不倒状态持续%d秒。"}
+{"id": 420, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，冲撞技能冷却时间降低%d秒，<CRLF>将有%d%%几率击晕目标，<CRLF>额外造成自身最大攻击力%d%%的无视防御伤害"}
+{"id": 421, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，无当状态下，<CRLF>目标攻击强度降低%d%%，命中降低%d。"}
+{"id": 422, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，腾跃技能冷却时间降低%d秒，<CRLF>将有%d%%几率击晕目标2秒，<CRLF>额外造成自身最大攻击力%d%%的无视防御伤害。"}
+{"id": 423, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，蛮王状态下，<CRLF>目标受直接伤害提升%d%%。"}
+{"id": 424, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d点，龙胆状态持续%d秒。"}
+{"id": 425, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d，三叹状态下，<CRLF>治疗效果提升%d%%。"}
+{"id": 426, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d，仁德状态下，<CRLF>被治疗效果提升%d%%。"}
+{"id": 427, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d，反骨状态下，<CRLF>目标所受暴击伤害提升%d%%。"}
+{"id": 428, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d，天义状态持续%d秒。"}
+{"id": 429, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d，奸雄状态下，<CRLF>反弹%d%%远程伤害。"}
+{"id": 430, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d，断兵状态下，<CRLF>目标生命上限降低%d%%。"}
+{"id": 431, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d，逍遥状态持续%d秒。"}
+{"id": 432, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d，雄才状态下，<CRLF>目标所受间接伤害提升%d%%。"}
+{"id": 433, "source": "^ffcc00等级 %d^ffffff -生命上限提升%d，雄烈状态下，<CRLF>暴击提升%d，暴击伤害提升%d%%。"}
+{"id": 434, "source": "^ffcc00等级 %d^ffffff -生命值+%d，命中+%d"}
+{"id": 435, "source": "^ffcc00等级 %d^ffffff -生命值+%d，攻击强度+2%%"}
+{"id": 436, "source": "^ffcc00等级 %d^ffffff -生命值+%d，直接抗性+5"}
+{"id": 437, "source": "^ffcc00等级 %d^ffffff -生命值+%d，致命一击伤害+5%%"}
+{"id": 438, "source": "^ffcc00等级 %d^ffffff -生命值+%d，闪避+3"}
+{"id": 439, "source": "^ffcc00等级 %d^ffffff -生命增加%d点，恩怨状态下，<CRLF>反弹%d%%近战伤害。"}
+{"id": 440, "source": "^ffcc00等级 %d^ffffff -直接与间接伤害抗性同时提升%d点"}
+{"id": 441, "source": "^ffcc00等级 %d^ffffff -直接害抗性降低效果减少%d点，间接伤害抗性降低效果减少%d点"}
+{"id": 442, "source": "^ffcc00等级 %d^ffffff -直接抗性提升%d点。"}
+{"id": 443, "source": "^ffcc00等级 %d^ffffff -穿透点数提升%d点。"}
+{"id": 444, "source": "^ffcc00等级 %d^ffffff -翔龙出击，对目标造成%d%%基础伤害。"}
+{"id": 445, "source": "^ffcc00等级 %d^ffffff -被击中目标有%d%%几率进入沉默状态,<CRLF>每次攻击造成%d%%基础伤害。"}
+{"id": 446, "source": "^ffcc00等级 %d^ffffff -闪避提升%d点。"}
+{"id": 447, "source": "^ffcc00等级 %d^ffffff -间接抗性提升%d点。"}
+{"id": 448, "source": "^ffcc00等级 %d^ffffff -防御力提升%d点，<CRLF>有20%的概率提升闪避%d点"}
+{"id": 449, "source": "^ffcc00等级 %d^ffffff -防御提升%d点。"}
+{"id": 450, "source": "^ffcc00等级 %d^ffffff -防御提升%d点，5秒内回复最大生命的%d%%。"}
+{"id": 451, "source": "^ffcc00等级 %d^ffffff -防御提升%d点，一龙状态下，<CRLF>间接抗性提升%d点。"}
+{"id": 452, "source": "^ffcc00等级 %d^ffffff -防御提升%d点，不屈状态下，<CRLF>所受间接伤害降低%d%%。"}
+{"id": 453, "source": "^ffcc00等级 %d^ffffff -防御提升%d点，劫营状态下，<CRLF>移动速度提升%.1f米/秒。"}
+{"id": 454, "source": "^ffcc00等级 %d^ffffff -防御提升%d点，善阵状态下，<CRLF>所受暴击伤害降低%d%%。"}
+{"id": 455, "source": "^ffcc00等级 %d^ffffff -防御提升%d点，奇佐状态下，<CRLF>可吸收%d点伤害。"}
+{"id": 456, "source": "^ffcc00等级 %d^ffffff -防御提升%d点，忠直状态下，<CRLF>直接抗性提升%d。"}
+{"id": 457, "source": "^ffcc00等级 %d^ffffff -防御提升%d点，挥泪状态下，<CRLF>目标每次攻击减少当前血量的%.1f%%。"}
+{"id": 458, "source": "^ffcc00等级 %d^ffffff -防御提升%d点，毒士状态下，<CRLF>目标受治疗效果降低%d%%。"}

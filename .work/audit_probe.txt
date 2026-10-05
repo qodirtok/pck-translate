@@ -1,0 +1,37 @@
+========================================================================
+skillstr.txt
+  src lines=33604  dst lines=33604  translated spans=8945
+  per-line placeholder mismatches: 86
+    L411    SRC: ^ffffff提升半月斩造成劈伤的机率。加满5层后有20%%概率造成
+           DST: ^ffffffIncreases the chance for Half-Moon Cleave to cause Cleave. At 5 stacks
+    L412    SRC: 重伤效果，劈伤效果持续时间高达45秒。"
+           DST: fully loaded, there is a 20%% chance to apply Heavy Wound; the Cleave effect lasts up to 45 sec."
+    L832    SRC: ^ffffff提升劈砸造成刺伤的机率。加满5层后有20%%概率造成
+           DST: ^ffffffIncreases Cleave Smash's chance to inflict Pierce Wound.
+    L833    SRC: 重伤效果，刺伤效果持续时间高达30秒。"
+           DST: At 5 stacks, has a 20%% chance to inflict Grievous Wound; Pierce Wound can last up to 30 seconds."
+  dest lines still carrying CJK: 91
+    L20     DST: 10  "攻击"
+    L194    DST: 130  "空"
+    L414    DST: 4790  "空"
+    L539    DST: 17030  "空"
+  trailing-whitespace-only diffs: 0
+========================================================================
+skillgbk.txt
+  src lines=33547  dst lines=33547  translated spans=8937
+  per-line placeholder mismatches: 86
+    L354    SRC: ^ffffff提升半月斩造成劈伤的机率。加满5层后有20%%概率造成
+           DST: ^ffffffIncreases the chance for Half-Moon Cleave to cause Cleave. At 5 stacks
+    L355    SRC: 重伤效果，劈伤效果持续时间高达45秒。"
+           DST: fully loaded, there is a 20%% chance to apply Heavy Wound; the Cleave effect lasts up to 45 sec."
+    L775    SRC: ^ffffff提升劈砸造成刺伤的机率。加满5层后有20%%概率造成
+           DST: ^ffffffIncreases Cleave Smash's chance to inflict Pierce Wound.
+    L776    SRC: 重伤效果，刺伤效果持续时间高达30秒。"
+           DST: At 5 stacks, has a 20%% chance to inflict Grievous Wound; Pierce Wound can last up to 30 seconds."
+  dest lines still carrying CJK: 91
+    L20     DST: 10  "攻击"
+    L153    DST: 130  "空"
+    L357    DST: 4790  "空"
+    L482    DST: 17030  "空"
+  trailing-whitespace-only diffs: 0
+exit=0

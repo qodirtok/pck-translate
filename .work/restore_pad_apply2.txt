@@ -1,0 +1,9 @@
+mode: APPLY
+records re-padded to the source layout: 1
+left for manual review: 2
+invariant violations: 0
+manual-review records:
+   ('batch_001', 114, 'pad/text token count differs')
+   ('batch_002', 64, 'pad/text token count differs')
+written: 1 files, 1 records
+exit=0

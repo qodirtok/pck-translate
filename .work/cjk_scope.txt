@@ -1,0 +1,10 @@
+=== extractor vs auditor on the flagged rows ===
+payload 攻击  extracted=19  in_need_payloads=False
+payload 空   extracted=58  in_need_payloads=False
+
+=== is the raw row's quoted content in the batch corpus? ===
+records whose source payload is one of the enum values: []
+
+=== precedent: do already-promoted files translate such rows? ===
+done
+exit=0

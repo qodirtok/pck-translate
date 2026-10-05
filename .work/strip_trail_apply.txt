@@ -1,0 +1,7 @@
+mode: APPLY
+records scanned: 8947
+records to strip: 93
+unalignable: 0
+violations: 0
+written: 2 files, 93 records
+exit=0

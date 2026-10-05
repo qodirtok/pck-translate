@@ -1,0 +1,132 @@
+mode: DRY-RUN
+files=19 records=649 label edits=1153  (records with unalignable colons: 295)
+
+=== renames applied (cn | current -> canonical) x count ===
+  学习需求     Requirement                  -> Learning Requirement         196
+  技能品质     Skill Rank                   -> Skill Quality                100
+  学习消耗     ccffLearning Cost            -> Learning Cost                66
+  策略       Strategy                     -> Tactic                       57
+  前提成就     ccffPrerequisite Achievement -> Prerequisite Achievement     54
+  属性       Attribute                    -> Type                         46
+  技能品质     Quality                      -> Skill Quality                40
+  学习等级需求   Level Requirement            -> Required Level               39
+  技能类别     Category                     -> Skill Category               37
+  骑术       Mounted                      -> Riding                       34
+  学习需求     Learning Req                 -> Learning Requirement         33
+  冷却时间     Cooldown                     -> Cool-down                    28
+  技能品质     Skill grade                  -> Skill Quality                22
+  技能品质     Skill Grade                  -> Skill Quality                20
+  初始冷却     Initial Cool-down            -> Cool-down                    20
+  技能类别     Skill category               -> Skill Category               20
+  武技       Martial Skill                -> Martial Art                  19
+  兵器       Weapons                      -> Weapon                       18
+  冷却       Cooldown                     -> Cool-down                    14
+  技能品质     Skill Tier                   -> Skill Quality                14
+  骑术       Riding Art                   -> Riding                       12
+  生效祖籍限制   Ancestry Requirement         -> Ancestral Home Restriction   11
+  学习需求     Learn Requirement            -> Learning Requirement         11
+  生效祖籍限制   Origin Restriction           -> Ancestral Home Restriction   10
+  魂技类型     Soul Art Type                -> Soul Skill Type              10
+  魂技类型     Soul Skill type              -> Soul Skill Type              10
+  技能类别     Skill Class                  -> Skill Category               10
+  冷却时间     Cool-down Time               -> Cool-down                    10
+  技能修改     FFFFSkill Mods               -> Skill Mods                   9
+  作用范围     fect Range                   -> Effect Range                 8
+  属性       Attributes                   -> Type                         8
+  生效祖籍限制   Skill Effect Ancestral Home Restriction -> Ancestral Home Restriction   7
+  学习等级需求   Hero Level Requirement       -> Required Level               7
+  武技       Move                         -> Martial Art                  7
+  武技       Martial Arts                 -> Martial Art                  7
+  生效祖籍限制   Skill Origin Restriction     -> Ancestral Home Restriction   7
+  生效祖籍限制   Skill Region Restriction     -> Ancestral Home Restriction   6
+  学习等级需求   Learning Level Requirement   -> Required Level               6
+  魂技效果     Soul Art Effect              -> Soul Skill Effect            6
+  生效祖籍限制   Ancestral Origin Restriction -> Ancestral Home Restriction   6
+  生效祖籍限制   Skill Origin Requirement     -> Ancestral Home Restriction   6
+  学习等级需求   Required Hero Level          -> Required Level               6
+  刺杀       Assassin                     -> Assassination                6
+  结义兵法     Sworn Military Art           -> Brotherhood Stratagem        5
+  骑术       Mounted Art                  -> Riding                       5
+  学习等级需求   Learn Level Requirement      -> Required Level               5
+  骑术       Horsemanship                 -> Riding                       4
+  策略       Tactics                      -> Tactic                       4
+  初始冷却     Initial Cooldown             -> Cool-down                    3
+  必杀       Fatal                        -> Finisher                     3
+  学习等级需求   Level requirement            -> Required Level               3
+  学习消耗     ccffLearning cost            -> Learning Cost                3
+  前提成就     ccffPrerequisite achievement -> Prerequisite Achievement     3
+  学习等级需求   Learning Level Req           -> Required Level               3
+  生效祖籍限制   Region Restriction           -> Ancestral Home Restriction   3
+  生效祖籍限制   Heritage Restriction         -> Ancestral Home Restriction   3
+  结义兵法     Sworn Brotherhood Tactic     -> Brotherhood Stratagem        3
+  生效祖籍限制   Ancestry Requirement for Effect -> Ancestral Home Restriction   3
+  必杀       Ultimate                     -> Finisher                     2
+  特技       Specialty                    -> Special                      2
+  结义兵法     Sworn Stratagem              -> Brotherhood Stratagem        2
+  战法       War Art                      -> Tactic                       2
+  普通施放     Normal cast                  -> Normal Cast                  2
+  武技       Martial Technique            -> Martial Art                  2
+  特技       Trait                        -> Special                      2
+  必杀       Finishing Move               -> Finisher                     2
+  战法       Battle Tactic                -> Tactic                       1
+  战法       Battle Art                   -> Tactic                       1
+  结义兵法     Sworn Tactics                -> Brotherhood Stratagem        1
+  冷却时间     Transformation Only Cool-down -> Cool-down                    1
+  武技       Skill                        -> Martial Art                  1
+  武技       Combat Technique             -> Martial Art                  1
+  结义兵法     Oath Tactic                  -> Brotherhood Stratagem        1
+  战斗       Battle                       -> Combat                       1
+  觉醒状态施放   Awakened cast                -> Awakened State Cast          1
+  魂技效果     Soul Skill effects           -> Soul Skill Effect            1
+  特技       Special Skill                -> Special                      1
+  战法       Stratagem                    -> Tactic                       1
+  特技       Special Art                  -> Special                      1
+  特技       Special Move                 -> Special                      1
+  战法       War Tactic                   -> Tactic                       1
+  骑术       seconds of Intimidation on dismounted enemies -> Riding                       1
+  冷却       Mounted                      -> Cool-down                    1
+  结义兵法     Sworn Alliance Stratagem     -> Brotherhood Stratagem        1
+  觉醒状态施放   Awakened state cast          -> Awakened State Cast          1
+  结义兵法     Sworn Brothers Art           -> Brotherhood Stratagem        1
+  技能修改     FFFFSkill Modifications      -> Skill Mods                   1
+
+=== residual variance per chinese label ===
+  兵器       {'Weapon': 401, 'Weapons': 18}
+  冷却       {'Cool-down': 72, 'Cooldown': 14, 'Mounted': 1}
+  冷却时间     {'Cool-down': 91, 'Cooldown': 28, 'Cool-down Time': 10, 'Transformation Only Cool-down': 1}
+  初始冷却     {'Initial Cool-down': 20, 'Initial Cooldown': 3}
+  刺杀       {'Assassination': 12, 'Assassin': 6}
+  前提成就     {'ccffPrerequisite Achievement': 54, 'ccffPrerequisite achievement': 3}
+  学习消耗     {'ccffLearning Cost': 66, 'ccffLearning cost': 3}
+  学习等级需求   {'Level Requirement': 39, 'Required Level': 38, 'Hero Level Requirement': 7, 'Learning Level Requirement': 6, 'Required Hero Level': 6, 'Learn Level Requirement': 5, 'Level requirement': 3, 'Learning Level Req': 3}
+  学习需求     {'Requirement': 196, 'Learning Requirement': 100, 'Learning Req': 33, '': 13, 'Learn Requirement': 11}
+  属性       {'Type': 91, 'Attribute': 46, 'Attributes': 8}
+  必杀       {'Finisher': 13, 'Fatal': 3, 'Ultimate': 2, 'Finishing Move': 2}
+  战斗       {'Combat': 3, 'Battle': 1}
+  战法       {'Tactic': 3, 'War Art': 2, 'Battle Tactic': 1, 'Battle Art': 1, 'Stratagem': 1, 'War Tactic': 1}
+  技能修改     {'FFFFSkill Mods': 9, 'FFFFSkill Modifications': 1}
+  技能品质     {'Skill Quality': 160, 'Skill Rank': 100, 'Quality': 40, 'Skill grade': 22, 'Skill Grade': 20, 'Skill Tier': 14}
+  技能类别     {'Skill Category': 246, 'Category': 37, 'Skill category': 20, 'Skill Class': 10}
+  普通施放     {'Normal cast': 2, 'Normal Cast': 1}
+  武技       {'Martial Art': 39, 'Martial Skill': 19, 'Move': 7, 'Martial Arts': 7, 'Martial Technique': 2, 'Skill': 1, 'Combat Technique': 1}
+  特技       {'Special': 3, 'Specialty': 2, 'Trait': 2, 'Special Skill': 1, 'Special Art': 1, 'Special Move': 1}
+  生效祖籍限制   {'Ancestry Requirement': 11, 'Origin Restriction': 10, 'Skill Effect Ancestral Home Restriction': 7, 'Skill Origin Restriction': 7, 'Skill Region Restriction': 6, 'Ancestral Origin Restriction': 6, 'Skill Origin Requirement': 6, 'Ancestral Home Restriction': 5, 'Region Restriction': 3, 'Heritage Restriction': 3, 'Ancestry Requirement for Effect': 3}
+  策略       {'Tactic': 59, 'Strategy': 57, 'Tactics': 4}
+  结义兵法     {'Brotherhood Stratagem': 6, 'Sworn Military Art': 5, 'Sworn Brotherhood Tactic': 3, 'Sworn Stratagem': 2, 'Sworn Tactics': 1, 'Oath Tactic': 1, 'Sworn Alliance Stratagem': 1, 'Sworn Brothers Art': 1}
+  觉醒状态施放   {'Awakened State Cast': 1, 'Awakened cast': 1, 'Awakened state cast': 1}
+  骑术       {'Riding': 43, 'Mounted': 34, 'Riding Art': 12, 'Mounted Art': 5, 'Horsemanship': 4, 'seconds of Intimidation on dismounted enemies': 1}
+  魂技效果     {'Soul Skill Effect': 39, 'Soul Art Effect': 6, 'Soul Skill effects': 1}
+  魂技类型     {'Soul Skill Type': 47, 'Soul Art Type': 10, 'Soul Skill type': 10}
+  (21/47 labels fully consistent)
+
+=== REVIEW terms ===
+  属性       -> Type                       {'Type': 91, 'Attribute': 46, 'Attributes': 8}
+  策略       -> Tactic                     {'Tactic': 59, 'Strategy': 57, 'Tactics': 4}
+  战法       -> Tactic                     {'Tactic': 3, 'War Art': 2, 'Battle Tactic': 1, 'Battle Art': 1, 'Stratagem': 1, 'War Tactic': 1}
+  骑术       -> Riding                     {'Riding': 43, 'Mounted': 34, 'Riding Art': 12, 'Mounted Art': 5, 'Horsemanship': 4, 'seconds of Intimidation on dismounted enemies': 1}
+  必杀       -> Finisher                   {'Finisher': 13, 'Fatal': 3, 'Ultimate': 2, 'Finishing Move': 2}
+  特技       -> Special                    {'Special': 3, 'Specialty': 2, 'Trait': 2, 'Special Skill': 1, 'Special Art': 1, 'Special Move': 1}
+  结义兵法     -> Brotherhood Stratagem      {'Brotherhood Stratagem': 6, 'Sworn Military Art': 5, 'Sworn Brotherhood Tactic': 3, 'Sworn Stratagem': 2, 'Sworn Tactics': 1, 'Oath Tactic': 1, 'Sworn Alliance Stratagem': 1, 'Sworn Brothers Art': 1}
+  生效祖籍限制   -> Ancestral Home Restriction {'Ancestry Requirement': 11, 'Origin Restriction': 10, 'Skill Effect Ancestral Home Restriction': 7, 'Skill Origin Restriction': 7, 'Skill Region Restriction': 6, 'Ancestral Origin Restriction': 6, 'Skill Origin Requirement': 6, 'Ancestral Home Restriction': 5, 'Region Restriction': 3, 'Heritage Restriction': 3, 'Ancestry Requirement for Effect': 3}
+  兵法       -> Stratagem                  (absent)
+  魂技能      -> Soul Skill                 (absent)

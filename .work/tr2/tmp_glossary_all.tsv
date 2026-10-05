@@ -1,0 +1,2274 @@
+ %d 个 %s 由于过期而消失| %d %s disappeared due to expiration
+ &%s& 不再是竞技队 %s 的一员了。| &%s& is no longer a member of Arena Team %s.
+ &%s& 被任命为竞技队 %s 的副队长。| &%s& was appointed Vice Captain of Arena Team %s.
+#ALL 全部|#ALL All
+#MAIN 活动与任务|#MAIN Activities & Quests
+#MAIN 热门战场|#MAIN Popular Battlefields
+#NONE 无|#NONE None
+$$$$$$$$$$不能使用自动移动|$$$$$$$$$$You cannot use auto-move
+$$$$$$$$$$不能使用这个物品|$$$$$$$$$$You cannot use this item
+$$$$$$$$$$不能在移动中这样做|$$$$$$$$$$You cannot do that while moving
+$$$$$$$$$$不能在这里进行自动移动|$$$$$$$$$$You cannot auto-move here
+$$$$$$$$$$不能攻击那个目标|$$$$$$$$$$You cannot attack that target
+$$$$$$$$$$不能自动移动到那里|$$$$$$$$$$You cannot auto-move there
+$$$$$$$$$$与护送对象距离过远，%d秒后任务失败|$$$$$$$$$$Too far from the escort target, quest fails in %d seconds
+$$$$$$$$$$你需要选择一个目标|$$$$$$$$$$You need to select a target
+$$$$$$$$$$使用当前武器不能使用该招式|$$$$$$$$$$This move cannot be used with your current weapon
+$$$$$$$$$$兵种不正确，无法进行此操作|$$$$$$$$$$Invalid troop type for this operation
+$$$$$$$$$$前提状态条件不满足|$$$$$$$$$$Prerequisite state conditions not met
+$$$$$$$$$$动作还没有准备好|$$$$$$$$$$The action is not ready
+$$$$$$$$$$和目标之间有障碍无法直接攻击|$$$$$$$$$$An obstacle blocks the target, cannot attack directly
+$$$$$$$$$$已达目的地，自动移动结束|$$$$$$$$$$Destination reached, auto-move ended
+$$$$$$$$$$当前状态下不能这样做|$$$$$$$$$$You cannot do that in your current state
+$$$$$$$$$$当前状态不能开始自动移动|$$$$$$$$$$You cannot start auto-move in your current state
+$$$$$$$$$$必须面向目标|$$$$$$$$$$You must be facing the target
+$$$$$$$$$$无法到达指定位置|$$$$$$$$$$Cannot reach the specified location
+$$$$$$$$$$无法在战斗状态下这样做|$$$$$$$$$$You cannot do that while in combat
+$$$$$$$$$$无法在步行状态下这样做|$$$$$$$$$$You cannot do that while on foot
+$$$$$$$$$$无法在死亡状态下这样做|$$$$$$$$$$You cannot do that while dead
+$$$$$$$$$$无法在骑乘状态下这样做|$$$$$$$$$$You cannot do that while mounted
+$$$$$$$$$$本区域内不能使用自动移动|$$$$$$$$$$Auto-move is not available in this area
+$$$$$$$$$$没有足够的体力|$$$$$$$$$$Not enough Stamina
+$$$$$$$$$$没有足够的斗气|$$$$$$$$$$Not enough Fighting Qi
+$$$$$$$$$$目标距离太近|$$$$$$$$$$Target is too close
+$$$$$$$$$$目标距离过远|$$$$$$$$$$Target is too far away
+$$$$$$$$$$眩晕或沉默状态下不能这样做|$$$$$$$$$$You cannot do that while stunned or silenced
+$$$$$$$$$$自动移动停止|$$$$$$$$$$Auto-move stopped
+$$$$$$$$$$自动移动开始|$$$$$$$$$$Auto-move started
+$$$$$$$$$$行动被中断|$$$$$$$$$$Action interrupted
+$$$$$$$$$$该动作正在冷却，暂时无法使用|$$$$$$$$$$This action is on cooldown and cannot be used yet
+$$$$$$$$$$该操作需要对应的物品|$$$$$$$$$$This operation requires a specific item
+$$$$$$$$$$错误的目标|$$$$$$$$$$Invalid target
+$$$$$$$$$$附近没有可以选中的怪|$$$$$$$$$$No monsters nearby to target
+%d 个 %s 消失了|%d %s disappeared
+%d 级|Level %d
+%d-%d 级武器|Level %d-%d Weapon
+%d点%2d分 摊位卖出 %d 个 %s (单价 %s^ffffff)|%d:%2d Stall sold %d %s (unit price %s^ffffff)
+%d点%2d分 摊位收购 %d 个 %s (单价 %s^ffffff)|%d:%2d Stall bought %d %s (unit price %s^ffffff)
+%d秒内恢复(%d,%d,%d,%d)点气血值及(%d,%d,%d,%d)点真气值|Restore (%d,%d,%d,%d) HP and (%d,%d,%d,%d) MP within %d seconds
+%d级%s|Level %d %s
+%s (%d孔)|%s (%d Sockets)
+%s ^ffffff的投诚书|%s ^ffffff's Surrender Letter
+%s 冷却时间 －%.1f 秒|%s Cooldown -%.1f sec
+%s 对你造成了 %d 点伤害|%s dealt %d damage to you
+%s 将于装备后绑定|%s will be bound when equipped
+%s 已对您进行护佑|%s has blessed you
+%s 成为了战场首领|%s is now the battlefield leader
+%s 技能提升到了 %d 级|%s skill increased to level %d
+%s 熟练度提升了 %d|%s Proficiency increased by %d
+%s 申请加入战场|%s applied to join the battlefield
+%s 目前没有在线|%s is not online
+%s 绑定成功|%s bound successfully
+%s 被成功收回|%s was successfully recalled
+%s （%d）|%s (%d)
+%s ＋%d 级|%s +%d Level
+%s不足|Not enough %s
+%s图鉴已经提升为%d级|The %s Compendium is now level %d
+%s对你的护卫造成了%d点伤害|%s dealt %d damage to your Bodyguard
+%s的护卫%s对你的护卫造成了%d点伤害|%s's Bodyguard %s dealt %d damage to your Bodyguard
+%s的护卫%s对你造成了%d点伤害|%s's Bodyguard %s dealt %d damage to you
+%s：%s|%s: %s
+&%s& 传位给 &%s&, &%s&成为团长|&%s& abdicated to &%s&, &%s& is now the Leader
+&%s& 传位给 &%s&, &%s&成为头领|&%s& abdicated to &%s&, &%s& is now the Leader
+&%s& 传位给 &%s&, &%s&成为都督|&%s& abdicated to &%s&, &%s& is now the Commander
+&%s& 加入了队伍|&%s& joined the party
+&%s& 和 &%s& 在决斗中不分胜负|&%s& and &%s& drew in a duel
+&%s& 在决斗中战胜了 &%s&|&%s& defeated &%s& in a duel
+&%s& 对 %s 选择了 %s，投掷数：%d|&%s& chose %s for %s, roll: %d
+&%s& 对 %s 选择了放弃|&%s& chose to pass on %s
+&%s& 将本结义踢出了军团|&%s& removed this Brotherhood from the Legion
+&%s& 已经成功把您加入军团|&%s& has successfully added you to the Legion
+&%s& 悄悄对你说：%s|&%s& whispers to you: %s
+&%s& 成为了新的队长|&%s& is now the new Captain
+&%s& 成为了结义代首领|&%s& is now the Acting Leader of the Brotherhood
+&%s& 成为竞技队 %s 的新成员。|&%s& is now a member of Arena Team %s.
+&%s& 成为竞技队 %s 的新队长。|&%s& is now the new Captain of Arena Team %s.
+&%s& 成功加入跨服军团 &%s&|&%s& successfully joined Cross-server Legion &%s&
+&%s& 把 &%s& 任命为 %s|&%s& appointed &%s& as %s
+&%s& 把 &%s& 加入了本结义|&%s& added &%s& to this Brotherhood
+&%s& 把 &%s& 踢出了所属跨服军团|&%s& removed &%s& from their Cross-server Legion
+&%s& 把 &%s& 踢出了本结义|&%s& removed &%s& from this Brotherhood
+&%s& 把你加入了本结义|&%s& added you to this Brotherhood
+&%s& 把你踢出了结义|&%s& removed you from the Brotherhood
+&%s& 把本结义加入军团|&%s& added this Brotherhood to a Legion
+&%s& 把结义 &%s& 加入本军团|&%s& added Brotherhood &%s& to this Legion
+&%s& 把结义 &%s& 踢出了本军团|&%s& removed Brotherhood &%s& from this Legion
+&%s& 拒绝了你的申请|&%s& declined your request
+&%s& 拒绝了你的邀请|&%s& declined your invitation
+&%s& 离开了队伍|&%s& left the party
+&%s& 获得了 %d 个 %s|&%s& received %d %s
+&%s& 被取消了结义代首领职位|&%s& was removed from the position of Acting Leader of the Brotherhood
+&%s& 赐予了 &%s&“%s”封号|&%s& granted &%s& the title “%s”
+&%s& 辞去了 %s 的职位|&%s& resigned from the position of %s
+&%s& 退出了所属跨服军团|&%s& left their Cross-server Legion
+&%s& 退出了本结义|&%s& left this Brotherhood
+&%s&%s：%s|&%s&%s: %s
+&%s&：%s|&%s&: %s
+//	个人参数 ============================|//	Personal Stats ============================
+//	功能 =============================|//	Functions =============================
+//	声望 =============================|//	Reputation =============================
+//	宠物 =============================|//	Pets =============================
+//	战魂相关 ==============================|//	War Soul ==============================
+//	竞技场相关|//	Arena
+//	职业 ============================= |//	Class ============================= 
+//	阵营 =============================|//	Faction =============================
+//  人物属性 =============================|//  Character Attributes =============================
+//  其它 =============================|//  Other =============================
+//  军团和结义 =============================|//  Legion and Brotherhood =============================
+//  包裹和物品 =============================|//  Bag and Items =============================
+//  好友 =============================|//  Friends =============================
+//  师徒相关 =============================|//  Mentorship =============================
+//  特殊词汇 =============================|//  Special Terms =============================
+//  系统 =============================|//  System =============================
+//  队伍 =============================|//  Party =============================
+//--------团伙创建|//--------Cross-server Legion Creation
+//--------团伙改名|//--------Cross-server Legion Rename
+//--------团伙解散|//--------Cross-server Legion Disbandment
+//--------团伙邀请|//--------Cross-server Legion Invitation
+//@所有竞技队成员|//@All Arena Team members
+//@新副队长以外的竞技队成员|//@Arena Team members other than the new Vice Captain
+//@新成员以外的竞技队成员|//@Arena Team members other than the new member
+//@新队长自己|//@The new Captain
+//@玩家本人|//@The player
+//@竞技队所有成员|//@All Arena Team members
+//@被开除者|//@The expelled player
+//@被开除者以外的竞技队成员|//@Arena Team members other than the expelled player
+//@队伍其他人员|//@Other party members
+//@队长|//@Captain
+012.25－1.8圣诞活动期间|From Dec 25 to Jan 8 during the Christmas Event
+01～3名|Rank 1-3
+04～10名|Rank 4-10
+CD中，请稍候|On cooldown, please wait
+GM广播|GM Broadcast
+NPC名字|NPC Names
+PK值不满足要求|PK value requirement not met
+Touch币|Touch Coin
+VIP商城点券|VIP Shop Coupons
+VIP成长值|VIP Growth
+VIP等级不满足要求|VIP level requirement not met
+^61f2ff玉|^61f2ffJade
+^7f00ff（商城道具）|^7f00ff(Cash Shop Item)
+^7f00ff（赠送物品）|^7f00ff(Gift Item)
+^b1b1b1银|^b1b1b1Silver
+^e3e3e3银|^e3e3e3Silver
+^efce9e铜|^efce9eCopper
+^ff3838有效使用期至：%d年%d月%d日%d点|^ff3838Valid Until: %d Year %d Month %d Day %d O'Clock
+^ff6000铜|^ff6000Copper
+^ffdc50金|^ffdc50Gold
+^ffdc8a金|^ffdc8aGold
+^fff600已锁定|^fff600Locked
+^fff600未抽签|^fff600Not Drawn
+^fff600特殊锁定|^fff600Special Lock
+gm发布的消息|GM Announcements
+一刻|First Quarter
+一块元石可补充 %d 秒|One Yuan Stone restores %d sec
+一次次梦里相见，醒来总是泪流满面。是白日太过思念，还是错过的过错铭记心间。太久没能看见你熟悉的笑脸，太久没和你两个人在夕阳漫步林间，告诉你我彼此的从前。许久不见，愈发想正面凝望你的脸。|Again and again we meet in dreams; waking, my face is always wet with tears. Is it because I miss you too much in the day, or is the fault of our missed chances engraved on my heart? Too long since I've seen your familiar smiling face; too long since the two of us strolled through the woods at sunset, telling each other our pasts. Long unseen, I yearn all the more to gaze straight at your face.
+一段|Stage 1
+一键移动设置|One-Key Move Settings
+一阶|First Rank
+七台河市|Qitaihe
+七擒孟`获|Seven Captures of Meng Huo
+七段|Stage 7
+七阶|Seventh Rank
+万贯家私|Ten Thousand Strings of Family Wealth
+三亚市|Sanya
+三刻|Third Quarter
+三国古币|Three Kingdoms Coin
+三明市|Sanming
+三段|Stage 3
+三获赤壁外传战场策划大奖的奖励称号|Reward title for winning the Chibi Spin-off Battlefield Planning Award three times
+三门峡市|Sanmenxia
+三阶|Third Rank
+上|Upper
+上一页|Previous
+上月充值达…档|Monthly recharge reached … tier
+上海|Shanghai
+上海市|Shanghai
+下|Lower
+下一页|Next
+下次成长历练需求：%d|Next Growth Experience Requirement: %d
+下次成长角色等级需求：%d|Next Growth Character Level Requirement: %d
+下次成长角色等级需求：英雄%d级|Next Growth Character Level Requirement: Hero Level %d
+不可交易|Untradable
+不可贪心他人之宝，你已经摸到了探宝的门道|Do not covet others' treasures, you have already grasped the way of Treasure Hunt
+不是根任务|Not a root quest
+不显示新手指引弹版|Do Not Show Beginner Guide Popups
+不满足操作条件|Requirements not met
+不满足结义代首领的申请时间|The application period for Acting Leader of the Brotherhood has not been met
+不满足结义代首领的申请条件|You do not meet the requirements to apply for Acting Leader of the Brotherhood
+不离不弃|never leave or abandon
+不管岁月如何地匆匆逝去？我会与你在最深的红尘里相遇。你我已经心有灵犀不用太多的言语，都能轻易地感知到彼此的存在，我在每个守候你分分秒秒时光里，用最深情的曲调弹奏着一首红尘中的期待。|No matter how hurriedly the years slip away, I will meet you in the deepest red dust. Our hearts are already in perfect tune — no many words needed — we can easily sense each other's presence. In every moment I spend waiting for you, I play the most heartfelt melody, performing a song of anticipation in the mortal world.
+不能重复做此任务|This quest cannot be repeated
+与服务器的连接已经断开，请重新登录。|Connection to the server has been lost. Please log in again.
+丑时|Chou Hour
+世界聊天|World Chat
+世界频道|World Channel
+东武|Dongwu
+东汉军声望|Eastern Han Army Reputation
+东莞市|Dongguan
+东营市|Dongying
+丢失了 %d 个 %s|Lost %d %s
+中|Middle
+中原族系声望|Central Plains Clan Reputation
+中山市|Zhongshan
+临沂市|Linyi
+临湘|Linxiang
+临贺|Linhe
+丹东市|Dandong
+义士|Righteous Warrior
+义臣|Loyal Minister
+乌海市|Wuhai
+乌鲁木齐市|Urumqi
+乐山市|Leshan
+九原|Jiuyuan
+九段|Stage 9
+九江市|Jiujiang
+九阶|Ninth Rank
+习刀者|Glaive Adept
+习剑者|Saber Adept
+习叉者|Multiblade Adept
+习弓者|Bow Adept
+习弩者|Crossbow Adept
+习戟者|Halberd Adept
+习扇者|War Fan Adept
+习斧者|Hatchet Adept
+习杖者|Scepter Adept
+习枪者|Spear Adept
+习棍者|Staff Adept
+习爪者|Talon Adept
+习环者|Ring Blade Adept
+习盾者|Gauntlet Adept
+习舞者|Charmer Adept
+习钩者|Hooksword Adept
+习钺者|Cleaver Adept
+习锏者|Mace Adept
+习锤者|Hammer Adept
+习鞭者|Whip Adept
+二刻|Second Quarter
+二段|Stage 2
+二阶|Second Rank
+云南省|Yunnan
+云层细节|Cloud Detail
+云浮市|Yunfu
+互斥任务不满足要求|Mutually exclusive quest requirement not met
+五丈原贡献度|Wuzhang Plains Contribution
+五段|Stage 5
+五虎将|Five Tiger Generals
+五行伤害减免 ＋%d%%|Five Elements Damage Reduction +%d%%
+五行防御 ＋%d|Five Elements Defense +%d
+五阶|Fifth Rank
+交易|Trade
+亥时|Hai Hour
+亲吻|Kiss
+亲吻|Kiss
+亲吻循环|KissLoop
+亲吻结束|KissEnd
+人数达到上限|Member limit reached
+人数（结义数）已达上限|Member (Brotherhood) limit reached
+人物等级不够|Character level too low
+人物等级过高|Character level too high
+仁义值|Benevolence
+从今|From now on
+仓库容量扩大到 %d 格|Warehouse capacity expanded to %d slots
+仙品|Immortal Grade
+价格|Price
+价格 %s|Price %s
+价格 %s^ffffff（%s^ffffff）|Price %s^ffffff (%s^ffffff)
+任务|Quest
+任务列表已满|Quest list is full
+任务已到达接收者上限|Quest receiver limit reached
+任务已满|Quest list is full
+任务物品|Quest Item
+任务要求队长|Quest requires a Captain
+伊春市|Yichun
+传送旗·神行|Teleport Flag - Swift Travel
+传送时间：%.1f 秒|Teleport Time: %.1f sec
+传送目标：%s %d, %d|Teleport Target: %s %d, %d
+伤害信息|Damage Info
+伤害减免 ＋%d%%|Damage Reduction +%d%%
+伯乐|Talent Scout
+伸懒腰|Stretch
+低|Low
+体力|Stamina
+体力值|Stamina
+体力值上限提高了 %d|Max Stamina increased by %d
+体型卡|Body Type Card
+体质|Stamina
+佛山市|Foshan
+你不再是竞技队 %s 的一员了。|You are no longer a member of Arena Team %s.
+你创建了竞技队 %s。|You created Arena Team %s.
+你加入了一个队伍|You joined a party
+你加入竞技队 %s 。|You joined Arena Team %s.
+你升到了 %d 级|You reached level %d
+你升到了英雄 %d 级|You reached Hero level %d
+你学会了制作：%s|You learned to craft: %s
+你学到了新的生产技能：%s|You learned a new production skill: %s
+你对|You
+你对 %s 选择了 %s，投掷数：%d|You chose %s for %s, roll: %d
+你对 %s 选择了放弃|You chose to pass on %s
+你对 %s 造成了 %d 点伤害|You hit %s for %d damage
+你对%s的护卫%s造成了%d点伤害|You hit %s's Bodyguard %s for %d damage
+你已将主兵种设成了 %s|You set your primary troop to %s
+你已将副兵种设成了 %s|You set your secondary troop to %s
+你已成功申请成为结义代首领|You have successfully applied to become Acting Leader of the Brotherhood
+你已成功重修兵种|You have successfully retrained your troops
+你已经是某军团（结义）的成员，不能再创建军团（结义）|You are already a member of a Legion (Brotherhood) and cannot create another
+你已经进入非安全区域，有可能遭到其他玩家的恶意攻击。|You have entered a non-safe zone and may be attacked by other players.
+你悄悄对 &%s& 说：%s|You whisper to &%s&: %s
+你成功的四十分钟内获得了华容道的胜利|You achieved victory on Huarong Road within forty minutes
+你所在的队伍已被解散|Your party has been disbanded
+你现在已经是|You are now a
+你的修真级别达到了 %s|Your Cultivation level reached %s
+你的兵种等级提升至 %s|Your troop level increased to %s
+你的护卫 %s 升到了 %d 级|Your Bodyguard %s reached level %d
+你的护卫 %s 历练增加了 %d|Your Bodyguard %s's Experience increased by %d
+你的护卫 %s 历练降低了 %d |Your Bodyguard %s's Experience decreased by %d 
+你的护卫 %s 增加了一个技能格|Your Bodyguard %s gained a skill slot
+你的护卫 %s 士气值增加了 %d|Your Bodyguard %s's Morale increased by %d
+你的护卫 %s 士气值降低了 %d |Your Bodyguard %s's Morale decreased by %d 
+你的护卫 %s 忠诚度增加了 %d 点|Your Bodyguard %s's Loyalty increased by %d
+你的护卫 %s 忠诚度降低了 %d 点|Your Bodyguard %s's Loyalty decreased by %d
+你的护卫对%s的护卫%s造成了%d点伤害|Your Bodyguard hit %s's Bodyguard %s for %d damage
+你的护卫对%s造成了%d点伤害|Your Bodyguard hit %s for %d damage
+你的护卫被 %s 杀死了|Your Bodyguard was killed by %s
+你的护卫被 %s 的护卫 %s 杀死了|Your Bodyguard was killed by %s's Bodyguard %s
+你的阵营改变为：%s|Your Faction changed to: %s
+你离开了队伍|You left the party
+你被 %s 杀死了|You were killed by %s
+你被 %s 的护卫 %s 杀死了|You were killed by %s's Bodyguard %s
+你被任命为竞技队 %s 的副队长。|You were appointed Vice Captain of Arena Team %s.
+你被杀死了！|You were killed!
+你退出了结义|You left the Brotherhood
+佳木斯市|Jiamusi
+使用后绑定|Binds on Use
+使用效果：|Use Effect: 
+使用物品|UseItem
+使用物品循环|UseItemLoop
+使用等级 %s|Use Level %s
+使用等级：%s ～ %s|Use Level: %s ~ %s
+使用要求：|Use Requirement: 
+使用道具可获得汗珠钻，或汗珠超过1000玉后，系统会自动帮您将100玉转化为1钻|Use items to obtain Sweat Diamonds, or once your Sweat exceeds 1000 Jade, the system will automatically convert 100 Jade into 1 Diamond
+使用道具可获得金钱钻，或金钱超过1000玉后，系统会自动帮您将100玉转化为1钻|Use items to obtain Gold Diamonds, or once your Gold exceeds 1000 Jade, the system will automatically convert 100 Jade into 1 Diamond
+侠客|Knight
+保定市|Baoding
+信都|Xindu
+信阳市|Xinyang
+修为加成 ＋%d%%|Cultivation Bonus +%d%%
+修理费 %d|Repair Cost %d
+修理费 %s|Repair Cost %s
+修真等级要求 %s|Cultivation Level Requirement %s
+倒地|Prone
+傲剑使|Proud Saber Envoy
+傲剑尊|Proud Saber Master
+光华渲染|Glow Rendering
+克拉玛依市|Karamay
+免做令|Quest Skip Token
+入场|EnterScene
+全部|All
+八段|Stage 8
+八阵休门|Eight Formations: Rest Gate
+八阵开门|Eight Formations: Open Gate
+八阶|Eighth Rank
+六安|Lu'an
+六安市|Lu'an
+六段|Stage 6
+六盘水市|Liupanshui
+六阶|Sixth Rank
+兰州市|Lanzhou
+共荣辱|Shared Glory and Shame
+关中声望|Guanzhong Reputation
+关闭|Off
+兵器|Weapon
+兵种不满足要求|Troop requirement not met
+兵种限制|Unit Type Restriction
+兵车勋值|Chariot Merit
+其他|Other
+其他|Other
+其他设置|Other Settings
+其它信息|Other Info
+其它玩家个性化|Other Players Customization
+其它玩家名字、标志|Other Players' Names & Marks
+内江市|Neijiang
+内蒙古|Inner Mongolia
+再携手|Join Hands Once More
+军功|Military Merit
+军团 &%s& 已经取消解散|Legion &%s& has cancelled its disbandment
+军团 &%s& 已解散|Legion &%s& has been disbanded
+军团 &%s& 进入7天的解散期，期间可取消解散|Legion &%s& has entered a 7-day disbandment period, during which it can be cancelled
+军团不满足要求|Legion requirement not met
+军团仓库容量扩大到 %d 格|Legion warehouse capacity expanded to %d slots
+军团内的聊天信息|Legion Chat Messages
+军团创建成功|Legion created successfully
+军团名称和标志|Legion Name & Mark
+军团已经成功升级|The Legion has been upgraded successfully
+军团已经被降级|The Legion has been downgraded
+军团攻防战结束，守方获胜|Legion siege battle ended, defenders won
+军团攻防战结束，攻方获胜|Legion siege battle ended, attackers won
+军团服务暂时不可用|Legion service temporarily unavailable
+军团状况不满足要求|Legion status requirement not met
+军团聊天|Legion Chat
+军团解散了|The Legion has been disbanded
+军团贡献|Legion Contribution
+军团贡献度不满足要求|Legion Contribution requirement not met
+军团频道|Legion Channel
+军团（结义）不存在或玩家没有申请过加入本军团（结义）|The Legion (Brotherhood) does not exist or the player has not applied to join it
+军团（结义）名称重复|Legion (Brotherhood) name already in use
+冰冻抗性 ＋%.0f%%|Freeze Resistance +%.0f%%
+冰冻抗性 ＋%d|Freeze Resistance +%d
+冲锋|Charge
+决斗邀请已发出，等待对方回应|Duel invitation sent, waiting for a response
+冷却时间|Cooldown
+准确 ＋%d%%|Accuracy +%d%%
+减免伤害 %.0f%%|Damage Reduction %.0f%%
+减免伤害 %d|Damage Reduction %d
+击杀信息|Kill Info
+刀|Saber
+刀兵|Glaive Soldier
+刀圣|Glaive Saint
+刀将|Glaive General
+刀尉|Glaive Lieutenant
+刀神|Glaive God
+刀骑|Glaive Rider
+分辨率|Resolution
+分配ID失败|ID assignment failed
+初刻|Initial Quarter
+初始强化属性|Initial Enhancement Attributes
+初阶|Initial Rank
+制造了 %d 个 %s|Crafted %d %s
+制造者 %s|Creator %s
+前提任务不满足|Prerequisite quest not met
+剑|Sword
+剑仙|Saber Immortal
+剑侠|Saber Hero
+剑圣|Saber Saint
+剑士|Saber Warrior
+剑客|Saber Swordsman
+剑豪|Saber Master
+剩余时间：%d 分 %d 秒|Remaining Time: %d min %d sec
+剩余时间：%d 天 %d 小时|Remaining Time: %d days %d hours
+剩余时间：%d 小时 %d 分|Remaining Time: %d hours %d min
+剩余时间：%d 秒|Remaining Time: %d sec
+副将|Lieutenant
+力|Strength
+功勋价格：%d|Merit Price: %d
+功勋值|Merit
+加入申请超时|Join request timed out
+加速飞行|Speed Flight
+势力需求|Faction Requirement
+勋章|Medal
+包头市|Baotou
+包裹已满|Inventory is full
+包裹扩充到 %d 格|Inventory expanded to %d slots
+包裹空间不够|Not enough Inventory space
+包裹空间不足|Not enough Inventory space
+北京|Beijing
+北京市|Beijing
+北海市|Beihai
+北邙皇陵|Beimang Imperial Tomb
+匹配积分|Match Points
+区域内绑定|Area Bound
+十一阶|Eleventh Rank
+十七阶|Seventeenth Rank
+十三阶|Thirteenth Rank
+十二阶|Twelfth Rank
+十五阶|Fifteenth Rank
+十八阶|Eighteenth Rank
+十六阶|Sixteenth Rank
+十四阶|Fourteenth Rank
+十堰市|Shiyan
+十阶|Tenth Rank
+千金一掷|A Thousand Gold in One Throw
+升级|Upgrade
+升级后强化属性|Post-Upgrade Enhancement Attributes
+升级所需成长等级|Required Growth Level for Upgrade
+升级所需材料|Required Upgrade Materials
+升级礼包|Upgrade Pack
+午时|Wu Hour
+华容道|Huarong Road
+华容道|Huarong Road
+协助攻击|Assist Attack
+单价|Unit Price
+单价 %s|Unit Price %s
+单点登录服务器错误，请稍后再试|Single sign-on server error, please try again later
+卖出了 %d 个 %s|Sold %d %s
+卖店后可返还购买材料|Materials Refundable After Selling
+南京市|Nanjing
+南充市|Nanchong
+南城|Nancheng
+南宁市|Nanning
+南平市|Nanping
+南昌|Nanchang
+南昌市|Nanchang
+南蛮声望|Nanman Reputation
+南通市|Nantong
+南郑|Nanzheng
+南阳市|Nanyang
+博学值|Erudition
+卡片类型：%s|Card Type: %s
+卯时|Mao Hour
+即将成长等级|Next Growth Level
+历练|Experience
+历练消耗 %d|Experience Cost %d
+原始强化属性|Original Enhancement Attributes
+厦门市|Xiamen
+参军|Officer
+叉兵|Multiblade Soldier
+叉圣|Multiblade Saint
+叉将|Multiblade General
+叉尉|Multiblade Lieutenant
+叉神|Multiblade God
+叉骑|Multiblade Rider
+双人亲吻|DualKiss
+双倍时间 %d 小时|Double Time %d hours
+双鸭山市|Shuangyashan
+发型卡|Hairstyle Card
+发放任务的时间段不对|Wrong time period to issue this quest
+发现新的传送点 %s|Discovered new teleport point %s
+发生致命错误的物品|Item with Fatal Error
+取得了攻城车的控制权|Gained control of the siege ram
+受伤|Injured
+变为特殊锁定状态|Become Special Locked
+变身条件不满足要求|Transformation condition requirement not met
+只有军团长才可以使用此命令|Only the Legion Leader can use this command
+只有结义成员才能接此任务|Only Brotherhood members can accept this quest
+只有结义族长才能接此任务|Only the Brotherhood Leader can accept this quest
+可用武器类型：|Available Weapon Type: 
+可用装备最低品级：|Minimum Equipment Grade: 
+可用装备最高品级：|Maximum Equipment Grade: 
+可用装备类型：|Available Equipment Type: 
+可附加属性|Attachable Attributes
+台州市|Taizhou
+右戒指|Right Ring
+合成失败|Synthesis failed
+合成成功|Synthesis successful
+合肥市|Hefei
+吉林市|Jilin
+吉林省|Jilin
+名望|Renown
+名望|Renown
+名望10000－19999获得的爵位|Peerage earned with Renown 10000-19999
+名望5000－9999获得的爵位|Peerage earned with Renown 5000-9999
+名流|Celebrity
+名称不合要求|Name does not meet requirements
+吟唱时间 ＋%d%%|Cast Time +%d%%
+含有非法字符或长度超出限制|Contains illegal characters or exceeds the length limit
+吴|Wu
+吴县|Wuxian
+吴国|Kingdom of Wu
+吴国义士|Righteous Warrior of Wu
+吴国义臣|Loyal Minister of Wu
+吴国五虎将|Five Tiger Generals of Wu
+吴国仕官|Official of Wu
+吴国侠客|Knight of Wu
+吴国名流|Celebrity of Wu
+吴国声望|Wu Reputation
+吴国家将|Family General of Wu
+吴国小霸王|Little Overlord of Wu
+吴国猛将|Fierce General of Wu
+吴国的成员|member of the Kingdom of Wu
+吴国英雄|Hero of Wu
+吴国豪杰|Champion of Wu
+吴国重臣|High Minister of Wu
+吴忠市|Wuzhong
+味县|Weixian
+呼和浩特市|Hohhot
+命|Vitality
+命中|Accuracy
+命中 ＋%d|Hit +%d
+命中率|Accuracy
+命令仍处于冷却时间|The command is still on cooldown
+咸宁市|Xianning
+咸阳市|Xianyang
+品阶 %d|Grade %d
+哈尔滨市|Harbin
+唐山市|Tangshan
+商丘市|Shangqiu
+商会声望|Merchant Guild Reputation
+商会礼包|Guild Merchants Pack
+商城数据与服务器不同步|Cash shop data is out of sync with the server
+商票|Merchant Token
+商票|Trade Notes
+喊话消息|Shout Messages
+喜|Joy
+嘉兴市|Jiaxing
+嘉峪关市|Jiayuguan
+四处张望|LookAround
+四川省|Sichuan
+四平市|Siping
+四段|Stage 4
+四阶|Fourth Rank
+国家荣誉|National Honor
+国家要求：%s|Nation Requirement: %s
+国战|National War
+图鉴摘要|Illustrated Handbook Summary
+圣枪使|Holy Spear Envoy
+圣枪尊|Holy Spear Master
+圣诞|Christmas
+圣诞活动期间|during the Christmas Event
+在线人数 %d / %d|Players online %d / %d
+在线计时|Online Time
+地区声望|Regional Reputation
+地区声望称号只显示已拥有最高级的|Regional Reputation titles only show the highest level owned
+地区聊天|Region Chat
+地区聊天信息|Region Chat Messages
+地图1的活动2|Map 1 Event 2
+地图2的活动1|Map 2 Event 1
+地图区域信息和服务器不同步|Map area info is out of sync with the server
+地图指向设置|Map Direction Settings
+地狂刺|Ground Fury Thrust
+地面死亡|GroundDeath
+地面死亡循环|GroundDeathLoop
+地面物品名字|Ground Item Names
+地面精度|Ground Detail
+地魁刺|Ground Sovereign Thrust
+场景参数300|Scene Param 300
+场景参数301|Scene Param 301
+坐下|SitDown
+坐下循环|SitDownLoop
+坐下站起|SitDownStandUp
+坐骑未绑定|Mount is not bound
+坚盾使|Stalwart Gauntlet Envoy
+坚盾尊|Stalwart Gauntlet Master
+垂直同步|V-Sync
+垂钓|Fishing
+堆雪人|Build Snowman
+增加成长度 %d 点|Increase Growth by %d
+士卒|Grunt
+声望|Reputation
+声望00|Reputation 00
+声望不满足条件|Reputation requirement not met
+声望不满足要求|Reputation requirement not met
+壶关|Huguan
+复活|Revive
+大同市|Datong
+大家来收菜|Everyone Comes to Harvest
+大庆市|Daqing
+大汉天威|Han Dynasty Might
+大笑|Laugh
+大连市|Dalian
+天弓使|Heavenly Bow Envoy
+天弓尊|Heavenly Bow Master
+天弩使|Heavenly Crossbow Envoy
+天弩尊|Heavenly Crossbow Master
+天水市|Tianshui
+天津|Tianjin
+天津市|Tianjin
+太原市|Taiyuan
+夫妻|Married Couple
+失去了攻城车的控制权|Lost control of the siege ram
+头像框|Avatar Frame
+头盔|Helmet
+头领取消了解散结义的操作|The Leader cancelled the Brotherhood disbandment
+头领执行了解散结义的操作，结义将于7日后正式解散！|The Leader initiated the Brotherhood disbandment. The Brotherhood will be officially disbanded in 7 days!
+夺冠那一刻，我们豪情万丈！登顶那一刻，我们万众瞩目！那一刻的笑，灿烂甜美！那一瞬的激情，催人奋进！胜利，永远属于为梦想而奋斗的人！|The moment we claimed the championship, our heroic spirit soared! The moment we reached the summit, all eyes were upon us! That moment's smile — radiant and sweet! That instant's passion — spurring one forward! Victory forever belongs to those who strive for their dreams!
+奉高|Fenggao
+奔跑|Run
+奖励|Reward
+套装属性|Set Bonus
+套装属性\r^fffd44【同系套装相同效果只生效一个】^fff962|Set Bonus\r^fffd44[Same-type set bonuses only one effect applies]^fff962
+女|Female
+好友数量已达上限|Friend limit reached
+妙舞使|Exquisite Charmer Envoy
+妙舞尊|Exquisite Charmer Master
+威海市|Weihai
+娄底市|Loudi
+娘子|Wife
+婚姻状况不满足要求|Marital status requirement not met
+子时|Zi Hour
+孝感市|Xiaogan
+学习制造：%s|Learn Crafting: %s
+学会了： %s %d 级|Learned: %s level %d
+宁夏|Ningxia
+宁波市|Ningbo
+安庆市|Anqing
+安徽省|Anhui
+安邑|Anyi
+安阳市|Anyang
+安风|Anfeng
+完成战场状况不满足要求|Battlefield completion condition not met
+完成次数超出要求|Completion count exceeds the requirement
+完美礼品使者|Perfect Gift Messenger
+官印|Official Seal
+官渡之战积分|Guandu Battle Points
+官渡战勋|Guandu War Merit
+官渡阵营不满足要求|Guandu Faction requirement not met
+定身抗性 ＋%.0f%%|Immobilize Resistance +%.0f%%
+定身抗性 ＋%d|Immobilize Resistance +%d
+定陶|Dingtao
+宜宾市|Yibin
+宜昌市|Yichang
+宝器|Treasure
+宝库|Treasury
+宝物|Treasure
+宝物之一|Treasure 1
+宝物之三|Treasure 3
+宝物之二|Treasure 2
+宝物之五|Treasure 5
+宝物之六|Treasure 6
+宝物之四|Treasure 4
+宝鸡市|Baoji
+宠物 %s 孵化完成|Pet %s has finished hatching
+宠物 %s 已经离开宠物背包|Pet %s has left the pet inventory
+宠物已经死亡|The pet has died
+宠物等级 %d|Pet Level %d
+宠物背包已满，无法进行孵化|Pet inventory is full, cannot hatch
+害羞|Shy
+害羞|Shy
+家将|Family General
+宿州市|Suzhou
+宿迁市|Suqian
+寅时|Yin Hour
+密语信息|Whisper Messages
+密语频道|Whisper Channel
+富商大贾|Wealthy Merchants
+富甲天下|Richest Under Heaven
+对对碰积分|Match-Up Points
+对对碰翻牌次数|Match-Up Flip Count
+对方不在线|The other player is offline
+对方不在线或者角色名称输入错误|The player is offline or the character name was entered incorrectly
+对方已经加入结义（军团）|The player has already joined a Brotherhood (Legion)
+对方拒绝了你的邀请|The player declined your invitation
+对方拒绝了您的收徒邀请|The player declined your mentorship invitation
+对方拒绝成为你的好友|The player declined your friend request
+对方没有加入结义，不能邀请进入军团|The player has not joined a Brotherhood and cannot be invited into a Legion
+对方级别不足12，无法加入结义|The player is below level 12 and cannot join a Brotherhood
+寻求组队|Looking for Party
+寿|Longevity
+封禁剩余时间：%d 分钟|Ban time remaining: %d minutes
+封禁理由：%s|Ban reason: %s
+小地图设置|Minimap Settings
+小提示|Tip
+小键盘|Numpad
+小队长|Squad Leader
+小霸王|Little Overlord
+居庸|Juyong
+属性格数|Attribute Slots
+山东省|Shandong
+山西省|Shanxi
+山阴|Shanyin
+岳阳市|Yueyang
+川南声望|Southern Sichuan Reputation
+巢湖市|Chaohu
+左戒指|Left Ring
+巧棍使|Artful Staff Envoy
+巧棍尊|Artful Staff Master
+巫南族系声望|Wunan Clan Reputation
+巫县|Wuxian
+已兑出图案 (%d/%d):%s|Redeemed Pattern (%d/%d):%s
+已学习|Learned
+已有一个创建请求|A creation request already exists
+已有一个请求|A request already exists
+已有相同任务|Duplicate quest already exists
+已有跨服军团|Already in a Cross-server Legion
+已用格数|Used Slots
+已经到达任务列表上限|Quest list limit reached
+已经是某个军团（结义）的成员，申请失败|You are already a member of a Legion (Brotherhood), application failed
+已绑定|Bound
+已达上限，无法完成|Limit reached, cannot complete
+已铸造|Forged
+巳时|Si Hour
+巴蜀声望|Bashu Reputation
+师徒|Master & Disciple
+师徒友好度|Mentor Bond
+师徒奖励称号|Master & Disciple Reward Title
+师徒宣言发布成功|Mentor oath published successfully
+师徒宣言长度不可超过50字|The mentor oath cannot exceed 50 characters
+师德|Mentor Virtue
+帐号 %d 已被封禁|Account %d has been banned
+帐号 %d 被禁言 %d 秒|Account %d has been muted for %d seconds
+常州市|Changzhou
+常德市|Changde
+平顶山市|Pingdingshan
+广东省|Guangdong
+广元市|Guangyuan
+广安市|Guang'an
+广州市|Guangzhou
+广西|Guangxi
+应用|Apply
+应用刚才的更改|Apply Changes
+应用刚才的更改并退出|Apply Changes and Exit
+廊坊市|Langfang
+延安市|Yan'an
+开启|On
+开启NPC语音|Enable NPC Voice
+开启装备比对|Enable Equipment Compare
+开启需要 %d 个 %s|Requires %d %s
+开封市|Kaifeng
+弓将|Bow General
+弓尉|Bow Lieutenant
+弓手|Bowman
+弓王|Bow King
+弓神|Bow God
+弓骑|Mounted Archer
+弘农|Hongnong
+张家口市|Zhangjiakou
+张家界市|Zhangjiajie
+张望|LookOut
+张望|LookOut
+弩将|Crossbow General
+弩尉|Crossbow Lieutenant
+弩手|Crossbowman
+弩王|Crossbow King
+弩神|Crossbow God
+弩骑|Mounted Crossbowman
+弹药不足|Not enough ammo
+弹药类型 %s|Ammo Type %s
+强化|Enhance
+强化效果 |Enhance Effect 
+强化材料|Enhancement Materials
+当前仓库的数据不是最新的，刷新后重试|The warehouse data is out of date, refresh and try again
+当前位置不能这样做|Cannot do this at the current position
+当前操作在冷却中|This operation is on cooldown
+录像开始，文件将保存到%s|Recording started. The file will be saved to %s
+录像结束|Recording ended
+彩票|Lottery
+彭城|Pengcheng
+影叉使|Shadow Multiblade Envoy
+影叉尊|Shadow Multiblade Master
+影子显示|Shadow Display
+征战点数|Campaign Points
+待升级装备|Equipment to Upgrade
+待定3|TBD3
+徐州市|Xuzhou
+徒弟数量已经达到上限|Apprentice limit reached
+德州市|Dezhou
+德阳市|Deyang
+忆岁月|Memories of the Years
+忆征途|Memories of the Journey
+忆战场|Memories of the Battlefield
+忆红尘|Memories of the Red Dust
+忆豪情|Memories of Heroic Spirit
+快捷购买|Quick Buy
+快捷键1|Hotkey 1
+快捷键2|Hotkey 2
+快捷键设置|Hotkey Settings
+忽略刚才的更改并退出|Discard Changes and Exit
+怀|Huai
+怀化市|Huaihua
+思考|Think
+性别不满足要求|Gender requirement not met
+性别要求：%s|Gender Requirement: %s
+性别限制|Gender Restriction
+性别需求|Gender Requirement
+怪物名字|Monster Names
+怪物攻城|Monster Siege
+总使用次数 %d / %d|Total Uses %d / %d
+总计|Total
+总计元宝数量|Total Gold Ingots
+恢复%d/%d点气血|Restore %d/%d HP
+恢复%d/%d点气血和%d/%d点真气|Restore %d/%d HP and %d/%d MP
+恢复%d/%d点真气|Restore %d/%d MP
+恢复默认|Restore Defaults
+恭喜已经成功升职为|Congratulations on being promoted to
+您不能对GM或观战方玩家使用此命令|You cannot use this command on GM or spectator players
+您不能对其他阵营玩家使用此命令|You cannot use this command on players of other Factions
+您不能对活跃玩家使用此命令|You cannot use this command on active players
+您与 &%s& 强制离婚|You forcibly divorced &%s&
+您与 &%s& 结婚了|You married &%s&
+您发现了 %s|You discovered %s
+您在该频道每%d秒只能发言一次|You can only speak once every %d seconds in this channel
+您已召唤 %s|You summoned %s
+您已成为竞技队 %s 的新队长。|You are now the new Captain of Arena Team %s.
+您已登录了%d个角色进入跨服服务器，同一完美帐号下最多可登录16个角色进入跨服服务器|You have logged %d characters into the cross-server. A single Perfect account can log in up to 16 characters on the cross-server
+您已经有竞技军团了！|You already have an Arena Legion!
+您已进入安全区|You have entered a safe zone
+您所效力的竞技队升为 %s 级|Your Arena Team is now level %s
+您没有足够的权限进行此操作|You do not have permission for this operation
+您的图鉴中增加了 %s|%s added to your Compendium
+您的客户端程序版本过低，请先退出程序更新。|Your client version is too old. Please exit and update.
+您的竞技等级升为 %s 级|Your Arena level is now %s
+您获得了称号 %s|You earned the title %s
+情缘值|Bond
+惠州市|Huizhou
+惩凶平叛|Punish the Wicked, Quell the Rebellion
+戈阳|Geyang
+戌时|Xu Hour
+成功几率|Success Rate
+成功加入军团（结义）|Successfully joined the Legion (Brotherhood)
+成功概率|Success Rate
+成都市|Chengdu
+成长|Growth
+成长值|Growth Value
+成长等级 %d / %d|Growth Level %d / %d
+我们，曾经叱咤风云，也曾搏击雪雨。而当岁月流转，时光流逝，心情终如落叶归根。在所有曾经的轰轰烈烈背后，深藏于内心的还是多年来和你并肩作战培养出的情谊。|We once commanded the winds and clouds, and also battled through snow and rain. Yet as the years turn and time flows, the heart eventually returns like fallen leaves to their roots. Behind all the past grandeur, what remains deep in the heart is the bond forged from years of fighting shoulder to shoulder with you.
+我无法挽留时光的脚步，也无法让岁月悄悄停住。我只希望能和你再次满怀豪情的上路，用我们努力把成功灌注，用我们的拼搏奋斗让光阴不虚度。然后再次收获快乐无数，与胜利和荣耀携手共舞。|I cannot hold back time's steps, nor make the years quietly halt. I only hope to once again walk the road with you, filled with heroic spirit — pouring our efforts into success, making time meaningful through our struggle. Then once more reap countless joys, dancing hand in hand with victory and glory.
+我的好友|My Friends
+战功值|War Merit
+战场|Battlefield
+战场器械|Battlefield Equipment
+战斗|Combat
+战斗奔跑|CombatRun
+战斗状态不能进行决斗|You cannot duel while in combat
+战斗站立|Battle Stand
+战斗起跳|CombatJumpStart
+战斗跳跃空中循环|CombatJumpAirLoop
+战斗跳跃落地|CombatJumpLand
+战斗轻功循环|CombatLightSkillLoop
+战车条件不满足要求|Chariot condition requirement not met
+战魂炼魂等级变为 +%d|War Soul Refinement level is now +%d
+战魂的 %s 属性变为 %d|War Soul's %s stat is now %d
+战魂的 %s 资质变为 %d|War Soul's %s Aptitude is now %d
+战魂等级变为 %d 级|War Soul level is now %d
+战魂获得 %s 技能 %d 级|War Soul gained skill %s at level %d
+战魂需求 %d 级|War Soul Requirement Level %d
+戟兵|Halberd Soldier
+戟圣|Halberd Saint
+戟将|Halberd General
+戟尉|Halberd Lieutenant
+戟神|Halberd God
+戟骑|Halberd Rider
+截图已存到 Screenshots 目录。（F9可进入照相机模式，对拍摄角度、图像质量等进行调节）|Screenshot saved to the Screenshots folder. (Press F9 to enter camera mode to adjust the angle, image quality, and more.)
+所有结义成员所属阵营调整为与结义阵营倾向一致，您的阵营转换为：%s|All Brotherhood members' Factions have been aligned with the Brotherhood's Faction. Your Faction is now: %s
+所有装备|All Equipment
+所邀请玩家阵营与本结义阵营倾向不一致，无法邀请|The invited player's Faction does not match this Brotherhood's Faction alignment and cannot be invited
+所需历练|Required EXP
+所需物品|Required Items
+所需物品（数量）：\r%s|Required Items (Quantity): \r%s
+所需要生产等级 %d|Required Crafting Level %d
+扇仙|War Fan Immortal
+扇侠|War Fan Hero
+扇士|War Fan Adept
+扇将|War Fan General
+扇王|War Fan King
+扇生|War Fan Disciple
+手指|Point
+打坐|Meditate
+打坐循环|MeditateLoop
+打坐站起|MeditateStandUp
+扬州市|Yangzhou
+承德市|Chengde
+抚顺市|Fushun
+抢夺大军|Plundering Army
+护卫|Guard
+护卫名字|Escort Names
+护卫在决斗中无法出战.|Bodyguards cannot fight in duels.
+护心镜|Heart Guard
+护腕|Bracers
+护腿|Leg Guards
+护送|Escort
+披风|Cloak
+抱拳|FistSalute
+抱拳|FistSalute
+押镖护送|Escort Convoy
+抽签结果：%s%s|Draw Result: %s%s
+招募了 %s|Recruited %s
+招募队员|Recruit Party Member
+招募限制 %s|Recruitment Restriction %s
+招手|WaveHand
+拥有元宝数量|Gold Ingots Owned
+拥有点卷数量|Vouchers Owned
+拾取|Pick Up
+拾取了 %d 个 %s|Picked up %d %s
+拾取后绑定|Binds on Pickup
+拾取物品|Pick Up Item
+持续时间|Duration
+持续时间 %d 秒|Duration %d sec
+指南册|Guide Book
+挑衅|Provoke
+挖掘采摘|Mine/Harvest
+挥手|Wave
+挥金如土|Throwing Gold Like Dirt
+损失 %d 历练|Lost %d Experience
+损失 %d 点%s|Lost %d %s
+损失 %d 阅历|Lost %d Insight
+损失了 %.1f%% 的历练|Lost %.1f%% Experience
+损失了 %.1f%% 的阅历|Lost %.1f%% Insight
+损失了 10.0%% 的装备耐久度|Lost 10.0%% Equipment Durability
+损失了 ^ffffff%s|Lost ^ffffff%s
+捡东西|PickUpItem
+换线失败|Channel change failed
+换线操作冷却中|Channel change is on cooldown
+排行|Ranking
+探宝|Treasure Hunt
+探索水贼岛|Explore Bandit Island
+推荐强化属性|Recommended Enhancement Attributes
+提高炼器保留概率 提高保留概率%.1f%%|Increase Refine Retention Rate %.1f%%
+提高炼器成功概率 提高成功概率%.1f%%|Increase Refine Success Rate %.1f%%
+揭阳市|Jieyang
+搜寻目标|Search Target
+搜寻队伍|Search Party
+摆摊|Stall
+摇头|ShakeHead
+摔倒|FallDown
+擂台|Arena
+擂台大会竞技积分达到100点，获得的称号|Title earned by reaching 100 Arena Competition Points
+操作冷却中，无法执行此操作|Operation on cooldown, cannot be performed
+操作参数类型错误|Invalid operation parameter type
+操作失败，你的包裹空间不足|Operation failed, your inventory space is insufficient
+操作失败，对方的包裹空间不足|Operation failed, the other player's inventory space is insufficient
+操作成功|Operation successful
+操作超时|Operation timed out
+攀枝花市|Panzhihua
+攻击|Attack
+攻击|Attack
+攻击 %d － %d|Attack %d - %d
+攻击 ＋%.0f%%|Attack +%.0f%%
+攻击 ＋%d|Attack +%d
+攻击1|Attack1
+攻击2|Attack2
+攻击3|Attack3
+攻击4|Attack4
+攻击上限 ＋%d|Attack Cap +%d
+攻击力|Attack
+攻击力上限|Max Attack
+攻击增长 ＋%d|Attack Growth +%d
+攻击时间间隔 %.2f 秒|Attack Interval %.2f sec
+攻击距离 %.2f|Attack Range %.2f
+攻击距离 ＋%.2f|Attack Range +%.2f
+攻击速度|Attack Speed
+攻击频率(次/秒)|Attack Speed (times/sec)
+放弃|Give Up
+放暗器|ThrowHiddenWeapon
+故土声望|Homeland Reputation
+敦煌|Dunhuang
+数据库错误|Database error
+文勋值|Civil Merit
+文曲值|Literary Merit
+斗志值|Fighting Spirit
+斧兵|Hatchet Soldier
+斧将|Hatchet General
+斧尉|Hatchet Lieutenant
+斧王|Hatchet King
+斧神|Hatchet God
+斧骑|Hatchet Rider
+新三国积分|New Three Kingdoms Points
+新乡市|Xinxiang
+新余市|Xinyu
+新疆|Xinjiang
+新车战积分|New Chariot Battle Points
+旅途中，不断地有人离开或进入。看见的，看不见的；记住的，遗忘的。征战中，不断地有荣誉和情义。于是，看不见的，看见了；遗忘的，记住了。然而，看不见的朋友，如今你在哪里？我还在这里，我还在等你。|On the journey, people constantly leave or enter. The seen, the unseen; the remembered, the forgotten. In the campaigns, honor and bonds constantly arise. Thus the unseen become seen; the forgotten become remembered. Yet, my unseen friend, where are you now? I am still here, still waiting for you.
+族系|Clan
+族系声望称号只显示已拥有最高级的|Clan Reputation titles only show the highest level owned
+族系限制：%s|Clan Restriction: %s
+无|None
+无双点数|Unrivaled Points
+无效的操作类型|Invalid operation type
+无此任务|No such quest
+无此子任务|No such sub-quest
+无法拖拽放入分类包裹|Cannot drag into a categorized bag
+无法直接到达指定的寻径点|Cannot reach the specified pathfinding point directly
+无法连接到服务器|Cannot connect to the server
+无畏无惧勇往直前的将士|A fearless warrior who charges forward without hesitation
+无锡市|Wuxi
+无阵营|No Faction
+日月光晕|Sun/Moon Halo
+日照市|Rizhao
+时装|Fashion
+时装坐骑包裹扩充到 %d 格|Costume and Mount inventory expanded to %d slots
+时装头饰|Fashion Headwear
+时装耳饰|Fashion Earrings
+时装衣服|Fashion Clothes
+时装镜框|Fashion Frame
+时装面饰|Fashion Face Accessory
+昆明市|Kunming
+昌邑|Changyi
+昌黎|Changli
+昏睡抗性 ＋%.0f%%|Sleep Resistance +%.0f%%
+昏睡抗性 ＋%d|Sleep Resistance +%d
+星值|Star
+春节|Spring Festival
+是否开启呼叫机|Enable Pager
+显示任务NPC指示器|Show Quest NPC Indicator
+显示其他玩家伤害数|Show Other Players' Damage
+显示历练提示|Show EXP Notifications
+显示周围NPC|Show Nearby NPCs
+显示周围怪物|Show Nearby Monsters
+显示周围玩家|Show Nearby Players
+显示正北指示器|Show North Indicator
+显示距离|Display Distance
+显示雷达图指示器|Show Radar Indicator
+晋城市|Jincheng
+晕倒|Faint
+普攻1|NormalAttack1
+普攻2|NormalAttack2
+普攻3|NormalAttack3
+普攻4|NormalAttack4
+普通攻击|Normal Attack
+普通状态说话信息|Normal Chat Messages
+普通聊天|Normal Chat
+普通雪球|Normal Snowball
+普通频道|Normal Channel
+普通飞行(米/秒) ＋%.2f|Normal Flight (m/s) +%.2f
+景德镇市|Jingdezhen
+暂未开放|Not Yet Available
+暴击|Crit
+暴击伤害|Crit Damage
+暴击伤害 ＋%.0f%%|Critical Damage +%.0f%%
+暴击伤害率|Crit Damage Rate
+暴击抗性|Crit Resist
+暴击率|Crit Rate
+暴击率 ＋%.0f%%|Critical Rate +%.0f%%
+暴击附加伤害|Crit Bonus Damage
+曲梁|Quliang
+曲靖市|Qujing
+最高战魂等级不满足要求|Max War Soul level requirement not met
+最高护卫等级不满足要求|Max Bodyguard level requirement not met
+有一定几率施放技能%s(%d级)|Chance to cast skill %s (Level %d)
+有效时间 %d/%d 秒|Duration %d/%d sec
+有效范围|Effective Range
+服务器即将重新启动|The server will restart shortly
+服务器将在 %d 秒后关闭，请作好准备|The server will shut down in %d seconds. Please prepare.
+服务器接收个性化数据失败|The server failed to receive personalization data
+服务器未开放|Server not open
+服务器正在维护中，请稍候登陆。|The server is under maintenance. Please try again later.
+朔州市|Shuozhou
+朝阳市|Chaoyang
+木人|Wooden Dummy
+未命中|Miss
+未时|Wei Hour
+未知|Unknown
+未知属性(需鉴定)|Unknown Stats (Requires Appraisal)
+未知的任务错误|Unknown quest error
+未领奖|Not Claimed
+本军团誓师檄文已修改|This Legion's oath proclamation has been updated
+本场国战请离玩家数量已达上限（20 人）|The removal limit for this National War has been reached (20 players)
+本局竞技失败|You lost this Arena match
+本局竞技胜利|You won this Arena match
+本溪市|Benxi
+本结义已经解散|This Brotherhood has been disbanded
+本结义已经退出了军团|This Brotherhood has left the Legion
+本结义盟约已修改|This Brotherhood's covenant has been updated
+本轮竞技失败|You lost this Arena round
+本轮竞技胜利|You won this Arena round
+权限不符|Insufficient permissions
+杖|Staff
+杖仙|Staff Immortal
+杖侠|Staff Hero
+杖兵|Scepter Duelist
+杖士|Staff Warrior
+杖客|Staff Adept
+杖将|Staff General
+杖尉|Scepter Hero
+杖王|Staff King
+杖神|Scepter Immortal
+杖骑|Scepter Warrior
+杭州市|Hangzhou
+松原市|Songyuan
+枣庄市|Zaozhuang
+枪兵|Spear Soldier
+枪将|Spear General
+枪尉|Spear Lieutenant
+枪王|Spear King
+枪神|Spear God
+枪骑|Spear Rider
+柳州市|Liuzhou
+标记时间：%.1f 秒|Mark Time: %.1f sec
+树木细节度|Tree Detail
+校军场|Training Ground
+校军场木人感到你的战斗力相当不俗|The Wooden Dummy at the Training Ground feels your combat power is quite impressive
+株洲市|Zhuzhou
+桂林市|Guilin
+梅州市|Meizhou
+梓潼|Zitong
+梧州市|Wuzhou
+棍仙|Staff Immortal
+棍兵|Staff Soldier
+棍将|Staff General
+棍尉|Staff Lieutenant
+棍王|Staff King
+棍骑|Staff Rider
+楼兰烟花积分|Loulan Fireworks Points
+楼兰烟花积分 |Loulan Fireworks Points 
+榆林市|Yulin
+欢呼|Cheer
+正在被销毁的【%s】|Being Destroyed [%s]
+正在解散中|Disbanding
+正在解散中。|Disbanding.
+此玩家已经拜师|This player already has a mentor
+此玩家级别不满足拜师要求|This player's level does not meet the mentorship requirement
+武勋值|Martial Merit
+武器|Weapon
+武器要求 品阶%d-%d的%s|Weapon Requirement Grade %d-%d %s
+武斗积分|Duel Points
+武汉市|Wuhan
+武阳|Wuyang
+死亡时不受损失|No Loss on Death
+死亡水中循环|DeathWaterLoop
+死亡落地循环|DeathLandLoop
+每周|Weekly
+每天可以|you can collect
+每天可使用次数 %d / %d|Daily Uses %d / %d
+每天第一次参与护送可以额外获得一定历练|Participating in Escort for the first time each day grants bonus Experience
+每日|Daily
+每月奖励|Monthly Rewards
+气血 ＋%.0f%%|HP +%.0f%%
+气血 ＋%d|HP +%d
+气血 ＋%d%|HP +%d%
+气血值|HP
+气血值恢复速度 ＋%d|HP Recovery Speed +%d
+气血恢复速度 ＋%.0f%%|HP Recovery Speed +%.0f%%
+水中死亡|WaterDeath
+水战之战船建造|Naval Battle: Warship Construction
+水战之疫病救治|Naval Battle: Plague Treatment
+水战之粮食采办|Naval Battle: Grain Procurement
+水面折射|Water Refraction
+水面效果|Water Effects
+永久|Permanent
+永久生效|Permanent Effect
+永州市|Yongzhou
+汉中市|Hanzhong
+汕头市|Shantou
+汕尾市|Shanwei
+汗珠钻|Sweat Diamond
+江南声望|Jiangnan Reputation
+江州|Jiangzhou
+江苏省|Jiangsu
+江西省|Jiangxi
+江门市|Jiangmen
+江阳|Jiangyang
+沈阳市|Shenyang
+沛县|Peixian
+没有亲密的战友陪伴，获得再多的荣誉和金钱也会感到孤单。虽然我度过了很多没有你们的日子，但是我会一直等，直到你们回来的那一天。|Without close comrades by your side, no amount of honor or gold can dispel the loneliness. Though I have spent many days without you, I will keep waiting until the day you return.
+没有相关操作的权限|You do not have permission for this operation
+没有相应的工具，无法进行此操作|You do not have the required tool for this operation
+没有足够的金钱|Not enough money
+没有达到所需修真阶段|Required Cultivation stage not reached
+没有这个角色|This character does not exist
+没有需要的物品|Required item missing
+沧州市|Cangzhou
+沮丧|Dejected
+河北声望|Hebei Reputation
+河北省|Hebei
+河南省|Henan
+河源市|Heyuan
+治疗效果|Healing Effect
+治疗点数|Healing
+泉州市|Quanzhou
+泉陵|Quanling
+法宝|Artifact
+法宝主人 %s|Artifact Owner %s
+法宝冰冻抗性 ＋%d|Artifact Freeze Resistance +%d
+法宝品质 %s %s%s（%s）|Artifact Quality %s %s%s (%s)
+法宝定身抗性 ＋%d|Artifact Immobilize Resistance +%d
+法宝当前成长度 %d|Artifact Current Growth %d
+法宝昏睡抗性 ＋%d|Artifact Sleep Resistance +%d
+法宝最大精力 %d|Artifact Max Energy %d
+法宝眩晕抗性 ＋%d|Artifact Stun Resistance +%d
+法宝等级 %d级|Artifact Level %d
+法宝虚弱抗性 ＋%d|Artifact Weakness Resistance +%d
+法宝血炼值不满足要求|Artifact Blood Refine value requirement not met
+法宝魅惑抗性 ＋%d|Artifact Charm Resistance +%d
+法术伤害抗性 ＋%d|Magic Damage Resistance +%d
+法术抗性 ＋%d|Magic Resistance +%d
+法术攻击|Magic Attack
+法术攻击上限 ＋%d|Magic Attack Cap +%d
+法术攻击增长 ＋%d|Magic Attack Growth +%d
+泰安市|Tai'an
+泰州市|Taizhou
+泰州市 (Jiangsu)|Taizhou
+泸州市|Luzhou
+洛阳市|Luoyang
+活力丹|Vitality Pill
+活力值|Energy
+活动|Event
+活跃度|Activity
+测试称号|Test Title
+济南市|Jinan
+济宁市|Jining
+浙江省|Zhejiang
+海南省|Hainan
+海口市|Haikou
+消息发送失败|Failed to send message
+消耗|Consumption
+消耗金币|Gold Cost
+消费积分|Spending Points
+涪陵|Fuling
+淄博市|Zibo
+淮北市|Huaibei
+淮南市|Huainan
+淮阴|Huaiyin
+淮阴市|Huaiyin
+深圳市|Shenzhen
+添加好友失败，操作超时|Failed to add friend, request timed out
+清远市|Qingyuan
+渔阳|Yuyang
+温州市|Wenzhou
+渭南市|Weinan
+游动|Swim
+游戏亮度|Brightness
+游戏功能|Game Functions
+湖北省|Hubei
+湖南省|Hunan
+湖州市|Huzhou
+湘南|Xiangnan
+湘潭市|Xiangtan
+湛江市|Zhanjiang
+滁州市|Chuzhou
+漂浮|Float
+演义|Romance
+演义战场逆旅河山中获得的称号|Title earned in the Romance Battlefield: Rivers and Mountains
+演义点数|Romance Points
+漯河市|Luohe
+漳州市|Zhangzhou
+潍坊市|Weifang
+潮州市|Chaozhou
+濮阳市|Puyang
+灵|Spirit
+灵气值|Spirit
+灵环使|Spirit Ring Blade Envoy
+灵环尊|Spirit Ring Blade Master
+点伤害|damage
+点击进行充值|Click to Recharge
+点头|Nod
+点火时间 %d 秒|Ignition Time %d sec
+炼魂失败，战魂炼魂等级变为 +%d|Refinement failed. War Soul Refinement level is now +%d
+炼魂失败，战魂炼魂等级归零|Refinement failed. War Soul Refinement level reset to zero
+炼魂成功，战魂炼魂等级变为 +%d|Refinement successful. War Soul Refinement level is now +%d
+炽戟使|Blazing Halberd Envoy
+炽戟尊|Blazing Halberd Master
+烈锏使|Fierce Mace Envoy
+烈锏尊|Fierce Mace Master
+烛龙派声望|Zhulong Sect Reputation
+烟台市|Yantai
+焦作市|Jiaozuo
+爪侠|Talon Hero
+爪圣|Talon Saint
+爪士|Talon Warrior
+爪客|Talon Duelist
+爪神|Talon God
+爪豪|Talon Master
+爵位|Peerage
+牡丹江市|Mudanjiang
+物品仍处于冷却时间|The item is still on cooldown
+特效显示等级|Effects Display Level
+特殊奖励不满足要求|Special reward requirement not met
+犹如蛟龙一般，轻松飞跃华容天险的豪杰|A champion who soared over the treacherous Huarong Pass like a mighty dragon
+狂斧使|Mad Hatchet Envoy
+狂斧尊|Mad Hatchet Master
+猛将|Fierce General
+玉林市|Yulin
+玉林市 (Guangxi)|Yulin
+玉溪市|Yuxi
+玩家不在线|Player is offline
+玩家不是本军团（结义）的成员|The player is not a member of this Legion (Brotherhood)
+玩家名字|Player Name
+玩家商店名称|Player Shop Name
+玩家显示距离限制|Player Display Distance Limit
+玩家状态错误|Player state error
+玩家称号|Player Title
+环仙|Ring Blade Immortal
+环侠|Ring Blade Hero
+环圣|Ring Blade Saint
+环境音量|Ambient Volume
+环士|Ring Blade Warrior
+环将|Ring Blade General
+环手|Ring Blade Adept
+现在无法开启轻功|Lightness skill cannot be activated now
+珠海市|Zhuhai
+甘肃省|Gansu
+甘露寺|Ganlu Temple
+生产技能不满足要求|Crafting skill requirement not met
+生产技能要求 %s|Crafting Skill Requirement %s
+生产熟练度要求 %d|Crafting Proficiency Requirement %d
+生命|HP
+生命上限|Max HP
+生命值|HP
+生命恢复速度|HP Regen
+生死情|Life-and-Death Bond
+生气|Angry
+生财有道|Ways to Wealth
+用抢夺来的大量糖葫芦换来的称号|Title earned by exchanging a large amount of plundered Tanghulu
+由 %s 护送|Escorted by %s
+申时|Shen Hour
+男|Male
+画面显示选项|Display Options
+界面比例不改变|Interface scale does not change
+界面设置|Interface Settings
+留梦碎片|Dream Fragment
+略微增加移动速度|Slightly increases Movement Speed
+番禹|Panyu
+疾钩使|Swift Hooksword Envoy
+疾钩尊|Swift Hooksword Master
+白城市|Baicheng
+白山市|Baishan
+白帝城|Baidi City
+白帝城|Baidi City
+白帝城跑商中获得的称号|Title earned during Baidi City Trade Runs
+白银市|Baiyin
+的护卫|'s Guard
+的称号|'s Title
+皇钺使|Imperial Cleaver Envoy
+皇钺尊|Imperial Cleaver Master
+皖县|Wanxian
+益阳市|Yiyang
+盐城市|Yancheng
+盘锦市|Panjin
+目前没有找到合适的师傅或徒弟可以匹配|No suitable mentor or apprentice found to match
+目标强化属性|Target Enhancement Attributes
+目标线路人数满|The target channel is full
+目标装备|Target Equipment
+直接伤害抗性|Direct DMG Resist
+直接伤害抗性 ＋%d|Direct Damage Resistance +%d
+直接购买|Direct Purchase
+相依相偎|Snuggle
+相公|Husband
+相思梦|Dream of Longing
+相濡以沫|nurture each other through hardships
+盾仙|Gauntlet Immortal
+盾兵|Gauntlet Soldier
+盾将|Gauntlet General
+盾尉|Gauntlet Lieutenant
+盾王|Gauntlet King
+盾骑|Gauntlet Rider
+真朋友|True Friend
+真正的友谊，不是花言巧语，而是关键时候拉你的那只手。那些整日围在你身边，让你有些许小欢喜的朋友，不一定是真正的朋友。而那些看似远离，实际上时刻关注着你的人，在你快乐的时候，不去奉承你；你在你需要的时候，默默为你做事；在你离开的时候，默默的为你等待。|True friendship is not flowery words, but the hand that pulls you up at the critical moment. Those who surround you all day, giving you small joys, are not necessarily true friends. Those who seem distant yet watch over you constantly — when you are happy, they do not flatter you; when you are in need, they silently act for you; when you leave, they silently wait for you.
+真气 ＋%.0f%%|MP +%.0f%%
+真气 ＋%d|MP +%d
+真气 ＋%d%|MP +%d%
+真气值|MP
+真气值恢复速度 ＋%d|MP Recovery Speed +%d
+真气恢复速度 ＋%.0f%%|MP Recovery Speed +%.0f%%
+真气消耗 %d/秒|MP Cost %d/sec
+眨眼|Blink
+眩晕抗性 ＋%.0f%%|Stun Resistance +%.0f%%
+眩晕抗性 ＋%d|Stun Resistance +%d
+瞬间恢复%d点气血，并在随后的6秒内每2秒恢复%d点气血|Instantly restore %d HP, and restore %d HP every 2 seconds for 6 seconds
+瞬间恢复%d点真气，并在随后的6秒内每2秒恢复%d点真气|Instantly restore %d MP, and restore %d MP every 2 seconds for 6 seconds
+石嘴山市|Shizuishan
+石家庄市|Shijiazhuang
+磨练垂钓的技艺|Honing your fishing skills
+礼品|Gift
+神|Divine
+神品|Divine Grade
+神鞭使|Divine Whip Envoy
+神鞭尊|Divine Whip Master
+禁止卖出物品|Selling items prohibited
+禁止发言|Chat prohibited
+禁止和玩家交易|Player trading prohibited
+禁止登陆|Login prohibited
+禄|Prosperity
+禄福|Lufu
+福|Fortune
+福州市|Fuzhou
+福建省|Fujian
+离开队伍|Leave Party
+秦皇岛市|Qinhuangdao
+称号|Title
+称号|Title
+称号_阵营|Title_Faction
+称号万胜骑士|Title Ten Thousand Victories Knight
+称号不可思议骑士|Title Inconceivable Knight
+称号不满足要求|Title requirement not met
+称号丢弃|Title Discard
+称号九宫骑士|Title Nine Palaces Knight
+称号亏损|Title Loss
+称号五行骑士|Title Five Elements Knight
+称号交易|Title Trade
+称号交易所|Title Exchange
+称号京战骑士|Title Quadrillion Battles Knight
+称号亿战骑士|Title Hundred Million Battles Knight
+称号仓库|Title Warehouse
+称号仙器|Title Immortal Artifact
+称号代币|Title Token
+称号任务|Title Quest
+称号会计|Title Accountant
+称号传承|Title Inheritance
+称号伯爵|Title Earl
+称号体验|Title Experience
+称号佣金|Title Commission
+称号佣金回扣|Title Commission Rebate
+称号使用|Title Usage
+称号侯爵|Title Marquis
+称号俸禄|Title Stipend
+称号元宝|Title Ingot
+称号元帅|Title Marshal
+称号兆战骑士|Title Trillion Battles Knight
+称号八卦骑士|Title Eight Trigrams Knight
+称号公主|Title Princess
+称号关卡|Title Stage
+称号兵器|Title Weapon
+称号军人|Title Soldier
+称号军衔|Title Military Rank
+称号凤凰骑士|Title Phoenix Knight
+称号分红|Title Dividend
+称号分解|Title Decompose
+称号切换|Title Switch
+称号列表|Title List
+称号利息|Title Interest
+称号利润|Title Profit
+称号制作|Title Craft
+称号前提：%s|Title Prerequisite: %s
+称号剧情|Title Story
+称号副本|Title Dungeon
+称号动画|Title Animation
+称号势力称号|Title Faction Title
+称号勋爵|Title Lord
+称号勋章|Title Medal
+称号十方骑士|Title Ten Directions Knight
+称号千夫骑士|Title Thousand Men Knight
+称号升级|Title Upgrade
+称号卷轴|Title Scroll
+称号卸下|Title Unequip
+称号取出|Title Withdraw
+称号取出栏|Title Withdrawal Slot
+称号召唤|Title Summon
+称号召唤兽|Title Summoned Beast
+称号合成|Title Synthesis
+称号周常|Title Weekly
+称号品质|Title Quality
+称号商务|Title Business
+称号商店|Title Shop
+称号四圣兽骑士|Title Four Sacred Beasts Knight
+称号回扣|Title Kickback
+称号回收|Title Recycle
+称号国王|Title King
+称号图标|Title Icon
+称号图纸|Title Blueprint
+称号图鉴|Title Codex
+称号圣器|Title Holy Artifact
+称号圣殿骑士|Title Templar Knight
+称号圣骑士|Title Paladin
+称号地摊|title Ground Stall
+称号坐骑|Title Mount
+称号垓战骑士|Title Quintillion Battles Knight
+称号声望|Title Reputation
+称号大数骑士|Title Grand Number Knight
+称号天马骑士|Title Pegasus Knight
+称号头衔|Title Honor
+称号头饰|Title Headwear
+称号奖励|Title Reward
+称号奖励金|Title Bonus
+称号奖金|Title Prize
+称号女王|Title Queen
+称号子爵|Title Viscount
+称号存入|Title Deposit
+称号存入栏|Title Deposit Slot
+称号官职|Title Official Position
+称号宝器|Title Precious Artifact
+称号宝石|Title Gem
+称号宝箱|Title Treasure Chest
+称号宠物|Title Pet
+称号审计|Title Auditor
+称号客服|Title Customer Service
+称号寄卖|Title Consignment
+称号寄售|Title Consignment
+称号寄存|Title Deposit
+称号将军|Title General
+称号属性|Title Stats
+称号属性页|Title Stats Page
+称号工资|Title Salary
+称号市场|Title Marketing
+称号布料|Title Cloth
+称号开发者|Title Developer
+称号强化|Title Enhancement
+称号律师|Title Lawyer
+称号快捷栏|Title Hotbar
+称号恒河沙骑士|Title River of Sands Knight
+称号成就|Title Achievement
+称号戒指|Title Ring
+称号所有者|Title Owner
+称号所有者权益|Title Owner's Equity
+称号手镯|Title Bracelet
+称号手饰|Title Hand Accessory
+称号打造|Title Forge
+称号技能栏|Title Skill Bar
+称号护符|Title Amulet
+称号护身符|Title Talisman
+称号拍卖|Title Auction
+称号拍卖行|Title Auction House
+称号拥有者|Title Possessor
+称号持有人|Title Holder
+称号挑战|Title Challenge
+称号损益|Title Profit/Loss
+称号控制者|Title Controller
+称号描述|Title Description
+称号提成|Title Commission
+称号摆摊|Title Stall
+称号摊位|Title Stall Slot
+称号支配者|Title Controller
+称号收益|Title Income
+称号收藏|Title Collection
+称号救济|Title Relief
+称号文案|Title Copywriter
+称号无量骑士|Title Immeasurable Knight
+称号日常|Title Daily
+称号时装|Title Fashion
+称号显示|Title Show
+称号显示脚本|Title Display Script
+称号月常|Title Monthly
+称号有效期|Title Duration
+称号木材|Title Wood
+称号朱雀骑士|Title Vermilion Bird Knight
+称号材料|Title Material
+称号来源|Title Source
+称号极战骑士|Title Duodecillion Battles Knight
+称号检察官|title Prosecutor
+称号正战骑士|Title Decillion Battles Knight
+称号武器|Title Weapon
+称号死亡骑士|Title Death Knight
+称号沟战骑士|Title Octillion Battles Knight
+称号法务|Title Legal
+称号法器|Title Magical Artifact
+称号法官|Title Judge
+称号法宝|Title Treasure
+称号洗练|Title Reroll
+称号津贴|Title Allowance
+称号活动|Title Event
+称号测试|Title Tester
+称号涧战骑士|Title Nonillion Battles Knight
+称号激活|Title Activate
+称号灵器|Title Spirit Artifact
+称号点券|Title Coupon
+称号点数|Title Points
+称号炼制|Title Alchemy
+称号炼金|Title Alchemy
+称号燃料|Title Fuel
+称号爵位|Title Peerage
+称号爵士|Title Knight
+称号物品栏|Title Item Bar
+称号特效|Title Effect
+称号独角兽骑士|Title Unicorn Knight
+称号狮鹫骑士|Title Gryphon Knight
+称号玄武骑士|Title Black Tortoise Knight
+称号王子|Title Prince
+称号男爵|Title Baron
+称号界面|Title Interface
+称号白虎骑士|Title White Tiger Knight
+称号百战骑士|Title Hundred Battles Knight
+称号皇帝|Title Emperor
+称号皮革|Title Leather
+称号盈亏|Title Profit/Loss
+称号矿石|Title Ore
+称号碎片|Title Fragment
+称号礼券|Title Voucher
+称号礼包|Title Gift Pack
+称号礼金|Title Gift Money
+称号神器|Title Divine Artifact
+称号福利|Title Welfare
+称号秭战骑士|Title Sextillion Battles Knight
+称号积分|Title Points
+称号称号|Title Title
+称号程序|Title Programmer
+称号穰战骑士|Title Septillion Battles Knight
+称号突破|Title Breakthrough
+称号章节|Title Chapter
+称号符文|Title Rune
+称号等级|Title Level
+称号等级称号|Title Level Title
+称号策划师|Title Planner
+称号管理者|Title Administrator
+称号类型|Title Type
+称号精炼|Title Refine
+称号系统|Title System
+称号红包|Title Red Packet
+称号纪念|Title Commemorative
+称号绑元|Title Bound Ingot
+称号绑定|Title Bind
+称号继承|Title Inherit
+称号维护者|Title Maintainer
+称号美工|Title Artist
+称号翅膀|Title Wings
+称号耳环|Title Earring
+称号职业称号|Title Class Title
+称号职位|Title Position
+称号股息|Title Dividend
+称号背包|Title Backpack
+称号背饰|Title Back Accessory
+称号脚饰|Title Foot Accessory
+称号腰饰|Title Waist Accessory
+称号节日|Title Festival
+称号荣誉|Title Honor
+称号药材|Title Herb
+称号获取|Title Acquisition
+称号获得|Title Earned
+称号补助|Title Subsidy
+称号补贴|Title Subsidy
+称号装备|Title Equipment
+称号装备栏|Title Equipment Slot
+称号装备页|Title Equipment Page
+称号觉醒|Title Awakening
+称号解绑|Title Unbind
+称号解锁|Title Unlock
+称号警察|Title Police
+称号设计师|Title Designer
+称号试炼|Title Trial
+称号试用|Title Trial
+称号试穿|Title Try On
+称号详情|Title Details
+称号详情页|Title Details Page
+称号负债|Title Liabilities
+称号财务|Title Finance
+称号货币|Title Currency
+称号资产|Title Assets
+称号资产负债|Title Assets/Liabilities
+称号赏金|Title Bounty
+称号赔偿|Title Compensation
+称号转移|Title Transfer
+称号载战骑士|Title Undecillion Battles Knight
+称号运营|Title Operations
+称号运营者|Title Operator
+称号返利|Title Rebate
+称号进化|Title Evolution
+称号退款|Title Refund
+称号通灵|Title Spirit Communion
+称号那由他骑士|Title Nayuta Knight
+称号邮寄|Title Mail
+称号邮箱|Title Mailbox
+称号配方|Title Recipe
+称号重置|Title Reset
+称号金属|Title Metal
+称号金币|Title Gold
+称号钥匙|Title Key
+称号铜币|Title Copper
+称号银币|Title Silver
+称号铸造|Title Cast
+称号销售|Title Sales
+称号锁定|Title Lock
+称号锻造|Title Smith
+称号镶嵌|Title Inlay
+称号阵营称号|Title Camp Title
+称号阿僧祇骑士|Title Asankya Knight
+称号附灵|Title Spirit Bind
+称号附魔|Title Enchant
+称号限时|Title Limited Time
+称号隐藏|Title Hide
+称号青龙骑士|Title Azure Dragon Knight
+称号面饰|Title Face Accessory
+称号音效|Title Sound
+称号项链|Title Necklace
+称号预览|Title Preview
+称号颜色|Title Color
+称号飞龙骑士|Title Wyvern Knight
+称号食材|Title Ingredient
+称号骑士|Title Knight
+称号魔器|Title Demonic Artifact
+称号麒麟骑士|Title Qilin Knight
+称号黑暗骑士|Title Dark Knight
+称号龙骑士|Title Dragon Knight
+移动速度|Movement Speed
+移动速度(米/秒) %.2f|Movement Speed (m/s) %.2f
+空|None
+空中死亡|AirDeath
+空中死亡下落循环|AirDeathFallLoop
+空中死亡落地|AirDeathLand
+站立|Standing
+竞技|Competition
+竞技积分|Arena Points
+竞技积分排行第三十一到一百名获得的武艺称号|Martial Arts title earned by ranking 31st to 100th in Competition Points
+竞技队 %s 已经取消报名参加竞技赛|Arena Team %s has cancelled its Arena registration
+竞技队 %s 已经报名参加了竞技赛|Arena Team %s has registered for the Arena
+竞技队 %s 已经解散了。|Arena Team %s has been disbanded.
+竞技队邀请已经发出，请等待对方回应。|The Arena Team invitation has been sent. Please wait for a response.
+章安|Zhang'an
+符文|Glyph
+符文服务|Glyph Services
+符玉|Talisman Jade
+符玉服务|Talisman Jade Services
+等级不够，无法进行此操作|Your level is too low for this operation
+等级不满足|Level requirement not met
+等级不满足要求|Level requirement not met
+等级要求 %d 级|Level Requirement %d
+等级要求 英雄 %d 级|Level Requirement Hero %d
+等级要求：%d - %d|Level Requirement: %d - %d
+等级达到45级时，可开启阵营频道聊天|Faction channel chat unlocks at level 45
+策划|Planning
+策划大奖|Planning Award
+糖葫芦|Tanghulu
+系统保留信息|System Reserved Messages
+系统信息|System Info
+系统广播|System Broadcast
+系统繁忙，请稍候再试|System busy, please try again later
+系统设置|System Settings
+系统频道|System Channel
+约战击杀数|Duel Kills
+纹理锐化|Texture Sharpening
+组队成员不满足要求|Party member requirement not met
+组队频道|Party Channel
+绍兴市|Shaoxing
+绑定元宝|Bound Yuanbao
+结义 &%s& 退出了本军团|Brotherhood &%s& left this Legion
+结义创建成功|Brotherhood created successfully
+结义名称|Sworn Brotherhood Name
+结义技能熟练度不满足要求|Brotherhood skill proficiency requirement not met
+结义技能等级不满足要求|Brotherhood skill level requirement not met
+结义聊天|Sworn Brotherhood Chat
+结义贡献|Brotherhood Contribution
+统率值|Command
+绵虎|Mianhu
+绵阳市|Mianyang
+缚魂金锁|Soulbinding Gold Lock
+缺少消耗物品|Missing required items
+群英会勋值|Heroes Assembly Merit
+群雄|All Heroes
+群雄义士|Righteous Warrior of All Heroes
+群雄义臣|Loyal Minister of All Heroes
+群雄五虎将|Five Tiger Generals of All Heroes
+群雄仕官|Official of All Heroes
+群雄侠客|Knight of All Heroes
+群雄名流|Celebrity of All Heroes
+群雄家将|Family General of All Heroes
+群雄小霸王|Little Overlord of All Heroes
+群雄猛将|Fierce General of All Heroes
+群雄英雄|Hero of All Heroes
+群雄豪杰|Champion of All Heroes
+群雄重臣|High Minister of All Heroes
+翅膀低空下降|WingLowAltitudeDescend
+翅膀前进|WingForward
+翅膀悬停|WingHover
+翅膀滑翔|WingGlide
+翅膀落地|WingLand
+翅膀起飞|WingTakeOff
+翅膀高空下降|WingHighAltitudeDescend
+翻牌匹配奖励|Flip Match Reward
+耐久度 %d / %d|Durability %d / %d
+耐久度 ＋%d%%|Durability +%d%%
+耸肩膀|Shrug
+聊城市|Liaocheng
+聊天文字大小|Chat Text Size
+聊天文字设置|Chat Text Settings
+聊天表情|Chat Emote
+聊天设置|Chat Settings
+聊天频道设置|Chat Channel Settings
+职业需求|Class Requirement
+聚贤谷特殊事件|Juxian Valley Special Event
+肇庆市|Zhaoqing
+肩甲|Shoulder Armor
+背包已满，请至少留出一个空格|Inventory is full, please free up at least one slot
+胜利|Victory
+胸甲|Chest Armor
+能够发掘人才，辨识人才，赛过伯乐啊|Able to discover and identify talent, surpassing even the legendary Talent Scout
+脱离无敌状态|Left invincibility
+脱离隐身状态|Left stealth
+脸型卡|Face Card
+腰带|Belt
+自动上线提示|Auto Online Notification
+自动回复密语|Auto-Reply Whisper
+自动成长至|Auto Grow To
+自己的名字|Own Name
+自贡市|Zigong
+致命一击机率 ＋%d%%|Critical Strike Chance +%d%%
+舞仙|Charmer Immortal
+舞士|Charmer Disciple
+舞师|Charmer Master
+舞王|Charmer King
+舞者|Charmer
+舞豪|Charmer Expert
+舞蹈|Dance
+舟山市|Zhoushan
+芜湖市|Wuhu
+花招跑|FancyRun
+花招跳|FancyJump
+花草细节度|Grass/Flower Detail
+苏州市|Suzhou
+苏州市 (Jiangsu)|Suzhou
+英雄|Hero
+英雄 %d 级|Hero Level %d
+英雄%d级%s|Hero Level %d %s
+英雄之路|Hero's Path
+英雄之路|Hero's Path
+英雄之路杀怪数量|Hero's Path Kill Count
+英雄合肥|Hero Hefei
+英雄濮阳|Hero Puyang
+英雄虎牢关|Hero Hulao Pass
+茂名市|Maoming
+荆州市|Jingzhou
+荆襄声望|Jingxiang Reputation
+荆门市|Jingmen
+荣耀值|Glory
+莆田市|Putian
+莫问今朝|Ask Not of Today
+莱芜市|Laiwu
+获取任务表失败|Failed to obtain the quest table
+获得 %d 个 %s|Obtained %d %s
+获得 %d 历练|Gained %d Experience
+获得 %d 历练（由结义成员分享）|Gained %d Experience (shared by Brotherhood members)
+获得 %d 忠义值|Gained %d Loyalty
+获得 %d 点%s|Gained %d %s
+获得 %d 点战魂成长度|Gained %d War Soul Growth
+获得 %d 熟练度|Gained %d Proficiency
+获得 %d 门派贡献度|Gained %d Sect Contribution
+获得 %d 阅历|Gained %d Insight
+获得了 %s|Obtained %s
+获得了 ^ffffff%s|Obtained ^ffffff%s
+获得了%s图鉴。|Obtained the %s Compendium.
+获得修为 ＋%.0f%%|Cultivation gained +%.0f%%
+获得修为增加 %d|Cultivation gained increased by %d
+获得汉铢 %s|Gained Han Zhu %s
+获得的称号|Title earned by
+获得金钱 ＋%.0f%%|Gold gained +%.0f%%
+获得金钱增加 %d|Gold gained increased by %d
+萍乡市|Pingxiang
+营口市|Yingkou
+葫芦岛市|Huludao
+葭萌关勋值|Jiameng Pass Merit
+虎卫积分|Tiger Guard Points
+虎年积分|Year of the Tiger Points
+虚弱抗性 ＋%.0f%%|Weakness Resistance +%.0f%%
+虚弱抗性 ＋%d|Weakness Resistance +%d
+虚弱距离 %.2f|Weakness Range %.2f
+蚌埠市|Bengbu
+蜀|Shu
+蜀国|Kingdom of Shu
+蜀国义士|Righteous Warrior of Shu
+蜀国义臣|Loyal Minister of Shu
+蜀国五虎将|Five Tiger Generals of Shu
+蜀国仕官|Official of Shu
+蜀国侠客|Knight of Shu
+蜀国名流|Celebrity of Shu
+蜀国声望|Shu Reputation
+蜀国家将|Family General of Shu
+蜀国小霸王|Little Overlord of Shu
+蜀国猛将|Fierce General of Shu
+蜀国的成员|member of the Kingdom of Shu
+蜀国英雄|Hero of Shu
+蜀国豪杰|Champion of Shu
+蜀国重臣|High Minister of Shu
+血炼|Blood Refine
+行走|Walk
+衡水市|Hengshui
+衡阳市|Hengyang
+衢州市|Quzhou
+补充元神值 %d 点|Restore Spirit by %d
+被击倒|KnockedDown
+被击倒倒地循环|KnockedDownGroundLoop
+被击倒站起|KnockedDownStandUp
+被击退|KnockedBack
+被邀请结义离开军团不足七天，不能加入新的军团|The invited Brotherhood left a Legion less than 7 days ago and cannot join a new one
+被邀请者CD中|The invitee is on cooldown
+被邀请者不符合要求|The invitee does not meet the requirements
+被邀请者拒绝|The invitee declined
+被邀请者有未处理完的请求|The invitee has a pending request
+被邀请者离开结义不足三天，不能加入新的结义|The invited player left a Brotherhood less than 3 days ago and cannot join a new one
+装备主人：%s|Equipment Owner: %s
+装备升级|Equipment Upgrade
+装备后绑定|Binds on Equip
+装备属性|Equipment Attributes
+装备强化|Equipment Enhancement
+装备成长|Equipment Growth
+装备要求 ＋%d%%|Equipment Requirement +%d%%
+装备限制：%s|Equipment Restriction: %s
+装备限制：至少 %d 级 %s|Equipment Restriction: At least Level %d %s
+襄平|Xiangping
+襄樊市|Xiangfan
+西凉声望|Xiliang Reputation
+西宁市|Xining
+西安市|Xi'an
+要生产此物品，附近必须有 %s|A %s must be nearby to craft this item
+视野距离|View Distance
+视频总体设置|Overall Video Settings
+视频选项|Video Options
+角色 %d 已被封禁|Character %d has been banned
+角色 %d 被禁言 %d 秒|Character %d has been muted for %d seconds
+角色等级不大于 %d|Character Level Not Greater Than %d
+解除中毒状态|Remove Poison
+记录不满足要求|Record requirement not met
+许昌市|Xuchang
+设为默认值|Set as Default
+设置1号快捷键|Set Hotkey 1
+设置2号快捷键|Set Hotkey 2
+设置快捷键1|Set Hotkey 1
+设置快捷键2|Set Hotkey 2
+该信息一小时只能发送一次|This message can only be sent once per hour
+该名称已使用|This name is already in use
+该命令不能对自己使用|This command cannot be used on yourself
+该物品已过期|Item Expired
+该玩家已被请出战场|This player has been removed from the battlefield
+该结义阵营倾向与本军团不一致，无法邀请|This Brotherhood's Faction alignment does not match this Legion's and cannot be invited
+说话|Talk
+说话内容|Speech Content
+说话泡泡|Speech Bubble
+请求|Request
+请输入正确的卡号|Please enter a valid card number
+谯县|Qiaoxian
+豪杖使|Grand Staff Envoy
+豪杖尊|Grand Staff Master
+豪杰|Champion
+财|Wealth
+财富值|Wealth
+财运亨通|Prosperous Fortune
+账号信息完整性不满足要求|Account information integrity requirement not met
+贪婪|Greed
+贴图精度|Texture Quality
+贵州省|Guizhou
+贵气逼人|Noble Bearing
+贵港市|Guigang
+贵阳市|Guiyang
+费用|Cost
+赣州市|Ganzhou
+赤壁|Chibi
+赤壁决战|Chibi Decisive Battle
+赤壁前哨战|Chibi Skirmish
+赤壁功劳簿礼包|Chibi Merit Book Pack
+赤壁外传|Chibi Spin-off
+赤峰市|Chifeng
+走跑切换|Walk/Run Toggle
+走跑速度 ＋%d%%|Walk/Run Speed +%d%%
+走跑速度(米/秒) ＋%.2f|Walk/Run Speed (m/s) +%.2f
+起跳|JumpStart
+跑商|Trade Run
+跨服军团创建成功|Cross-server Legion created successfully
+跨服可交易|Cross-Server Tradable
+路径搜索正在进行，请等待|Pathfinding in progress, please wait
+跳舞|Dance
+跳跃空中循环|JumpAirLoop
+跳跃落地|JumpLand
+踢出队员|Kick Member
+车战无双|Unmatched Chariot Battle
+转动兵器|RotateWeapon
+转移至装备|Transfer To Equipment
+转魂灵符|Soul-Transfer Charm
+轮|Wheel
+轰杖使|Grand Scepter Envoy
+轰杖尊|Grand Scepter Master
+轰锤使|Thunder Hammer Envoy
+轰锤尊|Thunder Hammer Master
+轻功循环|LightSkillLoop
+轻功起|LightSkillStart
+辰时|Chen Hour
+辽宁省|Liaoning
+辽源市|Liaoyuan
+辽阳市|Liaoyang
+达州市|Dazhou
+运气恢复|Luck Recovery
+近|Near
+返还物品（数量）：\r%s|Refund Items (Quantity): \r%s
+这件物品不能交易|This item cannot be traded
+进入无敌状态|Entered invincibility
+进入隐身状态|Entered stealth
+远|Far
+连云港市|Lianyungang
+连续技(%d)|Combo (%d)
+逆旅河山|Rivers and Mountains
+选择升级后的装备|Select Upgraded Equipment
+选择符玉|Select Talisman Jade
+逍遥同游|Carefree Journey
+逐步体验到钓鱼神技的奥妙|Gradually grasping the secrets of divine fishing skills
+通化市|Tonghua
+通辽市|Tongliao
+造成了|dealt
+逸扇使|Elegant War Fan Envoy
+逸扇尊|Elegant War Fan Master
+遂宁市|Suining
+遵义市|Zunyi
+邀请加入帮会|Invite to Guild
+邀请加入队伍|Invite to Party
+邀请者不符合要求|The inviter does not meet the requirements
+邢台市|Xingtai
+那悠扬的旋律还停留在我的心上，我的手上是累积多年征战的伤；伤口的血引起了我萌动的渴望，渴望能和你们再赴战场。血与泪纠结成心伤，心伤的我边走边唱；唱对你的思念，唱你我的过往。|That melodious tune still lingers in my heart; my hands bear wounds accumulated from years of campaigning. The blood from the wounds stirred a budding yearning — a yearning to return to the battlefield with you once more. Blood and tears intertwine into heartache; heartaching, I walk and sing — singing of my longing for you, singing of our shared past.
+邯郸市|Handan
+邵阳市|Shaoyang
+郑州市|Zhengzhou
+部将|Captain
+郴州市|Chenzhou
+都督|Commander
+都督取消了解散军团的操作|The Commander cancelled the Legion disbandment
+都督执行了解散军团的操作，军团将于7日后正式解散！|The Commander initiated the Legion disbandment. The Legion will be officially disbanded in 7 days!
+鄂州市|Ezhou
+酉时|You Hour
+采摘|Pick
+采摘植物循环|PickPlantLoop
+采摘站起|PickStandUp
+重庆|Chongqing
+重庆市|Chongqing
+重臣|High Minister
+金元宝|Gold Ingots
+金华市|Jinhua
+金昌市|Jinchang
+金钱不够|Not enough Gold
+金钱钻|Gold Diamond
+鉴赏值|Appreciation
+钓鱼|Fishing
+钦州市|Qinzhou
+钩侠|Hooksword Hero
+钩士|Hooksword Warrior
+钩客|Hooksword Duelist
+钩王|Hooksword King
+钩神|Hooksword God
+钩豪|Hooksword Master
+钱可通神|Money Can Reach the Gods
+钺兵|Cleaver Soldier
+钺圣|Cleaver Saint
+钺将|Cleaver General
+钺尉|Cleaver Lieutenant
+钺神|Cleaver God
+钺骑|Cleaver Rider
+铁岭市|Tieling
+铜川市|Tongchuan
+铜陵市|Tongling
+银川市|Yinchuan
+锏侠|Mace Hero
+锏圣|Mace Saint
+锏士|Mace Warrior
+锏客|Mace Duelist
+锏神|Mace God
+锏豪|Mace Master
+错误属性(%d)|Error Stat (%d)
+错误物品|Error Item
+错误的子任务|Wrong sub-quest
+锤兵|Hammer Soldier
+锤圣|Hammer Saint
+锤将|Hammer General
+锤尉|Hammer Lieutenant
+锤神|Hammer God
+锤骑|Hammer Rider
+锦州市|Jinzhou
+镇江市|Zhenjiang
+镶嵌效果 |Socket Effect 
+长春市|Changchun
+长沙市|Changsha
+长治市|Changzhi
+门派限制|Sect Restriction
+闪避|Dodge
+闪避 ＋%d|Dodge +%d
+闪避 ＋%d%%|Dodge +%d%%
+闪避率|Dodge Rate
+间接伤害抗性 ＋%d|Indirect Damage Resistance +%d
+阜新市|Fuxin
+阜阳市|Fuyang
+队伍内的聊天信息|Party Chat Messages
+队伍聊天|Party Chat
+队员 &%s& 加入了游戏|Party member &%s& has entered the game
+队员 &%s& 离开了游戏|Party member &%s& has left the game
+队员距离过远|Party member is too far away
+队长取消了解散竞技队的操作。|The Captain cancelled the Arena Team disbandment.
+队长执行了解散竞技队的操作，竞技队将于7日后正式解散，正式解散前，队长可在竞技队界面上恢复竞技队。|The Captain initiated the Arena Team disbandment. The Team will be officially disbanded in 7 days. Before that, the Captain can restore it from the Arena Team screen.
+防具|Armor
+防城港市|Fangchenggang
+防御|Defend
+防御|Defense
+防御 ＋%.0f%%|Defense +%.0f%%
+防御 ＋%d|Defense +%d
+防御 ＋%d%%|Defense +%d%%
+防御值|Defense
+防御力|Defense
+阳乐|Yangle
+阳江市|Yangjiang
+阳泉市|Yangquan
+阴平|Yinping
+阵营10|Faction 10
+阵营11|Faction 11
+阵营12|Faction 12
+阵营13|Faction 13
+阵营14|Faction 14
+阵营15|Faction 15
+阵营16|Faction 16
+阵营17|Faction 17
+阵营18|Faction 18
+阵营19|Faction 19
+阵营20|Faction 20
+阵营21|Faction 21
+阵营22|Faction 22
+阵营23|Faction 23
+阵营24|Faction 24
+阵营25|Faction 25
+阵营26|Faction 26
+阵营27|Faction 27
+阵营28|Faction 28
+阵营29|Faction 29
+阵营30|Faction 30
+阵营31|Faction 31
+阵营4|Faction 4
+阵营5|Faction 5
+阵营6|Faction 6
+阵营7|Faction 7
+阵营8|Faction 8
+阵营9|Faction 9
+阵营官职不满足要求|Faction official position requirement not met
+阵营聊天|Faction Chat
+阵营聊天信息|Faction Chat Messages
+阵营限制 %s|Faction Restriction %s
+阵营需求|Camp Requirement
+附加伤害 ＋%d|Bonus Damage +%d
+附魂|Soul Attach
+附魂服务|Soul Attach Services
+附魂材料|Soul Attach Materials
+陈县|Chenxian
+降低装备等级要求%d级|Reduce Equipment Level Requirement by %d
+陕西省|Shaanxi
+随机属性|Random Stats
+雪球|Snowball
+雷爪使|Thunder Talon Envoy
+雷爪尊|Thunder Talon Master
+需求|Demand
+需求等级|Required Level
+需要身上携带有护卫。|Requires Bodyguard.
+青岛市|Qingdao
+青海省|Qinghai
+面对华容道之险，依然成功闯越的军士|A soldier who braved the perils of Huarong Road and succeeded
+鞋|Shoes
+鞍具|Saddle Gear
+鞍山市|Anshan
+鞭将|Whip General
+鞭尉|Whip Lieutenant
+鞭手|Whip Adept
+鞭王|Whip King
+鞭神|Whip God
+鞭骑|Whip Rider
+音乐音量|Music Volume
+音效音量|Sound Effects Volume
+音频选项|Audio Options
+音频采样率|Audio Sample Rate
+韶关市|Shaoguan
+领取|collect
+领取失败，不能重复使用该类型的卡|Claim failed, this card type has already been used
+领取失败，卡号使用失败|Claim failed, card number could not be used
+领取失败，卡号已被使用过|Claim failed, this card number has already been used
+领取失败，卡号错误或者已过期|Claim failed, the card number is invalid or expired
+领取失败，该卡未激活|Claim failed, this card is not activated
+领取成功|Claimed successfully
+颜色|Color
+风刀使|Wind Glaive Envoy
+风刀尊|Wind Glaive Master
+飘舞的战旗是我每天对你特有的思念，没有了你，再华美的表演也只是对心碎瞬间的祭奠，多么怀念你原本那张微笑的脸，而我早已泪流满面。荣誉的战场，军队的凯旋，如今却只剩我忧愁黯淡的双眼，对你的思念很长直至永远。|The fluttering battle flag is my unique longing for you each day. Without you, even the most splendid performance is merely a memorial to the moment my heart broke. How I miss your originally smiling face, while my tears already flow unchecked. The battlefield of honor, the army's triumphant return — now only my sorrowful dim eyes remain. My longing for you stretches far, unto forever.
+飞剑低空下降|FlyingSwordLowAltitudeDescend
+飞剑前进|FlyingSwordForward
+飞剑悬停|FlyingSwordHover
+飞剑滑翔|FlyingSwordGlide
+飞剑落地|FlyingSwordLand
+飞剑起飞|FlyingSwordTakeOff
+飞剑高空下降|FlyingSwordHighAltitudeDescend
+飞吻|BlowKiss
+飞行|Fly
+马具|Horse Gear
+马匹耐力不足100，不能上马|The horse's Stamina is below 100, cannot mount
+马座|Saddle
+马缰|Reins
+马蹄铁|Horseshoe
+马鞍山市|Ma'anshan
+马鞭|Whip
+驻马店|Zhumadian
+骑乘速度 ＋%.1f 米/秒|Mount Speed +%.1f m/s
+高|High
+高昌|Gaochang
+高级星之礼包|Advanced Star Pack
+高苑|Gaoyuan
+魅惑抗性 ＋%.0f%%|Charm Resistance +%.0f%%
+魅惑抗性 ＋%d|Charm Resistance +%d
+魏|Wei
+魏国|Kingdom of Wei
+魏国义士|Righteous Warrior of Wei
+魏国义臣|Loyal Minister of Wei
+魏国五虎将|Five Tiger Generals of Wei
+魏国仕官|Official of Wei
+魏国侠客|Knight of Wei
+魏国名流|Celebrity of Wei
+魏国声望|Wei Reputation
+魏国家将|Family General of Wei
+魏国小霸王|Little Overlord of Wei
+魏国猛将|Fierce General of Wei
+魏国的成员|member of the Kingdom of Wei
+魏国英雄|Hero of Wei
+魏国豪杰|Champion of Wei
+魏国重臣|High Minister of Wei
+鲁县|Luxian
+鸡西市|Jixi
+鹤壁市|Hebi
+鹤岗市|Hegang
+鹰潭市|Yingtan
+黄冈市|Huanggang
+黄山市|Huangshan
+黄巾军声望|Yellow Turban Army Reputation
+黄石市|Huangshi
+黄金积分|Gold Points
+黑河市|Heihe
+黑龙江省|Heilongjiang
+鼓掌|Clap
+齐齐哈尔市|Qiqihar
+龙岩市|Longyan
+（%d孔）|(%d Sockets)
+（专属物品）|(Exclusive Item)
+（技能）|(Skill)
+（灌注）|(Infuse)
+（灌注＋%d）|(Infuse +%d)
+（炼器＋%d）|(Refine Equipment +%d)
+（附加技能）%s %d级|(Bonus Skill) %s Level %d

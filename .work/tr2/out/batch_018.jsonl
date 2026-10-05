@@ -1,0 +1,2871 @@
+{"id": 1, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Wolf Gaze state,<CRLF>Defense +%d, Direct Resistance +%d"}
+{"id": 2, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Composed state,<CRLF>Recover %d%% of current HP."}
+{"id": 3, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Statecraft state,<CRLF>Crit Resistance +%d."}
+{"id": 4, "english": "^ffcc00Level %d^ffffff - Defense +%d. Painful Flesh state lasts %d sec."}
+{"id": 5, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Chain Camp state,<CRLF>Indirect Resistance +%d."}
+{"id": 6, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Frontier Guard state,<CRLF>can Absorb %d Damage."}
+{"id": 7, "english": "^ffcc00Level %d^ffffff - Defense +%d, Dodge +%d"}
+{"id": 8, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Closed Moon state,<CRLF>Indirect Damage taken reduced by %d%%."}
+{"id": 9, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Water Mastery state,<CRLF>Crit Damage taken reduced by %d%%."}
+{"id": 10, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Ruthless state,<CRLF>Defense +%d, Crit Resistance +%d."}
+{"id": 11, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Bone Scraping state,<CRLF>recover an extra %d%% of current HP."}
+{"id": 12, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Silver Tongue state,<CRLF>instantly recover %d%% of current HP,<CRLF>then recover %d%% of Max HP over the next 5 sec."}
+{"id": 13, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Young Qilin state,<CRLF>Dodge +%d, Indirect Resistance +%d."}
+{"id": 14, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Iron Will state,<CRLF>Direct Damage taken reduced by %d%%."}
+{"id": 15, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Fragile Fate state,<CRLF>can Recover %d%% of current HP."}
+{"id": 16, "english": "^ffcc00Level %d^ffffff - Defense +%d. While in Iron Guard state,<CRLF>Direct Damage taken reduced by %d%%."}
+{"id": 17, "english": "^ffcc00Level %d^ffffff - Restriction Resistance +%d."}
+{"id": 18, "english": "^ffcc00Level %d^ffffff: Attack Power + %d"}
+{"id": 19, "english": "^ffcc00Level %d^ffffff: HP + %d, out-of-combat HP recovery + %d<CRLF>Stamina + %d, out-of-combat Stamina recovery + 1"}
+{"id": 20, "english": "^ffcc00Level %d^ffffff: HP + %d"}
+{"id": 21, "english": "^ffcc00Level %d^ffffff: Defense + %d"}
+{"id": 22, "english": "^ffcc00Level %d/2 ^ffffff - Shadow Strike Claw has a %d%% Chance to add<CRLF>one stack of Assassination."}
+{"id": 23, "english": "^ffcc00Level %d/5 ^ffffff - %d%% Chance to trigger Graceful Dance effect."}
+{"id": 24, "english": "^ffcc00Level %d/5^ffffff - Increase your own Crit Damage by %d%% while Back Attack effect is active."}
+{"id": 25, "english": "^ffcc00Level^ffffff: %d"}
+{"id": 26, "english": "^ffffffCharacter gains extra 1 HP, 1 Defense and 1 Stamina per level<CRLF><CRLF>^99ccffRe-equip after leveling up to gain the new growth effect"}
+{"id": 27, "english": "^ffffffCharacter gains extra 2 HP and 1 Attack per level<CRLF><CRLF>^99ccffRe-equip after leveling up to gain the new growth effect"}
+{"id": 28, "english": "^ffffffCharacter gains extra 2 HP and 1 Defense per level<CRLF><CRLF>^99ccffRe-equip after leveling up to gain the new growth effect"}
+{"id": 29, "english": "^ffffffCharacter gains extra 3 HP and 1 Defense per level<CRLF><CRLF>^99ccffRe-equip after leveling up to gain the new growth effect"}
+{"id": 30, "english": "^ffffffCharacter gains extra 4 HP and 1 Defense per level<CRLF><CRLF>^99ccffRe-equip after leveling up to gain the new growth effect"}
+{"id": 31, "english": "^ffffffEach point increases the character's Base Attack Power by 1.<CRLF>^ffcc00Note: ^ffffffAptitude values above 120 have no effect."}
+{"id": 32, "english": "chargerate test use"}
+{"id": 33, "english": "lv0 no bonus<CRLF>lv1-6, 30% chance to add 1 point of Whirlwind Points, corresponding Mastery 2531: no bonus, +1, +2, +3, +4, +5<CRLF>lv7-12, 50% chance to add 1 point of Whirlwind Points, corresponding Mastery 2531: no bonus, +1, +2, +3, +4, +5"}
+{"id": 34, "english": "lv0 no bonus<CRLF>lv1-6, 30% chance to add 1 point of Assault Points, corresponding Mastery 2521: no bonus, +1, +2, +3, +4, +5<CRLF>lv7-12, 50% chance to add 1 point of Assault Points, corresponding Mastery 2521: no bonus, +1, +2, +3, +4, +5"}
+{"id": 35, "english": "Wind-Riding Sword"}
+{"id": 36, "english": "Wind-Riding Sword-Power"}
+{"id": 37, "english": "Wind-Riding Sword-Technique"}
+{"id": 38, "english": "First-Rank Civil Official"}
+{"id": 39, "english": "First-Rank Military Official"}
+{"id": 40, "english": "Saber Heart"}
+{"id": 41, "english": "Bouquet of Flowers"}
+{"id": 42, "english": "A Lifetime Together"}
+{"id": 43, "english": "First-Ascension Food Max HP"}
+{"id": 44, "english": "First-Ascension Food Max HP Full HPgen"}
+{"id": 45, "english": "First-Ascension Food Max HP Attack Points"}
+{"id": 46, "english": "First-Ascension Food Max HP Defense Points"}
+{"id": 47, "english": "First-Ascension Food Full HPgen"}
+{"id": 48, "english": "First-Ascension Food Recovery"}
+{"id": 49, "english": "First-Ascension Food Attack Points"}
+{"id": 50, "english": "First-Ascension Food Attack Points Full HPgen"}
+{"id": 51, "english": "First-Ascension Food Attack Points Defense Points"}
+{"id": 52, "english": "First-Ascension Food Defense Points"}
+{"id": 53, "english": "First-Ascension Food Defense Points Full HPgen"}
+{"id": 54, "english": "One Rider Equals a Thousand"}
+{"id": 55, "english": "Dragon One"}
+{"id": 56, "english": "Seventh-Rank Civil Official"}
+{"id": 57, "english": "Seventh-Rank Military Official"}
+{"id": 58, "english": "Qixi Leaderboard Skill 1"}
+{"id": 59, "english": "Qixi Leaderboard Skill 2"}
+{"id": 60, "english": "Qixi Maze Guide"}
+{"id": 61, "english": "Seven Stars"}
+{"id": 62, "english": "Seven Stars Lake Boss Skill King of Poisons"}
+{"id": 63, "english": "Seven Stars Lake Boss Skill God of Strength"}
+{"id": 64, "english": "Seven Stars Lake Boss Skill Heart of Rage"}
+{"id": 65, "english": "Seven Stars Lake Boss Scale Armor"}
+{"id": 66, "english": "Seven Stars Lake Banner-Carrying Light Effect Buff"}
+{"id": 67, "english": "Seven Stars Lake Poison Flower Group Poison"}
+{"id": 68, "english": "Seven Stars Lake Formation-Breaking Fire"}
+{"id": 69, "english": "Seven Stars Lake Heart-Eroding Flame Burn"}
+{"id": 70, "english": "Seven Stars Lake Maze-Devouring Ghostfire"}
+{"id": 71, "english": "Seven Stars Lake Dispel Banner Buff"}
+{"id": 72, "english": "Seven Stars Gather the Moon"}
+{"id": 73, "english": "Seven Stars Gather the Moon-Weaken Battle"}
+{"id": 74, "english": "Seven Stars Gather the Moon-Assault"}
+{"id": 75, "english": "Seven Stars Fall"}
+{"id": 76, "english": "Seven Stars Fall-Assault"}
+{"id": 77, "english": "Seven Stars Fall-Soul Break"}
+{"id": 78, "english": "Seven-Star Formation Seven-Star One Star"}
+{"id": 79, "english": "Seven-Star Formation Seven-Star Seven Star"}
+{"id": 80, "english": "Seven-Star Formation Seven-Star Three Star"}
+{"id": 81, "english": "Seven-Star Formation Seven-Star Two Star"}
+{"id": 82, "english": "Seven-Star Formation Seven-Star Five Star"}
+{"id": 83, "english": "Seven-Star Formation Seven-Star Six Star"}
+{"id": 84, "english": "Seven-Star Formation Seven-Star Four Star"}
+{"id": 85, "english": "Seven-Star Formation Cloud 3 Invisible Mob"}
+{"id": 86, "english": "Seven-Star Formation Quest Stamina Recovery and Immunity"}
+{"id": 87, "english": "Seven-Star Formation Light Orb Burst"}
+{"id": 88, "english": "Seven-Star Formation Army Flag Red Exhaustion"}
+{"id": 89, "english": "Seven-Star Formation Army Flag Green Healing"}
+{"id": 90, "english": "Seven-Star Formation Frost Slow Aura"}
+{"id": 91, "english": "Seven-Star Formation Blade Roll Group Damage Aura"}
+{"id": 92, "english": "Seven-Star Formation Crouching Dragon Stone Imprison"}
+{"id": 93, "english": "Seven-Star Formation Crouching Dragon Stone Imprison 2"}
+{"id": 94, "english": "Seven-Star Formation Grant Reward 1"}
+{"id": 95, "english": "Seven-Star Formation Grant Reward 2"}
+{"id": 96, "english": "Seven-Star Formation Jet Column 180"}
+{"id": 97, "english": "Seven-Star Formation Jet Column 360"}
+{"id": 98, "english": "Seven-Star Formation Jet Column In Place"}
+{"id": 99, "english": "Seven-Star Formation Floor HP Drain Aura"}
+{"id": 100, "english": "Seven-Star Formation Jiang Wei Cloud Emergence"}
+{"id": 101, "english": "Seven-Star Formation Jiang Wei Appearance"}
+{"id": 102, "english": "Seven-Star Formation Jiang Wei Flag Throw"}
+{"id": 103, "english": "Seven-Star Formation Jiang Wei Shield"}
+{"id": 104, "english": "Seven-Star Formation Jiang Wei Shadow Light"}
+{"id": 105, "english": "Seven-Star Formation Jiang Wei Summon Shadow Light"}
+{"id": 106, "english": "Seven-Star Formation Jiang Wei Falling Wind"}
+{"id": 107, "english": "Seven-Star Formation Jiang Wei Snake Coil Eight Desolations"}
+{"id": 108, "english": "Seven-Star Formation Sky Lantern Rise"}
+{"id": 109, "english": "Seven-Star Formation Sky Lantern True Fire"}
+{"id": 110, "english": "Seven-Star Formation Sky Lantern Entangle"}
+{"id": 111, "english": "Seven-Star Formation Sky Lantern Descent"}
+{"id": 112, "english": "Seven-Star Formation Archer Poison Arrow"}
+{"id": 113, "english": "Seven-Star Formation Archer Poison Arrow Volley"}
+{"id": 114, "english": "Seven-Star Formation Ballista Cannon Straight Shot"}
+{"id": 115, "english": "Seven-Star Formation Ballista Cannon Ranged Shot"}
+{"id": 116, "english": "Seven-Star Formation Achievement Wei Yan"}
+{"id": 117, "english": "Seven-Star Formation New Achievement 1"}
+{"id": 118, "english": "Seven-Star Formation New Achievement 2"}
+{"id": 119, "english": "Seven-Star Formation Silence Earthfire"}
+{"id": 120, "english": "Seven-Star Formation Floating Platform Sink"}
+{"id": 121, "english": "Seven-Star Formation Floating Board Knockdown"}
+{"id": 122, "english": "Seven-Star Formation Roller Soldier Fall"}
+{"id": 123, "english": "Seven-Star Formation Rolling Log Damage Aura"}
+{"id": 124, "english": "Seven-Star Formation True Fire Buff"}
+{"id": 125, "english": "Seven-Star Formation Scarecrow Transform"}
+{"id": 126, "english": "Seven-Star Formation Scarecrow Self-Ignite"}
+{"id": 127, "english": "Seven-Star Formation Talisman Mob Damage Attack"}
+{"id": 128, "english": "Seven-Star Formation Talisman Mob Immobilize Attack"}
+{"id": 129, "english": "Seven-Star Formation Zhuge Liang Seven-Star Formation"}
+{"id": 130, "english": "Seven-Star Formation Zhuge Liang Right Hand"}
+{"id": 131, "english": "Seven-Star Formation Zhuge Liang Left Hand"}
+{"id": 132, "english": "Seven-Star Formation Zhuge Liang Illusion Attack"}
+{"id": 133, "english": "Seven-Star Formation Zhuge Liang Imprison Array"}
+{"id": 134, "english": "Seven-Star Formation Zhuge Liang Grass and Trees Are Soldiers"}
+{"id": 135, "english": "Seven-Star Formation Zhuge Illusion Frost"}
+{"id": 136, "english": "Seven-Star Formation Zhuge Illusion Hit Reduction and Attack Down"}
+{"id": 137, "english": "Seven-Star Formation Zhuge Illusion Earthfire"}
+{"id": 138, "english": "Seven-Star Formation Zhuge Illusion Heavenly Thunder"}
+{"id": 139, "english": "Seven-Star Formation Repeating Ballista Rapid Fire"}
+{"id": 140, "english": "Seven-Star Formation Invisible Mob Mark 1"}
+{"id": 141, "english": "Seven-Star Formation Invisible Mob Mark 2"}
+{"id": 142, "english": "Seven-Star Formation Invisible Mob Dispel Imprison"}
+{"id": 143, "english": "Seven-Star Formation Generic Shield and Dispel"}
+{"id": 144, "english": "Seven-Star Formation Generic Door Close"}
+{"id": 145, "english": "Seven-Star Formation Generic Door Open"}
+{"id": 146, "english": "Seven-Star Formation Metal Spike Buff Area"}
+{"id": 147, "english": "Seven-Star Formation Metal Spike Full Attack"}
+{"id": 148, "english": "Seven-Star Formation Metal Spike Attack"}
+{"id": 149, "english": "Seven-Star Formation Spiked Board Slam"}
+{"id": 150, "english": "Seven-Star Formation Spiked Board Reset"}
+{"id": 151, "english": "Seven-Star Formation Invisible Mob Fire and Ice Water"}
+{"id": 152, "english": "Seven-Star Formation Ma Dai Appearance"}
+{"id": 153, "english": "Seven-Star Formation Ma Dai Shield"}
+{"id": 154, "english": "Seven-Star Formation Ma Dai Earthshaker Strike"}
+{"id": 155, "english": "Seven-Star Formation Ma Dai Heaven-Overturning Strike"}
+{"id": 156, "english": "Seven-Star Formation Ma Dai Untamed Steed"}
+{"id": 157, "english": "Seven-Star Formation Ma Dai Galloping Strike"}
+{"id": 158, "english": "Seven-Star Formation Ma Dai Wind-Fire Wheel"}
+{"id": 159, "english": "Seven-Star Formation Ma Dai Hoof Strike"}
+{"id": 160, "english": "Seven-Star Formation Ma Dai Dragon Cannon"}
+{"id": 161, "english": "Seven-Star Formation Horse Stampede"}
+{"id": 162, "english": "Seven-Star Formation Wei Yan Charge Prep"}
+{"id": 163, "english": "Seven-Star Formation Wei Yan Appearance"}
+{"id": 164, "english": "Seven-Star Formation Wei Yan Slaughter All"}
+{"id": 165, "english": "Seven-Star Formation Wei Yan Pillar"}
+{"id": 166, "english": "Seven-Star Formation Wei Yan Mysterious Heaven Fall"}
+{"id": 167, "english": "Seven-Star Formation Wei Yan Mysterious Heaven Fall Damage"}
+{"id": 168, "english": "Seven-Star Formation Wei Yan Mysterious Heaven Fall Summon"}
+{"id": 169, "english": "Seven-Star Formation Wei Yan Black Tortoise Chain Claws"}
+{"id": 170, "english": "Seven-Star Formation Wei Yan Stumble"}
+{"id": 171, "english": "Seven-Star Formation Gear Roll"}
+{"id": 172, "english": "Seven-Step Poem 2"}
+{"id": 173, "english": "Seven-Step Poem 3"}
+{"id": 174, "english": "Seven-Step Poem 4"}
+{"id": 175, "english": "Seven-Step Poem 5"}
+{"id": 176, "english": "Army Swift Gale"}
+{"id": 177, "english": "Wind Through Ten Thousand Valleys"}
+{"id": 178, "english": "Ten Thousand Strong Strikes"}
+{"id": 179, "english": "Ten Thousand Stone Crush"}
+{"id": 180, "english": "Three Laments"}
+{"id": 181, "english": "Three Stacks of Rage HP Recovery"}
+{"id": 182, "english": "Three Stacks of Gale Chaos, Trigger Stun"}
+{"id": 183, "english": "Three Reflections"}
+{"id": 184, "english": "Three Reflections Generate Other"}
+{"id": 185, "english": "Three-Ring Break"}
+{"id": 186, "english": "Triple Slowing"}
+{"id": 187, "english": "Hidden Skill on Mounting"}
+{"id": 188, "english": "Next Stage:"}
+{"id": 189, "english": "Dismount Dispel Chariot Haste"}
+{"id": 190, "english": "Hidden Skill on Dismounting"}
+{"id": 191, "english": "Unyielding"}
+{"id": 192, "english": "Blood Feud"}
+{"id": 193, "english": "Extraordinary-Civil"}
+{"id": 194, "english": "Extraordinary-Military"}
+{"id": 195, "english": "Immovable as a Mountain"}
+{"id": 196, "english": "Unbowed"}
+{"id": 197, "english": "Unblinking Eye"}
+{"id": 198, "english": "Mastery-Reflect Percentage Debuff"}
+{"id": 199, "english": "Mastery-Stacking DOT"}
+{"id": 200, "english": "Mastery-Seal"}
+{"id": 201, "english": "Mastery-Delayed DOT"}
+{"id": 202, "english": "Mastery-Delayed Max HP"}
+{"id": 203, "english": "Mastery-Delayed Stun"}
+{"id": 204, "english": "Mastery-Strong Max HP"}
+{"id": 205, "english": "Mastery-Strong Ice-Fire-Ice"}
+{"id": 206, "english": "Mastery-Strong Ice-Fire-Fire"}
+{"id": 207, "english": "Mastery-Strong Slow Debuff"}
+{"id": 208, "english": "Mastery-Strong Lifesteal"}
+{"id": 209, "english": "Mastery-Strong Resistance Buff"}
+{"id": 210, "english": "Mastery-Strong Attack Buff"}
+{"id": 211, "english": "Mastery-Strong Attack Debuff"}
+{"id": 212, "english": "Mastery-Strong Attack Speed Buff"}
+{"id": 213, "english": "Mastery-Strong Area Shockwave"}
+{"id": 214, "english": "Mastery-Strong Defense Buff"}
+{"id": 215, "english": "Mastery-Strong Defense Debuff"}
+{"id": 216, "english": "Mastery-Resistance Curse"}
+{"id": 217, "english": "Mastery-Battle Qi Frenzy"}
+{"id": 218, "english": "Mastery-Battle Qi Frenzy-Counter"}
+{"id": 219, "english": "Mastery-Max HP Percentage Damage"}
+{"id": 220, "english": "Mastery-Frenzy"}
+{"id": 221, "english": "Mastery-Frenzy-Counter"}
+{"id": 222, "english": "Mastery-Self Strong Resistance Buff"}
+{"id": 223, "english": "Mastery-Self Strong Attack Buff"}
+{"id": 224, "english": "Mastery-Self Strong Attack Speed Buff"}
+{"id": 225, "english": "Mastery-Self Strong Defense Buff"}
+{"id": 226, "english": "Mastery-Area Group Stamina Drain"}
+{"id": 227, "english": "Mastery-Area Group Battle Qi Drain"}
+{"id": 228, "english": "Mastery-Area Group Blast"}
+{"id": 229, "english": "Mastery-Blood Curse"}
+{"id": 230, "english": "Mastery-Blood Burst"}
+{"id": 231, "english": "Mastery-Long Defense Reduction"}
+{"id": 232, "english": "Focus-Composure"}
+{"id": 233, "english": "Focus-Valiance"}
+{"id": 234, "english": "Focus-Sharp Feather"}
+{"id": 235, "english": "Mastery Defense When Attacked"}
+{"id": 236, "english": "World Boss Death"}
+{"id": 237, "english": "Karmic Fire Weaken Effect"}
+{"id": 238, "english": "Personal Arena Ban Sub-Troop Type"}
+{"id": 239, "english": "Medium Duration Buff-Attack Power"}
+{"id": 240, "english": "Medium Duration Buff-Crit"}
+{"id": 241, "english": "Medium Duration Buff-Crit Resistance"}
+{"id": 242, "english": "Medium Duration Buff-Defense"}
+{"id": 243, "english": "Mid-Autumn Sobering Up"}
+{"id": 244, "english": "Mid-Autumn Sobering Up Mob Disappear"}
+{"id": 245, "english": "Intermediate Master Mentor"}
+{"id": 246, "english": "Intermediate Great Master"}
+{"id": 247, "english": "Intermediate Master"}
+{"id": 248, "english": "Harvest Bully Reward"}
+{"id": 249, "english": "Danyang"}
+{"id": 250, "english": "Active Invincibility"}
+{"id": 251, "english": "Main City Boss Grant Reward"}
+{"id": 252, "english": "Main City Boss Skill 1"}
+{"id": 253, "english": "Main City Boss Skill 2"}
+{"id": 254, "english": "Main City Boss Skill 3"}
+{"id": 255, "english": "Main City Boss Skill 4"}
+{"id": 256, "english": "Main City Boss Skill 5"}
+{"id": 257, "english": "Main City Boss Skill 6"}
+{"id": 258, "english": "Overlord"}
+{"id": 259, "english": "Main Quest Only"}
+{"id": 260, "english": "Hard Stride"}
+{"id": 261, "english": "Heavy Made Light"}
+{"id": 262, "english": "Drained in Battle"}
+{"id": 263, "english": "Benevolent"}
+{"id": 264, "english": "Riding Rage"}
+{"id": 265, "english": "Wind-Riding Thrust"}
+{"id": 266, "english": "Wind-Riding Thrust-Power"}
+{"id": 267, "english": "Wind-Riding Thrust-Technique"}
+{"id": 268, "english": "Nine-Sword Annihilation Array"}
+{"id": 269, "english": "Nine United in One"}
+{"id": 270, "english": "Ninth-Rank Civil Official"}
+{"id": 271, "english": "Ninth-Rank Military Official"}
+{"id": 272, "english": "Nine Nether Rend"}
+{"id": 273, "english": "Nine Nether Rend-Weaken Soul"}
+{"id": 274, "english": "Nine Nether Rend-Assault"}
+{"id": 275, "english": "Cloud-Breaking Crossbow"}
+{"id": 276, "english": "Cloud-Breaking Crossbow-Power"}
+{"id": 277, "english": "Cloud-Breaking Crossbow-Technique"}
+{"id": 278, "english": "Cloud-Breaking Crossbow-Slow"}
+{"id": 279, "english": "Shadow Chaos Strike"}
+{"id": 280, "english": "Heart-Chaos Formula"}
+{"id": 281, "english": "Matchmaker's Confusion"}
+{"id": 282, "english": "Chaotic Ring Stance"}
+{"id": 283, "english": "Chaotic Ring Stance-Guard"}
+{"id": 284, "english": "Chaotic Ring Stance-Confusion"}
+{"id": 285, "english": "Chaotic Ring Stance has a 20*level Chance for one extra hit<CRLF>Chaotic Ring Stance has a 10*level Chance for two extra hits"}
+{"id": 286, "english": "Mind Chaos"}
+{"id": 287, "english": "Whirlwind Art"}
+{"id": 288, "english": "Whirlwind Art-Phantom"}
+{"id": 289, "english": "Whirlwind Art-Wind Guard"}
+{"id": 290, "english": "Whirlwind Art-Gale"}
+{"id": 291, "english": "Whirlwind Generate Extra Effect 1"}
+{"id": 292, "english": "Whirlwind Generate Extra Effect 2"}
+{"id": 293, "english": "Myriad Flowers Bloom"}
+{"id": 294, "english": "Myriad Flowers Bloom-Power"}
+{"id": 295, "english": "Myriad Flowers Bloom-Hinder"}
+{"id": 296, "english": "Myriad Flowers Bloom-Wound"}
+{"id": 297, "english": "Heavenly Vigor Qi"}
+{"id": 298, "english": "Second Anniversary Buff"}
+{"id": 299, "english": "Second-Rank Civil Official"}
+{"id": 300, "english": "Second-Rank Military Official"}
+{"id": 301, "english": "Calm Clouds, Gentle Wind"}
+{"id": 302, "english": "Dance of Cloud and Rain"}
+{"id": 303, "english": "Dance of Cloud and Rain-Support"}
+{"id": 304, "english": "Azure Dragon Emerges"}
+{"id": 305, "english": "Wuzhangyuan Area Quest"}
+{"id": 306, "english": "Wuzhangyuan Dangerous Area"}
+{"id": 307, "english": "Fifth-Rank Official Title"}
+{"id": 308, "english": "Fifth-Rank Civil Official"}
+{"id": 309, "english": "Fifth-Rank Military Official"}
+{"id": 310, "english": "Five-Pace Shot"}
+{"id": 311, "english": "Five-Pace Shot-Technique"}
+{"id": 312, "english": "Vehicle Revive Marker Clear"}
+{"id": 313, "english": "Vehicle Revive Point Spawn"}
+{"id": 314, "english": "Vehicle Revive Point Spawn When Too Far From Boat"}
+{"id": 315, "english": "Product 2010 Base Unrepentant Thief Reward"}
+{"id": 316, "english": "Benevolent Awe"}
+{"id": 317, "english": "Benevolent Virtue"}
+{"id": 318, "english": "Benevolent Virtue Generates Popular Support"}
+{"id": 319, "english": "Grudge Grafting"}
+{"id": 320, "english": "Blood Feud Kill"}
+{"id": 321, "english": "Blood Feud Kill Generates Aggro Points"}
+{"id": 322, "english": "Hostility"}
+{"id": 323, "english": "Third-Rank Junior Official Title"}
+{"id": 324, "english": "Third-Rank Junior Civil Official"}
+{"id": 325, "english": "Third-Rank Junior Military Official"}
+{"id": 326, "english": "Fourth-Rank Junior Civil Official"}
+{"id": 327, "english": "Fourth-Rank Junior Military Official"}
+{"id": 328, "english": "Immortal Fruit"}
+{"id": 329, "english": "Immortal Wine"}
+{"id": 330, "english": "Crane HP Recovery Suicide"}
+{"id": 331, "english": "Rest and Wait"}
+{"id": 332, "english": "Quest Grant Reward Buff"}
+{"id": 333, "english": "Quest Grant HP Recovery"}
+{"id": 334, "english": "Quest Reward Grant"}
+{"id": 335, "english": "Quest Dialogue HP and Stamina Recovery"}
+{"id": 336, "english": "Quest Seal"}
+{"id": 337, "english": "Quest Mob Percentage Attack"}
+{"id": 338, "english": "Quest Mount Prohibition"}
+{"id": 339, "english": "Generic Quest Skill"}
+{"id": 340, "english": "Generic Quest Skill 2"}
+{"id": 341, "english": "Generic Quest Skill 3"}
+{"id": 342, "english": "Generic Quest Skill 4"}
+{"id": 343, "english": "Quest Dispel Stars"}
+{"id": 344, "english": "Cloud-Lurking Strike"}
+{"id": 345, "english": "Cloud-Lurking Strike-Assault"}
+{"id": 346, "english": "Cloud-Lurking Strike-Flying General"}
+{"id": 347, "english": "Rest"}
+{"id": 348, "english": "Critical Eye"}
+{"id": 349, "english": "Critical Decree"}
+{"id": 350, "english": "Critical Strike"}
+{"id": 351, "english": "Critical Arrow"}
+{"id": 352, "english": "Expressing Feeling"}
+{"id": 353, "english": "Teleport"}
+{"id": 354, "english": "Teleport-Charm"}
+{"id": 355, "english": "Lament of Loss"}
+{"id": 356, "english": "Feint and Turn to Kill"}
+{"id": 357, "english": "Opportunist"}
+{"id": 358, "english": "Sanctuary Wall"}
+{"id": 359, "english": "Stamina Shield"}
+{"id": 360, "english": "Mercenary Empty Skill Motion 1"}
+{"id": 361, "english": "Use Ice Spike at No Cost"}
+{"id": 362, "english": "Use Item to Reduce Mob HP"}
+{"id": 363, "english": "Use Wind Orb at No Cost"}
+{"id": 364, "english": "Scout"}
+{"id": 365, "english": "Leaning Dance"}
+{"id": 366, "english": "Fallen Motion"}
+{"id": 367, "english": "Hand-Switch Axe"}
+{"id": 368, "english": "Heaven-Piercing Slash"}
+{"id": 369, "english": "Toppling a Nation"}
+{"id": 370, "english": "Dance That Topple Nations"}
+{"id": 371, "english": "Dance That Topple Nations-Tactic"}
+{"id": 372, "english": "Sinking Nations and Cities"}
+{"id": 373, "english": "Dance That Sinks Cities"}
+{"id": 374, "english": "Crescent Slash"}
+{"id": 375, "english": "Crescent Azure Dragon"}
+{"id": 376, "english": "Masquerade Dance"}
+{"id": 377, "english": "Body Fortification Art"}
+{"id": 378, "english": "Leaf Snatch"}
+{"id": 379, "english": "Arrogant Heaven Stance"}
+{"id": 380, "english": "Arrogant Sky Sever"}
+{"id": 381, "english": "Arrogant Sky Sever-Assault"}
+{"id": 382, "english": "Arrogant Sky Sever-Spirit Scatter"}
+{"id": 383, "english": "Confucian-Strategist Blessing"}
+{"id": 384, "english": "First Strike"}
+{"id": 385, "english": "First Strike-Second Form"}
+{"id": 386, "english": "First Strike-Whirlwind"}
+{"id": 387, "english": "First Strike-Guard"}
+{"id": 388, "english": "First Strike-Swift"}
+{"id": 389, "english": "First Strike-Break"}
+{"id": 390, "english": "First Strike-Combo"}
+{"id": 391, "english": "First Strike Second Form"}
+{"id": 392, "english": "First to Scale the Walls"}
+{"id": 393, "english": "Singles Day Grant Buff"}
+{"id": 394, "english": "Counter Generates Unhorse"}
+{"id": 395, "english": "Heal Immunity"}
+{"id": 396, "english": "Immunity"}
+{"id": 397, "english": "Immunity Tier 1 Passive Trigger"}
+{"id": 398, "english": "Immunity Tier 2 Passive"}
+{"id": 399, "english": "Knockback Immunity"}
+{"id": 400, "english": "Immunity Grant Reward Buff"}
+{"id": 401, "english": "Immunity Guandu Buff Skill"}
+{"id": 402, "english": "Immunity Bow Pierce Arrow Heavy Wound"}
+{"id": 403, "english": "Immunity Battle Soul Damage"}
+{"id": 404, "english": "Immunity Test Direct HP Reduction"}
+{"id": 405, "english": "Immunity Ganlu Temple Blossom Season Stirs the Capital"}
+{"id": 406, "english": "Immunity Short-Term Event HP Reduction"}
+{"id": 407, "english": "Immunity Crush"}
+{"id": 408, "english": "Immunity Xu Chu Area Instant Kill 1"}
+{"id": 409, "english": "Immunity Firecrackers"}
+{"id": 410, "english": "Year of the Rabbit Clay Pot Medicine 1"}
+{"id": 411, "english": "Year of the Rabbit Clay Pot Medicine 2"}
+{"id": 412, "english": "Full Map Grant Buff 1"}
+{"id": 413, "english": "Full Map Grant Buff 2"}
+{"id": 414, "english": "Full Field Mount Prohibition"}
+{"id": 415, "english": "Grant Reward to All"}
+{"id": 416, "english": "Eighth-Rank Civil Official"}
+{"id": 417, "english": "Eighth-Rank Military Official"}
+{"id": 418, "english": "Eight Directions Mysterious Ice"}
+{"id": 419, "english": "Eight Directions Mysterious Ice-Tactic"}
+{"id": 420, "english": "Winds and Rains from Every Direction"}
+{"id": 421, "english": "Winds and Rains from Every Direction 1"}
+{"id": 422, "english": "August Event Fire Loud Cracker"}
+{"id": 423, "english": "August Event Fire Loud Cracker on Mob Itself"}
+{"id": 424, "english": "Eight-Formation Entry Buff Skill"}
+{"id": 425, "english": "Eight-Formation Entry Voted Buff"}
+{"id": 426, "english": "Eight-Formation Open Emblem Effect"}
+{"id": 427, "english": "Eight-Formation Activate Secret Stone Effect"}
+{"id": 428, "english": "Eight-Formation Global Mist Buff"}
+{"id": 429, "english": "Eight-Formation Diagram"}
+{"id": 430, "english": "Eight-Formation Gate Bagua Trap"}
+{"id": 431, "english": "Eight-Formation Gate Ground Spikes"}
+{"id": 432, "english": "Eight-Formation Gate Landmine"}
+{"id": 433, "english": "Eight-Formation Gate Big BOSS"}
+{"id": 434, "english": "Eight-Formation Gate Reward 1"}
+{"id": 435, "english": "Eight-Formation Gate Reward 2"}
+{"id": 436, "english": "Eight-Formation Gate Reward 3"}
+{"id": 437, "english": "Eight-Formation Gate Reward 4"}
+{"id": 438, "english": "Eight-Formation Gate Flag Bearer Rage"}
+{"id": 439, "english": "Eight-Formation Gate Catapult Slow"}
+{"id": 440, "english": "Eight-Formation Gate Catapult Immobilize"}
+{"id": 441, "english": "Eight-Formation Gate Crystal Mob Straight Attack"}
+{"id": 442, "english": "Eight-Formation Gate Mechanism Immune Passive"}
+{"id": 443, "english": "Eight-Formation Gate Poison Flower Release Poison"}
+{"id": 444, "english": "Eight-Formation Gate Mage Area Damage"}
+{"id": 445, "english": "Eight-Formation Gate Fishing Net"}
+{"id": 446, "english": "Eight-Formation Gate Gunpowder"}
+{"id": 447, "english": "Eight-Formation Gate Gunpowder Advanced"}
+{"id": 448, "english": "Eight-Formation Gate Group Silence"}
+{"id": 449, "english": "Eight-Formation Gate Self-Destruct"}
+{"id": 450, "english": "Eight-Formation Gate Cavalry"}
+{"id": 451, "english": "Sixth-Rank Official Title"}
+{"id": 452, "english": "Sixth-Rank Civil Official"}
+{"id": 453, "english": "Sixth-Rank Military Official"}
+{"id": 454, "english": "Orchid Handkerchief"}
+{"id": 455, "english": "Guan Ping Buff When Attacked Recover HP"}
+{"id": 456, "english": "Guan Ping Self HP Loss"}
+{"id": 457, "english": "Guan Yu Buff Area"}
+{"id": 458, "english": "Guan Yu Immune to Guan Ping HP Loss"}
+{"id": 459, "english": "Guan Yu Surrounding Group Attack"}
+{"id": 460, "english": "Guan Yu Fan-Shaped Group Attack"}
+{"id": 461, "english": "Guan Yu Burst"}
+{"id": 462, "english": "Guan Yu Group Fan Shape"}
+{"id": 463, "english": "Troop-Type Ascension Quest Boss Passive"}
+{"id": 464, "english": "Supply Line Severed"}
+{"id": 465, "english": "Chariot Movement Battle of Unmatched Complete"}
+{"id": 466, "english": "Captain Attack 1"}
+{"id": 467, "english": "Captain Attack 2"}
+{"id": 468, "english": "Captain Attack 3"}
+{"id": 469, "english": "Captain Normal Skill 1"}
+{"id": 470, "english": "Captain Normal Skill 2"}
+{"id": 471, "english": "Captain Special Skill 1"}
+{"id": 472, "english": "Captain Special Skill 2"}
+{"id": 473, "english": "Captain Close Combat"}
+{"id": 474, "english": "Other Generate Balance"}
+{"id": 475, "english": "Dian Wei Valor Generate Timer"}
+{"id": 476, "english": "Dian Wei Ancient Evil Generate Elai"}
+{"id": 477, "english": "Dian Wei Skill Effect"}
+{"id": 478, "english": "Dian Wei Breakthrough Generate Valor"}
+{"id": 479, "english": "Legion Boss Zhao Yun Permanent Skill"}
+{"id": 480, "english": "Legion Nine Heavens Heaven-Earth Strike"}
+{"id": 481, "english": "Legion Grant Reward"}
+{"id": 482, "english": "Legion Base Level 1-4 Grant Reward Messenger"}
+{"id": 483, "english": "Legion Base Boss Death 1"}
+{"id": 484, "english": "Legion Base Boss Death 2"}
+{"id": 485, "english": "Legion Base PVP Penalty Buff"}
+{"id": 486, "english": "Legion Base PVP Ranged Attack"}
+{"id": 487, "english": "Legion Base Level 5 Grant Reward Messenger"}
+{"id": 488, "english": "Legion Base HP Reduction Talisman"}
+{"id": 489, "english": "Legion Base Small Circle"}
+{"id": 490, "english": "Legion Base Mob Innate Buff"}
+{"id": 491, "english": "Legion Base Mob Innate Skill"}
+{"id": 492, "english": "Legion Base Defeat Shaman"}
+{"id": 493, "english": "Legion Base Fire Mine"}
+{"id": 494, "english": "Legion Base Generate Prop"}
+{"id": 495, "english": "Legion Base Blind"}
+{"id": 496, "english": "Legion Base Generic Attacker Buff Out of Battle"}
+{"id": 497, "english": "Legion No-Confidence Love Tap"}
+{"id": 498, "english": "Legion Embroidered Ball Mutual Affection"}
+{"id": 499, "english": "Legion Embroidered Ball Increase Resistance"}
+{"id": 500, "english": "Legion Fallen Flowers Love Never Ends"}
+{"id": 501, "english": "Legion Bronze Sparrow Damage Aura"}
+{"id": 502, "english": "Legion Bronze Sparrow Dispel"}
+{"id": 503, "english": "Nether Fire"}
+{"id": 504, "english": "Nether Fire-Assault"}
+{"id": 505, "english": "Nether Fire-Fury"}
+{"id": 506, "english": "Nether Fire Burst"}
+{"id": 507, "english": "Ice Shard Break"}
+{"id": 508, "english": "Ice Shard Heartstrike"}
+{"id": 509, "english": "Ice Spike"}
+{"id": 510, "english": "Ice Spike-Charm"}
+{"id": 511, "english": "Ice Spike-Tactic"}
+{"id": 512, "english": "Ice Spike-Efficient"}
+{"id": 513, "english": "Frost Seal"}
+{"id": 514, "english": "Frost Prison"}
+{"id": 515, "english": "Ice Mob"}
+{"id": 516, "english": "Ice Mob Mark"}
+{"id": 517, "english": "Ice Mob Instant-Kills Fire Mob"}
+{"id": 518, "english": "Ice Mob Melt"}
+{"id": 519, "english": "Ice Crystal Rain"}
+{"id": 520, "english": "Ice Crystal Rain-Assault"}
+{"id": 521, "english": "Ice Crystal Rain-Off-Center"}
+{"id": 522, "english": "Ice-Fire Generate Effect"}
+{"id": 523, "english": "Ice Spirit"}
+{"id": 524, "english": "Ice Spirit and Fire Spirit Generate State"}
+{"id": 525, "english": "Ice Armor Art"}
+{"id": 526, "english": "Ice Armor Art-Tactic"}
+{"id": 527, "english": "Ice Armor Art Generate Extra State 1"}
+{"id": 528, "english": "Ice Armor Art Generate Extra State 2"}
+{"id": 529, "english": "Falling Ice Stones"}
+{"id": 530, "english": "Ice Rain Art"}
+{"id": 531, "english": "Ice Rain Art-Freezing Rain"}
+{"id": 532, "english": "Ice Rain Art-Charm"}
+{"id": 533, "english": "Ice Rain Art-Tactic"}
+{"id": 534, "english": "Ice Rain Art at 3 Stacks Reduce Hit"}
+{"id": 535, "english": "Ice Rain Art Generate Dodge Reduction"}
+{"id": 536, "english": "Ice Wind-Army"}
+{"id": 537, "english": "Ice Wind-Rage"}
+{"id": 538, "english": "Ice Wind-Break"}
+{"id": 539, "english": "Dash"}
+{"id": 540, "english": "Sky Barrier"}
+{"id": 541, "english": "Sky Barrier-Assault"}
+{"id": 542, "english": "Sky Barrier-Terror"}
+{"id": 543, "english": "Ram"}
+{"id": 544, "english": "Ram with Stun"}
+{"id": 545, "english": "Ram Breaks Block"}
+{"id": 546, "english": "Nourish Qi from the Void"}
+{"id": 547, "english": "Battering Ram Skill 1"}
+{"id": 548, "english": "Battering Ram Skill 2"}
+{"id": 549, "english": "Battering Ram Skill 3"}
+{"id": 550, "english": "Battering Ram Skill 4"}
+{"id": 551, "english": "Battering Ram Attack 1"}
+{"id": 552, "english": "Battering Ram Attack 2"}
+{"id": 553, "english": "Battering Ram Attack 3"}
+{"id": 554, "english": "Resolve-Army"}
+{"id": 555, "english": "Resolve-Rage"}
+{"id": 556, "english": "Resolve-Break"}
+{"id": 557, "english": "Decision"}
+{"id": 558, "english": "Cold Moon Unmatched"}
+{"id": 559, "english": "Cold Smoke Break"}
+{"id": 560, "english": "Cold Smoke Break-Blockade"}
+{"id": 561, "english": "Cold Smoke Break-Assault"}
+{"id": 562, "english": "Cold Blood"}
+{"id": 563, "english": "Frostbite Generate Freeze"}
+{"id": 564, "english": "Frozen Snow Weaken Effect"}
+{"id": 565, "english": "Purification Pill"}
+{"id": 566, "english": "Mess Generate Extra State"}
+{"id": 567, "english": "Cloud-Riding Strike"}
+{"id": 568, "english": "Aerial Strike"}
+{"id": 569, "english": "Aerial Thrust"}
+{"id": 570, "english": "Wind-Riding"}
+{"id": 571, "english": "Slow On Hit"}
+{"id": 572, "english": "Slow Effect"}
+{"id": 573, "english": "Condensed Force Strike"}
+{"id": 574, "english": "Heart Focus"}
+{"id": 575, "english": "Condensed Jade"}
+{"id": 576, "english": "Concentration"}
+{"id": 577, "english": "Focused Strike"}
+{"id": 578, "english": "Focus Arrow"}
+{"id": 579, "english": "Focus Arrow-Power"}
+{"id": 580, "english": "Focus Arrow-Immobilize"}
+{"id": 581, "english": "Focus Arrow-Technique"}
+{"id": 582, "english": "Focus Arrow-Break"}
+{"id": 583, "english": "Focus Arrow-Speed"}
+{"id": 584, "english": "Fengyi Dance"}
+{"id": 585, "english": "Phoenix Aegis"}
+{"id": 586, "english": "Phoenix Dance Nine Heavens"}
+{"id": 587, "english": "Phoenix Feather Blazing Flame"}
+{"id": 588, "english": "Phoenix Feather Blazing Flame-Collapse"}
+{"id": 589, "english": "Phoenix Feather Blazing Flame-Assault"}
+{"id": 590, "english": "Summon a Fish"}
+{"id": 591, "english": "Shatter"}
+{"id": 592, "english": "Saber Soul"}
+{"id": 593, "english": "Blade Wind Wall"}
+{"id": 594, "english": "Blade Wind Wall-Soul Snatch"}
+{"id": 595, "english": "Blade Wind Wall-Assault"}
+{"id": 596, "english": "Share Turkey"}
+{"id": 597, "english": "Scene Switch with Save Test"}
+{"id": 598, "english": "Scene Switch Test"}
+{"id": 599, "english": "Switch Stance"}
+{"id": 600, "english": "Liu Bei Buff Area"}
+{"id": 601, "english": "Liu Bei Single-Target Immunity"}
+{"id": 602, "english": "Liu Bei Popular Support Timer"}
+{"id": 603, "english": "Liu Bei Group Silence"}
+{"id": 604, "english": "Liu Bei Group Attack"}
+{"id": 605, "english": "Iron Body"}
+{"id": 606, "english": "Ruthless"}
+{"id": 607, "english": "Unyielding Fury"}
+{"id": 608, "english": "Beginner Master Mentor"}
+{"id": 609, "english": "Beginner Great Master"}
+{"id": 610, "english": "Beginner Master"}
+{"id": 611, "english": "Bone Scraping"}
+{"id": 612, "english": "Balance"}
+{"id": 613, "english": "Buddhist Sword"}
+{"id": 614, "english": "Pierce the Enemy"}
+{"id": 615, "english": "Assassination"}
+{"id": 616, "english": "Assassination-Assault"}
+{"id": 617, "english": "Assassination-Careless"}
+{"id": 618, "english": "Assassination Mastery"}
+{"id": 619, "english": "Acupoint Thrust Formula"}
+{"id": 620, "english": "Strike Beauty"}
+{"id": 621, "english": "Neck Rend Claw"}
+{"id": 622, "english": "Neck Rend Claw-Ambush"}
+{"id": 623, "english": "Neck Rend Claw-Power"}
+{"id": 624, "english": "Neck Rend Claw-Technique"}
+{"id": 625, "english": "Piercing Bone"}
+{"id": 626, "english": "Piercing Bone-Assault"}
+{"id": 627, "english": "Piercing Bone-Easy Wound"}
+{"id": 628, "english": "Piercing Bone-Easy Wound Randomly Generate Wounded State"}
+{"id": 629, "english": "Piercing Bone Formula"}
+{"id": 630, "english": "Sword Intent"}
+{"id": 631, "english": "Sword New Combo Generate"}
+{"id": 632, "english": "Sword Qi Silence"}
+{"id": 633, "english": "Sword Edge"}
+{"id": 634, "english": "Sword Edge-Sword Guard"}
+{"id": 635, "english": "Sword Edge-Heart Guard"}
+{"id": 636, "english": "Sword Edge HP Recovery"}
+{"id": 637, "english": "Sword Guard Dispel"}
+{"id": 638, "english": "Falling Sword Slay"}
+{"id": 639, "english": "Sword Formula"}
+{"id": 640, "english": "Dungeon Prop-Max HP"}
+{"id": 641, "english": "Dungeon Prop-Reduce Attack and Defense"}
+{"id": 642, "english": "Dungeon Prop-Haste"}
+{"id": 643, "english": "Dungeon Prop-Reflect"}
+{"id": 644, "english": "Dungeon Prop-Drain HP"}
+{"id": 645, "english": "Dungeon Prop-Drain Stamina"}
+{"id": 646, "english": "Dungeon Prop-Drain Battle Qi"}
+{"id": 647, "english": "Dungeon Prop-Hit"}
+{"id": 648, "english": "Dungeon Prop-Ignore Defense"}
+{"id": 649, "english": "Dungeon Prop-Drain Resistance"}
+{"id": 650, "english": "Dungeon Prop-Group Attack"}
+{"id": 651, "english": "Dungeon Prop-Group Stun"}
+{"id": 652, "english": "Dungeon Prop-Dodge"}
+{"id": 653, "english": "Dungeon Prop-Dispel 1"}
+{"id": 654, "english": "Dungeon Prop-Dispel 2"}
+{"id": 655, "english": "Rend"}
+{"id": 656, "english": "Rend-Wound"}
+{"id": 657, "english": "Rend-Rage"}
+{"id": 658, "english": "Cut Expose"}
+{"id": 659, "english": "Cleave"}
+{"id": 660, "english": "Cleave Crush"}
+{"id": 661, "english": "Cleave Crush-Power"}
+{"id": 662, "english": "Cleave Crush-Suppress"}
+{"id": 663, "english": "Cleave Crush-Technique"}
+{"id": 664, "english": "Cleave Crush-Opener"}
+{"id": 665, "english": "Cleave Strike"}
+{"id": 666, "english": "Power Impact"}
+{"id": 667, "english": "Power Thrust"}
+{"id": 668, "english": "Cleaving Mount Hua"}
+{"id": 669, "english": "Cleaving Mount Hua-Power"}
+{"id": 670, "english": "Cleaving Mount Hua-Technique"}
+{"id": 671, "english": "Cleaving Mount Hua Generate Mountain-Splitting Peak-Breaking"}
+{"id": 672, "english": "Cleaving Mount Hua Generate Successive Cleaves and Aptitude Immunity"}
+{"id": 673, "english": "Power Shot"}
+{"id": 674, "english": "Power Battle-Army"}
+{"id": 675, "english": "Power Battle-Rage"}
+{"id": 676, "english": "Power Battle-Break"}
+{"id": 677, "english": "Powerful China Slash"}
+{"id": 678, "english": "Force Pierces a Thousand Jun"}
+{"id": 679, "english": "Force Pierces a Thousand Jun-Assault"}
+{"id": 680, "english": "Force Pierces a Thousand Jun-Blood Bath"}
+{"id": 681, "english": "Force Pierces a Thousand Jun-Blood Bath HP Loss"}
+{"id": 682, "english": "Force Pierces a Thousand Jun-Blood Bath Attack Boost"}
+{"id": 683, "english": "Go World Cup!"}
+{"id": 684, "english": "Add HP and Massive Heal Within 3 sec"}
+{"id": 685, "english": "Haste Talisman"}
+{"id": 686, "english": "Sprint"}
+{"id": 687, "english": "Motion-Casual"}
+{"id": 688, "english": "Motion-Skill Attack 2"}
+{"id": 689, "english": "Motion-Skill Mastery Attack 1"}
+{"id": 690, "english": "Motion-Normal Attack 1"}
+{"id": 691, "english": "Motion-Normal Attack 2"}
+{"id": 692, "english": "Motion-Death"}
+{"id": 693, "english": "Raid the Camp"}
+{"id": 694, "english": "Heavy Crossbow"}
+{"id": 695, "english": "Strong Lift"}
+{"id": 696, "english": "Laborer Bracers"}
+{"id": 697, "english": "Momentum Wound"}
+{"id": 698, "english": "Like Splitting Bamboo"}
+{"id": 699, "english": "March On"}
+{"id": 700, "english": "Valor Against the Three Heroes"}
+{"id": 701, "english": "Valor Against the Three Heroes-Power"}
+{"id": 702, "english": "Valor Against the Three Heroes-Technique"}
+{"id": 703, "english": "Valor"}
+{"id": 704, "english": "Valor-Composure"}
+{"id": 705, "english": "Valor-Valiance"}
+{"id": 706, "english": "Valor-Sharp Feather"}
+{"id": 707, "english": "Bone-Melting Powder Generate Debuff"}
+{"id": 708, "english": "North Mang Direct and Indirect Resistance Boost"}
+{"id": 709, "english": "North Mang Empty Buff"}
+{"id": 710, "english": "North Mang Dispel Direct and Indirect Resistance Boost"}
+{"id": 711, "english": "North Mang Poison Orb Aura"}
+{"id": 712, "english": "Cross Cleave"}
+{"id": 713, "english": "Cross Cleave-Shatter"}
+{"id": 714, "english": "Cross Cleave-Power"}
+{"id": 715, "english": "Cross Cleave-Technique"}
+{"id": 716, "english": "Ten Directions Annihilation"}
+{"id": 717, "english": "October Friends and Family Lucky Star"}
+{"id": 718, "english": "October Friends and Family Flame"}
+{"id": 719, "english": "October Return Hero Soul Grant Reward"}
+{"id": 720, "english": "October Golden Autumn Sky God"}
+{"id": 721, "english": "October Golden Autumn Eagle Release"}
+{"id": 722, "english": "October Golden Autumn Blind Bear"}
+{"id": 723, "english": "October Golden Autumn Musk Deer Male"}
+{"id": 724, "english": "October Golden Autumn Musk Deer Female"}
+{"id": 725, "english": "October Golden Autumn Generate Extra State"}
+{"id": 726, "english": "October Golden Autumn Vulture"}
+{"id": 727, "english": "October Golden Autumn Mutton"}
+{"id": 728, "english": "Ten Paces One Kill"}
+{"id": 729, "english": "Ten Paces One Kill-Tenacity"}
+{"id": 730, "english": "Ten Paces One Kill-Chain"}
+{"id": 731, "english": "Thousand-Floor Blowdart Spawn"}
+{"id": 732, "english": "Thousand-Floor Nightingale Aura"}
+{"id": 733, "english": "Thousand-Floor Night Hawk Active"}
+{"id": 734, "english": "Thousand-Floor Meng Huo Earth-Drill Axe"}
+{"id": 735, "english": "Thousand-Floor Meng Huo Turnaround Strike"}
+{"id": 736, "english": "Thousand-Floor Meng Huo Whirlwind Axe"}
+{"id": 737, "english": "Thousand-Floor Meng Huo Sky-Shaking Mine"}
+{"id": 738, "english": "Thousand-Floor Zhang Jiao Buff Area"}
+{"id": 739, "english": "Thousand-Floor Zhang Jiao Star-Sucking Art"}
+{"id": 740, "english": "Thousand-Floor Zhang Jiao Temperament"}
+{"id": 741, "english": "Thousand-Floor Zhang Jiao Normal Attack"}
+{"id": 742, "english": "Thousand-Floor Zhang Jiao Empty Motion"}
+{"id": 743, "english": "Thousand-Floor Zhang Jiao Cholera Eight Directions"}
+{"id": 744, "english": "Thousand-Floor Mob Grant Reward"}
+{"id": 745, "english": "Thousand-Floor Guard Knockback"}
+{"id": 746, "english": "Thousand-Floor Guard Knockback 2"}
+{"id": 747, "english": "Thousand-Floor Guard Battle Qi"}
+{"id": 748, "english": "Thousand-Floor Wen Chou Nine-Combo"}
+{"id": 749, "english": "Thousand-Floor Wen Chou Blessing Aura"}
+{"id": 750, "english": "Thousand-Floor Wen Chou Sunset Arrow"}
+{"id": 751, "english": "Thousand-Floor Wooden Man HP Loss"}
+{"id": 752, "english": "Thousand-Floor Wooden Man Spawn"}
+{"id": 753, "english": "Thousand-Floor Wooden Man Captain Detonate"}
+{"id": 754, "english": "Thousand-Floor Wooden Man Captain Ground Slam"}
+{"id": 755, "english": "Thousand-Floor Wooden Man Captain Iron Armor"}
+{"id": 756, "english": "Thousand-Floor Wooden Man Self-Destruct"}
+{"id": 757, "english": "Thousand-Floor Wooden Man Self-Destruct 2"}
+{"id": 758, "english": "Thousand-Floor Wooden Deer Ten Thousand Gu"}
+{"id": 759, "english": "Thousand-Floor Wooden Deer Drag"}
+{"id": 760, "english": "Thousand-Floor Wooden Deer Poison Orb"}
+{"id": 761, "english": "Thousand-Floor Wooden Deer Boiling Blood"}
+{"id": 762, "english": "Thousand-Floor Wooden Deer Generate Confusion"}
+{"id": 763, "english": "Thousand-Floor Wooden Deer Extra Poison"}
+{"id": 764, "english": "Thousand-Floor Poison Bomb Slow"}
+{"id": 765, "english": "Thousand-Floor Chunyu Qiong Blade Cut"}
+{"id": 766, "english": "Thousand-Floor Chunyu Qiong Blade Cut 2"}
+{"id": 767, "english": "Thousand-Floor Chunyu Qiong Chant"}
+{"id": 768, "english": "Thousand-Floor Chunyu Qiong Execute"}
+{"id": 769, "english": "Thousand-Floor Chunyu Qiong Generate Bloodthirst"}
+{"id": 770, "english": "Thousand-Floor Chunyu Qiong Stun Strike"}
+{"id": 771, "english": "Thousand-Floor Rock-Paper-Scissors HP Loss"}
+{"id": 772, "english": "Thousand-Floor Player Rock-Paper-Scissors"}
+{"id": 773, "english": "Thousand-Floor Generate Dispel Iron Armor"}
+{"id": 774, "english": "Thousand-Floor Silver and Gold"}
+{"id": 775, "english": "Thousand-Floor Silver and Gold Self"}
+{"id": 776, "english": "Thousand-Floor Zhu Rong Blade Rain"}
+{"id": 777, "english": "Thousand-Floor Zhu Rong Hundred Sleeves"}
+{"id": 778, "english": "Thousand-Floor Zhu Rong Advancing Slash"}
+{"id": 779, "english": "Thousand-Floor Continue"}
+{"id": 780, "english": "Thousand-Floor Flower Mob Fragrance"}
+{"id": 781, "english": "Thousand-Floor Dong Zhuo Mountains and Rivers Surge"}
+{"id": 782, "english": "Thousand-Floor Dong Zhuo Mountain-Cleaving Blade"}
+{"id": 783, "english": "Thousand-Floor Dong Zhuo Intimidate"}
+{"id": 784, "english": "Thousand-Floor Xu Chu Eating"}
+{"id": 785, "english": "Thousand-Floor Xu Chu Popularity Swipe"}
+{"id": 786, "english": "Thousand-Floor Xu Chu Tiger Pounce Eight Directions"}
+{"id": 787, "english": "Thousand-Floor Xu Chu Tiger-Shaking Kick"}
+{"id": 788, "english": "Thousand-Floor Qing Nü Agent"}
+{"id": 789, "english": "Thousand-Floor Qing Nü Hundred Flowers"}
+{"id": 790, "english": "Thousand-Floor Qing Nü Blossom"}
+{"id": 791, "english": "Thousand-Floor Qing Nü Fragrance"}
+{"id": 792, "english": "Thousand-Floor Yan Liang 4-Combo"}
+{"id": 793, "english": "Thousand-Floor Yan Liang HP Recovery"}
+{"id": 794, "english": "Thousand-Floor Yan Liang and Wen Chou Resistance"}
+{"id": 795, "english": "Thousand-Floor Yan Liang Blessing Aura"}
+{"id": 796, "english": "Thousand-Floor Yan Liang Trample"}
+{"id": 797, "english": "Ascending Dragon"}
+{"id": 798, "english": "Ascending Dragon Strike"}
+{"id": 799, "english": "Half-Moon Slash"}
+{"id": 800, "english": "Half-Moon Slash-Power"}
+{"id": 801, "english": "Half-Moon Slash-Technique"}
+{"id": 802, "english": "Half-Moon Generate Coma"}
+{"id": 803, "english": "Huarongdao Script Bomb-Layer Plant Bomb"}
+{"id": 804, "english": "Huarongdao Script Bomb-Layer Throw Bomb"}
+{"id": 805, "english": "Huarongdao Reward"}
+{"id": 806, "english": "Huarongdao Bronze Cannon"}
+{"id": 807, "english": "Single-Target Fire Arrow Attack"}
+{"id": 808, "english": "Single-Target High Damage"}
+{"id": 809, "english": "Ride Alone to Save the Lord"}
+{"id": 810, "english": "Campaign South and North"}
+{"id": 811, "english": "Gamble Fortune"}
+{"id": 812, "english": "Divination Prop 1"}
+{"id": 813, "english": "Divination Prop 2"}
+{"id": 814, "english": "Divination Prop 3"}
+{"id": 815, "english": "Divination Prop 4"}
+{"id": 816, "english": "Divination Prop 5"}
+{"id": 817, "english": "Astrology Ascend Extra Reward"}
+{"id": 818, "english": "Astrology Mob Curse"}
+{"id": 819, "english": "Astrology Attached Skill"}
+{"id": 820, "english": "Crouching Dragon"}
+{"id": 821, "english": "Crouching Dragon Star Gazing"}
+{"id": 822, "english": "Crouching Dragon Rebirth Grant Reward"}
+{"id": 823, "english": "Crescent Arrow"}
+{"id": 824, "english": "Crescent Arrow-Power"}
+{"id": 825, "english": "Crescent Arrow-Technique"}
+{"id": 826, "english": "Crescent Arrow-Swift"}
+{"id": 827, "english": "Sharpen Weapons, Feed Horses"}
+{"id": 828, "english": "Forked Soul"}
+{"id": 829, "english": "Twin Thrust"}
+{"id": 830, "english": "Twin Thrust-Power"}
+{"id": 831, "english": "Twin Thrust-Dismantle"}
+{"id": 832, "english": "Twin Thrust Deathblow"}
+{"id": 833, "english": "Couples Gift Together"}
+{"id": 834, "english": "Twin Wing Assault"}
+{"id": 835, "english": "Twin Wing Assault 1"}
+{"id": 836, "english": "Twin-Prong Thrust"}
+{"id": 837, "english": "Twin Strike Shot"}
+{"id": 838, "english": "Twin Strike Shot 1"}
+{"id": 839, "english": "Twin-Edge Slash"}
+{"id": 840, "english": "Twin Heroes"}
+{"id": 841, "english": "Twin Heroes Overall"}
+{"id": 842, "english": "Twin Dragons Deathblow"}
+{"id": 843, "english": "Twin Dragons Deathblow-Power"}
+{"id": 844, "english": "Twin Dragons Deathblow-Technique"}
+{"id": 845, "english": "Twin Dragons Deathblow Extra Effect"}
+{"id": 846, "english": "Counter-Charm"}
+{"id": 847, "english": "Anti-Cheat Reward"}
+{"id": 848, "english": "Reflecting Light"}
+{"id": 849, "english": "Reflect-Frost Armor"}
+{"id": 850, "english": "Reflect Damage"}
+{"id": 851, "english": "Reflect Freeze"}
+{"id": 852, "english": "Reflect Attack Speed Reduction"}
+{"id": 853, "english": "Reflected Frostbite State"}
+{"id": 854, "english": "Reflected Propriety"}
+{"id": 855, "english": "Reflected Wind Assault State"}
+{"id": 856, "english": "Reflected Paralyze State"}
+{"id": 857, "english": "Reflect Stun"}
+{"id": 858, "english": "Counterstrike"}
+{"id": 859, "english": "Counterstrike-Power"}
+{"id": 860, "english": "Counterstrike-Shadow"}
+{"id": 861, "english": "Rebellious Bone"}
+{"id": 862, "english": "Fire Loud Cracker"}
+{"id": 863, "english": "Grant Longevity Star Blessing"}
+{"id": 864, "english": "Grant New Year Blessing"}
+{"id": 865, "english": "Grant Gift"}
+{"id": 866, "english": "Grant Prosperity Star Blessing"}
+{"id": 867, "english": "Grant Fortune Star Blessing"}
+{"id": 868, "english": "Transform Immobilize Skill"}
+{"id": 869, "english": "Transform Turret Skill"}
+{"id": 870, "english": "Ancient Evil Come Again"}
+{"id": 871, "english": "Ancient Ding Slash"}
+{"id": 872, "english": "Eye of Cumang"}
+{"id": 873, "english": "Tiger Reborn"}
+{"id": 874, "english": "Leaf Dance"}
+{"id": 875, "english": "Leaf Dance-Assault"}
+{"id": 876, "english": "Leaf Dance-Armor Sunder"}
+{"id": 877, "english": "Sima Yi Heavenly Fire Prairie Fire"}
+{"id": 878, "english": "Sima Yi Fire Meteor"}
+{"id": 879, "english": "Sima Yi Fireball"}
+{"id": 880, "english": "Sima Yi Fire Armor"}
+{"id": 881, "english": "Combine"}
+{"id": 882, "english": "United Heart Strike"}
+{"id": 883, "english": "Battle of Hefei Nine Heavens Piggy"}
+{"id": 884, "english": "Battle of Hefei Ling Tong"}
+{"id": 885, "english": "Battle of Hefei Lu Meng"}
+{"id": 886, "english": "Battle of Hefei Song Qian"}
+{"id": 887, "english": "Battle of Hefei Siege Cart"}
+{"id": 888, "english": "Battle of Hefei Xu Sheng"}
+{"id": 889, "english": "Battle of Hefei Star-Flower Rabbit"}
+{"id": 890, "english": "Battle of Hefei Wooden Deer King"}
+{"id": 891, "english": "Battle of Hefei Pan Zhang"}
+{"id": 892, "english": "Battle of Hefei Zhen Ji"}
+{"id": 893, "english": "Battle of Hefei Guo Xiaomei"}
+{"id": 894, "english": "Battle of Hefei Iron Head Soldier"}
+{"id": 895, "english": "Battle of Hefei Iron Boss"}
+{"id": 896, "english": "Battle of Hefei Chen Wu"}
+{"id": 897, "english": "Hefei Tailwind and Headwind"}
+{"id": 898, "english": "Famous General Blessing"}
+{"id": 899, "english": "Rank Reward"}
+{"id": 900, "english": "Hou Yi Crush Skill"}
+{"id": 901, "english": "Back-Leap Stance"}
+{"id": 902, "english": "Back-Leap Stance-Technique"}
+{"id": 903, "english": "Back-Leap Crossbow"}
+{"id": 904, "english": "Lu Bu Valor Against the Three Heroes"}
+{"id": 905, "english": "Lu Bu Skill Effect"}
+{"id": 906, "english": "Lu Bu Sky-Piercing Halberd"}
+{"id": 907, "english": "Lu Bu Rage"}
+{"id": 908, "english": "Lu Bu Red Hare's Might"}
+{"id": 909, "english": "Lu Meng Lightning Stun"}
+{"id": 910, "english": "Lu Meng Lightning Aim"}
+{"id": 911, "english": "Listening Force"}
+{"id": 912, "english": "Listening Force Training"}
+{"id": 913, "english": "Marquis Wu Generate Outstanding Hero"}
+{"id": 914, "english": "Wu State Junior First-Rank General of the Guards"}
+{"id": 915, "english": "Wu State Junior First-Rank Minister of Works"}
+{"id": 916, "english": "Wu State Junior First-Rank Minister of Ceremonies"}
+{"id": 917, "english": "Wu State Junior First-Rank Grand Commandant"}
+{"id": 918, "english": "Wu State Junior First-Rank General of Chariots and Cavalry"}
+{"id": 919, "english": "Wu State Junior First-Rank Marshal of the Flying Cavalry"}
+{"id": 920, "english": "Wu State Junior Second-Rank Prefect of Jingzhao"}
+{"id": 921, "english": "Wu State Junior Second-Rank Palace Attendant-in-Chief"}
+{"id": 922, "english": "Wu State Junior Second-Rank Front Military Supervisor"}
+{"id": 923, "english": "Wu State Junior Second-Rank Front General of the Guards"}
+{"id": 924, "english": "Wu State Junior Second-Rank Right Administrator of Fufeng"}
+{"id": 925, "english": "Wu State Junior Second-Rank Right Military Supervisor"}
+{"id": 926, "english": "Wu State Junior Second-Rank Right General of the Guards"}
+{"id": 927, "english": "Wu State Junior Second-Rank Rear Military Supervisor"}
+{"id": 928, "english": "Wu State Junior Second-Rank Rear General of the Guards"}
+{"id": 929, "english": "Wu State Junior Second-Rank Grand Palace Attendant"}
+{"id": 930, "english": "Wu State Junior Second-Rank Minister of the Imperial Clan"}
+{"id": 931, "english": "Wu State Junior Second-Rank Superintendent of Works"}
+{"id": 932, "english": "Wu State Junior Second-Rank Administrator of the Left"}
+{"id": 933, "english": "Wu State Junior Second-Rank Left Military Supervisor"}
+{"id": 934, "english": "Wu State Junior Second-Rank Left General of the Guards"}
+{"id": 935, "english": "Wu State Junior Second-Rank Minister of Justice"}
+{"id": 936, "english": "Wu State Junior Second-Rank General Conquering the East"}
+{"id": 937, "english": "Wu State Junior Second-Rank General Conquering the North"}
+{"id": 938, "english": "Wu State Junior Second-Rank General Conquering the South"}
+{"id": 939, "english": "Wu State Junior Second-Rank General Conquering the West"}
+{"id": 940, "english": "Wu State Junior Second-Rank General Guarding the East"}
+{"id": 941, "english": "Wu State Junior Second-Rank General Guarding the North"}
+{"id": 942, "english": "Wu State Junior Second-Rank General Guarding the South"}
+{"id": 943, "english": "Wu State Junior Second-Rank General Guarding the West"}
+{"id": 944, "english": "Wu State First-Rank Grand Chancellor"}
+{"id": 945, "english": "Wu State First-Rank Grand Commander"}
+{"id": 946, "english": "Wu State Second-Rank Commandant of Guards"}
+{"id": 947, "english": "Wu State Second-Rank Right Protector General"}
+{"id": 948, "english": "Wu State Second-Rank Grand Minister of Agriculture"}
+{"id": 949, "english": "Wu State Second-Rank Grand Herald"}
+{"id": 950, "english": "Wu State Second-Rank Grand Coachman"}
+{"id": 951, "english": "Wu State Second-Rank Grand Ceremonial Master"}
+{"id": 952, "english": "Wu State Second-Rank Left Protector General"}
+{"id": 953, "english": "Wu State Second-Rank Grand General of the Army"}
+{"id": 954, "english": "Wu State Second-Rank Grand General Assisting the State"}
+{"id": 955, "english": "Wu State Second-Rank Grand General Guarding the Army"}
+{"id": 956, "english": "Wu Hook Bright with Frost and Snow"}
+{"id": 957, "english": "Wu Hook Bright with Frost and Snow-Battle"}
+{"id": 958, "english": "Wu Hook Bright with Frost and Snow-Bedrock"}
+{"id": 959, "english": "Wu Hook Bright with Frost and Snow-Boiling Blood"}
+{"id": 960, "english": "Wu Hong Hu Ji"}
+{"id": 961, "english": "Wu Hong Hu Ji-Boiling Blood"}
+{"id": 962, "english": "Soul Drain Reflect"}
+{"id": 963, "english": "Soul Drain Condition Generate Attack Power"}
+{"id": 964, "english": "Zhou Cang Mountain-Cleaving Blade"}
+{"id": 965, "english": "Zhou Cang Trample"}
+{"id": 966, "english": "Zhou Yu Single-Target Attack Boost"}
+{"id": 967, "english": "Zhou Yu and Sun Ce Full HP"}
+{"id": 968, "english": "Zhou Yu Group Attack Boost"}
+{"id": 969, "english": "Zhou Yu Group Attack"}
+{"id": 970, "english": "Lord Zhou's Cunning Scheme"}
+{"id": 971, "english": "Lord Zhou's Dance"}
+{"id": 972, "english": "Summon Wind and Rain"}
+{"id": 973, "english": "Ice Curse Art"}
+{"id": 974, "english": "Ice Curse Art-Tactic"}
+{"id": 975, "english": "Ice Curse Art Generate Numbness"}
+{"id": 976, "english": "Curse Seal Art"}
+{"id": 977, "english": "Dong Dong Drum"}
+{"id": 978, "english": "Gouge the Eyes"}
+{"id": 979, "english": "Gouge the Eyes Fierce Battle"}
+{"id": 980, "english": "Chirp Dance"}
+{"id": 981, "english": "Silver Tongue"}
+{"id": 982, "english": "Formation Master"}
+{"id": 983, "english": "Festive Ingot Skill"}
+{"id": 984, "english": "Joyous Scale"}
+{"id": 985, "english": "Shout Breaks Changban"}
+{"id": 986, "english": "Fire-Breathing Mob Instant HP Loss"}
+{"id": 987, "english": "Kill-Mad"}
+{"id": 988, "english": "Taunt"}
+{"id": 989, "english": "Taunt-Firm"}
+{"id": 990, "english": "Siege Engine Close Combat"}
+{"id": 991, "english": "Nightmare Slumber"}
+{"id": 992, "english": "Heart-Devouring Art"}
+{"id": 993, "english": "Bloodthirst"}
+{"id": 994, "english": "Bloodthirst-Wound"}
+{"id": 995, "english": "Bloodthirst-Rage"}
+{"id": 996, "english": "Four Directions Kill"}
+{"id": 997, "english": "Four Directions Kill-Power"}
+{"id": 998, "english": "Four Directions Kill-Mass Battle"}
+{"id": 999, "english": "April Fish"}
+{"id": 1000, "english": "Stamina Recovery Buff "}
+{"id": 1001, "english": "Return to Town"}
+{"id": 1002, "english": "Reversal"}
+{"id": 1003, "english": "Spinning Blade Throw"}
+{"id": 1004, "english": "Spinning Blade Chain Throw"}
+{"id": 1005, "english": "Spinning Edge"}
+{"id": 1006, "english": "Spring Rebirth Art"}
+{"id": 1007, "english": "Qi Recovery Break"}
+{"id": 1008, "english": "Qi Recovery Break-Iron Armor"}
+{"id": 1009, "english": "Qi Recovery Break-Assault"}
+{"id": 1010, "english": "HP Recovery"}
+{"id": 1011, "english": "HP Recovery buff "}
+{"id": 1012, "english": "HP Recovery with Duration"}
+{"id": 1013, "english": "Returning Edge Slash"}
+{"id": 1014, "english": "Returning Edge Slash-Rage"}
+{"id": 1015, "english": "Returning Edge Slash Generate Empty State"}
+{"id": 1016, "english": "Returning Edge Slash Generate Counter"}
+{"id": 1017, "english": "Wind Sweeps the Leaves"}
+{"id": 1018, "english": "Turn and Thrust"}
+{"id": 1019, "english": "Turn and Thrust-Power"}
+{"id": 1020, "english": "Returning Dragon Chaos"}
+{"id": 1021, "english": "Team Skill"}
+{"id": 1022, "english": "Solid as Molten Gold"}
+{"id": 1023, "english": "Nation War-Winds and Rains from Every Direction"}
+{"id": 1024, "english": "Nation War-Twin Wing Assault"}
+{"id": 1025, "english": "Nation War-Twin Strike Shot"}
+{"id": 1026, "english": "Nation War-Heaven Origin Strike"}
+{"id": 1027, "english": "Nation War-Earth Guard Strike"}
+{"id": 1028, "english": "Nation War-Swallow Return Charge"}
+{"id": 1029, "english": "Nation War-Gale Shot"}
+{"id": 1030, "english": "Nation War-Wing Ascend Slash"}
+{"id": 1031, "english": "Nation War-Chain Shot"}
+{"id": 1032, "english": "Nation War-Rapid Shot"}
+{"id": 1033, "english": "Nation War-Flying Slash"}
+{"id": 1034, "english": "Nation War-Dragon Flame Bolt"}
+{"id": 1035, "english": "Nation War Unit"}
+{"id": 1036, "english": "Nation War General Increase HP Multiplier AP Hit Points"}
+{"id": 1037, "english": "Nation War Rise State"}
+{"id": 1038, "english": "Nation War Increase HP AP Hit Points"}
+{"id": 1039, "english": "Nation War Increase HP Multiplier AP Hit Points"}
+{"id": 1040, "english": "Nation War King"}
+{"id": 1041, "english": "Nation War Chariot"}
+{"id": 1042, "english": "Nation War First Arrow Tower Destroy"}
+{"id": 1043, "english": "Nation War First General Kill"}
+{"id": 1044, "english": "National Beauty-Charm"}
+{"id": 1045, "english": "National Beauty and Heavenly Fragrance"}
+{"id": 1046, "english": "Round Moon Slash"}
+{"id": 1047, "english": "Round Moon Slash-Power"}
+{"id": 1048, "english": "Round Moon Slash-Technique"}
+{"id": 1049, "english": "Round Moon Dispel Sword Intent"}
+{"id": 1050, "english": "Earth Spirit"}
+{"id": 1051, "english": "Earth Spirit-Assault"}
+{"id": 1052, "english": "Earth Spirit-Careless"}
+{"id": 1053, "english": "Earth and Stone Collapse"}
+{"id": 1054, "english": "Earth Element Corresponding Generate State"}
+{"id": 1055, "english": "Holy Spirit Dance"}
+{"id": 1056, "english": "Holy Judgment"}
+{"id": 1057, "english": "Christmas Gift"}
+{"id": 1058, "english": "Christmas Blessing"}
+{"id": 1059, "english": "Christmas Carol"}
+{"id": 1060, "english": "Using Chaotic Ring Stance while in Defensive Stance will fling you backward, away from enemy threats.<CRLF>Fling distance is 5+level"}
+{"id": 1061, "english": "While in Defensive Stance, using Swift Attack has a Chance to interrupt the enemy, breaking their Move for 3 sec.<CRLF>10%*level"}
+{"id": 1062, "english": "While in Defensive Stance, using Swift Attack has a Chance to recover extra Battle Qi.<CRLF>Chance is 5%*level<CRLF>Recovered Battle Qi: 5+2*Defensive Stance stacks"}
+{"id": 1063, "english": "Online Spirit Grant Prerequisite Skill"}
+{"id": 1064, "english": "Earthquake Weaken Effect"}
+{"id": 1065, "english": "Earth Shakes, Mountains Tremble"}
+{"id": 1066, "english": "Region HP Recovery"}
+{"id": 1067, "english": "Region Increase Attack Power"}
+{"id": 1068, "english": "Region Increase Crit Resistance"}
+{"id": 1069, "english": "Region Increase Heal Effect"}
+{"id": 1070, "english": "Region Increase Max HP Fixed Value"}
+{"id": 1071, "english": "Region Increase Movement and Riding Speed"}
+{"id": 1072, "english": "Map Boss New Skill 02"}
+{"id": 1073, "english": "Map Boss New Skill 03"}
+{"id": 1074, "english": "Map Boss New Skill 04"}
+{"id": 1075, "english": "Map Boss New Skill 06"}
+{"id": 1076, "english": "Map Boss New Skill 07"}
+{"id": 1077, "english": "Map Boss New Skill 10"}
+{"id": 1078, "english": "Map Boss New Skill 14"}
+{"id": 1079, "english": "Map Boss New Skill 15"}
+{"id": 1080, "english": "Map Boss New Skill 16"}
+{"id": 1081, "english": "Map Boss New Skill 17"}
+{"id": 1082, "english": "Map Boss New Skill 18"}
+{"id": 1083, "english": "Map Boss New Skill 19"}
+{"id": 1084, "english": "Map Boss New Skill 20"}
+{"id": 1085, "english": "Map Boss New Skill 21"}
+{"id": 1086, "english": "Map Boss New Skill 22"}
+{"id": 1087, "english": "Map Boss New Skill 23"}
+{"id": 1088, "english": "Map Boss New Skill 26"}
+{"id": 1089, "english": "Map Boss New Skill 28"}
+{"id": 1090, "english": "Map Boss New Skill 29"}
+{"id": 1091, "english": "Map Boss New Skill 31"}
+{"id": 1092, "english": "Map Boss New Skill 32"}
+{"id": 1093, "english": "Map Boss New Skill 33"}
+{"id": 1094, "english": "Map Boss New Skill 34"}
+{"id": 1095, "english": "Map Protection Single-Target Attack"}
+{"id": 1096, "english": "Map Weather Wind Self Buff"}
+{"id": 1097, "english": "Map Weather Lightning Strike"}
+{"id": 1098, "english": "Map Weather Blowing Sand and Rolling Stones"}
+{"id": 1099, "english": "Map State Exclusive 1"}
+{"id": 1100, "english": "Map State Exclusive 2"}
+{"id": 1101, "english": "Map State Exclusive 3"}
+{"id": 1102, "english": "Map State Exclusive 4"}
+{"id": 1103, "english": "Map State Exclusive 5"}
+{"id": 1104, "english": "Map State Exclusive 6"}
+{"id": 1105, "english": "Map State Exclusive 7"}
+{"id": 1106, "english": "Underground Palace Evil Fire Buff Mob"}
+{"id": 1107, "english": "Earth Grief Strike"}
+{"id": 1108, "english": "Earth Grief Strike-Strong Wall"}
+{"id": 1109, "english": "Landmine"}
+{"id": 1110, "english": "Landmine Light Effect"}
+{"id": 1111, "english": "Strong Wall"}
+{"id": 1112, "english": "Strong Wall-Technique"}
+{"id": 1113, "english": "Hold Fast"}
+{"id": 1114, "english": "Attacked While Holding Fast"}
+{"id": 1115, "english": "Hold Fast Generate Extra State"}
+{"id": 1116, "english": "Steadfast Will"}
+{"id": 1117, "english": "Resolute"}
+{"id": 1118, "english": "Iron Armor"}
+{"id": 1119, "english": "Iron Armor Divine Weapon"}
+{"id": 1120, "english": "Firm Formation"}
+{"id": 1121, "english": "Falling Jade"}
+{"id": 1122, "english": "Base Suppression Boss"}
+{"id": 1123, "english": "Base Suppression Minion 1"}
+{"id": 1124, "english": "Base Suppression Minion 2"}
+{"id": 1125, "english": "Base Suppression Minion 3"}
+{"id": 1126, "english": "Base Suppression Mob Attack"}
+{"id": 1127, "english": "Base Invincible Mob"}
+{"id": 1128, "english": "Base Event Mob Buff 1"}
+{"id": 1129, "english": "Base Event Mob Buff 2"}
+{"id": 1130, "english": "Base Event Mob Buff 3"}
+{"id": 1131, "english": "Base Event Mob Buff 4"}
+{"id": 1132, "english": "Base Event Mob Buff 5"}
+{"id": 1133, "english": "Base Event Mob Skill 1"}
+{"id": 1134, "english": "Base Event Mob Skill 11"}
+{"id": 1135, "english": "Base Event Mob Skill 12"}
+{"id": 1136, "english": "Base Event Mob Skill 13"}
+{"id": 1137, "english": "Base Event Mob Skill 14"}
+{"id": 1138, "english": "Base Event Mob Skill 15"}
+{"id": 1139, "english": "Base Event Mob Skill 16"}
+{"id": 1140, "english": "Base Event Mob Skill 17"}
+{"id": 1141, "english": "Base Event Mob Skill 18"}
+{"id": 1142, "english": "Base Event Mob Skill 2"}
+{"id": 1143, "english": "Base Event Mob Skill 3"}
+{"id": 1144, "english": "Base Event Mob Skill 4"}
+{"id": 1145, "english": "Base Event Mob Skill 5"}
+{"id": 1146, "english": "Basic Riding"}
+{"id": 1147, "english": "Increase Aggro Points"}
+{"id": 1148, "english": "Increase Heal Points 50"}
+{"id": 1149, "english": "Add State"}
+{"id": 1150, "english": "Increase Food Recovery Effect"}
+{"id": 1151, "english": "Buff Prop-Max HP"}
+{"id": 1152, "english": "Buff Prop-Haste"}
+{"id": 1153, "english": "Buff Prop-Attack"}
+{"id": 1154, "english": "Buff Prop-Attack Speed"}
+{"id": 1155, "english": "Buff Prop-Battle Qi"}
+{"id": 1156, "english": "Buff Prop-Crit"}
+{"id": 1157, "english": "Buff Prop-Group Attack"}
+{"id": 1158, "english": "Buff Prop-Ranged Attack Speed"}
+{"id": 1159, "english": "Buff Prop-Dodge"}
+{"id": 1160, "english": "Buff Prop-Defense"}
+{"id": 1161, "english": "Buff Prop-Crit Resistance"}
+{"id": 1162, "english": "Bulwark"}
+{"id": 1163, "english": "Bulwark-Charm"}
+{"id": 1164, "english": "Bulwark-Charm 1"}
+{"id": 1165, "english": "High Morale"}
+{"id": 1166, "english": "Prestige Generate Five Tigers"}
+{"id": 1167, "english": "Reputation Snowball"}
+{"id": 1168, "english": "Vengeance Power"}
+{"id": 1169, "english": "Revive Protection"}
+{"id": 1170, "english": "Revive Protection Skill"}
+{"id": 1171, "english": "Xiahou ?? Flowing Cloud Slash"}
+{"id": 1172, "english": "Xiahou Yuan Full Draw Chain Shot"}
+{"id": 1173, "english": "Xiahou Yuan Arrow Rain"}
+{"id": 1174, "english": "Summer Boss Grant Reward"}
+{"id": 1175, "english": "Side Story 12 Yan Shi 1"}
+{"id": 1176, "english": "Side Story 12 Yan Shi 2"}
+{"id": 1177, "english": "Side Story 12 Xu Rong 1"}
+{"id": 1178, "english": "Side Story 12 Xu Rong 2"}
+{"id": 1179, "english": "Side Story 12 Cao Shi 1"}
+{"id": 1180, "english": "Side Story 12 Cao Shi 2"}
+{"id": 1181, "english": "Side Story 12 Li Ru 1"}
+{"id": 1182, "english": "Side Story 12 Li Ru 2"}
+{"id": 1183, "english": "Side Story 12 Bi You 1"}
+{"id": 1184, "english": "Side Story 12 Bi You 2"}
+{"id": 1185, "english": "Side Story 12 Bi You 3"}
+{"id": 1186, "english": "Side Story 12 Bi You 4"}
+{"id": 1187, "english": "Side Story 12 Dong Zhuo 1"}
+{"id": 1188, "english": "Side Story 12 Dong Zhuo 2"}
+{"id": 1189, "english": "Side Story 12 Dong Zhuo 3"}
+{"id": 1190, "english": "Side Story 12 Dong Manor Jailer 1"}
+{"id": 1191, "english": "Side Story 12 Dong Manor Jailer 2"}
+{"id": 1192, "english": "Night Weeping"}
+{"id": 1193, "english": "Night Lady Grant Reward"}
+{"id": 1194, "english": "Night Lady Wrath Group Transform"}
+{"id": 1195, "english": "Night Lady Generate Water Splash"}
+{"id": 1196, "english": "Night Lady Empty Motion"}
+{"id": 1197, "english": "Night Lady Dispel Own Wrath"}
+{"id": 1198, "english": "Night Battle Eight Directions"}
+{"id": 1199, "english": "Night Battle Eight Directions-Immunity"}
+{"id": 1200, "english": "Night Battle Eight Directions-Power"}
+{"id": 1201, "english": "Night Moon Frost Condense"}
+{"id": 1202, "english": "Night Moon Frost Condense-Assault"}
+{"id": 1203, "english": "Night Moon Frost Condense-Soul Sever"}
+{"id": 1204, "english": "Night Raid"}
+{"id": 1205, "english": "Night Hawk Crush Skill"}
+{"id": 1206, "english": "Dismember into Eight Pieces"}
+{"id": 1207, "english": "Dismember into Eight Pieces-Aggro"}
+{"id": 1208, "english": "Dismember into Eight Pieces-Power"}
+{"id": 1209, "english": "Dismember into Eight Pieces-Gale"}
+{"id": 1210, "english": "Earth's Wild Howl"}
+{"id": 1211, "english": "Earth's Wild Howl-Holy Judgment"}
+{"id": 1212, "english": "Earth's Wild Howl-Assault"}
+{"id": 1213, "english": "Greatly Increase Attack Buff"}
+{"id": 1214, "english": "Greatly Increase Attack Buff "}
+{"id": 1215, "english": "Wide and Boundless"}
+{"id": 1216, "english": "Ultimate Generate Immunity"}
+{"id": 1217, "english": "Three Years of Drought"}
+{"id": 1218, "english": "Han Elite Troops"}
+{"id": 1219, "english": "Han Golden Soldiers"}
+{"id": 1220, "english": "Bestow Rewards on All"}
+{"id": 1221, "english": "Elegant Melody"}
+{"id": 1222, "english": "Dance of the Great Wind"}
+{"id": 1223, "english": "Dance of the Great Wind-Power"}
+{"id": 1224, "english": "Dance of the Great Wind-Technique"}
+{"id": 1225, "english": "World Cease Fire"}
+{"id": 1226, "english": "Unmatched Under Heaven"}
+{"id": 1227, "english": "World Arena Grant State"}
+{"id": 1228, "english": "Heavenly Righteousness"}
+{"id": 1229, "english": "Heaven's Blessing"}
+{"id": 1230, "english": "Heaven's Blessing-Wu Battles Ministers One Hero"}
+{"id": 1231, "english": "Heaven's Blessing-Shu Battles Ministers One Hero"}
+{"id": 1232, "english": "Heaven's Blessing-Wei Battles Ministers One Hero"}
+{"id": 1233, "english": "Heaven's Blessing Generate State"}
+{"id": 1234, "english": "Heaven Origin Strike"}
+{"id": 1235, "english": "Heaven Origin Strike 1"}
+{"id": 1236, "english": "Heavenly Soldier Crush Skill"}
+{"id": 1237, "english": "Son of Heaven Issues Edict"}
+{"id": 1238, "english": "Heaven Collapse Slash"}
+{"id": 1239, "english": "Weather Effect Karmic Fire"}
+{"id": 1240, "english": "Weather Effect Frozen Snow"}
+{"id": 1241, "english": "Weather Effect Earthquake"}
+{"id": 1242, "english": "Weather Effect Overcast Rain"}
+{"id": 1243, "english": "Weather Effect Sandstorm Headwind"}
+{"id": 1244, "english": "Weather Effect Sandstorm Tailwind"}
+{"id": 1245, "english": "Heavenly Fire Prairie Fire"}
+{"id": 1246, "english": "Innate Skill (Temporarily Disabled)"}
+{"id": 1247, "english": "Born With Divine Strength"}
+{"id": 1248, "english": "Talent 28"}
+{"id": 1249, "english": "Talent 29"}
+{"id": 1250, "english": "Talent 30"}
+{"id": 1251, "english": "Fire From Heaven"}
+{"id": 1252, "english": "Fortune God Descends"}
+{"id": 1253, "english": "Heavenly Thunder Charm"}
+{"id": 1254, "english": "Heavenly Fragrance-Shadow"}
+{"id": 1255, "english": "Taishi Ci Uproots Mountains and Rivers"}
+{"id": 1256, "english": "Taishi Ci and Zhou Cang Grant Key"}
+{"id": 1257, "english": "Taishi Ci Thrust"}
+{"id": 1258, "english": "Taishi Ci Group Control Skill"}
+{"id": 1259, "english": "Taishi Ci Group Attack Skill"}
+{"id": 1260, "english": "Grand Preceptor's Inquiry"}
+{"id": 1261, "english": "Marriage Level 1"}
+{"id": 1262, "english": "Deathblow-Army"}
+{"id": 1263, "english": "Deathblow-Rage"}
+{"id": 1264, "english": "Deathblow-Break"}
+{"id": 1265, "english": "Death Halberd"}
+{"id": 1266, "english": "Death Halberd-Power"}
+{"id": 1267, "english": "Exceptional Aide"}
+{"id": 1268, "english": "Surprise Attack"}
+{"id": 1269, "english": "Cunning Stratagem"}
+{"id": 1270, "english": "Encounter November Mob Spawn"}
+{"id": 1271, "english": "Encounter November Curse 1"}
+{"id": 1272, "english": "Encounter November Curse 2"}
+{"id": 1273, "english": "Encounter November Curse 3"}
+{"id": 1274, "english": "Encounter November Curse 4"}
+{"id": 1275, "english": "Encounter 40m Curse"}
+{"id": 1276, "english": "Encounter Different Faction Add State 1"}
+{"id": 1277, "english": "Encounter Different Faction Add State 2"}
+{"id": 1278, "english": "Encounter Different Faction Add State 3"}
+{"id": 1279, "english": "Encounter Quest Oil Bomb"}
+{"id": 1280, "english": "Encounter Immune Summon Mob 1"}
+{"id": 1281, "english": "Encounter Immune Summon Mob 2"}
+{"id": 1282, "english": "Encounter Immune Summon Mob 3"}
+{"id": 1283, "english": "Encounter Bajie Attacked"}
+{"id": 1284, "english": "Encounter Spawn Skill"}
+{"id": 1285, "english": "Encounter Rebel Camp"}
+{"id": 1286, "english": "Encounter Summon NPC 1"}
+{"id": 1287, "english": "Encounter Summon NPC November"}
+{"id": 1288, "english": "Encounter Summon NPC 2"}
+{"id": 1289, "english": "Encounter Summon NPC 3"}
+{"id": 1290, "english": "Encounter Same Faction Add State 1"}
+{"id": 1291, "english": "Encounter Same Faction Add State 2"}
+{"id": 1292, "english": "Encounter Same Faction Add State 3"}
+{"id": 1293, "english": "Encounter Same Faction Add State 4"}
+{"id": 1294, "english": "Encounter Same Faction Add State 5"}
+{"id": 1295, "english": "Encounter Lu Ning Spawn Skill"}
+{"id": 1296, "english": "Encounter Sun Yibing Skill"}
+{"id": 1297, "english": "Encounter Sun Yibing Disappear"}
+{"id": 1298, "english": "Encounter Mengjin Ruins"}
+{"id": 1299, "english": "Encounter Bashu Zhongnan Road"}
+{"id": 1300, "english": "Encounter Market"}
+{"id": 1301, "english": "Encounter Archer Spawn Skill"}
+{"id": 1302, "english": "Encounter Watergrass Plain"}
+{"id": 1303, "english": "Encounter Generate Cooldown"}
+{"id": 1304, "english": "Encounter Generate Judgment State"}
+{"id": 1305, "english": "Encounter Generated Slow"}
+{"id": 1306, "english": "Encounter White Sand Shore Evil"}
+{"id": 1307, "english": "Encounter White Horse Temple Island"}
+{"id": 1308, "english": "Encounter Self Blessing"}
+{"id": 1309, "english": "Encounter Golden Sand Beach Fishing Village"}
+{"id": 1310, "english": "Encounter Crocodile Mob Deadly Poison"}
+{"id": 1311, "english": "Encounter Crocodile Mob Antidote"}
+{"id": 1312, "english": "Encounter Hongguyuan Ghost King"}
+{"id": 1313, "english": "Encounter Yellow Turban Stronghold"}
+{"id": 1314, "english": "Encounter Black Market White Sand Shore"}
+{"id": 1315, "english": "Qimen Dunjia"}
+{"id": 1316, "english": "Fierce Attack Generate Follow-Up State"}
+{"id": 1317, "english": "Fierce Attack Generate Follow-Up State "}
+{"id": 1318, "english": "Fierce Attack Generate Hit State "}
+{"id": 1319, "english": "Valiance"}
+{"id": 1320, "english": "Fierce Battle"}
+{"id": 1321, "english": "Fierce Battle Drum"}
+{"id": 1322, "english": "Rising Force Charge"}
+{"id": 1323, "english": "Thunder Through Clouds"}
+{"id": 1324, "english": "Thunder Through Clouds-Assault"}
+{"id": 1325, "english": "Thunder Through Clouds-Pursuit"}
+{"id": 1326, "english": "Thunder Rush Formula"}
+{"id": 1327, "english": "Lasso Arrow"}
+{"id": 1328, "english": "Female Ghost Ascends"}
+{"id": 1329, "english": "Villain Hero"}
+{"id": 1330, "english": "Friend Visit"}
+{"id": 1331, "english": "As Profound as the Void"}
+{"id": 1332, "english": "Miraculous Healing"}
+{"id": 1333, "english": "Miraculous Healing Generate Defense Boost "}
+{"id": 1334, "english": "Awe the Eight Desolations"}
+{"id": 1335, "english": "Deterrence"}
+{"id": 1336, "english": "Deterrence (When Attacked)"}
+{"id": 1337, "english": "Awe-Inspiring Presence"}
+{"id": 1338, "english": "Wedding Phoenix Flight"}
+{"id": 1339, "english": "Wedding Grant Item"}
+{"id": 1340, "english": "Wedding Sunflower"}
+{"id": 1341, "english": "Wedding Peach Blossom Petals"}
+{"id": 1342, "english": "Wedding Heart Painting"}
+{"id": 1343, "english": "Wedding Autumn Leaves"}
+{"id": 1344, "english": "Wedding Dragon Dance"}
+{"id": 1345, "english": "Pet Play"}
+{"id": 1346, "english": "Ziwu Valley Buff Potion 1"}
+{"id": 1347, "english": "Ziwu Valley Buff Potion 2"}
+{"id": 1348, "english": "Ziwu Valley Buff Potion 3"}
+{"id": 1349, "english": "Ziwu Valley Global Buff 1"}
+{"id": 1350, "english": "Ziwu Valley Global Buff 2"}
+{"id": 1351, "english": "Ziwu Valley Global Buff 3"}
+{"id": 1352, "english": "Ziwu Valley Global Buff 4"}
+{"id": 1353, "english": "Ziwu Valley Generic Slow"}
+{"id": 1354, "english": "Ziwu Valley Prop 1"}
+{"id": 1355, "english": "Ziwu Valley Prop 2"}
+{"id": 1356, "english": "Ziwu Valley Prop 3"}
+{"id": 1357, "english": "Sky Lantern"}
+{"id": 1358, "english": "Save Increase Attack Power"}
+{"id": 1359, "english": "Save Increase Crit Resistance"}
+{"id": 1360, "english": "Save Increase Max HP Fixed Value"}
+{"id": 1361, "english": "Save Test Hit Counter"}
+{"id": 1362, "english": "Save Test Compound Condition"}
+{"id": 1363, "english": "Save Test Time"}
+{"id": 1364, "english": "Save Test Normal State None"}
+{"id": 1365, "english": "Save Test Normal Instant"}
+{"id": 1366, "english": "Save Test Kill Counter"}
+{"id": 1367, "english": "Save Test Hit Taken Counter"}
+{"id": 1368, "english": "Save Game Test"}
+{"id": 1369, "english": "Sun Shangxiang Single 1"}
+{"id": 1370, "english": "Sun Shangxiang Single 2"}
+{"id": 1371, "english": "Sun Shangxiang Single 3"}
+{"id": 1372, "english": "Sun Shangxiang Group (Cannot Use Ointment)"}
+{"id": 1373, "english": "Sun Shangxiang Self Buff"}
+{"id": 1374, "english": "Sun Quan Fan Group"}
+{"id": 1375, "english": "Sun Quan Generate Stamina Cap Set 0"}
+{"id": 1376, "english": "Sun Quan Generate Battle Qi Cap Set 0"}
+{"id": 1377, "english": "Sun Quan Generate Silence"}
+{"id": 1378, "english": "Sun Quan Line Group 1"}
+{"id": 1379, "english": "Sun Quan Line Group 2"}
+{"id": 1380, "english": "Sun Quan Group Attack"}
+{"id": 1381, "english": "Sun Ce Mark Target"}
+{"id": 1382, "english": "Sun Ce Rage"}
+{"id": 1383, "english": "Sun Ce Generate Attack Down 50"}
+{"id": 1384, "english": "Sun Ce Generate Attack Power Down 50"}
+{"id": 1385, "english": "Sun Ce Generate Attack Speed Down 50"}
+{"id": 1386, "english": "Sun Ce Instant-Kill Marked Target"}
+{"id": 1387, "english": "Sun Ce Line Group 1"}
+{"id": 1388, "english": "Sun Ce Line Group 2"}
+{"id": 1389, "english": "Sun Ce Line Group Attack"}
+{"id": 1390, "english": "Sun Ce Group Stun with Instant Kill"}
+{"id": 1391, "english": "Filial Son Gift Pack (Mother's Day)"}
+{"id": 1392, "english": "Filial Son Gift Pack (Father's Day)"}
+{"id": 1393, "english": "Meng Huo Tiger Roar"}
+{"id": 1394, "english": "Guard-PK Penalty"}
+{"id": 1395, "english": "Guard Wuchao"}
+{"id": 1396, "english": "Guard Yuanwu Camp"}
+{"id": 1397, "english": "Guard Yanjin Camp"}
+{"id": 1398, "english": "Guard Baima Slope"}
+{"id": 1399, "english": "Guard Mining Area"}
+{"id": 1400, "english": "Guandu Battlefield Dismount Dispel"}
+{"id": 1401, "english": "Battle of Guandu No Attack"}
+{"id": 1402, "english": "Battle of Guandu Tunnel Buff Area"}
+{"id": 1403, "english": "Battle of Guandu Dispel No Attack"}
+{"id": 1404, "english": "Guandu Dungeon End Grant Reward"}
+{"id": 1405, "english": "Guandu Battlefield Ice Tower 1"}
+{"id": 1406, "english": "Guandu Battlefield Ice Tower 2"}
+{"id": 1407, "english": "Guandu Battlefield Ice Tower 3"}
+{"id": 1408, "english": "Guandu Battlefield Attack Boost"}
+{"id": 1409, "english": "Guandu Battlefield HP Recovery"}
+{"id": 1410, "english": "Guandu Battlefield City Gate Innate Buff"}
+{"id": 1411, "english": "Guandu Battlefield Chariot Empower"}
+{"id": 1412, "english": "Guandu Battlefield Fire Tower 1"}
+{"id": 1413, "english": "Guandu Battlefield Fire Tower 2"}
+{"id": 1414, "english": "Guandu Battlefield Fire Tower 3"}
+{"id": 1415, "english": "Guandu Battlefield Fire Extinguisher"}
+{"id": 1416, "english": "Guandu Battlefield Firefighting Mob Skill"}
+{"id": 1417, "english": "Guandu Battlefield Lightning Tower 1"}
+{"id": 1418, "english": "Guandu Battlefield Lightning Tower 2"}
+{"id": 1419, "english": "Guandu Battlefield Lightning Tower 3"}
+{"id": 1420, "english": "Guandu Battlefield Arrow Tower Upgrade"}
+{"id": 1421, "english": "Guandu Battlefield Arrow Tower Empower"}
+{"id": 1422, "english": "Guandu Battlefield Supply Cart Innate"}
+{"id": 1423, "english": "Guandu Battlefield Dispel Tunnel Buff"}
+{"id": 1424, "english": "Guandu Battlefield Dispel Invincibility"}
+{"id": 1425, "english": "Guandu Chariot Direct HP Loss"}
+{"id": 1426, "english": "Guandu Event Wuchao Guard"}
+{"id": 1427, "english": "Guandu Event Rabbit Innate Skill"}
+{"id": 1428, "english": "Guandu Event Strategist Innate Skill"}
+{"id": 1429, "english": "Guandu Event Kill City Guard Elite"}
+{"id": 1430, "english": "Guandu Event Kill Chunyu Qiong"}
+{"id": 1431, "english": "Guandu Event Helping Others Pill"}
+{"id": 1432, "english": "Guandu Event Big Rabbit Pen"}
+{"id": 1433, "english": "Guandu Event Soul-Snatch Thrust"}
+{"id": 1434, "english": "Guandu Event Immobilize Talisman"}
+{"id": 1435, "english": "Guandu Event Cub Bear Pen"}
+{"id": 1436, "english": "Guandu Event Innocent Child"}
+{"id": 1437, "english": "Guandu Event Confusion Talisman"}
+{"id": 1438, "english": "Guandu Event Fishing Net Bomb"}
+{"id": 1439, "english": "Guandu Event Fire Mine Bomb"}
+{"id": 1440, "english": "Guandu Event Specific Mob Innate Buff"}
+{"id": 1441, "english": "Guandu Event Fox Immortal Arrives"}
+{"id": 1442, "english": "Guandu Event Pig Anti-Cheat"}
+{"id": 1443, "english": "Guandu Event HP Pill"}
+{"id": 1444, "english": "Guandu Event Invisible Mob Aura"}
+{"id": 1445, "english": "Guandu Event Throwing Knives"}
+{"id": 1446, "english": "Guandu Man in Black"}
+{"id": 1447, "english": "Locator Test Skill"}
+{"id": 1448, "english": "Hold the Army"}
+{"id": 1449, "english": "Hold the Army Shot"}
+{"id": 1450, "english": "Firm as Bedrock"}
+{"id": 1451, "english": "Immobilize Trap"}
+{"id": 1452, "english": "Immobilize Trap Light Effect"}
+{"id": 1453, "english": "Xuanmu Light Dance"}
+{"id": 1454, "english": "Annihilation-Army"}
+{"id": 1455, "english": "Annihilation-Rage"}
+{"id": 1456, "english": "Annihilation-Break"}
+{"id": 1457, "english": "Frost Seals the Throat"}
+{"id": 1458, "english": "Frost Formula"}
+{"id": 1459, "english": "Frost Formula-Assault"}
+{"id": 1460, "english": "Frost Formula-Bewilder"}
+{"id": 1461, "english": "Inch Death-Army"}
+{"id": 1462, "english": "Inch Death-Rage"}
+{"id": 1463, "english": "Inch Death-Break"}
+{"id": 1464, "english": "Not a Blade of Grass Survives"}
+{"id": 1465, "english": "HP Loss on Burning Mobs"}
+{"id": 1466, "english": "Ground Slam"}
+{"id": 1467, "english": "Corresponding State Effect 1"}
+{"id": 1468, "english": "Corresponding State Effect 2"}
+{"id": 1469, "english": "Generate on Mob"}
+{"id": 1470, "english": "Generate and Activate on Mob"}
+{"id": 1471, "english": "Use on the Brown-Backed Toad to break its Defense and deal 20 Damage. Cool-down 3 sec."}
+{"id": 1472, "english": "Deal equal Damage to all targets within an 8m line directly ahead."}
+{"id": 1473, "english": "Use on yourself to gain a flickering visual effect and start a countdown from 5 above your head."}
+{"id": 1474, "english": "All targets within a 5m-long, 5m-wide area in the facing direction have Movement Speed reduced to 2 m/sec for 6 sec, and take a 40% Base Attack reduction for 10 sec."}
+{"id": 1475, "english": "Guiding Arrow"}
+{"id": 1476, "english": "Cloud-Sealing Assault"}
+{"id": 1477, "english": "Cloud-Sealing Assault-Firm"}
+{"id": 1478, "english": "Cloud-Sealing Assault-Fierce"}
+{"id": 1479, "english": "Throat Seal"}
+{"id": 1480, "english": "Throat-Sealing Thrust"}
+{"id": 1481, "english": "Throat-Sealing Thrust-Power"}
+{"id": 1482, "english": "Throat-Sealing Thrust-Technique"}
+{"id": 1483, "english": "Throat-Sealing Thrust-Gold Shatter"}
+{"id": 1484, "english": "Frost Seal Formula"}
+{"id": 1485, "english": "Frost Seal Formula-Assault"}
+{"id": 1486, "english": "Frost Seal Formula-Bewilder"}
+{"id": 1487, "english": "Shadow Seal Slash"}
+{"id": 1488, "english": "Shadow Seal Slash-Firm"}
+{"id": 1489, "english": "Shadow Seal Slash-Fierce"}
+{"id": 1490, "english": "Moon Seal Strike"}
+{"id": 1491, "english": "Moon Seal Strike-Firm"}
+{"id": 1492, "english": "Moon Seal Strike-Fierce"}
+{"id": 1493, "english": "Seal Formula"}
+{"id": 1494, "english": "Shoot"}
+{"id": 1495, "english": "Shot Break"}
+{"id": 1496, "english": "General's Chant"}
+{"id": 1497, "english": "Respect Descends"}
+{"id": 1498, "english": "Mob Fire Rain"}
+{"id": 1499, "english": "Mob Dispel Ma Chao and Zhao Yun"}
+{"id": 1500, "english": "Mob Tornado"}
+{"id": 1501, "english": "Little Pig Caught"}
+{"id": 1502, "english": "Foal Spawn"}
+{"id": 1503, "english": "Martial Spirit"}
+{"id": 1504, "english": "Shangxiang's Maid Kills Thieves"}
+{"id": 1505, "english": "Tread Benevolence and Righteousness"}
+{"id": 1506, "english": "Cloud Bank"}
+{"id": 1507, "english": "Mountains Collapse, Earth Splits"}
+{"id": 1508, "english": "Mountain-Breaking Hammer"}
+{"id": 1509, "english": "Mountain-Breaking Hammer-Break"}
+{"id": 1510, "english": "Collapsing Dragon Noble Qi"}
+{"id": 1511, "english": "Collapsing Dragon Noble Qi-Assault"}
+{"id": 1512, "english": "Collapsing Dragon Noble Qi-Divine Punishment"}
+{"id": 1513, "english": "Chuan Not Taken"}
+{"id": 1514, "english": "Patrol Dog Stun"}
+{"id": 1515, "english": "Zuo Ci Quest 30 Curse"}
+{"id": 1516, "english": "Zuo Ci Quest Curse"}
+{"id": 1517, "english": "Zuo Ci Mob Curse"}
+{"id": 1518, "english": "Left Spin Strike"}
+{"id": 1519, "english": "Glib Tongue"}
+{"id": 1520, "english": "Glib Tongue When Hit"}
+{"id": 1521, "english": "Giant Boulder Break"}
+{"id": 1522, "english": "Giant Boulder Break-Iron Armor"}
+{"id": 1523, "english": "Giant Boulder Break-Assault"}
+{"id": 1524, "english": "Giant Boulder Earthshatter"}
+{"id": 1525, "english": "Giant Spirit Divine Strength"}
+{"id": 1526, "english": "Giant Spirit Divine Strength-Empower"}
+{"id": 1527, "english": "Giant Spirit Divine Strength-Smash"}
+{"id": 1528, "english": "Wu Nan-Attack Power Buff"}
+{"id": 1529, "english": "Wu Nan-Crit Buff"}
+{"id": 1530, "english": "Wu Nan-Wolf Hunt Buff"}
+{"id": 1531, "english": "Wu Nan-Tracking Buff"}
+{"id": 1532, "english": "Wu Nan-Lightning Buff"}
+{"id": 1533, "english": "Shaman's Wrath"}
+{"id": 1534, "english": "Doll Child Drum"}
+{"id": 1535, "english": "Master-Mentor Roster Prop Buff"}
+{"id": 1536, "english": "Dance of the Axe and Shield"}
+{"id": 1537, "english": "Dance of the Axe and Shield-Power"}
+{"id": 1538, "english": "Dance of the Axe and Shield-Technique"}
+{"id": 1539, "english": "General's Decree Pacify East"}
+{"id": 1540, "english": "General's Decree Pacify North"}
+{"id": 1541, "english": "General's Decree Pacify South"}
+{"id": 1542, "english": "General's Decree Pacify West"}
+{"id": 1543, "english": "Nian Beast Innate State"}
+{"id": 1544, "english": "Nian Beast Group Attack"}
+{"id": 1545, "english": "Nian Beast Self Mutilation"}
+{"id": 1546, "english": "Phantom Strike"}
+{"id": 1547, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 1"}
+{"id": 1548, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 10"}
+{"id": 1549, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 11"}
+{"id": 1550, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 12"}
+{"id": 1551, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 13"}
+{"id": 1552, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 14"}
+{"id": 1553, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 15"}
+{"id": 1554, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 16"}
+{"id": 1555, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 17"}
+{"id": 1556, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 18"}
+{"id": 1557, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 19"}
+{"id": 1558, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 2"}
+{"id": 1559, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 20"}
+{"id": 1560, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 21"}
+{"id": 1561, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 22"}
+{"id": 1562, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 3"}
+{"id": 1563, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 4"}
+{"id": 1564, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 5"}
+{"id": 1565, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 6"}
+{"id": 1566, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 7"}
+{"id": 1567, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 8"}
+{"id": 1568, "english": "Fantasy Eight-Formation Rest Gate Grant Reward 9"}
+{"id": 1569, "english": "Fantasy Eight-Formation Rest Gate Stage 1"}
+{"id": 1570, "english": "Fantasy Eight-Formation Rest Gate Stage 2"}
+{"id": 1571, "english": "Fantasy Eight-Formation Rest Gate Stage 3"}
+{"id": 1572, "english": "Fantasy Eight-Formation Rest Gate Stage 4"}
+{"id": 1573, "english": "Fantasy Eight-Formation Rest Gate Stage 5"}
+{"id": 1574, "english": "Fantasy Eight-Formation Rest Gate Stage 6"}
+{"id": 1575, "english": "Fantasy Eight-Formation Rest Gate Stage 7"}
+{"id": 1576, "english": "Fantasy Eight-Formation Rest Gate Stage 8"}
+{"id": 1577, "english": "Young Snake Moss"}
+{"id": 1578, "english": "Young Qilin"}
+{"id": 1579, "english": "Orchid Qi"}
+{"id": 1580, "english": "Broad-Sleeve Dance"}
+{"id": 1581, "english": "Broad-Sleeve Dance-Power"}
+{"id": 1582, "english": "Broad-Sleeve Dance-Technique"}
+{"id": 1583, "english": "Trash"}
+{"id": 1584, "english": "Deprecated"}
+{"id": 1585, "english": "Deprecated Wind-Riding Sword"}
+{"id": 1586, "english": "Delay 3 sec then Dispel Sword Edge Heart Guard state"}
+{"id": 1587, "english": "Delayed Generate Instant Kill"}
+{"id": 1588, "english": "Delayed Generate Heaven Break"}
+{"id": 1589, "english": "Delayed Generate Unhorse"}
+{"id": 1590, "english": "Delay Dispel Assault Arrow"}
+{"id": 1591, "english": "Delay Dispel Light Crossbow"}
+{"id": 1592, "english": "Opening-Closing Wave Intent"}
+{"id": 1593, "english": "Fire Cannon Motion"}
+{"id": 1594, "english": "Open Up Territories"}
+{"id": 1595, "english": "Bowman Attack 1"}
+{"id": 1596, "english": "Bowman Attack 2"}
+{"id": 1597, "english": "Bowman Attack 3"}
+{"id": 1598, "english": "Bowman Close Combat"}
+{"id": 1599, "english": "Bow Intent"}
+{"id": 1600, "english": "God of Archery Descends"}
+{"id": 1601, "english": "Bow Ice Arrow Attack"}
+{"id": 1602, "english": "Bow Large Attack"}
+{"id": 1603, "english": "Bow Standard Attack"}
+{"id": 1604, "english": "Bow Poison Arrow Attack"}
+{"id": 1605, "english": "Bow Fire Arrow Attack"}
+{"id": 1606, "english": "Detonate Generate Silence"}
+{"id": 1607, "english": "Thunder-Lure Hooksword"}
+{"id": 1608, "english": "Thunder-Lure Hooksword-Battle"}
+{"id": 1609, "english": "Thunder-Lure Hooksword-Gale"}
+{"id": 1610, "english": "Thunder-Lure Hooksword-Bedrock"}
+{"id": 1611, "english": "Thunder-Lure Hooksword-Boiling Blood"}
+{"id": 1612, "english": "Thunder-Lure Hooksword Generate Extra Aggro Points"}
+{"id": 1613, "english": "Zhang Chunhua Lament of Loss Generate Timer"}
+{"id": 1614, "english": "Zhang Chunhua Ice Heart Generate Lament of Loss"}
+{"id": 1615, "english": "Zhang Chunhua Line Group Attack"}
+{"id": 1616, "english": "Zhang Chunhua Youthful Bloom Generate Reflect"}
+{"id": 1617, "english": "Zhang Chunhua Area Group 1"}
+{"id": 1618, "english": "Zhang Chunhua Area Group 2"}
+{"id": 1619, "english": "Zhang Chunhua Thunder Armor"}
+{"id": 1620, "english": "Zhang Liao Skill 1"}
+{"id": 1621, "english": "Zhang Liao Skill 2"}
+{"id": 1622, "english": "Zhang Fei Buff Area"}
+{"id": 1623, "english": "Zhang Fei Single-Target Drain Battle Qi and Stamina"}
+{"id": 1624, "english": "Zhang Fei Reflect Shout Break"}
+{"id": 1625, "english": "Zhang Fei Fan-Shaped Group"}
+{"id": 1626, "english": "Zhang Fei Group Fan"}
+{"id": 1627, "english": "Zhang Fei Group Stun"}
+{"id": 1628, "english": "String Plays Water Dragon Chant"}
+{"id": 1629, "english": "Arc Moon Slash"}
+{"id": 1630, "english": "Arc Moon Slash-Power"}
+{"id": 1631, "english": "Arc Moon Slash-Technique"}
+{"id": 1632, "english": "Ballista Attack 1"}
+{"id": 1633, "english": "Ballista Attack 2"}
+{"id": 1634, "english": "Ballista Attack 3"}
+{"id": 1635, "english": "Crossbow Soul"}
+{"id": 1636, "english": "Body Strengthening Art"}
+{"id": 1637, "english": "Body Strengthening Art-Tactic"}
+{"id": 1638, "english": "Strengthen Troops"}
+{"id": 1639, "english": "Power Strike"}
+{"id": 1640, "english": "Powerful Single-Target Attack"}
+{"id": 1641, "english": "Powerful Attack"}
+{"id": 1642, "english": "Powerful Area Fire Arrow"}
+{"id": 1643, "english": "Power Potion"}
+{"id": 1644, "english": "Power Potion Buff Skill"}
+{"id": 1645, "english": "Powerful Snowball"}
+{"id": 1646, "english": "Empower-Elai"}
+{"id": 1647, "english": "Empower-Gather Energy to Form Qi"}
+{"id": 1648, "english": "Empower Wind-Riding Thrust"}
+{"id": 1649, "english": "Empower Five-Pace Shot"}
+{"id": 1650, "english": "Empower Critical Eye"}
+{"id": 1651, "english": "Empower Opportunist"}
+{"id": 1652, "english": "Empower Heart Focus"}
+{"id": 1653, "english": "Empower Assassination"}
+{"id": 1654, "english": "Empower Neck Rend Claw"}
+{"id": 1655, "english": "Empower Heavy Crossbow"}
+{"id": 1656, "english": "Empower Returning Edge Slash"}
+{"id": 1657, "english": "Empower Round Moon Slash"}
+{"id": 1658, "english": "Empower Valiance"}
+{"id": 1659, "english": "Empower Onslaught Staff"}
+{"id": 1660, "english": "Empower Overhead Axe"}
+{"id": 1661, "english": "Empower Lying in Wait"}
+{"id": 1662, "english": "Empower Defensive Stance"}
+{"id": 1663, "english": "Empower Receive"}
+{"id": 1664, "english": "Empower Body Guard"}
+{"id": 1665, "english": "Empower Escort"}
+{"id": 1666, "english": "Empower Shadow Strike Claw"}
+{"id": 1667, "english": "Empower Heart-Shattering Claw"}
+{"id": 1668, "english": "Empower Fighting Spirit"}
+{"id": 1669, "english": "Empower Rain of Pear Blossoms"}
+{"id": 1670, "english": "Empower Block"}
+{"id": 1671, "english": "Empower Inspire"}
+{"id": 1672, "english": "Empower Burning Rage Cleave"}
+{"id": 1673, "english": "Empower Claw Thrust Dance"}
+{"id": 1674, "english": "Empower Aim"}
+{"id": 1675, "english": "Empower Army Break"}
+{"id": 1676, "english": "Empower Divine Might Spear"}
+{"id": 1677, "english": "Empower Steady"}
+{"id": 1678, "english": "Empower Gut-Piercing Claw"}
+{"id": 1679, "english": "Empower Assault"}
+{"id": 1680, "english": "Empower Earthwalk"}
+{"id": 1681, "english": "Empower Backstab"}
+{"id": 1682, "english": "Empower Back Attack"}
+{"id": 1683, "english": "Empower Charge Power"}
+{"id": 1684, "english": "Empower Store Rage"}
+{"id": 1685, "english": "Empower Tiger Among Sheep"}
+{"id": 1686, "english": "Empower Blood Valor"}
+{"id": 1687, "english": "Empower Ox-Dissecting Cleave"}
+{"id": 1688, "english": "Empower Light Crossbow"}
+{"id": 1689, "english": "Empower Swift"}
+{"id": 1690, "english": "Empower Combo"}
+{"id": 1691, "english": "Empower Chain Dance"}
+{"id": 1692, "english": "Empower Savage Ram"}
+{"id": 1693, "english": "Empower Hooked Sickle"}
+{"id": 1694, "english": "Empower Sparrow Drop Staff"}
+{"id": 1695, "english": "Empower Dominance"}
+{"id": 1696, "english": "Empower Wind-Fire Wheel"}
+{"id": 1697, "english": "Empower Wind Array"}
+{"id": 1698, "english": "Empower Drumbeat of Fate"}
+{"id": 1699, "english": "Heart-Strengthening Arrow"}
+{"id": 1700, "english": "Sweeping Staff"}
+{"id": 1701, "english": "Assault"}
+{"id": 1702, "english": "Assault-Army"}
+{"id": 1703, "english": "Assault-Rage"}
+{"id": 1704, "english": "Assault-Break"}
+{"id": 1705, "english": "Assault Art"}
+{"id": 1706, "english": "Assault Art-Wind Guard"}
+{"id": 1707, "english": "Assault Art-Army Break"}
+{"id": 1708, "english": "Onslaught"}
+{"id": 1709, "english": "Onslaught-Break"}
+{"id": 1710, "english": "Onslaught-Dance"}
+{"id": 1711, "english": "Onslaught Order"}
+{"id": 1712, "english": "Onslaught Strike"}
+{"id": 1713, "english": "Onslaught Staff"}
+{"id": 1714, "english": "Onslaught Staff-Power"}
+{"id": 1715, "english": "Onslaught Staff-Technique"}
+{"id": 1716, "english": "Overhead Axe"}
+{"id": 1717, "english": "Overhead Axe-Technique"}
+{"id": 1718, "english": "Overhead Staff"}
+{"id": 1719, "english": "Rainbow Ring Melody"}
+{"id": 1720, "english": "Painted Butterfly"}
+{"id": 1721, "english": "Painted Butterfly Flight"}
+{"id": 1722, "english": "Shadow Moon"}
+{"id": 1723, "english": "Shadow Moon-Assault"}
+{"id": 1724, "english": "Shadow Moon-Spirit Wound"}
+{"id": 1725, "english": "Shadow Raid-Army"}
+{"id": 1726, "english": "Shadow Raid-Rage"}
+{"id": 1727, "english": "Shadow Raid-Break"}
+{"id": 1728, "english": "Formula of the Next Life"}
+{"id": 1729, "english": "Formula of the Next Life-Assault"}
+{"id": 1730, "english": "Formula of the Next Life-Lethargy"}
+{"id": 1731, "english": "War Decree Grant Buff Skill"}
+{"id": 1732, "english": "Conquest"}
+{"id": 1733, "english": "Lying in Wait"}
+{"id": 1734, "english": "Guard"}
+{"id": 1735, "english": "Art of Ice Warding"}
+{"id": 1736, "english": "Soaring Phoenix, Ascending Dragon"}
+{"id": 1737, "english": "Imperial Gold Medal"}
+{"id": 1738, "english": "Imperial Gold Medal Skill"}
+{"id": 1739, "english": "Weapon Warding Formula"}
+{"id": 1740, "english": "Defensive Stance"}
+{"id": 1741, "english": "While in Defensive Stance, using First Strike increases your Penetration points<CRLF>Increase equals level+Defensive Stance stacks<CRLF><CRLF>Duration is 2000+100*level"}
+{"id": 1742, "english": "Art of Fire Warding"}
+{"id": 1743, "english": "Ring Guard Stance"}
+{"id": 1744, "english": "Bee Warden"}
+{"id": 1745, "english": "Hook Warding Formula"}
+{"id": 1746, "english": "Art of Thunder Warding"}
+{"id": 1747, "english": "Art of Wind Warding"}
+{"id": 1748, "english": "Wind Warding Thrust"}
+{"id": 1749, "english": "Ghost Warden"}
+{"id": 1750, "english": "Ghost Warden-Technique"}
+{"id": 1751, "english": "Ghost Warden-Battle Qi"}
+{"id": 1752, "english": "Observing Propriety"}
+{"id": 1753, "english": "Hearts Linked"}
+{"id": 1754, "english": "Heart's Will Holds the Spirit"}
+{"id": 1755, "english": "Heart Sutra"}
+{"id": 1756, "english": "Dance of Certain Victory"}
+{"id": 1757, "english": "Dance of Certain Victory-Tactic"}
+{"id": 1758, "english": "Dance of Certain Victory-Support"}
+{"id": 1759, "english": "Patient Fishing Art"}
+{"id": 1760, "english": "Loyal and Upright"}
+{"id": 1761, "english": "Quick Strike"}
+{"id": 1762, "english": "Rapid Counter"}
+{"id": 1763, "english": "Spur the Horse"}
+{"id": 1764, "english": "Spur the Horse Generate Gallop"}
+{"id": 1765, "english": "Uncontainable Rage"}
+{"id": 1766, "english": "Uncontainable Rage-Rage Eruption"}
+{"id": 1767, "english": "Uncontainable Rage-Bold Valor"}
+{"id": 1768, "english": "Roar"}
+{"id": 1769, "english": "Fierce Roar"}
+{"id": 1770, "english": "Thunderous Frenzy Strike"}
+{"id": 1771, "english": "Rage Storage"}
+{"id": 1772, "english": "Rage Slash"}
+{"id": 1773, "english": "Raging Sea Tempest"}
+{"id": 1774, "english": "Raging Sea Tempest-Assault"}
+{"id": 1775, "english": "Raging Sea Tempest-Dark Annihilation"}
+{"id": 1776, "english": "Rage Break Slash"}
+{"id": 1777, "english": "Rage Break Slash-Shatter"}
+{"id": 1778, "english": "Rage Break Slash-Power"}
+{"id": 1779, "english": "Rage Break Slash-Technique"}
+{"id": 1780, "english": "Star-Plucking from the Raging Sky"}
+{"id": 1781, "english": "Star-Plucking from the Raging Sky-Assault"}
+{"id": 1782, "english": "Star-Plucking from the Raging Sky-Return to Origin"}
+{"id": 1783, "english": "Sudden Charge"}
+{"id": 1784, "english": "Sudden Charge-Wound"}
+{"id": 1785, "english": "Sudden Charge-Rage"}
+{"id": 1786, "english": "Quick Wit"}
+{"id": 1787, "english": "Swift Enemy Breaker"}
+{"id": 1788, "english": "Mob 15m Curse"}
+{"id": 1789, "english": "Mob 2m Group Stun"}
+{"id": 1790, "english": "Mob Slow Group"}
+{"id": 1791, "english": "Mob Spawn Mark"}
+{"id": 1792, "english": "Mob Spawn State A"}
+{"id": 1793, "english": "Mob Spawn Empty State"}
+{"id": 1794, "english": "Mob Assassination"}
+{"id": 1795, "english": "Mob Prerequisite 2"}
+{"id": 1796, "english": "Mob Add Damage Reduction Shield"}
+{"id": 1797, "english": "Mob HP Recovery Group"}
+{"id": 1798, "english": "Mob Haste"}
+{"id": 1799, "english": "Mob Dodge Boost Group"}
+{"id": 1800, "english": "Mob Backlash"}
+{"id": 1801, "english": "Mob Center HP Recovery"}
+{"id": 1802, "english": "Mob Archer Normal Attack"}
+{"id": 1803, "english": "Mob Empower"}
+{"id": 1804, "english": "Mob Roar"}
+{"id": 1805, "english": "Mob Manual Skill Bow +15"}
+{"id": 1806, "english": "Mob Manual Skill Bow +15 Piercing Wound"}
+{"id": 1807, "english": "Mob Disturb"}
+{"id": 1808, "english": "Mob Attack and Suicide"}
+{"id": 1809, "english": "Mob Siege, Grade B BOSS Casts on Near Death"}
+{"id": 1810, "english": "Mob Siege, Great Messenger Bird Casts on Near Death"}
+{"id": 1811, "english": "Mob Siege, Blessing of Luoyang's Guardian"}
+{"id": 1812, "english": "Mob Invincible"}
+{"id": 1813, "english": "Mob Not Activated"}
+{"id": 1814, "english": "Mob Percentage HP Damage"}
+{"id": 1815, "english": "Mob Activated"}
+{"id": 1816, "english": "Mob Smoke Bomb"}
+{"id": 1817, "english": "Mob Crit Buff"}
+{"id": 1818, "english": "Mob Special Spin Kick"}
+{"id": 1819, "english": "Mob Special Mountain-Breaking Slash"}
+{"id": 1820, "english": "Mob Special Intimidation Art"}
+{"id": 1821, "english": "Mob Special Sea-Stirring Array"}
+{"id": 1822, "english": "Mob Special Berserk Art"}
+{"id": 1823, "english": "Mob Special Weapon-Shatter Slash"}
+{"id": 1824, "english": "Mob Special Sudden Charge Fist"}
+{"id": 1825, "english": "Mob Special Roll Art"}
+{"id": 1826, "english": "Mob Special Qi Charge"}
+{"id": 1827, "english": "Mob Special Blood Curse Blade"}
+{"id": 1828, "english": "Mob Special Blood Path"}
+{"id": 1829, "english": "Mob Special Blood Path Fast"}
+{"id": 1830, "english": "Mob Special Curse Silence"}
+{"id": 1831, "english": "Mob Special Curse Food Block"}
+{"id": 1832, "english": "Mob Special Iron Sand Palm"}
+{"id": 1833, "english": "Mob Special Random Curse"}
+{"id": 1834, "english": "Mob Special Earth-Shaking Anchor"}
+{"id": 1835, "english": "Mob Special Heaven-Shaking Roar"}
+{"id": 1836, "english": "Mob Elite Cross Slash"}
+{"id": 1837, "english": "Mob Elite Moon Seal Slash"}
+{"id": 1838, "english": "Mob Dark Sack Art Continuous"}
+{"id": 1839, "english": "Mob Dark Sack Art Special"}
+{"id": 1840, "english": "Mob Harden"}
+{"id": 1841, "english": "Mob Crush"}
+{"id": 1842, "english": "Mob Heal Negation Effect"}
+{"id": 1843, "english": "Mob Group Stealth"}
+{"id": 1844, "english": "Mob Group Stealth Appear"}
+{"id": 1845, "english": "Mob Group Defense Down"}
+{"id": 1846, "english": "Mob Group Attack and Defense Down"}
+{"id": 1847, "english": "Mob Group Attack and Defense Down Stack"}
+{"id": 1848, "english": "Mob Group Attack with Haste and Slow"}
+{"id": 1849, "english": "Mob Group Attack Immobilize"}
+{"id": 1850, "english": "Mob Group Attack Bleed"}
+{"id": 1851, "english": "Mob Group Bleed"}
+{"id": 1852, "english": "Mob Group Sleep"}
+{"id": 1853, "english": "Mob Group Curse HP Recovery"}
+{"id": 1854, "english": "Mob Backwater Art Self"}
+{"id": 1855, "english": "Mob Corrode"}
+{"id": 1856, "english": "Mob Auto Attack Piercing Wound"}
+{"id": 1857, "english": "Mob Auto Attack Cleave Wound"}
+{"id": 1858, "english": "Mob Auto Attack Basic"}
+{"id": 1859, "english": "Mob Auto Attack Bow"}
+{"id": 1860, "english": "Mob Auto Attack Chance to Stun"}
+{"id": 1861, "english": "Mob Auto Attack Ranged Attack"}
+{"id": 1862, "english": "Mob Auto Attack Ranged Normal Attack"}
+{"id": 1863, "english": "Mob Auto Attack Combo"}
+{"id": 1864, "english": "Mob Auto Attack Shock Wound"}
+{"id": 1865, "english": "Mob Lose 1000W HP"}
+{"id": 1866, "english": "Mob Suicide"}
+{"id": 1867, "english": "Mob Self Mutilation Only"}
+{"id": 1868, "english": "Mob Self as Center Group Slow"}
+{"id": 1869, "english": "Mob Self as Center Group Defense Down"}
+{"id": 1870, "english": "Mob Self HP Recovery Skill"}
+{"id": 1871, "english": "Mob Self HP Loss"}
+{"id": 1872, "english": "Mob Self Instant HP Recovery"}
+{"id": 1873, "english": "Mob Tiger Roar"}
+{"id": 1874, "english": "Mob Trample"}
+{"id": 1875, "english": "Mob Generic Assault"}
+{"id": 1876, "english": "Mob Generic Direct and Indirect Resistance Boost<CRLF>+10 per level"}
+{"id": 1877, "english": "Mob Generic Suicide"}
+{"id": 1878, "english": "Mob Generic Suicide Skill"}
+{"id": 1879, "english": "Mob Generic Vanish"}
+{"id": 1880, "english": "Mob Heavy Strike"}
+{"id": 1881, "english": "Mob Heavy Strike with Stun"}
+{"id": 1882, "english": "Mob Max HP Down Single-Target"}
+{"id": 1883, "english": "Mob Max HP Down Group"}
+{"id": 1884, "english": "Mob Food Chain"}
+{"id": 1885, "english": "Mob Fish Scale Art Continuous"}
+{"id": 1886, "english": "Mob Fish Scale Art Special"}
+{"id": 1887, "english": "Recover and Gain HP"}
+{"id": 1888, "english": "Recover HP, Battle Qi and Stamina"}
+{"id": 1889, "english": "Recovery Prop-HP"}
+{"id": 1890, "english": "Recovery Prop-Stamina"}
+{"id": 1891, "english": "Recovery Prop-Battle Qi"}
+{"id": 1892, "english": "Kindred Grudge"}
+{"id": 1893, "english": "Elai"}
+{"id": 1894, "english": "Elai Wild Dance"}
+{"id": 1895, "english": "Sorrow Fragrance Clear Breeze"}
+{"id": 1896, "english": "Lover's Breath"}
+{"id": 1897, "english": "Deep Affection, Noble Conduct"}
+{"id": 1898, "english": "Romance Leaderboard Skill 1"}
+{"id": 1899, "english": "Romance Leaderboard Skill 2"}
+{"id": 1900, "english": "Startling Waves"}
+{"id": 1901, "english": "Startling Waves-Assault"}
+{"id": 1902, "english": "Startling Waves-Spirit Drain"}
+{"id": 1903, "english": "Thunder Shock Art"}
+{"id": 1904, "english": "Thunder Shock Art-Charm"}
+{"id": 1905, "english": "Thunder Shock Art-Tactic"}
+{"id": 1906, "english": "Punish the Rebel"}
+{"id": 1907, "english": "April Fool Event Stun"}
+{"id": 1908, "english": "Wrath Spin"}
+{"id": 1909, "english": "Earth-Shaking Hammer"}
+{"id": 1910, "english": "Earth-Shaking Hammer-Shatter"}
+{"id": 1911, "english": "Merit Achievement Buff"}
+{"id": 1912, "english": "Field Rice Sack"}
+{"id": 1913, "english": "Field Bean Sack"}
+{"id": 1914, "english": "Battlefield-Only Snowfall"}
+{"id": 1915, "english": "Battlefield-Only Hold Fast State"}
+{"id": 1916, "english": "Battlefield-Only Heavy Rain"}
+{"id": 1917, "english": "Battlefield-Only Strong Wind"}
+{"id": 1918, "english": "Battlefield-Only Ambush State"}
+{"id": 1919, "english": "Battlefield-Only Light Rain"}
+{"id": 1920, "english": "Battlefield-Only Light Wind"}
+{"id": 1921, "english": "Battlefield-Only Retreat State"}
+{"id": 1922, "english": "Battlefield-Only Assault State"}
+{"id": 1923, "english": "Battlefield-Only Rescue State"}
+{"id": 1924, "english": "Battlefield-Only Pursuit State"}
+{"id": 1925, "english": "Battlefield Rest Leave Mob"}
+{"id": 1926, "english": "Battlefield Protection New"}
+{"id": 1927, "english": "Battlefield Heal All"}
+{"id": 1928, "english": "Battlefield Revive Point HP Recovery"}
+{"id": 1929, "english": "Battlefield Soldier Standard Cavalry Group Attack"}
+{"id": 1930, "english": "Battlefield Soldier Close Combat Circle Group Attack"}
+{"id": 1931, "english": "Battlefield Soldier Close Combat Fan Group Attack"}
+{"id": 1932, "english": "Battlefield New Weather Light Rain"}
+{"id": 1933, "english": "Battlefield New Weather Light Snow"}
+{"id": 1934, "english": "Battlefield New Weather Light Wind Headwind"}
+{"id": 1935, "english": "Battlefield New Weather Light Wind Tailwind"}
+{"id": 1936, "english": "Battlefield New Weather Harsh"}
+{"id": 1937, "english": "Battlefield New State Morale Shattered"}
+{"id": 1938, "english": "Battlefield New State High Morale"}
+{"id": 1939, "english": "Battlefield Flag Valor"}
+{"id": 1940, "english": "Battlefield Flag Mechanical"}
+{"id": 1941, "english": "Battlefield Flag Infantry"}
+{"id": 1942, "english": "Battlefield Flag Ranged"}
+{"id": 1943, "english": "Battlefield Flag Cavalry"}
+{"id": 1944, "english": "Battlefield State Morale Rise"}
+{"id": 1945, "english": "Battlefield State Morale Fall"}
+{"id": 1946, "english": "Battlefield Fierce General Infantry Group Attack"}
+{"id": 1947, "english": "Battlefield Fierce General Mage Group Attack"}
+{"id": 1948, "english": "Battlefield Fierce General Cavalry Group Attack"}
+{"id": 1949, "english": "Battlefield Leave Mob"}
+{"id": 1950, "english": "Battlefield Level Correction"}
+{"id": 1951, "english": "Battlefield Arrow Tower Single-Target Normal Attack Dark Red"}
+{"id": 1952, "english": "Battlefield Arrow Tower Single-Target Normal Attack Dark Blue"}
+{"id": 1953, "english": "Battlefield Arrow Tower Single-Target Normal Attack Red"}
+{"id": 1954, "english": "Battlefield Arrow Tower Single-Target Normal Attack Blue"}
+{"id": 1955, "english": "Battlefield Arrow Tower City Gate Central Building Attack Single-Target Red"}
+{"id": 1956, "english": "Battlefield Arrow Tower City Gate Central Building Attack Single-Target Blue"}
+{"id": 1957, "english": "Battlefield Arrow Tower City Gate Central Building Attack Group Red"}
+{"id": 1958, "english": "Battlefield Arrow Tower City Gate Central Building Attack Group Blue"}
+{"id": 1959, "english": "Battlefield Arrow Tower City Gate Attack Blue"}
+{"id": 1960, "english": "Battlefield Arrow Tower Group Attack"}
+{"id": 1961, "english": "Battlefield Arrow Tower Group Attack Reduce"}
+{"id": 1962, "english": "Battlefield Arrow Tower Group Attack Immobilize"}
+{"id": 1963, "english": "Battlefield Master Reward Skill 1"}
+{"id": 1964, "english": "Battlefield Master Reward Skill 2"}
+{"id": 1965, "english": "Battlefield Close Combat Normal Attack"}
+{"id": 1966, "english": "Battlefield Close Combat Normal Attack with Stun"}
+{"id": 1967, "english": "Battlefield Close Combat Normal Attack Brave General"}
+{"id": 1968, "english": "Battlefield Close Combat Normal Attack Fierce General"}
+{"id": 1969, "english": "Battlefield Close Combat Normal Attack Ferocious General"}
+{"id": 1970, "english": "Battlefield Close Combat Normal Attack Combo"}
+{"id": 1971, "english": "Battlefield Ranged Normal Attack Bow Red"}
+{"id": 1972, "english": "Battlefield Ranged Normal Attack Bow Blue"}
+{"id": 1973, "english": "Battlefield Extra Illustrated Guide Reward"}
+{"id": 1974, "english": "Battle Will"}
+{"id": 1975, "english": "Battle Mark"}
+{"id": 1976, "english": "Battle Tattoo"}
+{"id": 1977, "english": "Battle Tattoo-Power"}
+{"id": 1978, "english": "War God's Blessing"}
+{"id": 1979, "english": "Chariot Cannot Move"}
+{"id": 1980, "english": "Chariot Judgment State Self Immobilize"}
+{"id": 1981, "english": "Chariot Immobilize Prerequisite"}
+{"id": 1982, "english": "Chariot Sprinkle Filth"}
+{"id": 1983, "english": "Battle Soul Aegis Effect Dispel"}
+{"id": 1984, "english": "Battle Soul Test"}
+{"id": 1985, "english": "Battle Soul Awakening"}
+{"id": 1986, "english": "Battle Soul Awakening Motion-Guan Yu"}
+{"id": 1987, "english": "Battle Soul Awakening Motion-Dian Wei"}
+{"id": 1988, "english": "Battle Soul Awakening Motion-Liu Bei"}
+{"id": 1989, "english": "Battle Soul Awakening Motion-Warrior"}
+{"id": 1990, "english": "Battle Soul Awakening Motion-Lu Bu"}
+{"id": 1991, "english": "Battle Soul Awakening Motion-Zhou Yu"}
+{"id": 1992, "english": "Battle Soul Awakening Motion-Xiahou Dun"}
+{"id": 1993, "english": "Battle Soul Awakening Motion-Da Qiao"}
+{"id": 1994, "english": "Battle Soul Awakening Motion-Sun Quan"}
+{"id": 1995, "english": "Battle Soul Awakening Motion-Xiao Qiao"}
+{"id": 1996, "english": "Battle Soul Awakening Motion-Zhang Chunhua"}
+{"id": 1997, "english": "Battle Soul Awakening Motion-Zhang Liao"}
+{"id": 1998, "english": "Battle Soul Awakening Motion-Zhang Fei"}
+{"id": 1999, "english": "Battle Soul Awakening Motion-Cao Cao"}
+{"id": 2000, "english": "Battle Soul Awakening Motion-Yue Ying"}
+{"id": 2001, "english": "Battle Soul Awakening Motion-Zhen Fei"}
+{"id": 2002, "english": "Battle Soul Awakening Motion-Gan Ning"}
+{"id": 2003, "english": "Battle Soul Awakening Motion-Zhuge Liang"}
+{"id": 2004, "english": "Battle Soul Awakening Motion-Strategist"}
+{"id": 2005, "english": "Battle Soul Awakening Motion-Diao Chan"}
+{"id": 2006, "english": "Battle Soul Awakening Motion-Zhao Yun"}
+{"id": 2007, "english": "Battle Soul Awakening Motion-Ma Chao"}
+{"id": 2008, "english": "Battle Soul Awakening Motion-Huang Zhong"}
+{"id": 2009, "english": "Battle Soul Awakening Motion-Golden Armor"}
+{"id": 2010, "english": "Battle Soul Awakening Dispel"}
+{"id": 2011, "english": "Halberd Skill 19"}
+{"id": 2012, "english": "Halberd Generate Counter State"}
+{"id": 2013, "english": "Halberd Soul"}
+{"id": 2014, "english": "Pulse Sever"}
+{"id": 2015, "english": "Pulse-Severing Thrust"}
+{"id": 2016, "english": "Pulse-Severing Thrust-Power"}
+{"id": 2017, "english": "Pulse-Severing Thrust-Tendon Rending"}
+{"id": 2018, "english": "Bloody Battle"}
+{"id": 2019, "english": "Damage Taken Deepened, Can Stack"}
+{"id": 2020, "english": "Fan-Shaped Attack-Large"}
+{"id": 2021, "english": "Fan-Shaped Attack-Small"}
+{"id": 2022, "english": "Fan Intent"}
+{"id": 2023, "english": "Fan Skill 17"}
+{"id": 2024, "english": "Fan Skill 18"}
+{"id": 2025, "english": "Fan Skill 19"}
+{"id": 2026, "english": "Fan Skill 20"}
+{"id": 2027, "english": "Fan Wind Prop Motion"}
+{"id": 2028, "english": "Manual AFK on Party Member Medium Mob"}
+{"id": 2029, "english": "Manual AFK Skill"}
+{"id": 2030, "english": "Manual AFK Limit Medium Mob"}
+{"id": 2031, "english": "Manual AFK Limit Medium Mob(New)"}
+{"id": 2032, "english": "Manual AFK Limit Few Mob"}
+{"id": 2033, "english": "Handkerchief Skill 1"}
+{"id": 2034, "english": "Handkerchief Skill 2"}
+{"id": 2035, "english": "Snowball Fight"}
+{"id": 2036, "english": "Throw Flowers"}
+{"id": 2037, "english": "Throw Eggs"}
+{"id": 2038, "english": "Grasp the Strong"}
+{"id": 2039, "english": "Golden Guard Captain"}
+{"id": 2040, "english": "Raise Flags and Drill Troops"}
+{"id": 2041, "english": "Flying Sand"}
+{"id": 2042, "english": "Receive"}
+{"id": 2043, "english": "Skill Jade Halberd Reflect HP Recovery"}
+{"id": 2044, "english": "Skill Jade Delay Penetration"}
+{"id": 2045, "english": "Skill Jade Delay Attack and Defense Down"}
+{"id": 2046, "english": "Skill Jade Halberd Generate Crit"}
+{"id": 2047, "english": "Skill Jade Axe Generate Silence"}
+{"id": 2048, "english": "Skill Jade Staff Burning Coma"}
+{"id": 2049, "english": "Skill Jade Spear Generate Attack Power"}
+{"id": 2050, "english": "Skill Jade Chance Stamina Loss"}
+{"id": 2051, "english": "Skill Jade Ring Blade On Hit"}
+{"id": 2052, "english": "Skill Jade Ring Blade Dodge Timer"}
+{"id": 2053, "english": "Skill Jade Generate Freeze"}
+{"id": 2054, "english": "Skill Jade Generate Dispel Frost Seal"}
+{"id": 2055, "english": "Skill Jade Hammer When Hit"}
+{"id": 2056, "english": "Skill Jade Whip Generate Attack Down"}
+{"id": 2057, "english": "Craft"}
+{"id": 2058, "english": "Catch Little Pig"}
+{"id": 2059, "english": "Capture Guard"}
+{"id": 2060, "english": "Throw Effect"}
+{"id": 2061, "english": "Throw Rose"}
+{"id": 2062, "english": "Throw Bamboo Arrow"}
+{"id": 2063, "english": "Throw Powder to Reduce HP"}
+{"id": 2064, "english": "Catapult Attack 1"}
+{"id": 2065, "english": "Catapult Attack 2"}
+{"id": 2066, "english": "Catapult Attack 3"}
+{"id": 2067, "english": "Catapult Group Attack"}
+{"id": 2068, "english": "Charge Through"}
+{"id": 2069, "english": "Dance of Consolation"}
+{"id": 2070, "english": "Dance of Consolation-Support"}
+{"id": 2071, "english": "Play the Zither and Ask of Love"}
+{"id": 2072, "english": "Full Moon Sweep"}
+{"id": 2073, "english": "Body Guard"}
+{"id": 2074, "english": "Escort Disband"}
+{"id": 2075, "english": "Armor Mastery"}
+{"id": 2076, "english": "Armor Expertise"}
+{"id": 2077, "english": "Royal Escort"}
+{"id": 2078, "english": "Royal Escort-Technique"}
+{"id": 2079, "english": "Royal Escort-Shield"}
+{"id": 2080, "english": "Royal Escort-Speed"}
+{"id": 2081, "english": "Sign Up"}
+{"id": 2082, "english": "Wear the Stars"}
+{"id": 2083, "english": "Erase the Sound of the Wind Chime"}
+{"id": 2084, "english": "Trailing Blade Stance"}
+{"id": 2085, "english": "Trailing Blade Scheme"}
+{"id": 2086, "english": "Move Level: %d<CRLF>Attack Bonus: None<CRLF>Attack Multiplier: None"}
+{"id": 2087, "english": "Summon Wind and Snow"}
+{"id": 2088, "english": "New Year Red Envelope"}
+{"id": 2089, "english": "Wheel Horse Around"}
+{"id": 2090, "english": "Continuously Recover Mount Stamina"}
+{"id": 2091, "english": "AFK"}
+{"id": 2092, "english": "AFK Island Center Mob Activates AFK State"}
+{"id": 2093, "english": "AFK Island Mob Generate Self Mutilation"}
+{"id": 2094, "english": "AFK Island Mob Self Mutilation"}
+{"id": 2095, "english": "AFK New 1"}
+{"id": 2096, "english": "Hang Willow"}
+{"id": 2097, "english": "Prick Strike"}
+{"id": 2098, "english": "Prick Strike-Power"}
+{"id": 2099, "english": "Prick Strike-Immobilize Foe"}
+{"id": 2100, "english": "Prick Strike-Technique"}
+{"id": 2101, "english": "Challenge"}
+{"id": 2102, "english": "Prick and Beat"}
+{"id": 2103, "english": "Prick and Beat-Power"}
+{"id": 2104, "english": "Prick and Beat-Receive"}
+{"id": 2105, "english": "Prick and Beat-Technique"}
+{"id": 2106, "english": "Taunt-Power"}
+{"id": 2107, "english": "Taunt-Technique"}
+{"id": 2108, "english": "Taunt-Wither"}
+{"id": 2109, "english": "Guard and Parry"}
+{"id": 2110, "english": "Wipe Away Tears"}
+{"id": 2111, "english": "Swing"}
+{"id": 2112, "english": "Shatter Will"}
+{"id": 2113, "english": "Capture"}
+{"id": 2114, "english": "Capture Event Mob Death"}
+{"id": 2115, "english": "Earth Guard Strike"}
+{"id": 2116, "english": "Earth Guard Strike 1"}
+{"id": 2117, "english": "Mischievous Little Snowman"}
+{"id": 2118, "english": "Hold the Position"}
+{"id": 2119, "english": "Stronghold Victory"}
+{"id": 2120, "english": "Mutual Support"}
+{"id": 2121, "english": "Shadow-Grasping Fire"}
+{"id": 2122, "english": "Shadow Strike Claw"}
+{"id": 2123, "english": "Shadow Strike Claw-Assassination"}
+{"id": 2124, "english": "Shadow Strike Claw-Technique"}
+{"id": 2125, "english": "Control Switch"}
+{"id": 2126, "english": "Boost HP and Attack"}
+{"id": 2127, "english": "Boost HP and Defense"}
+{"id": 2128, "english": "Stir Up Trouble"}
+{"id": 2129, "english": "Sea-Stirring Stance"}
+{"id": 2130, "english": "Sea-Stirring Stance-Third Form"}
+{"id": 2131, "english": "Sea-Stirring Stance-Second Form"}
+{"id": 2132, "english": "Sea-Stirring Stance-Guard"}
+{"id": 2133, "english": "Sea-Stirring Stance Third Form"}
+{"id": 2134, "english": "Sea-Stirring Stance Second Form"}
+{"id": 2135, "english": "Soul Search and Spirit Snatch"}
+{"id": 2136, "english": "Soul Snatch First Form"}
+{"id": 2137, "english": "Soul Snatch First Form-Suppress"}
+{"id": 2138, "english": "Soul Snatch First Form-Assault"}
+{"id": 2139, "english": "Soul Snatch Sweep"}
+{"id": 2140, "english": "Heart-Shattering Art"}
+{"id": 2141, "english": "Heart-Shattering Claw"}
+{"id": 2142, "english": "Heart-Shattering Claw-Ambush"}
+{"id": 2143, "english": "Heart-Shattering Claw-Cripple"}
+{"id": 2144, "english": "Shatter Foes, Storm the Ranks"}
+{"id": 2145, "english": "Released Ring Blade"}
+{"id": 2146, "english": "Released Ring Blade-Spin"}
+{"id": 2147, "english": "Released Ring Blade-Guard"}
+{"id": 2148, "english": "Released Mace"}
+{"id": 2149, "english": "Released Mace-Power"}
+{"id": 2150, "english": "Released Mace-Technique"}
+{"id": 2151, "english": "Collide"}
+{"id": 2152, "english": "Shake the Mountains"}
+{"id": 2153, "english": "Cloud Drum-Army"}
+{"id": 2154, "english": "Cloud Drum-Rage"}
+{"id": 2155, "english": "Cloud Drum-Break"}
+{"id": 2156, "english": "Heart-Drum Hammer"}
+{"id": 2157, "english": "Dragon-Capturing Coil"}
+{"id": 2158, "english": "Subdue Master Rabbit"}
+{"id": 2159, "english": "Attack Hit"}
+{"id": 2160, "english": "Attack Blessing"}
+{"id": 2161, "english": "Attack Defense Penetration Pierce"}
+{"id": 2162, "english": "Ten Thousand Foes"}
+{"id": 2163, "english": "Ten Thousand Foes Generate Foe-Subduing"}
+{"id": 2164, "english": "Sharp-Sensed"}
+{"id": 2165, "english": "Reinforcement"}
+{"id": 2166, "english": "Rescue"}
+{"id": 2167, "english": "Rescue-Blade"}
+{"id": 2168, "english": "Rescue-Charm"}
+{"id": 2169, "english": "Rescue-Tactic"}
+{"id": 2170, "english": "Wen Chou Skill 1"}
+{"id": 2171, "english": "Wen Chou Skill 2"}
+{"id": 2172, "english": "Master of All Writing"}
+{"id": 2173, "english": "Literary and Martial Wisdom"}
+{"id": 2174, "english": "Fighting Spirit Soars"}
+{"id": 2175, "english": "Battle Qi Aura"}
+{"id": 2176, "english": "Heaven's Language"}
+{"id": 2177, "english": "Axe Imp Grant Reward Buff"}
+{"id": 2178, "english": "Axe Overhead Generate Crit Resistance Down"}
+{"id": 2179, "english": "Axe Intent"}
+{"id": 2180, "english": "Iron-Cleaving-Army"}
+{"id": 2181, "english": "Iron-Cleaving-Rage"}
+{"id": 2182, "english": "Iron-Cleaving-Break"}
+{"id": 2183, "english": "Dragon-Severing Stance"}
+{"id": 2184, "english": "Dragon-Severing Stance-Technique"}
+{"id": 2185, "english": "Sever the Troops"}
+{"id": 2186, "english": "Sever Sorrow-Army"}
+{"id": 2187, "english": "Sever Sorrow-Rage"}
+{"id": 2188, "english": "Sever Sorrow-Break"}
+{"id": 2189, "english": "Moon-Severing Slash"}
+{"id": 2190, "english": "Moon-Severing Slash-Power"}
+{"id": 2191, "english": "Moon-Severing Slash-Technique"}
+{"id": 2192, "english": "Moon-Severing Slash-Follow-Up"}
+{"id": 2193, "english": "Tendon Rending"}
+{"id": 2194, "english": "Tendon Rending-Fierce"}
+{"id": 2195, "english": "Tendon Rending-Assault"}
+{"id": 2196, "english": "Horse-Severing Slash"}
+{"id": 2197, "english": "Soul-Severing Thrust"}
+{"id": 2198, "english": "Soul-Severing Thrust-Power"}
+{"id": 2199, "english": "Soul-Severing Thrust-Shadow"}
+{"id": 2200, "english": "Soul-Severing Whip"}
+{"id": 2201, "english": "Soul-Severing Whip-Shadow"}
+{"id": 2202, "english": "New Wuzhangyuan Entry State"}
+{"id": 2203, "english": "New Wuzhangyuan Grant Reward"}
+{"id": 2204, "english": "New Wuzhangyuan Recovery"}
+{"id": 2205, "english": "New Wuzhangyuan Mob Kill"}
+{"id": 2206, "english": "New Nation War Buff Area"}
+{"id": 2207, "english": "New Nation War Buff Area Haste"}
+{"id": 2208, "english": "New Nation War Buff Area Mob Kill"}
+{"id": 2209, "english": "New Nation War Ability to Kill Sovereign"}
+{"id": 2210, "english": "New Nation War Weak Nation Protection"}
+{"id": 2211, "english": "New Nation War Weak Nation Reward"}
+{"id": 2212, "english": "New Nation War Mob Spawn 1"}
+{"id": 2213, "english": "New Nation War Mob Curse"}
+{"id": 2214, "english": "New Nation War Battlefield End"}
+{"id": 2215, "english": "New Nation War Entry Quest"}
+{"id": 2216, "english": "New Nation War Nation-Targeted Generate"}
+{"id": 2217, "english": "New Nation War Nation-Targeted Generate 2"}
+{"id": 2218, "english": "New Nation War Nation-Targeted Generate 3"}
+{"id": 2219, "english": "New Nation War Dispel State"}
+{"id": 2220, "english": "Newlywed Bliss"}
+{"id": 2221, "english": "New Year Firecrackers"}
+{"id": 2222, "english": "Novice Card Transform Skill 1"}
+{"id": 2223, "english": "Novice Card Transform Skill 2"}
+{"id": 2224, "english": "Novice Card Transform Skill 3"}
+{"id": 2225, "english": "Novice Treasure Bag Reward"}
+{"id": 2226, "english": "Novice Instant Recovery Medicine"}
+{"id": 2227, "english": "Spring Festival Greeting"}
+{"id": 2228, "english": "New Logic Reflect Damage"}
+{"id": 2229, "english": "Innate Strength"}
+{"id": 2230, "english": "Boomerang"}
+{"id": 2231, "english": "Whirlwind Stance"}
+{"id": 2232, "english": "Whirlwind Stance-Collapse"}
+{"id": 2233, "english": "Whirlwind Stance-Empower"}
+{"id": 2234, "english": "Whirlwind Stance-Burst"}
+{"id": 2235, "english": "Whirlwind Stance-Break"}
+{"id": 2236, "english": "Whirlwind Sweep"}
+{"id": 2237, "english": "Whirlwind Axe"}
+{"id": 2238, "english": "Whirlwind Axe-Power"}
+{"id": 2239, "english": "Whirlwind Axe-Technique"}
+{"id": 2240, "english": "Whirlwind Mace"}
+{"id": 2241, "english": "Whirlwind Hammer"}
+{"id": 2242, "english": "Whirlwind Hammer-Sweep"}
+{"id": 2243, "english": "Unmatched"}
+{"id": 2244, "english": "Unmatched 04 Late Mob 1-Self Area"}
+{"id": 2245, "english": "Unmatched 04 Late Mob 2-Ranged Normal Attack"}
+{"id": 2246, "english": "Unmatched 04 Powerful Mob-Self Area"}
+{"id": 2247, "english": "Unmatched 07-Quest Prerequisite A"}
+{"id": 2248, "english": "Unmatched 07-Quest Prerequisite B"}
+{"id": 2249, "english": "Unmatched 07-Quest Prerequisite C"}
+{"id": 2250, "english": "Unmatched 07 Stage 1 BOSS 4"}
+{"id": 2251, "english": "Unmatched 07 Stage 1 BOSS One"}
+{"id": 2252, "english": "Unmatched 07 Stage 1 BOSS Three-1"}
+{"id": 2253, "english": "Unmatched 07 Stage 1 BOSS Hidden"}
+{"id": 2254, "english": "Unmatched 07 Stage 2 BOSS 1-1"}
+{"id": 2255, "english": "Unmatched 07 Stage 2 BOSS 1-2"}
+{"id": 2256, "english": "Unmatched 07 Stage 2 BOSS 2"}
+{"id": 2257, "english": "Unmatched 07 Stage 2 BOSS 3-1"}
+{"id": 2258, "english": "Unmatched 07 Stage 2 BOSS 3-2"}
+{"id": 2259, "english": "Unmatched 07 Stage 2 BOSS 4-1"}
+{"id": 2260, "english": "Unmatched 07 Stage 2 BOSS 4-2"}
+{"id": 2261, "english": "Unmatched 07 Stage 2 BOSS Hidden 1-1"}
+{"id": 2262, "english": "Unmatched 07 Stage 2 BOSS Hidden 1-2"}
+{"id": 2263, "english": "Unmatched 07 Stage 2 BOSS Hidden 1-3"}
+{"id": 2264, "english": "Unmatched 07 Stage 2 BOSS Hidden 2"}
+{"id": 2265, "english": "Unmatched 07 Stage 3 BOSS 1-1"}
+{"id": 2266, "english": "Unmatched 07 Stage 3 BOSS 1-2"}
+{"id": 2267, "english": "Unmatched 07 Stage 3 BOSS 1-3"}
+{"id": 2268, "english": "Unmatched 07 Stage 3 BOSS 2-1"}
+{"id": 2269, "english": "Unmatched 07 Stage 3 BOSS 2-2"}
+{"id": 2270, "english": "Unmatched 07 Stage 3 BOSS 3-1"}
+{"id": 2271, "english": "Unmatched 07 Stage 3 BOSS 3-2"}
+{"id": 2272, "english": "Unmatched 07 Stage 3 BOSS 4-1"}
+{"id": 2273, "english": "Unmatched 07 Stage 3 BOSS 4-2"}
+{"id": 2274, "english": "Unmatched 07 Stage 3 BOSS 6-2"}
+{"id": 2275, "english": "Unmatched 07 Stage 3 BOSS Hidden 1"}
+{"id": 2276, "english": "Unmatched 07 Stage 3 BOSS Hidden 2-3"}
+{"id": 2277, "english": "Unmatched 08 Immovable Venerable"}
+{"id": 2278, "english": "Unmatched 08 Ice Heart Formula"}
+{"id": 2279, "english": "Unmatched 08 Saber Fiend Blade"}
+{"id": 2280, "english": "Unmatched 08 Soul-Securing Shield"}
+{"id": 2281, "english": "Unmatched 08 Mob Skill 02"}
+{"id": 2282, "english": "Unmatched 08 Mob Skill 03"}
+{"id": 2283, "english": "Unmatched 08 Mob Skill 04"}
+{"id": 2284, "english": "Unmatched 08 Mob Skill 05"}
+{"id": 2285, "english": "Unmatched 08 Mob Skill 06"}
+{"id": 2286, "english": "Unmatched 08 Mob Skill 07"}
+{"id": 2287, "english": "Unmatched 08 Mob Skill 08"}
+{"id": 2288, "english": "Unmatched 08 Mob Skill 09"}
+{"id": 2289, "english": "Unmatched 08 Mob Skill 10"}
+{"id": 2290, "english": "Unmatched 08 Mob Skill 11"}
+{"id": 2291, "english": "Unmatched 08 Mob Skill 12"}
+{"id": 2292, "english": "Unmatched 08 Mob Skill 13"}
+{"id": 2293, "english": "Unmatched 08 Mob Skill 14"}
+{"id": 2294, "english": "Unmatched 08 Mob Skill 15"}
+{"id": 2295, "english": "Unmatched 08 Mob Skill 16"}
+{"id": 2296, "english": "Unmatched 08 Mob Skill 17"}
+{"id": 2297, "english": "Unmatched 08 Mob Skill 18"}
+{"id": 2298, "english": "Unmatched 08 Mob Skill 19"}
+{"id": 2299, "english": "Unmatched 08 Mob Skill 20"}
+{"id": 2300, "english": "Unmatched 08 Mob Skill 21"}
+{"id": 2301, "english": "Unmatched 08 Mob Skill 22"}
+{"id": 2302, "english": "Unmatched 08 Mob Skill 23"}
+{"id": 2303, "english": "Unmatched 08 Mob Skill 24"}
+{"id": 2304, "english": "Unmatched 08 Mob Skill 25"}
+{"id": 2305, "english": "Unmatched 08 Mob Skill 26"}
+{"id": 2306, "english": "Unmatched 08 Mob Skill 27"}
+{"id": 2307, "english": "Unmatched 08 Mob Skill 28"}
+{"id": 2308, "english": "Unmatched 08 Mob Skill 29"}
+{"id": 2309, "english": "Unmatched 08 Mob Skill 30"}
+{"id": 2310, "english": "Unmatched 08 Mob Skill 31"}
+{"id": 2311, "english": "Unmatched 08 Mob Skill 32"}
+{"id": 2312, "english": "Unmatched 08 Mob Skill 33"}
+{"id": 2313, "english": "Unmatched 08 Mob Skill 34"}
+{"id": 2314, "english": "Unmatched 08 Mob Skill 35"}
+{"id": 2315, "english": "Unmatched 08 Mob Skill 36"}
+{"id": 2316, "english": "Unmatched 08 Mob Skill 37"}
+{"id": 2317, "english": "Unmatched 08 Mob Skill 38"}
+{"id": 2318, "english": "Unmatched 08 Mob Skill 39"}
+{"id": 2319, "english": "Unmatched 08 Mob Skill 40"}
+{"id": 2320, "english": "Unmatched 08 Mob Skill 41"}
+{"id": 2321, "english": "Unmatched 08 Mob Skill 42"}
+{"id": 2322, "english": "Unmatched 08 Mob Skill 43"}
+{"id": 2323, "english": "Unmatched 08 Mob Skill 44"}
+{"id": 2324, "english": "Unmatched 08 Flowing Light Formula"}
+{"id": 2325, "english": "Unmatched 08 Wild Heart Stance"}
+{"id": 2326, "english": "Unmatched 09 Room 16 Grant Token Skill"}
+{"id": 2327, "english": "Unmatched 09 Room 5 Cursed One"}
+{"id": 2328, "english": "Unmatched 09 Room 6 Strategist Skill"}
+{"id": 2329, "english": "Unmatched 09 Vermilion Bird Tail"}
+{"id": 2330, "english": "Unmatched 09 Vermilion Bird Ignore Defense"}
+{"id": 2331, "english": "Unmatched 09 Vermilion Bird Blaze"}
+{"id": 2332, "english": "Unmatched 09 Vermilion Bird Blazing Breath"}
+{"id": 2333, "english": "Unmatched 09 Black Tortoise Armor"}
+{"id": 2334, "english": "Unmatched 09 Black Tortoise Blood"}
+{"id": 2335, "english": "Unmatched 09 Black Tortoise Iron Mountain Lean"}
+{"id": 2336, "english": "Unmatched 09 White Tiger Wrath"}
+{"id": 2337, "english": "Unmatched 09 White Tiger Roar"}
+{"id": 2338, "english": "Unmatched 09 White Tiger Claw Strike"}
+{"id": 2339, "english": "Unmatched 09 Azure Dragon Thunderfall"}
+{"id": 2340, "english": "Unmatched 09 Azure Dragon Scale"}
+{"id": 2341, "english": "Unmatched 09 Azure Dragon Dragon Cry"}
+{"id": 2342, "english": "Unmatched 11 Zombie King Reflect Damage"}
+{"id": 2343, "english": "Unmatched 11 Immune Scorpion Poison Mist"}
+{"id": 2344, "english": "Unmatched 11 Bagua Glyph Attack 1"}
+{"id": 2345, "english": "Unmatched 11 Bagua Glyph Attack 2"}
+{"id": 2346, "english": "Unmatched 11 Bagua Glyph Attack 3"}
+{"id": 2347, "english": "Unmatched 11 Bagua Glyph Attack 4"}
+{"id": 2348, "english": "Unmatched 11 Princess Venom"}
+{"id": 2349, "english": "Unmatched 11 Princess Stun"}
+{"id": 2350, "english": "Unmatched 11 Princess Area Slow"}
+{"id": 2351, "english": "Unmatched 11 Princess Area Shockwave"}
+{"id": 2352, "english": "Unmatched 11 Damage-Absorbing Veil"}
+{"id": 2353, "english": "Unmatched 11 Sorcerer Single-Target Immobilize"}
+{"id": 2354, "english": "Unmatched 11 Sorcerer Meteor Motion"}
+{"id": 2355, "english": "Unmatched 11 Sorcerer Empty Buff"}
+{"id": 2356, "english": "Unmatched 11 Sorcerer Group Poison Damage"}
+{"id": 2357, "english": "Unmatched 11 Sorcerer Soul-Chasing Claw"}
+{"id": 2358, "english": "Unmatched 11 Imperial Spirit Summon Mob"}
+{"id": 2359, "english": "Unmatched 11 Imperial Spirit Fire Mine"}
+{"id": 2360, "english": "Unmatched 11 Imperial Spirit Stun"}
+{"id": 2361, "english": "Unmatched 11 Imperial Spirit Reduce Attributes"}
+{"id": 2362, "english": "Unmatched 11 Combat Command 1"}
+{"id": 2363, "english": "Unmatched 11 Combat Command 2"}
+{"id": 2364, "english": "Unmatched 11 Combat Command 3"}
+{"id": 2365, "english": "Unmatched 11 Drop into Deep Ravine"}
+{"id": 2366, "english": "Unmatched 11 Civil Official Straight Flame"}
+{"id": 2367, "english": "Unmatched 11 Civil Official Area Flame"}
+{"id": 2368, "english": "Unmatched 11 Civil Official Area Flame(Mob)"}
+{"id": 2369, "english": "Unmatched 11 Civil Official Reduce Stamina and Battle Qi"}
+{"id": 2370, "english": "Unmatched 11 Spinning Blade Beast"}
+{"id": 2371, "english": "Unmatched 11 Wooden Stake Trap"}
+{"id": 2372, "english": "Unmatched 11 Military Official Empower Player"}
+{"id": 2373, "english": "Unmatched 11 Military Official Empower Self"}
+{"id": 2374, "english": "Unmatched 11 Military Official Shockwave"}
+{"id": 2375, "english": "Unmatched 11 Poison Scorpion Mark"}
+{"id": 2376, "english": "Unmatched 11 Meteor Fall"}
+{"id": 2377, "english": "Unmatched 11 Magma Beetle Self-Destruct"}
+{"id": 2378, "english": "Unmatched 11 Scarlet Poison Needle"}
+{"id": 2379, "english": "Unmatched 11 White Tiger Cleaving Slash"}
+{"id": 2380, "english": "Unmatched 11 White Tiger Roar"}
+{"id": 2381, "english": "Unmatched 11 White Tiger Divine Bow"}
+{"id": 2382, "english": "Unmatched 11 White Tiger Indignation"}
+{"id": 2383, "english": "Unmatched 11 Stone Pillar Trap"}
+{"id": 2384, "english": "Unmatched 11 Mine Array Poison Gas"}
+{"id": 2385, "english": "Unmatched 11 Mine Array Stun"}
+{"id": 2386, "english": "Unmatched 11 Secret Point Increase Attack Power"}
+{"id": 2387, "english": "Unmatched 11 Secret Point Increase HP Recovery Speed"}
+{"id": 2388, "english": "Unmatched 11 Secret Point Increase Movement Speed"}
+{"id": 2389, "english": "Unmatched 11 Secret Point Increase Defense"}
+{"id": 2390, "english": "Unmatched 11 Maiden Recovery"}
+{"id": 2391, "english": "Unmatched 11 Flower Spirit Ground Spikes"}
+{"id": 2392, "english": "Unmatched 11 Falling Rock Trap"}
+{"id": 2393, "english": "Unmatched 11 Scorpion Poison Mist"}
+{"id": 2394, "english": "Unmatched 11 Scorpion Timed Kill"}
+{"id": 2395, "english": "Unmatched 11 Slow Scorpion Poison"}
+{"id": 2396, "english": "Unmatched 11 Escape Quest Buff"}
+{"id": 2397, "english": "Unmatched 11 Needle Trap"}
+{"id": 2398, "english": "Unmatched 11 Dispel Sorcerer Empty Buff"}
+{"id": 2399, "english": "Unmatched 11 Skeleton Ghost Bow"}
+{"id": 2400, "english": "Unmatched War Halberd"}
+{"id": 2401, "english": "Nameless Fire"}
+{"id": 2402, "english": "Unmatched Stance"}
+{"id": 2403, "english": "Invincible"}
+{"id": 2404, "english": "Invincible Slash"}
+{"id": 2405, "english": "Limitless"}
+{"id": 2406, "english": "Useless"}
+{"id": 2407, "english": "Fearless"}
+{"id": 2408, "english": "Fearless-Valor"}
+{"id": 2409, "english": "Infinite Battle Will"}
+{"id": 2410, "english": "Daily Event Cloth Thief"}
+{"id": 2411, "english": "Daily Event Mob Normal Attack"}
+{"id": 2412, "english": "Daily Event Bomb Thief Light Effect"}
+{"id": 2413, "english": "Daily Event Bomb Thief Group Attack"}
+{"id": 2414, "english": "Daily Event Glittering Treasure Tree"}
+{"id": 2415, "english": "Daily Event Mole"}
+{"id": 2416, "english": "Drought Bandit Grant Reward Skill"}
+{"id": 2417, "english": "Drought Bandit Stamina Drain Skill"}
+{"id": 2418, "english": "High Spirits"}
+{"id": 2419, "english": "Bright King Self Protection"}
+{"id": 2420, "english": "Bright King Self Protection-Clear Breeze"}
+{"id": 2421, "english": "Still Water, Clear Mirror"}
+{"id": 2422, "english": "Star Prerequisite"}
+{"id": 2423, "english": "Star Haste"}
+{"id": 2424, "english": "Star Fall"}
+{"id": 2425, "english": "Stars Split Stone"}
+{"id": 2426, "english": "Stars Split Stone-Holy Judgment"}
+{"id": 2427, "english": "Stars Split Stone-Assault"}
+{"id": 2428, "english": "Spring Has Come"}
+{"id": 2429, "english": "Spring Warbler Trill"}
+{"id": 2430, "english": "Yanzi Chunqiu"}
+{"id": 2431, "english": "Normal Attack Decapitation"}
+{"id": 2432, "english": "Normal Attack Ranged Lightning"}
+{"id": 2433, "english": "Normal Attack Ranged Red"}
+{"id": 2434, "english": "Normal Attack Ranged Green"}
+{"id": 2435, "english": "Normal Attack Ranged Blue"}
+{"id": 2436, "english": "Normal Attack Large"}
+{"id": 2437, "english": "Normal Attack Short Weapon"}
+{"id": 2438, "english": "Normal Attack Melee"}
+{"id": 2439, "english": "Normal Attack Light"}
+{"id": 2440, "english": "Normal Attack Long Weapon"}
+{"id": 2441, "english": "Normal Test"}
+{"id": 2442, "english": "Normal Food-HP Recovery"}
+{"id": 2443, "english": "Crystal Spike"}
+{"id": 2444, "english": "Crystal Spike? Qi Charge Attack Recovery HP"}
+{"id": 2445, "english": "Crystal Spike-Assault"}
+{"id": 2446, "english": "Crystal Spike-Gather Spirit"}
+{"id": 2447, "english": "Intelligence"}
+{"id": 2448, "english": "Wisdom-Composure"}
+{"id": 2449, "english": "Wisdom-Valiance"}
+{"id": 2450, "english": "Wisdom-Sharp Feather"}
+{"id": 2451, "english": "Temporarily Disabled"}
+{"id": 2452, "english": "Not Yet Available"}
+{"id": 2453, "english": "Not yet available, please stay tuned!"}
+{"id": 2454, "english": "Dark Ambush"}
+{"id": 2455, "english": "Dark Ambush-Ambush"}
+{"id": 2456, "english": "Dark Ambush-Back Attack"}
+{"id": 2457, "english": "Thunder Shout Breaks the Peak"}
+{"id": 2458, "english": "Fierce"}
+{"id": 2459, "english": "Tyrannical"}
+{"id": 2460, "english": "Sudden Surprise Assault"}
+{"id": 2461, "english": "Rain of Pear Blossoms"}
+{"id": 2462, "english": "Rain of Pear Blossoms-Wild Thrusts"}
+{"id": 2463, "english": "Cao Pi Seven-Step Poem"}
+{"id": 2464, "english": "Cao Pi Full-Screen Silence"}
+{"id": 2465, "english": "Cao Pi Facing Group"}
+{"id": 2466, "english": "Cao Cao's Great Laugh"}
+{"id": 2467, "english": "Cao Cao's Great Laugh 1"}
+{"id": 2468, "english": "Cao Cao Villain Hero"}
+{"id": 2469, "english": "Cao Cao Generate Reflect Damage"}
+{"id": 2470, "english": "Cao Cao's Laughter 1"}
+{"id": 2471, "english": "Cao Cao's Laughter 2"}
+{"id": 2472, "english": "Cao Cao's Laughter 3"}
+{"id": 2473, "english": "Cao Cao's Laughter 4"}
+{"id": 2474, "english": "Cao Cao's Laughter 5"}
+{"id": 2475, "english": "Cao Cao's Laughter 6"}
+{"id": 2476, "english": "Cao Cao's Laughter 7"}
+{"id": 2477, "english": "Cao Cao's Laughter 8"}
+{"id": 2478, "english": "Cao Cao Empty Motion"}
+{"id": 2479, "english": "Cao Cao Line Group"}
+{"id": 2480, "english": "Cao Cao Curse"}
+{"id": 2481, "english": "Cao Cao Facing Group"}
+{"id": 2482, "english": "Cao Zhi and Cao Pi Direct and Indirect Resistance Rise"}
+{"id": 2483, "english": "Cao Zhi Full-Screen Stun"}
+{"id": 2484, "english": "Cao Zhi Ode to the Goddess of the Luo River"}
+{"id": 2485, "english": "Cao Zhi Line Group"}
+{"id": 2486, "english": "Cao Zhi Facing Group"}
+{"id": 2487, "english": "Cao Family Three Generations Mark"}
+{"id": 2488, "english": "Moon Shadow Strike"}
+{"id": 2489, "english": "Moon Shadow Strike-Assault"}
+{"id": 2490, "english": "Moon Shadow Strike-Flying General"}
+{"id": 2491, "english": "Moon Slash Stance"}
+{"id": 2492, "english": "Yue Ying Generate Quick Wit 1"}
+{"id": 2493, "english": "Stun if Frostbitten"}
+{"id": 2494, "english": "Morning Departure"}
+{"id": 2495, "english": "Wooden Ox and Flowing Horse"}
+{"id": 2496, "english": "Wooden Cage Self Mutilation"}
+{"id": 2497, "english": "Wood Element Corresponding Generate State"}
+{"id": 2498, "english": "Vermilion Bird Strike"}
+{"id": 2499, "english": "Vermilion Bird Blazing Flame"}
+{"id": 2500, "english": "Mechanism Beast Attack 1"}
+{"id": 2501, "english": "Mechanism Beast Attack 2"}
+{"id": 2502, "english": "Mechanism Beast Attack 3"}
+{"id": 2503, "english": "Kill to Recover HP"}
+{"id": 2504, "english": "Kill Mob to Make BOSS Lose HP"}
+{"id": 2505, "english": "Kill self while dealing 40% maxhp damage to all players within a 5m radius"}
+{"id": 2506, "english": "Li Ru Shriek"}
+{"id": 2507, "english": "Li Ru Drink Poison to Quench Thirst"}
+{"id": 2508, "english": "Staff Intent"}
+{"id": 2509, "english": "Staff Skill 17"}
+{"id": 2510, "english": "Staff Skill 18"}
+{"id": 2511, "english": "Staff Skill 19"}
+{"id": 2512, "english": "Staff Skill 20"}
+{"id": 2513, "english": "Extreme Cold Arrow"}
+{"id": 2514, "english": "Limit Breaker Sniper"}
+{"id": 2515, "english": "Lin Hao Test Skill 1"}
+{"id": 2516, "english": "Lin Hao Test Skill 2"}
+{"id": 2517, "english": "Lin Hao Test Skill 3"}
+{"id": 2518, "english": "Lin Hao Test Skill 4"}
+{"id": 2519, "english": "Lin Hao Test Skill 5"}
+{"id": 2520, "english": "Spear Thrust"}
+{"id": 2521, "english": "Spear Soul"}
+{"id": 2522, "english": "Tyrant Hero"}
+{"id": 2523, "english": "Tyrant Hero Generate Deceive Foe"}
+{"id": 2524, "english": "Dead Tree in Spring"}
+{"id": 2525, "english": "Frail"}
+{"id": 2526, "english": "Willow Outer Branch"}
+{"id": 2527, "english": "Willow Mist Dance"}
+{"id": 2528, "english": "Fence Spawn Skill"}
+{"id": 2529, "english": "Fence Burning"}
+{"id": 2530, "english": "Standard Attack Generate Follow-Up State "}
+{"id": 2531, "english": "Standard Attack Generate Hit State"}
+{"id": 2532, "english": "Standard Attack Generate Hit State "}
+{"id": 2533, "english": "Block"}
+{"id": 2534, "english": "Block<CRLF><CRLF>Use the long Staff to bat aside a single enemy attack, setting up a counter."}
+{"id": 2535, "english": "Block-Opportunist"}
+{"id": 2536, "english": "Block Reflect"}
+{"id": 2537, "english": "Block When Hit"}
+{"id": 2538, "english": "Peach Garden Heroes"}
+{"id": 2539, "english": "Peach Blossom Handkerchief"}
+{"id": 2540, "english": "Plum Blossom Handkerchief"}
+{"id": 2541, "english": "Pear Blossoms in Rain"}
+{"id": 2542, "english": "Staff Soul"}
+{"id": 2543, "english": "Myriad Phenomena"}
+{"id": 2544, "english": "Myriad Phenomena-Assault"}
+{"id": 2545, "english": "Myriad Phenomena-Blood Bath"}
+{"id": 2546, "english": "Watchtower Attacked"}
+{"id": 2547, "english": "Chance Stun and Paralyze"}
+{"id": 2548, "english": "Horizontal Cleave"}
+{"id": 2549, "english": "Sweep"}
+{"id": 2550, "english": "Sweep-Power"}
+{"id": 2551, "english": "Sweep-Technique"}
+{"id": 2552, "english": "Sweep-Slow"}
+{"id": 2553, "english": "Sweep a Thousand Armies"}
+{"id": 2554, "english": "Sweep a Thousand Armies-Power"}
+{"id": 2555, "english": "Sweep a Thousand Armies-Technique"}
+{"id": 2556, "english": "Lying in Wait from Sweep"}
+{"id": 2557, "english": "Horizontal Swing"}
+{"id": 2558, "english": "Horizontal Swing-Power"}
+{"id": 2559, "english": "Horizontal Swing-Assault"}
+{"id": 2560, "english": "Horizontal Swing-Technique"}
+{"id": 2561, "english": "Horizontal Swing-Spirit Drain"}
+{"id": 2562, "english": "Hardened Training"}
+{"id": 2563, "english": "Surrender the Arms"}
+{"id": 2564, "english": "Halt War, Uplift Benevolence"}
+{"id": 2565, "english": "Hemostatic Ointment"}
+{"id": 2566, "english": "First-Rank Civil Official"}
+{"id": 2567, "english": "First-Rank Military Official"}
+{"id": 2568, "english": "Third-Rank Civil Official"}
+{"id": 2569, "english": "Third-Rank Military Official"}
+{"id": 2570, "english": "Fourth-Rank Official Title"}
+{"id": 2571, "english": "Fourth-Rank Civil Official"}
+{"id": 2572, "english": "Fourth-Rank Military Official"}
+{"id": 2573, "english": "Normal Sit Down"}
+{"id": 2574, "english": "Normal Lie Down"}
+{"id": 2575, "english": "Uphold the Law"}
+{"id": 2576, "english": "Infantry Attack 1"}
+{"id": 2577, "english": "Infantry Attack 2"}
+{"id": 2578, "english": "Infantry Attack 3"}
+{"id": 2579, "english": "Moonlight Steps Leave Shadows"}
+{"id": 2580, "english": "Stride of Lingering Souls"}
+{"id": 2581, "english": "Marquis Wu's Golden Drum"}
+{"id": 2582, "english": "Martial Might"}
+{"id": 2583, "english": "Weapon Switch Effect"}
+{"id": 2584, "english": "Weapon Switch Effect, always castable, cooldown controlled by the program itself"}
+{"id": 2585, "english": "Martial Sage"}
+{"id": 2586, "english": "Martial Sage at the Front"}
+{"id": 2587, "english": "Martial Sage War Boots"}
+{"id": 2588, "english": "Martial Sage Pauldrons"}
+{"id": 2589, "english": "Martial Sage Chestguard"}
+{"id": 2590, "english": "Martial Sage Bracers"}
+{"id": 2591, "english": "Martial Sage Waistguard"}
+{"id": 2592, "english": "Martial Sage Greaves"}
+{"id": 2593, "english": "Martial Virtue Blessing"}
+{"id": 2594, "english": "Martial Prowess Beyond All"}
+{"id": 2595, "english": "Dance of Death"}
+{"id": 2596, "english": "Dance of Death Buff"}
+{"id": 2597, "english": "Death Hurricane"}
+{"id": 2598, "english": "Lingering Dream Tease"}
+{"id": 2599, "english": "Lingering Dream Tease-Charm"}
+{"id": 2600, "english": "Iron Will"}
+{"id": 2601, "english": "Mother to All Under Heaven"}
+{"id": 2602, "english": "Daily Roll Call New Skill"}
+{"id": 2603, "english": "Per level increases your Attack Speed and Attack Power by 10%, lasting until death"}
+{"id": 2604, "english": "Poison Blade Spin"}
+{"id": 2605, "english": "Poison Strategist"}
+{"id": 2606, "english": "Poison Arrow "}
+{"id": 2607, "english": "Poison Blood Blade"}
+{"id": 2608, "english": "Poison Blood Blade-Aggro"}
+{"id": 2609, "english": "Poison Blood Blade-Technique"}
+{"id": 2610, "english": "Poison Blood Blade-Deep Poison"}
+{"id": 2611, "english": "Poison Trap"}
+{"id": 2612, "english": "Poison Dragon Coil"}
+{"id": 2613, "english": "Poison Dragon Coil-Assault"}
+{"id": 2614, "english": "Poison Dragon Coil-Soul Ruin"}
+{"id": 2615, "english": "Overbearing Presence"}
+{"id": 2616, "english": "Qi Like a Swan"}
+{"id": 2617, "english": "Qi Pierces the Rainbow"}
+{"id": 2618, "english": "Naval Battle Merit Prerequisite Buff"}
+{"id": 2619, "english": "Naval Battle Increase Max HP"}
+{"id": 2620, "english": "Naval Battle Test Buff Soldier Mob Generate"}
+{"id": 2621, "english": "Naval Battle Test Buff Deck Generate"}
+{"id": 2622, "english": "Naval Battle Test Drowning Generate"}
+{"id": 2623, "english": "Naval Battle Test Cannon Fire 1"}
+{"id": 2624, "english": "Naval Battle Test Cannon Fire 2"}
+{"id": 2625, "english": "Naval Battle Test Deck HP Recovery"}
+{"id": 2626, "english": "Naval Battle Test Group Blessing"}
+{"id": 2627, "english": "Naval Battle Test Group Curse"}
+{"id": 2628, "english": "Flood the Three Armies"}
+{"id": 2629, "english": "Water Buffalo Supplies"}
+{"id": 2630, "english": "Water Element Corresponding Generate State"}
+{"id": 2631, "english": "Water Surface 50m Group Attack 1"}
+{"id": 2632, "english": "Water Surface 50m Group Attack 2"}
+{"id": 2633, "english": "Water Surface 50m Group Attack 3"}
+{"id": 2634, "english": "Water Surface 50m Group Attack 4"}
+{"id": 2635, "english": "Water Ghost Captive"}
+{"id": 2636, "english": "Water Dragon Chant"}
+{"id": 2637, "english": "Permanent AFK Passive"}
+{"id": 2638, "english": "Might of the Han Dynasty"}
+{"id": 2639, "english": "Overlord of Jiangdong"}
+{"id": 2640, "english": "Sinking Blade Stance"}
+{"id": 2641, "english": "Steady"}
+{"id": 2642, "english": "Spring Bath"}
+{"id": 2643, "english": "Sea's Roar"}
+{"id": 2644, "english": "Sea's Roar-Assault"}
+{"id": 2645, "english": "Sea's Roar-Fallen Spirit"}
+{"id": 2646, "english": "Bubble Snowball"}
+{"id": 2647, "english": "Stuck in the Mud"}
+{"id": 2648, "english": "Splash Water"}
+{"id": 2649, "english": "Bless All Living Beings"}
+{"id": 2650, "english": "Ode to the Goddess of the Luo River"}
+{"id": 2651, "english": "Ode to the Goddess of the Luo River 2"}
+{"id": 2652, "english": "Ode to the Goddess of the Luo River 3"}
+{"id": 2653, "english": "Ode to the Goddess of the Luo River 4"}
+{"id": 2654, "english": "Ode to the Goddess of the Luo River 5"}
+{"id": 2655, "english": "Insight"}
+{"id": 2656, "english": "Keen Insight"}
+{"id": 2657, "english": "Vitality Art"}
+{"id": 2658, "english": "Vitality Art-Charm"}
+{"id": 2659, "english": "Event-Cao Cao Buff"}
+{"id": 2660, "english": "Event 09 GM Lucky Gift Pack"}
+{"id": 2661, "english": "Event 09 Lu Bu's Blessing"}
+{"id": 2662, "english": "Event 09 Sun Shangxiang's Blessing"}
+{"id": 2663, "english": "Event 09 Xiao Qiao's Blessing"}
+{"id": 2664, "english": "Event 09 Zhao Yun's Blessing"}
+{"id": 2665, "english": "Event_Random Attack Defense Heal State"}
+{"id": 2666, "english": "Event Turn In Sea Fish"}
+{"id": 2667, "english": "Event Discard Junk"}
+{"id": 2668, "english": "Event Area Mount Prohibition Speed Limit"}
+{"id": 2669, "english": "Event Mob-Extra High Damage When Hit"}
+{"id": 2670, "english": "Event Mob 1 HP Loss Buff"}
+{"id": 2671, "english": "Event Mob 1 Innate Buff"}
+{"id": 2672, "english": "Event Mob 2 HP Loss Buff"}
+{"id": 2673, "english": "Event Mob 2 Innate Buff"}
+{"id": 2674, "english": "Event Mob Spawn Skill"}
+{"id": 2675, "english": "Event Mob Grant Reward"}
+{"id": 2676, "english": "Event Mob Manual Group Attack 1"}
+{"id": 2677, "english": "Event Mob Normal Attack Skill 1"}
+{"id": 2678, "english": "Event Mob Mind Loss"}
+{"id": 2679, "english": "Event Hand Grenade"}
+{"id": 2680, "english": "Event New Buff 1"}
+{"id": 2681, "english": "Event New Buff 2"}
+{"id": 2682, "english": "Event New Buff 3"}
+{"id": 2683, "english": "Event New Buff 4"}
+{"id": 2684, "english": "Event New Buff 5"}
+{"id": 2685, "english": "Event New Buff 6"}
+{"id": 2686, "english": "Event Universal Celebration"}
+{"id": 2687, "english": "Event Eliminate Juggling Leader"}
+{"id": 2688, "english": "Event Eliminate Overseer"}
+{"id": 2689, "english": "Event Blazing Fire Burn"}
+{"id": 2690, "english": "Event Fumigation Powder"}
+{"id": 2691, "english": "Event Cowherd and Weaver Girl"}
+{"id": 2692, "english": "Event Overseer Self Blessing"}
+{"id": 2693, "english": "Event Dragon Boat Festival Prayer"}
+{"id": 2694, "english": "Event Zongzi King Grant Reward"}
+{"id": 2695, "english": "Event Soul Gathering Generic Buff"}
+{"id": 2696, "english": "Event Snake Venerable Empty Motion"}
+{"id": 2697, "english": "Event Prop-Auspicious Lantern Festival"}
+{"id": 2698, "english": "Event Prop-Auspicious Dumpling"}
+{"id": 2699, "english": "Event Prop-Longevity Star's Blessing"}
+{"id": 2700, "english": "Event Prop-Prosperity Star's Blessing"}
+{"id": 2701, "english": "Event Prop-Fortune Star's Blessing"}
+{"id": 2702, "english": "Event Realgar Wine"}
+{"id": 2703, "english": "Lively"}
+{"id": 2704, "english": "Lively-Charm"}
+{"id": 2705, "english": "Flowing Cloud Strike"}
+{"id": 2706, "english": "Flowing Cloud Strike-Power"}
+{"id": 2707, "english": "Flowing Cloud Strike-Shadow"}
+{"id": 2708, "english": "Flowing Cloud Slash"}
+{"id": 2709, "english": "Flowing Cloud Arrow"}
+{"id": 2710, "english": "Flowing Cloud Sleeve"}
+{"id": 2711, "english": "Flowing Cloud Sleeve-Assault"}
+{"id": 2712, "english": "Flowing Cloud Sleeve-Flying General"}
+{"id": 2713, "english": "Drain Gu"}
+{"id": 2714, "english": "Meteor Whirlwind"}
+{"id": 2715, "english": "Meteor Arrow"}
+{"id": 2716, "english": "Meteor Arrow-Power"}
+{"id": 2717, "english": "Meteor Arrow-Technique"}
+{"id": 2718, "english": "Meteor Arrow-Crit"}
+{"id": 2719, "english": "Meteor Arrow-Wild"}
+{"id": 2720, "english": "Meteor Bow Arrow"}
+{"id": 2721, "english": "Meteor Bow Arrow-Power"}
+{"id": 2722, "english": "Meteor Bow Arrow-Technique"}
+{"id": 2723, "english": "Meteor Bow Arrow-Footbind"}
+{"id": 2724, "english": "Wandering"}
+{"id": 2725, "english": "Bleeding Attack"}
+{"id": 2726, "english": "Test"}
+{"id": 2727, "english": "Test 100m Attack"}
+{"id": 2728, "english": "Test_Buff Potion"}
+{"id": 2729, "english": "Test_All Boost Potion"}
+{"id": 2730, "english": "Test_Reduce HP 10000 Points"}
+{"id": 2731, "english": "Test_Reduce HP 1000 Points"}
+{"id": 2732, "english": "Test_Reduce HP 100 Points"}
+{"id": 2733, "english": "Test_Add Stamina Cap"}
+{"id": 2734, "english": "Test_Add Stamina Recovery Speed"}
+{"id": 2735, "english": "Test_Add Constitution"}
+{"id": 2736, "english": "Test_Add Pierce"}
+{"id": 2737, "english": "Test_Add Wound Resistance"}
+{"id": 2738, "english": "Test_Add Hit"}
+{"id": 2739, "english": "Test_Add Seal Resistance"}
+{"id": 2740, "english": "Test_Add Attack"}
+{"id": 2741, "english": "Test_Add Attack Power"}
+{"id": 2742, "english": "Test_Add Attack Speed"}
+{"id": 2743, "english": "Test_Add Crit"}
+{"id": 2744, "english": "Test_Add Crit Damage"}
+{"id": 2745, "english": "Test_Add Crit Resistance"}
+{"id": 2746, "english": "Test_Add Crit Bonus Damage"}
+{"id": 2747, "english": "Test_Add Heal Effect"}
+{"id": 2748, "english": "Test_Add Heal Points"}
+{"id": 2749, "english": "Test_Add Heal Points 50"}
+{"id": 2750, "english": "Test_Add Drain Resistance"}
+{"id": 2751, "english": "Test_Add Max HP"}
+{"id": 2752, "english": "Test_Add HP Recovery Speed"}
+{"id": 2753, "english": "Test_Add Penetration"}
+{"id": 2754, "english": "Test_Add Weaken Resistance"}
+{"id": 2755, "english": "Test_Add Dodge"}
+{"id": 2756, "english": "Test_Add Defense"}
+{"id": 2757, "english": "Test_Add Restriction Resistance"}
+{"id": 2758, "english": "Test_Add Attack Power and Attack Speed"}
+{"id": 2759, "english": "Test_Test Skill"}
+{"id": 2760, "english": "Test_Gameplay Skill"}
+{"id": 2761, "english": "Test_Gameplay Skill-Stop"}
+{"id": 2762, "english": "Test_Gameplay Skill-Transition"}
+{"id": 2763, "english": "Test_Gameplay Skill-Dispel"}
+{"id": 2764, "english": "Test_Direct and Indirect Resistance +5 Points"}
+{"id": 2765, "english": "Test_Penetration Pierce 5 Points"}
+{"id": 2766, "english": "Test_Group Mob Potion"}
+{"id": 2767, "english": "Test_Suicide Potion"}
+{"id": 2768, "english": "Test Triple Combo"}
+{"id": 2769, "english": "Test Dismount"}
+{"id": 2770, "english": "Test Whirlwind_Mounted"}
+{"id": 2771, "english": "Test Agent Skill"}
+{"id": 2772, "english": "Test Dash_Mounted"}
+{"id": 2773, "english": "Test Spawn Buff Mob Drop LOOT"}
+{"id": 2774, "english": "Test Summon Fish"}
+{"id": 2775, "english": "Test Sprint"}
+{"id": 2776, "english": "Test Reflect EXP"}
+{"id": 2777, "english": "Test Scene Living Object"}
+{"id": 2778, "english": "Test Bow Ready 1_Mounted"}
+{"id": 2779, "english": "Test Bow Ready 2_Mounted"}
+{"id": 2780, "english": "Test Bow Ready 3_Mounted"}
+{"id": 2781, "english": "Test Bow Ready 4_Mounted"}
+{"id": 2782, "english": "Test Power Strike_Mounted"}
+{"id": 2783, "english": "Test Mob HP"}
+{"id": 2784, "english": "Test Warship Turret"}
+{"id": 2785, "english": "Test Chariot Skill"}
+{"id": 2786, "english": "Test Chariot Empty Buff"}
+{"id": 2787, "english": "Test Halberd Attack 1_Long Light"}
+{"id": 2788, "english": "Test Halberd Attack 2_Long Light"}
+{"id": 2789, "english": "Test Halberd Attack 3_Long Light"}
+{"id": 2790, "english": "Test Skill"}
+{"id": 2791, "english": "Test Battle Qi Aura"}
+{"id": 2792, "english": "Test Normal Attack 1_Mounted"}
+{"id": 2793, "english": "Test Normal Attack 2_Mounted"}
+{"id": 2794, "english": "Test Hidden Weapon Ready_Mounted"}
+{"id": 2795, "english": "Test Blink Directly Ahead"}
+{"id": 2796, "english": "Test Magic State<CRLF>Magic Damage 50 Points <CRLF>Mount Magic Damage 50<CRLF>Test_Magic Penetration 1    <CRLF>Mount Magic Penetration<CRLF>Test_Magic Strength 1% "}
+{"id": 2797, "english": "Test Generate Reflect EXP"}
+{"id": 2798, "english": "TestUse_Buff Potion"}
+{"id": 2799, "english": "Test Target Charge"}
+{"id": 2800, "english": "Test Target Area Slam"}
+{"id": 2801, "english": "Test Straight Line Group Attack"}
+{"id": 2802, "english": "Test Mount Prohibition"}
+{"id": 2803, "english": "Test Rot Aura"}
+{"id": 2804, "english": "Test Self Surrounding Group Attack"}
+{"id": 2805, "english": "Test Dance Attack 1_Dance"}
+{"id": 2806, "english": "Test Dance Attack 2_Dance"}
+{"id": 2807, "english": "Test Dance Attack 3_Dance"}
+{"id": 2808, "english": "Test Curse Grant Item"}
+{"id": 2809, "english": "Test Heavy Strike 1_Mounted"}
+{"id": 2810, "english": "Test Heavy Strike 2_Mounted"}
+{"id": 2811, "english": "Test Dispel Chariot Empty Buff"}
+{"id": 2812, "english": "Bathing Fire Divine Arrow"}
+{"id": 2813, "english": "Bathing Fire Assault"}
+{"id": 2814, "english": "Bathing Fire Assault-Assault"}
+{"id": 2815, "english": "Bathing Fire Assault-Chaos"}
+{"id": 2816, "english": "Heart of the Ocean"}
+{"id": 2817, "english": "All-Embracing"}
+{"id": 2818, "english": "Blood Soak"}
+{"id": 2819, "english": "Blood Soak-Assault"}
+{"id": 2820, "english": "Blood Soak-Heavy Wound"}
+{"id": 2821, "english": "Dance of Nirvana"}
+{"id": 2822, "english": "Eliminate the Traitor General"}
+{"id": 2823, "english": "Remove Frail"}
+{"id": 2824, "english": "Trickling Dance"}
+{"id": 2825, "english": "Trickling Dance-Tactic"}
+{"id": 2826, "english": "Trickling Dance-Support"}
+{"id": 2827, "english": "Surging Waves Shake the Earth"}
+{"id": 2828, "english": "Surging Waves Shake the Earth-Stratagem"}
+{"id": 2829, "english": "Surging Waves Shake the Earth-Assault"}
+{"id": 2830, "english": "Babbling Dance"}
+{"id": 2831, "english": "Babbling Dance-Support"}
+{"id": 2832, "english": "Chunyu Qiong Skill 1"}
+{"id": 2833, "english": "Chunyu Qiong Skill 2"}
+{"id": 2834, "english": "Chunyu Qiong Skill 3"}
+{"id": 2835, "english": "Confusion Scheme"}
+{"id": 2836, "english": "Primordial Thunderclap"}
+{"id": 2837, "english": "Mixed Ring Stance"}
+{"id": 2838, "english": "Mixed Ring Stance-Guard"}
+{"id": 2839, "english": "Mixed Ring Stance-Break"}
+{"id": 2840, "english": "Clear Breeze-Army"}
+{"id": 2841, "english": "Clear Breeze-Rage"}
+{"id": 2842, "english": "Clear Breeze-Break"}
+{"id": 2843, "english": "Fisherman's Daughter Lanxiang Casts"}
+{"id": 2844, "english": "Fisherman's Daughter Grant Reward Buff"}
+{"id": 2845, "english": "Fisherman's Daughter Casts"}
+{"id": 2846, "english": "Zhan Lu Sword Intent"}
+{"id": 2847, "english": "Backtrack Assault Kill"}
+{"id": 2848, "english": "Rolling Rock Fall"}
+{"id": 2849, "english": "Rolling Rock Fall-Soul Snatch"}
+{"id": 2850, "english": "Rolling Rock Fall-Assault"}
+{"id": 2851, "english": "Full Draw Shot"}
+{"id": 2852, "english": "Full Draw Shot-Power"}
+{"id": 2853, "english": "Full Draw Shot-Technique"}
+{"id": 2854, "english": "Full Draw Shot Generate State"}
+{"id": 2855, "english": "Romance 05 Fence Mob Close Thrust"}
+{"id": 2856, "english": "Romance 10-Area Immobilize"}
+{"id": 2857, "english": "Romance 10 BOSS01-A"}
+{"id": 2858, "english": "Romance 10 BOSS01-B"}
+{"id": 2859, "english": "Romance 10 BOSS01-C"}
+{"id": 2860, "english": "Romance 10 BOSS02-C"}
+{"id": 2861, "english": "Romance 10 BOSS03-C"}
+{"id": 2862, "english": "Romance 10 BOSS04-C"}
+{"id": 2863, "english": "Romance 10 BOSS05-A"}
+{"id": 2864, "english": "Romance 10 BOSS05-B"}
+{"id": 2865, "english": "Romance 10 BOSS05-C"}
+{"id": 2866, "english": "Romance 10 BOSS Final-A"}
+{"id": 2867, "english": "Romance 10 BOSS Final-B"}
+{"id": 2868, "english": "Romance 10 BOSS Final-C"}
+{"id": 2869, "english": "Romance 11 Fu Tong Skill 1"}
+{"id": 2870, "english": "Romance 11 Fu Tong Skill 2"}
+{"id": 2871, "english": "Romance 11 Fu Tong Skill 3"}

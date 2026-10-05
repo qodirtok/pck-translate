@@ -1,0 +1,6 @@
+mode: DRY-RUN
+batch files scanned: 20
+records to strip: 0
+unalignable: 0
+violations: 0
+exit=0

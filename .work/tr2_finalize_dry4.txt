@@ -1,0 +1,7 @@
+glossary filled 12 / 0 still missing
+translations available: 8959
+SKIP skillstr.txt: 57 payload(s) break placeholders (e.g. '^c3dbff烈风斩\r\n\r\n^ffffff兵器：钺\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300010体力')
+SKIP skillgbk.txt: 57 payload(s) break placeholders (e.g. '^c3dbff烈风斩\r\n\r\n^ffffff兵器：钺\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300010体力')
+
+promoted 0 file(s); all_ok=False
+exit=1

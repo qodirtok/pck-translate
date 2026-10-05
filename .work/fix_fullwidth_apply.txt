@@ -1,0 +1,7 @@
+mode: APPLY
+records scanned: 8947
+records touched: 55
+unalignable: 0
+violations: 0
+written: 6 files, 55 records
+exit=0

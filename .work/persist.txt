@@ -1,0 +1,6 @@
+batch_002/1: '^c3dbffBattle Might: Wrath'
+batch_005/62: '^c3dbffArmor Expertise^ffffff'
+batch_005/70: '^c3dbffWheel the Horse Around'
+batch_012/97: '^c3dbffWind Chase Rising Dragon'
+batch_014/8: '^c3dbffHeart-Piercing Fury^ffffff'
+batch_000/170: '^c3dbffExtraordinary · Civil (Basic)'

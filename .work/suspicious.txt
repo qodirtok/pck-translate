@@ -1,0 +1,1680 @@
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff七星聚月^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成265%%基础伤害。
+ENG: ^c3dbffSeven Stars Gather the Moon^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: III<CRLF>Learning Requirement: Ranged<CRLF>High-Grade Move<CRLF><CRLF>Gathering all strength in the body, delivering a mighty strike.<CRLF>Deals 265%% base damage.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff七星聚月^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成265%%基础伤害。
+ENG: ^c3dbffSeven Stars Gather the Moon^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: III<CRLF>Learning Requirement: Ranged<CRLF>High-Grade Move<CRLF><CRLF>Gathering all strength in the body, delivering a mighty strike.<CRLF>Deals 265%% base damage.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff七星聚月·弱战<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff七星聚月有几率使目标进入弱战状态，弱战状态下，<CRLF>目标每次攻击，将减少攻击力60点，可叠加5层，<CRLF>弱战状态持续8秒。
+ENG: ^c3dbffSeven Stars Gather the Moon · Weakened in Battle<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffSeven Stars Gather the Moon has a chance to put the target into the Weakened in Battle state; in the Weakened in Battle state,<CRLF
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff七星聚月·弱战<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff七星聚月有几率使目标进入弱战状态，弱战状态下，<CRLF>目标每次攻击，将减少攻击力60点，可叠加5层，<CRLF>弱战状态持续8秒。
+ENG: ^c3dbffSeven Stars Gather the Moon · Weakened in Battle<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffSeven Stars Gather the Moon has a chance to put the target into the Weakened in Battle state; in the Weakened in Battle state,<CRLF
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff七星聚月·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升七星聚月造成的伤害。
+ENG: ^c3dbffSeven Stars Gather the Moon · Fierce Assault<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Seven Stars Gather the Moon.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff七星聚月·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升七星聚月造成的伤害。
+ENG: ^c3dbffSeven Stars Gather the Moon · Fierce Assault<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Seven Stars Gather the Moon.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff七星落^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成165%%基础伤害。
+ENG: ^c3dbffSeven Stars Fall^ffffff<CRLF><CRLF>Skill Category: Zeal Line<CRLF>Skill Quality: II<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 165%% base damage.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff七星落^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成165%%基础伤害。
+ENG: ^c3dbffSeven Stars Fall^ffffff<CRLF><CRLF>Skill Category: Zeal Line<CRLF>Skill Quality: II<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 165%% base damage.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff七星落·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升七星落造成的伤害。
+ENG: ^c3dbffSeven Stars Fall · Fierce Assault<CRLF><CRLF>Skill Category: Zeal Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Seven Stars Fall.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff七星落·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升七星落造成的伤害。
+ENG: ^c3dbffSeven Stars Fall · Fierce Assault<CRLF><CRLF>Skill Category: Zeal Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Seven Stars Fall.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff七星落·破魂<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff七星落有一定几率降低目标暴击，<CRLF>状态持续10秒。
+ENG: ^c3dbffSeven Stars Fall · Soul Break<CRLF><CRLF>Skill Category: Zeal Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffSeven Stars Fall has a chance to reduce the target's Crit,<CRLF>the state lasting 10 seconds.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff七星落·破魂<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff七星落有一定几率降低目标暴击，<CRLF>状态持续10秒。
+ENG: ^c3dbffSeven Stars Fall · Soul Break<CRLF><CRLF>Skill Category: Zeal Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffSeven Stars Fall has a chance to reduce the target's Crit,<CRLF>the state lasting 10 seconds.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff万壑松风^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>山路松声，云壑泉涌，气韵浑然一体，<CRLF>提升自身暴击，持续30秒。
+ENG: ^c3dbffPines in Ten Thousand Valleys^ffffff<CRLF><CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5 min<CRLF><CRLF>Pine sounds on the mountain road, springs welling in clouded valleys, the rhythm harmonized as one,<CRLF>boosting your own Crit, lasting 30 second
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff专注·凝神<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使专注系单体伤害技能额外获得暴击加成，<CRLF>加成系数与护卫专注系数相关。
+ENG: ^c3dbffFocus · Concentration<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF><CRLF>^ffffffFocus Line single-target damage skills gain an extra Crit bonus;<CRLF>the bonus coefficient is tied to the Bodyguard Focus coefficient.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff专注·凝神<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使专注系单体伤害技能额外获得暴击加成，<CRLF>加成系数与护卫专注系数相关。
+ENG: ^c3dbffFocus · Concentration<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF><CRLF>^ffffffFocus Line single-target damage skills gain an extra Crit bonus;<CRLF>the bonus coefficient is tied to the Bodyguard Focus coefficient.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff专注·奋勇<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使专注系单体伤害技能基础伤害受到护卫专注系数加成。
+ENG: ^c3dbffFocus · Valor<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF><CRLF>^ffffffBase damage of Focus Line single-target damage skills is boosted by the Bodyguard Focus coefficient.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff专注·奋勇<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使专注系单体伤害技能基础伤害受到护卫专注系数加成。
+ENG: ^c3dbffFocus · Valor<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF><CRLF>^ffffffBase damage of Focus Line single-target damage skills is boosted by the Bodyguard Focus coefficient.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff专注·锋羽<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff提升专注系单体伤害技能打出负面状态的几率，<CRLF>提升效果与护卫专注系数相关。
+ENG: ^c3dbffFocus · Sharp Feather<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF><CRLF>^ffffffIncreases the chance of Focus Line single-target damage skills inflicting negative states;<CRLF>the boost is tied to the Bodyguard Focus coefficient.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff专注·锋羽<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff提升专注系单体伤害技能打出负面状态的几率，<CRLF>提升效果与护卫专注系数相关。
+ENG: ^c3dbffFocus · Sharp Feather<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF><CRLF>^ffffffIncreases the chance of Focus Line single-target damage skills inflicting negative states;<CRLF>the boost is tied to the Bodyguard Focus coefficient.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff乏力于战^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>令敌人疲惫，无力再战，<CRLF>暴击附加伤害降低，持续30秒。
+ENG: ^c3dbffWeary of Battle^ffffff<CRLF><CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5 min<CRLF><CRLF>Leaving enemies exhausted and too weary to fight,<CRLF>Crit Bonus Damage is reduced, lasting 30 seconds.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff九幽裂^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成165%%基础伤害。
+ENG: ^c3dbffNether Rend^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: II<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 165%% base damage.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff九幽裂^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成165%%基础伤害。
+ENG: ^c3dbffNether Rend^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: II<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 165%% base damage.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff九幽裂·弱魂<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff九幽裂有一定几率忽略目标一定的防御力，<CRLF>对其造成巨大伤害。
+ENG: ^c3dbffNether Rend · Weakened Soul<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffNether Rend has a chance to ignore a portion of the target's Defense<CRLF>dealing massive damage to it.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff九幽裂·弱魂<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff九幽裂有一定几率忽略目标一定的防御力，<CRLF>对其造成巨大伤害。
+ENG: ^c3dbffNether Rend · Weakened Soul<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffNether Rend has a chance to ignore a portion of the target's Defense<CRLF>dealing massive damage to it.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff九幽裂·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升九幽裂造成的伤害。
+ENG: ^c3dbffNether Rend · Fierce Assault<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Nether Rend.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff九幽裂·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升九幽裂造成的伤害。
+ENG: ^c3dbffNether Rend · Fierce Assault<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Nether Rend.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff乱心诀^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>扰乱敌人心智，受到治疗时，效果降低，<CRLF>持续30秒。
+ENG: ^c3dbffMind Chaos Art^ffffff<CRLF><CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5 min<CRLF><CRLF>Disrupting the enemy's mind, reducing the effect of healing received,<CRLF>lasting 30 seconds.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff乾天罡气^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>将元气赋予主人，增加其攻击力，持续60秒。
+ENG: ^c3dbffHeavenly Vigor^ffffff<CRLF><CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5 min<CRLF><CRLF>Bestows vitality upon the master, increasing their Attack, lasting 60 seconds.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff云淡风清<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff永久提升直接抗性，减少所受伤害。
+ENG: ^c3dbffLight Clouds, Gentle Breeze<CRLF><CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF><CRLF>^ffffffPermanently boosts Direct Resistance, reducing damage taken.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff以逸待劳^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>以逸待劳，轻松抵挡敌人招式，<CRLF>降低所受伤害，持续30秒。
+ENG: ^c3dbffWait at Ease^ffffff<CRLF><CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5 min<CRLF><CRLF>Waiting at ease for the weary foe, easily shrugging off enemy moves,<CRLF>reducing damage taken, lasting 30 seconds.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff伏云击^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>分两段向敌人攻击，招式凶狠有力。<CRLF>第一段造成185%%基础伤害，<CRLF>第二段造成85%%基础伤害。
+ENG: ^c3dbffLurking Cloud Strike^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: II<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attacking the enemy in two stages; the moves are fierce and powerful.<CRLF>Stage 1 deals 185%% base damage,<CRLF>stage 2 deals 85%% base dam
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff伏云击^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>分两段向敌人攻击，招式凶狠有力。<CRLF>第一段造成185%%基础伤害，<CRLF>第二段造成85%%基础伤害。
+ENG: ^c3dbffLurking Cloud Strike^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: II<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attacking the enemy in two stages; the moves are fierce and powerful.<CRLF>Stage 1 deals 185%% base damage,<CRLF>stage 2 deals 85%% base dam
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff伏云击·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升伏云击造成的伤害。
+ENG: ^c3dbffLurking Cloud Strike · Fierce Assault<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Lurking Cloud Strike.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff伏云击·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升伏云击造成的伤害。
+ENG: ^c3dbffLurking Cloud Strike · Fierce Assault<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Lurking Cloud Strike.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff伏云击·飞将<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff伏云击有一定几率附带无视防御伤害，<CRLF>伤害值为护卫攻击力的30%%。
+ENG: ^c3dbffLurking Cloud Strike · Flying General<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffLurking Cloud Strike has a chance to additionally deal Ignore-Defense damage;<CRLF>the damage value is 30%% of the Bodyguard's Attack.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff伏云击·飞将<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff伏云击有一定几率附带无视防御伤害，<CRLF>伤害值为护卫攻击力的30%%。
+ENG: ^c3dbffLurking Cloud Strike · Flying General<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffLurking Cloud Strike has a chance to additionally deal Ignore-Defense damage;<CRLF>the damage value is 30%% of the Bodyguard's Attack.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff健体术^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>强健体魄，提升主人体质，持续1分钟。
+ENG: ^c3dbffBody Strengthening^ffffff<CRLF><CRLF>Skill Quality: V<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5 min<CRLF><CRLF>Fortifying the body, boosting the master's Stamina, lasting 1 minute.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff傲大地狂啸·圣裁<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff大地狂啸有几率使目标进入圣裁状态，<CRLF>圣裁状态下，每次被攻击则间接抗性降低2点，<CRLF>最多叠加5层，状态持续10秒。
+ENG: ^c3dbffRoar of the Proud Earth · Holy Judgment<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffWild Roar of the Earth has a chance to put the target into the Holy Judgment state;<CRLF>in the Holy Judgment state, each time the target is 
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff傲大地狂啸·圣裁<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff大地狂啸有几率使目标进入圣裁状态，<CRLF>圣裁状态下，每次被攻击则间接抗性降低2点，<CRLF>最多叠加5层，状态持续10秒。
+ENG: ^c3dbffRoar of the Proud Earth · Holy Judgment<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffWild Roar of the Earth has a chance to put the target into the Holy Judgment state;<CRLF>in the Holy Judgment state, each time the target is 
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff傲天一式^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成90%%基础伤害。
+ENG: ^c3dbffHeaven-Defying Form^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: II<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacking the 3 enemies in front of you<CRLF>for 90%% base damage.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff傲天一式^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成90%%基础伤害。
+ENG: ^c3dbffHeaven-Defying Form^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: II<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacking the 3 enemies in front of you<CRLF>for 90%% base damage.
+
+### batch_000 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff傲断苍穹^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成280%%基础伤害。
+ENG: ^c3dbffSever the Firmament^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: III<CRLF>Learning Requirement: Melee<CRLF>High-Grade Move<CRLF><CRLF>Gathering all strength in the body, delivering a mighty strike.<CRLF>Deals 280%% base damage.
+
+### batch_000 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff傲断苍穹^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成280%%基础伤害。
+ENG: ^c3dbffSever the Firmament^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: III<CRLF>Learning Requirement: Melee<CRLF>High-Grade Move<CRLF><CRLF>Gathering all strength in the body, delivering a mighty strike.<CRLF>Deals 280%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff傲断苍穹·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升傲断苍穹造成的伤害。
+ENG: ^c3dbffProud Skybreaker · Strong Attack<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Proud Skybreaker.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff傲断苍穹·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升傲断苍穹造成的伤害。
+ENG: ^c3dbffProud Skybreaker · Strong Attack<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Proud Skybreaker.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff傲断苍穹·涣神<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff傲断苍穹有几率降低目标攻击强度，<CRLF>状态持续10秒。
+ENG: ^c3dbffProud Skybreaker · Spirit Disperse<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffProud Skybreaker has a chance to reduce the target's Attack Power,<CRLF>Lasts 10 seconds.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff傲断苍穹·涣神<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff傲断苍穹有几率降低目标攻击强度，<CRLF>状态持续10秒。
+ENG: ^c3dbffProud Skybreaker · Spirit Disperse<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffProud Skybreaker has a chance to reduce the target's Attack Power,<CRLF>Lasts 10 seconds.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff兵粮寸断^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>无兵无粮，令敌人心灰意冷，<CRLF>降低敌人攻击力，持续30秒。
+ENG: ^c3dbffSupply Line Severed^ffffff<CRLF><CRLF>Skill Quality: 5<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5min<CRLF><CRLF>No troops, no supplies — the enemy loses heart.<CRLF>Reduces enemy Attack Power for 30 seconds.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冥火^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成124%%基础伤害。
+ENG: ^c3dbffNether Fire^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 1<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Attack the enemy swiftly with sharp, powerful motions.<CRLF>Deals 124%% base damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冥火^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成124%%基础伤害。
+ENG: ^c3dbffNether Fire^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 1<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Attack the enemy swiftly with sharp, powerful motions.<CRLF>Deals 124%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冥火·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升冥火造成的伤害。
+ENG: ^c3dbffNether Fire · Strong Attack<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Nether Fire.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冥火·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升冥火造成的伤害。
+ENG: ^c3dbffNether Fire · Strong Attack<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Nether Fire.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冥火·狂猛<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff冥火有一定几率进入狂猛状态，提升护卫暴击，<CRLF>状态持续10秒。
+ENG: ^c3dbffNether Fire · Frenzy<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffNether Fire has a chance to enter Frenzy state, boosting Guard Crit.<CRLF>State lasts 10 seconds.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冥火·狂猛<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff冥火有一定几率进入狂猛状态，提升护卫暴击，<CRLF>状态持续10秒。
+ENG: ^c3dbffNether Fire · Frenzy<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffNether Fire has a chance to enter Frenzy state, boosting Guard Crit.<CRLF>State lasts 10 seconds.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冥火爆^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成62%%基础伤害。
+ENG: ^c3dbffNether Fire Burst^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 1<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Quick attack, dealing 62%% base damage to 3 enemies<CRLF>in a straight line ahead.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冥火爆^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成62%%基础伤害。
+ENG: ^c3dbffNether Fire Burst^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 1<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Quick attack, dealing 62%% base damage to 3 enemies<CRLF>in a straight line ahead.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冰凌袭心^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成96%%基础伤害。
+ENG: ^c3dbffIcicle Heartstrike^ffffff<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 3<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Swing your weapon to attack 5 surrounding enemies,<CRLF>dealing 96%% base damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冰凌袭心^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成96%%基础伤害。
+ENG: ^c3dbffIcicle Heartstrike^ffffff<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 3<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Swing your weapon to attack 5 surrounding enemies,<CRLF>dealing 96%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冰刺·血咒<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff疾刺有一定几率使敌人进入血咒状态，<CRLF>持续流失生命，状态持续10秒。
+ENG: ^c3dbffIce Spike · Blood Curse<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffSwift Spike has a chance to inflict Blood Curse on the enemy, continuously draining HP.<CRLF>State lasts 10 seconds.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冰刺·血咒<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff疾刺有一定几率使敌人进入血咒状态，<CRLF>持续流失生命，状态持续10秒。
+ENG: ^c3dbffIce Spike · Blood Curse<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffSwift Spike has a chance to inflict Blood Curse on the enemy, continuously draining HP.<CRLF>State lasts 10 seconds.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冰晶雨^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成173%%基础伤害。
+ENG: ^c3dbffIce Crystal Rain^ffffff<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 2<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 173%% base damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冰晶雨^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成173%%基础伤害。
+ENG: ^c3dbffIce Crystal Rain^ffffff<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 2<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 173%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冰晶雨·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升冰晶雨造成的伤害。
+ENG: ^c3dbffIce Crystal Rain · Strong Attack<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Ice Crystal Rain.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冰晶雨·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升冰晶雨造成的伤害。
+ENG: ^c3dbffIce Crystal Rain · Strong Attack<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Ice Crystal Rain.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冰晶雨·离心<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff冰晶雨有一定几率使目标进入离心状态，<CRLF>生命回复速度降低，状态持续10秒。
+ENG: ^c3dbffIce Crystal Rain · Disheartened<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffIce Crystal Rain has a chance to inflict Disheartened on the target, reducing HP recovery speed.<CRLF>State lasts 10 seconds.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冰晶雨·离心<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff冰晶雨有一定几率使目标进入离心状态，<CRLF>生命回复速度降低，状态持续10秒。
+ENG: ^c3dbffIce Crystal Rain · Disheartened<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffIce Crystal Rain has a chance to inflict Disheartened on the target, reducing HP recovery speed.<CRLF>State lasts 10 seconds.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冰石乱坠^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成89%%基础伤害。
+ENG: ^c3dbffHailstone Fall^ffffff<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 3<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Swing your weapon to attack 5 surrounding enemies,<CRLF>dealing 89%% base damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冰石乱坠^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成89%%基础伤害。
+ENG: ^c3dbffHailstone Fall^ffffff<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: 3<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Swing your weapon to attack 5 surrounding enemies,<CRLF>dealing 89%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冲天障^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成169%%基础伤害。
+ENG: ^c3dbffSky-Piercing Barrier^ffffff<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 2<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 169%% base damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冲天障^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成169%%基础伤害。
+ENG: ^c3dbffSky-Piercing Barrier^ffffff<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 2<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 169%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冲天障·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升冲天障造成的伤害。
+ENG: ^c3dbffSky-Piercing Barrier · Strong Attack<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Sky-Piercing Barrier.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冲天障·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升冲天障造成的伤害。
+ENG: ^c3dbffSky-Piercing Barrier · Strong Attack<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Sky-Piercing Barrier.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冲天障·惊魂<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff冲天障有一定几率使目标进入惊魂状态，<CRLF>降低直接抗性，状态持续5秒。
+ENG: ^c3dbffSky-Piercing Barrier · Dread<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffSky-Piercing Barrier has a chance to inflict Dread on the target, reducing Direct Resistance.<CRLF>State lasts 5 seconds.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冲天障·惊魂<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff冲天障有一定几率使目标进入惊魂状态，<CRLF>降低直接抗性，状态持续5秒。
+ENG: ^c3dbffSky-Piercing Barrier · Dread<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffSky-Piercing Barrier has a chance to inflict Dread on the target, reducing Direct Resistance.<CRLF>State lasts 5 seconds.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冲虚养气^ffffff<CRLF><CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>忠心护主，瞬间为主人回复一定生命。
+ENG: ^c3dbffNurture Qi in the Void^ffffff<CRLF><CRLF><CRLF>Skill Quality: 5<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5min<CRLF><CRLF>Steadfastly protects its master, instantly restoring a certain amount of HP to the master.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冷月无双^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：伍<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成356%%基础伤害。<CRLF>并有几率降低目标攻击、吟唱速度，<CRLF>降低攻击、吟唱速度效果与护卫计谋值相关，<CRLF>状态持续10秒。
+ENG: ^c3dbffPeerless Cold Moon^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 5<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Gather all your strength for a mighty strike.<CRLF>Deals 356%% base damage.<CRLF>Has a chance to reduce the target's Attack and Cast Speed.<CR
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冷月无双^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：伍<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成356%%基础伤害。<CRLF>并有几率降低目标攻击、吟唱速度，<CRLF>降低攻击、吟唱速度效果与护卫计谋值相关，<CRLF>状态持续10秒。
+ENG: ^c3dbffPeerless Cold Moon^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 5<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Gather all your strength for a mighty strike.<CRLF>Deals 356%% base damage.<CRLF>Has a chance to reduce the target's Attack and Cast Speed.<CR
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冷烟破^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成161%%基础伤害。
+ENG: ^c3dbffCold Smoke Break^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 2<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 161%% base damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冷烟破^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成161%%基础伤害。
+ENG: ^c3dbffCold Smoke Break^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 2<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 161%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冷烟破·封锁<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff冷烟破有一定几率使敌人进入封锁状态，<CRLF>封印抗性降低10点，进入禁食状态，无法使用药品，<CRLF>并持续减少生命，状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffCold Smoke Break · Blockade<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffCold Smoke Break has a chance to inflict Seal on the enemy — Seal Resistance reduced by 10 points,<CRLF>entering Fasting state (cannot use items), and 
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冷烟破·封锁<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff冷烟破有一定几率使敌人进入封锁状态，<CRLF>封印抗性降低10点，进入禁食状态，无法使用药品，<CRLF>并持续减少生命，状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffCold Smoke Break · Blockade<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffCold Smoke Break has a chance to inflict Seal on the enemy — Seal Resistance reduced by 10 points,<CRLF>entering Fasting state (cannot use items), and 
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff冷烟破·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升冷烟破造成的伤害。
+ENG: ^c3dbffCold Smoke Break · Strong Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Cold Smoke Break.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff冷烟破·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升冷烟破造成的伤害。
+ENG: ^c3dbffCold Smoke Break · Strong Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Cold Smoke Break.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff凌云击^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成60%%基础伤害。
+ENG: ^c3dbffCloud-Piercing Strike^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: 1<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Quick attack, dealing 60%% base damage to 3 enemies<CRLF>in a straight line ahead.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff凌云击^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成60%%基础伤害。
+ENG: ^c3dbffCloud-Piercing Strike^ffffff<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: 1<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Quick attack, dealing 60%% base damage to 3 enemies<CRLF>in a straight line ahead.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff凝神^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：3分钟<CRLF><CRLF>凝神聚气，为主人持续回复生命。
+ENG: ^c3dbffSpirit Focus^ffffff<CRLF><CRLF>Skill Quality: 5<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 3min<CRLF><CRLF>Gather focus and qi, continuously restoring HP to the master.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff凝神一击^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成87%%基础伤害。
+ENG: ^c3dbffFocused Spirit Strike^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 2<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the 3 enemies ahead,<CRLF>dealing 87%% base damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff凝神一击^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成87%%基础伤害。
+ENG: ^c3dbffFocused Spirit Strike^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 2<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the 3 enemies ahead,<CRLF>dealing 87%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff凰羽烈炎^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成272%%基础伤害。
+ENG: ^c3dbffPhoenix Feather Blaze^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 3<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Gather all your strength for a mighty strike.<CRLF>Deals 272%% base damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff凰羽烈炎^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成272%%基础伤害。
+ENG: ^c3dbffPhoenix Feather Blaze^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 3<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Gather all your strength for a mighty strike.<CRLF>Deals 272%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff凰羽烈炎·崩乱<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff凰羽烈炎有几率使目标进入崩乱状态，<CRLF>崩乱状态下，若被暴击则暴击抗性降低，<CRLF>可叠加5层，状态持续5秒。
+ENG: ^c3dbffPhoenix Feather Blaze · Upheaval<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffPhoenix Feather Blaze has a chance to inflict Upheaval on the target.<CRLF>In Upheaval, being Crit reduces Crit Resistance.<CRLF>Stacks up to 
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff凰羽烈炎·崩乱<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff凰羽烈炎有几率使目标进入崩乱状态，<CRLF>崩乱状态下，若被暴击则暴击抗性降低，<CRLF>可叠加5层，状态持续5秒。
+ENG: ^c3dbffPhoenix Feather Blaze · Upheaval<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffPhoenix Feather Blaze has a chance to inflict Upheaval on the target.<CRLF>In Upheaval, being Crit reduces Crit Resistance.<CRLF>Stacks up to 
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff凰羽烈炎·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升凰羽烈炎造成的伤害。
+ENG: ^c3dbffPhoenix Feather Blaze · Strong Attack<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Phoenix Feather Blaze.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff凰羽烈炎·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升凰羽烈炎造成的伤害。
+ENG: ^c3dbffPhoenix Feather Blaze · Strong Attack<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Phoenix Feather Blaze.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff刃风壁^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成195%%基础伤害。
+ENG: ^c3dbffBlade Wind Wall^ffffff<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 2<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 195%% base damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刃风壁^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成195%%基础伤害。
+ENG: ^c3dbffBlade Wind Wall^ffffff<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 2<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 195%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff刃风壁·夺魄<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff刃风壁有几率使目标进入夺魄状态，<CRLF>间接抗性降低，状态持续5秒。
+ENG: ^c3dbffBlade Wind Wall · Soul Snatch<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBlade Wind Wall has a chance to inflict Soul Snatch on the target, reducing Indirect Resistance.<CRLF>State lasts 5 seconds.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刃风壁·夺魄<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff刃风壁有几率使目标进入夺魄状态，<CRLF>间接抗性降低，状态持续5秒。
+ENG: ^c3dbffBlade Wind Wall · Soul Snatch<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBlade Wind Wall has a chance to inflict Soul Snatch on the target, reducing Indirect Resistance.<CRLF>State lasts 5 seconds.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff刃风壁·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升刃风壁造成的伤害。
+ENG: ^c3dbffBlade Wind Wall · Strong Attack<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Blade Wind Wall.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刃风壁·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升刃风壁造成的伤害。
+ENG: ^c3dbffBlade Wind Wall · Strong Attack<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Blade Wind Wall.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刚体<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff永久提升间接抗性，减少所受伤害。
+ENG: ^c3dbffIron Body<CRLF><CRLF>Skill Quality: 5<CRLF>Learning Requirement: None<CRLF><CRLF>^ffffffPermanently increases Indirect Resistance, reducing damage taken.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff刺杀^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成113%%基础伤害。
+ENG: ^c3dbffAssassination^ffffff<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 1<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Attack the enemy swiftly with sharp, powerful motions.<CRLF>Deals 113%% base damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刺杀^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成113%%基础伤害。
+ENG: ^c3dbffAssassination^ffffff<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 1<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Attack the enemy swiftly with sharp, powerful motions.<CRLF>Deals 113%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff刺杀·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升刺杀造成的伤害。
+ENG: ^c3dbffAssassination · Strong Attack<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Assassination.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刺杀·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升刺杀造成的伤害。
+ENG: ^c3dbffAssassination · Strong Attack<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Assassination.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff刺杀·无心<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff刺杀有一定几率忽略敌人500点防御，<CRLF>对其造成具大伤害。
+ENG: ^c3dbffAssassination · Reckless<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffAssassination has a chance to ignore 500 points of the enemy's Defense,<CRLF>dealing massive damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刺杀·无心<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff刺杀有一定几率忽略敌人500点防御，<CRLF>对其造成具大伤害。
+ENG: ^c3dbffAssassination · Reckless<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffAssassination has a chance to ignore 500 points of the enemy's Defense,<CRLF>dealing massive damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刺穴诀^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>刺其穴位，使其无法瞄准，<CRLF>命中降低。
+ENG: ^c3dbffAcupoint Strike Art^ffffff<CRLF><CRLF>Skill Quality: 5<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5min<CRLF><CRLF>Strike the enemy's acupoints, robbing them of aim.<CRLF>Hit reduced.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff刺骨^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成97%%基础伤害。
+ENG: ^c3dbffPierce Bone^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 1<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Attack the enemy swiftly with sharp, powerful motions.<CRLF>Deals 97%% base damage.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刺骨^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成97%%基础伤害。
+ENG: ^c3dbffPierce Bone^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 1<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Attack the enemy swiftly with sharp, powerful motions.<CRLF>Deals 97%% base damage.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff刺骨·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升刺骨造成的伤害。
+ENG: ^c3dbffPierce Bone · Strong Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Pierce Bone.
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刺骨·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升刺骨造成的伤害。
+ENG: ^c3dbffPierce Bone · Strong Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Pierce Bone.
+
+### batch_001 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff刺骨·易创<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff刺骨有一定几率使目标进入易创状态，受伤抗性降低10点，<CRLF>并随机进入劈伤、刺伤、震伤状态，状态效果与护卫计谋值相关，<CRLF>持续10秒。
+ENG: ^c3dbffPierce Bone · Exposed Wounds<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffPierce Bone has a chance to inflict Exposed Wounds on the target — Wound Resistance reduced by 10 points,<CRLF>and randomly entering Slash Wound, Pierc
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刺骨·易创<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff刺骨有一定几率使目标进入易创状态，受伤抗性降低10点，<CRLF>并随机进入劈伤、刺伤、震伤状态，状态效果与护卫计谋值相关，<CRLF>持续10秒。
+ENG: ^c3dbffPierce Bone · Exposed Wounds<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: 4<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffPierce Bone has a chance to inflict Exposed Wounds on the target — Wound Resistance reduced by 10 points,<CRLF>and randomly entering Slash Wound, Pierc
+
+### batch_001 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff刺骨诀^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>锥心刺骨，影响目标身法，<CRLF>闪避降低。
+ENG: ^c3dbffBone-Piercing Art^ffffff<CRLF><CRLF>Skill Quality: 5<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5min<CRLF><CRLF>A heart-and-bone piercing strike that unsettles the target's movement.<CRLF>Dodge reduced.
+
+### batch_002 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff力透千钧^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成240%%基础伤害。
+ENG: ^c3dbffPiercing Force^ffffff<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Grade: 3<CRLF>Requirement: Melee Range<CRLF>High-Tier Move<CRLF><CRLF>Gather the strength of your whole body into one devastating strike.<CRLF>Deals 240%% Base Damage.
+
+### batch_002 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff十方俱灭^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成91%%基础伤害。
+ENG: ^c3dbffAll-Direction Annihilation^ffffff<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Grade: 3<CRLF>Requirement: Melee Range<CRLF>High-Tier Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you,<CRLF>dealing 91%% Base Damage.
+
+### batch_002 / cn=冷却时间 / phrase='Transformation Only Cool-down'
+SRC: ^c3dbff发射响炮^ffffff<CRLF><CRLF>变身专用             冷却时间：1秒<CRLF><CRLF>发射后只闻炮声雷动，不见炮弹飞出，<CRLF>吓唬吓唬胆小的士兵还可以，上阵杀敌就算了。
+ENG: ^c3dbffFire the Noise Cannon^ffffff<CRLF><CRLF>Transformation Only Cool-down: 1 sec<CRLF><CRLF>After firing, only the thunderous boom of the cannon is heard — no cannonball flies out.<CRLF>It might startle a few timid soldiers, but it's useless against real enemies.
+
+### batch_002 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff叶舞^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成100%%基础伤害。
+ENG: ^c3dbffLeaf Dance^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Grade: 1<CRLF>Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Attack the enemy swiftly — quick, powerful movements.<CRLF>Deals 100%% Base Damage.
+
+### batch_002 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff回气破^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成157%%基础伤害。
+ENG: ^c3dbffQi Recovery Break^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Grade: 2<CRLF>Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 157%% Base Damage.
+
+### batch_002 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff回风扫叶^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成80%%基础伤害。
+ENG: ^c3dbffSweeping Return Wind^ffffff<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Grade: 2<CRLF>Requirement: Melee Range<CRLF>Advanced Move<CRLF><CRLF>Attack the 3 enemies in front of you,<CRLF>dealing 80%% Base Damage.
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff怒喝狂击^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：伍<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成346%%基础伤害，<CRLF>并有几率降低目标防御，状态持续10秒。
+ENG: ^c3dbffFury Roar Strike^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: Five<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Gather your full strength and strike with all your might.<CRLF>Deals 346%% base damage,<CRLF>and has a chance to reduce the Target's Defense. Lasts 10 
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff怒海狂涛^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成297%%基础伤害。
+ENG: ^c3dbffRaging Sea Surge^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Rank: Three<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Gather your full strength and strike with all your might.<CRLF>Deals 297%% base damage.
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff怒海狂涛·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升怒海狂涛造成的伤害。
+ENG: ^c3dbffRaging Sea Surge · Assault<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Rank: Four<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Raging Sea Surge.
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff怒海狂涛·黯灭<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff怒海狂涛有几率牺牲自身1500点生命，<CRLF>并以一定比例减少目标体力值，<CRLF>此比例受计谋值影响。
+ENG: ^c3dbffRaging Sea Surge · Annihilation<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Rank: Four<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffRaging Sea Surge has a chance to sacrifice 1500 of your own HP<CRLF>and reduce the Target's Stamina by a certain proportion.<CRLF>This proportion is affec
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff怒空摘星^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成239%%基础伤害。
+ENG: ^c3dbffFury Star Pluck^ffffff<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: Three<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Gather your full strength and strike with all your might.<CRLF>Deals 239%% base damage.
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff怒空摘星·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升怒空摘星造成的伤害。
+ENG: ^c3dbffFury Star Pluck · Assault<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Fury Star Pluck.
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff怒空摘星·归元<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff怒空摘星有几率使敌人进入归元状态，持续减少斗气，<CRLF>斗气减少效果与护卫计谋值相关，状态持续5秒。
+ENG: ^c3dbffFury Star Pluck · Return<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffFury Star Pluck has a chance to send the Enemy into the Return to Origin state, steadily reducing Battle Qi.<CRLF>The Battle Qi reduction is related to the Gua
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff惊涛^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成110%%基础伤害。
+ENG: ^c3dbffSurging Waves^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Rank: One<CRLF>Learning Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Attack the Enemy quickly with swift, powerful motions.<CRLF>Deals 110%% base damage.
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff惊涛·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升惊涛造成的伤害。
+ENG: ^c3dbffSurging Waves · Assault<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Rank: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Surging Waves.
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff惊涛·灵竭<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff惊涛有一定几率降低敌人治疗效果<CRLF>状态持续10秒。
+ENG: ^c3dbffSurging Waves · Spirit Drain<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Rank: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffSurging Waves has a chance to reduce the Enemy's Heal effect,<CRLF>lasting 10 seconds.
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff摄魂一式^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成272%%基础伤害。
+ENG: ^c3dbffSoul Seizing First Form^ffffff<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: Three<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Gather your full strength and strike with all your might.<CRLF>Deals 272%% base damage.
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff摄魂一式·压制<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff摄魂一式有几率降低目标攻击速度、<CRLF>吟唱速度，降低攻击、吟唱速度效果与<CRLF>护卫计谋值相关，状态持续10秒。
+ENG: ^c3dbffSoul Seizing First Form · Suppress<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffSoul Seizing First Form has a chance to reduce the Target's Attack Speed and<CRLF>Casting Speed. The Attack Speed and Casting Speed reductions s
+
+### batch_005 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff摄魂一式·压制<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff摄魂一式有几率降低目标攻击速度、<CRLF>吟唱速度，降低攻击、吟唱速度效果与<CRLF>护卫计谋值相关，状态持续10秒。
+ENG: ^c3dbffSoul Seizing First Form · Suppress<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffSoul Seizing First Form has a chance to reduce the Target's Attack Speed and<CRLF>Casting Speed. The Attack Speed and Casting Speed reductions s
+
+### batch_005 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff摄魂一式·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升摄魂一式造成的伤害。
+ENG: ^c3dbffSoul Seizing First Form · Assault<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: Four<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Soul Seizing First Form.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff横扫千军^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成84%%基础伤害。
+ENG: ^c3dbffSweep of a Thousand Armies^ffffff<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Tier: 3<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you,<CRLF>dealing 84%% base damage.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff横抡^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成106%%基础伤害。
+ENG: ^c3dbffBroad Swing^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Tier: 1<CRLF>Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Swiftly attack the enemy with brisk, powerful movements.<CRLF>Deals 106%% base damage.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff横抡·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升横抡造成的伤害。
+ENG: ^c3dbffBroad Swing: Assault<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Tier: 4<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Broad Swing.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff横抡·灵竭<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff横抡有一定几率降低敌人治疗效果<CRLF>状态持续10秒。
+ENG: ^c3dbffBroad Swing: Spirit Drain<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Tier: 4<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBroad Swing has a chance to reduce the enemy's healing effect<CRLF>for 10 seconds.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff步月留影^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成98%%基础伤害。
+ENG: ^c3dbffMoonstride Afterimage^ffffff<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Tier: 3<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you,<CRLF>dealing 98%% base damage.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff死亡飓风^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成106%%基础伤害。
+ENG: ^c3dbffDeath Hurricane^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Tier: 2<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack 3 enemies in front of you,<CRLF>dealing 106%% base damage.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff毒龙缠身^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成252%%基础伤害。
+ENG: ^c3dbffCoiling Poison Dragon^ffffff<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Tier: 3<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Gather the strength of your entire body for a mighty blow.<CRLF>Deals 252%% base damage.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff毒龙缠身·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升毒龙缠身造成的伤害。
+ENG: ^c3dbffCoiling Poison Dragon: Assault<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Tier: 4<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Coiling Poison Dragon.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff毒龙缠身·毁魂<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff毒龙缠身有几率使敌人进入毁魂状态，持续减少体力，<CRLF>体力减少效果与护卫计谋值相关，状态持续5秒。
+ENG: ^c3dbffCoiling Poison Dragon: Soul Ruin<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Tier: 4<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffCoiling Poison Dragon has a chance to put the enemy into a Soul Ruin state that drains Stamina over time.<CRLF>The Stamina drain scales with the Guard's Stratagem v
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff沧海啸^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成215%%基础伤害。
+ENG: ^c3dbffOcean Roar^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Tier: 2<CRLF>Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 215%% base damage.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff流云袖^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>分两段向敌人攻击，招式凶狠有力。<CRLF>第一段造成194%%基础伤害，<CRLF>第二段造成89%%基础伤害。
+ENG: ^c3dbffFlowing Cloud Sleeve^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Tier: 2<CRLF>Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attack the enemy in two strikes, fierce and powerful.<CRLF>The first strike deals 194%% base damage,<CRLF>the second deals 89%% base damage.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff流云袖·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升流云袖造成的伤害。
+ENG: ^c3dbffFlowing Cloud Sleeve: Assault<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Tier: 4<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Flowing Cloud Sleeve.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff流云袖·飞将<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff流云袖有一定几率附带无视防御伤害，<CRLF>伤害值为护卫攻击力的30%%。
+ENG: ^c3dbffFlowing Cloud Sleeve: Flying General<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Tier: 4<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffFlowing Cloud Sleeve has a chance to deal extra damage that ignores Defense,<CRLF>equal to 30%% of the Guard's Attack Power.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff浴火袭^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成210%%基础伤害。
+ENG: ^c3dbffBlazing Assault^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded<CRLF>Skill Tier: 2<CRLF>Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 210%% base damage.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff浴火袭·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升浴火袭造成的伤害。
+ENG: ^c3dbffBlazing Assault: Assault<CRLF><CRLF>Skill Category: Hot-Blooded<CRLF>Skill Tier: 4<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Blazing Assault.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff浴火袭·离乱<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff浴火袭有几率降低目标暴击附加伤害，<CRLF>状态持续10秒。
+ENG: ^c3dbffBlazing Assault: Disorder<CRLF><CRLF>Skill Category: Hot-Blooded<CRLF>Skill Tier: 4<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffBlazing Assault has a chance to reduce the target's Crit Bonus Damage<CRLF>for 10 seconds.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff浸血^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成78%%基础伤害。
+ENG: ^c3dbffBlood Immersion^ffffff<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Tier: 1<CRLF>Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Swiftly attack the enemy with brisk, powerful movements.<CRLF>Deals 78%% base damage.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff浸血·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升浸血造成的伤害。
+ENG: ^c3dbffBlood Immersion: Assault<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Tier: 4<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Blood Immersion.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff浸血·重创<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff浸血有几率重创敌人，持续流失生命，<CRLF>流失的生命值为护卫计谋值的50%%，<CRLF>状态持续10秒。
+ENG: ^c3dbffBlood Immersion: Maim<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Tier: 4<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBlood Immersion has a chance to Maim the enemy, draining HP over time.<CRLF>The HP drained equals 50%% of the Guard's Stratagem value.<CRLF>The state lasts 10 seconds.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff涛澜动地^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成233%%基础伤害。
+ENG: ^c3dbffWaves Shaking the Earth^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Tier: 3<CRLF>Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Gather the strength of your entire body for a mighty blow.<CRLF>Deals 233%% base damage.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff滚石落^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成188%%基础伤害。
+ENG: ^c3dbffFalling Boulder^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Tier: 2<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 188%% base damage.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff滚石落·夺魄<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff滚石落有几率使目标进入夺魄状态，<CRLF>间接抗性降低，状态持续5秒。
+ENG: ^c3dbffFalling Boulder: Soul Steal<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Tier: 4<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffFalling Boulder has a chance to put the target into a Soul Steal state,<CRLF>reducing its indirect resistance for 5 seconds.
+
+### batch_007 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff滚石落·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升滚石落造成的伤害。
+ENG: ^c3dbffFalling Boulder: Assault<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Tier: 4<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Falling Boulder.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff火殇^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成108%%基础伤害。
+ENG: ^c3dbffAshen Flame^ffffff<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: I<CRLF>Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Strikes the enemy quickly with swift, powerful movements.<CRLF>Deals 108%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff火殇·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升火殇造成的伤害。
+ENG: ^c3dbffAshen Flame · Assault<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Ashen Flame.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff火殇·怒意<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff火殇有一定几率暴击。
+ENG: ^c3dbffAshen Flame · Fury<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffAshen Flame has a chance to Crit.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff灭世之威^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成97%%基础伤害。
+ENG: ^c3dbffMight of Ruin^ffffff<CRLF><CRLF>Skill Category: Agile<CRLF>Skill Rank: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the 3 enemies in front of you<CRLF>for 97%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff灭魂袭^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成176%%基础伤害。
+ENG: ^c3dbffSoul Annihilation Strike^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: II<CRLF>Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attacks the target for 176%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff灭魂袭·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升灭魂袭造成的伤害。
+ENG: ^c3dbffSoul Annihilation Strike · Assault<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Soul Annihilation Strike.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff灭魂袭·惊魂<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff灭魂袭有一定几率使目标进入惊魂状态，<CRLF>降低直接抗性，状态持续5秒。
+ENG: ^c3dbffSoul Annihilation Strike · Fright<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffSoul Annihilation Strike has a chance to put the target in a Fright state,<CRLF>reducing Direct Damage Resistance, lasting 5 seconds.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff灵动九天^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成95%%基础伤害。
+ENG: ^c3dbffDance of the Nine Heavens^ffffff<CRLF><CRLF>Skill Category: Agile<CRLF>Skill Rank: III<CRLF>Requirement: Melee<CRLF>High Move<CRLF><CRLF>Sweeps the weapon to attack 5 enemies around you<CRLF>for 95%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff灵息^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成125%%基础伤害。
+ENG: ^c3dbffSpirit Breath^ffffff<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: I<CRLF>Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Strikes the enemy quickly with swift, powerful movements.<CRLF>Deals 125%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff灵息·威摄<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff灵息有一定几率威摄敌人，使其攻击力降低，<CRLF>状态持续10秒。
+ENG: ^c3dbffSpirit Breath · Intimidate<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffSpirit Breath has a chance to Intimidate the enemy, reducing its Attack Power,<CRLF>lasting 10 seconds.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff灵息·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升灵息造成的伤害。
+ENG: ^c3dbffSpirit Breath · Assault<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Spirit Breath.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff灵活·凝神<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使灵活系单体伤害技能额外获得暴击加成，<CRLF>加成系数与护卫灵活系数相关。
+ENG: ^c3dbffAgile · Focus<CRLF><CRLF>Skill Category: Agile<CRLF>Skill Rank: V<CRLF>Requirement: None<CRLF><CRLF>^ffffffAgile single-target damage skills gain a bonus Crit effect,<CRLF>scaled by the Guard's Agility Coefficient.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff灵活·奋勇<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使灵活系单体伤害技能基础伤害受到护卫灵活系数加成。
+ENG: ^c3dbffAgile · Valour<CRLF><CRLF>Skill Category: Agile<CRLF>Skill Rank: V<CRLF>Requirement: None<CRLF><CRLF>^ffffffBase damage of Agile single-target damage skills is boosted by the Guard's Agility Coefficient.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff灵活·锋羽<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff提升灵活系单体伤害技能打出负面状态的几率，<CRLF>提升效果与护卫灵活系数相关。
+ENG: ^c3dbffAgile · Sharp Feather<CRLF><CRLF>Skill Category: Agile<CRLF>Skill Rank: V<CRLF>Requirement: None<CRLF><CRLF>^ffffffIncreases the chance for Agile single-target damage skills to apply negative effects,<CRLF>scaled by the Guard's Agility Coefficient.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炎云击^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>分两段向敌人攻击，招式凶狠有力。<CRLF>第一段造成190%%基础伤害，<CRLF>第二段造成87%%基础伤害。
+ENG: ^c3dbffBlazing Cloud Strike^ffffff<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: II<CRLF>Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attacks the enemy in two stages, fierce and powerful.<CRLF>First stage deals 190%% base damage,<CRLF>second stage deals 87%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炎云击·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升炎云击造成的伤害。
+ENG: ^c3dbffBlazing Cloud Strike · Assault<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Blazing Cloud Strike.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炎云击·飞将<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff炎云击有一定几率附带无视防御伤害，<CRLF>伤害值为护卫攻击力的30%%。
+ENG: ^c3dbffBlazing Cloud Strike · Flying General<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffBlazing Cloud Strike has a chance to deal extra damage that ignores Defense,<CRLF>equal to 30%% of the Guard's Attack Power.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炎龙无双^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成100%%基础伤害。
+ENG: ^c3dbffFlame Dragon Peerless^ffffff<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: III<CRLF>Requirement: Melee<CRLF>High Move<CRLF><CRLF>Sweeps the weapon to attack 5 enemies around you<CRLF>for 100%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炫风破^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成185%%基础伤害。
+ENG: ^c3dbffDazzling Wind Break^ffffff<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the target for 185%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炫风破·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升炫风破造成的伤害。
+ENG: ^c3dbffDazzling Wind Break · Assault<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Dazzling Wind Break.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炫风破·散神<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff炫风破有一定几率降低目标暴击伤害，<CRLF>状态持续10秒。
+ENG: ^c3dbffDazzling Wind Break · Spirit Scattering<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffDazzling Wind Break has a chance to reduce the target's Crit Damage,<CRLF>lasting 10 seconds.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炼狱之焰^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成92%%基础伤害。
+ENG: ^c3dbffFlames of the Inferno^ffffff<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the 3 enemies in front of you<CRLF>for 92%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炼魂破^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成190%%基础伤害。
+ENG: ^c3dbffSoul Refining Break^ffffff<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: II<CRLF>Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attacks the target for 190%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炼魂破·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升炼魂破造成的伤害。
+ENG: ^c3dbffSoul Refining Break · Assault<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Soul Refining Break.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炼魂破·散神<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff炼魂破有一定几率降低目标暴击伤害，<CRLF>状态持续10秒。
+ENG: ^c3dbffSoul Refining Break · Spirit Scattering<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffSoul Refining Break has a chance to reduce the target's Crit Damage,<CRLF>lasting 10 seconds.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炽炎乱^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成169%%基础伤害。
+ENG: ^c3dbffBlazing Chaos^ffffff<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: II<CRLF>Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attacks the target for 169%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炽炎乱·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升炽炎乱造成的伤害。
+ENG: ^c3dbffBlazing Chaos · Assault<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Blazing Chaos.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炽炎乱·破魂<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff炽炎乱有一定几率降低目标暴击，<CRLF>状态持续10秒。
+ENG: ^c3dbffBlazing Chaos · Soul Break<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffBlazing Chaos has a chance to reduce the target's Crit,<CRLF>lasting 10 seconds.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炽炎袭^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>分两段向敌人攻击，招式凶狠有力。<CRLF>第一段造成185%%基础伤害，<CRLF>第二段造成82%%基础伤害。
+ENG: ^c3dbffBlazing Assault^ffffff<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the enemy in two stages, fierce and powerful.<CRLF>First stage deals 185%% base damage,<CRLF>second stage deals 82%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炽炎袭·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升炽炎袭造成的伤害。
+ENG: ^c3dbffBlazing Assault · Assault<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Blazing Assault.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炽炎袭·飞将<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff炽炎袭有一定几率附带无视防御伤害，<CRLF>伤害值为护卫攻击力的30%%。
+ENG: ^c3dbffBlazing Assault · Flying General<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBlazing Assault has a chance to deal extra damage that ignores Defense,<CRLF>equal to 30%% of the Guard's Attack Power.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炽热^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成82%%基础伤害。
+ENG: ^c3dbffBlazing Heat^ffffff<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: I<CRLF>Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Strikes the enemy quickly with swift, powerful movements.<CRLF>Deals 82%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炽热·冥气<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff炽热有一定几率使敌人进入冥气状态，<CRLF>持续流失生命，状态持续10秒。
+ENG: ^c3dbffBlazing Heat · Nether Qi<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBlazing Heat has a chance to put the enemy in a Nether Qi state,<CRLF>draining HP over time, lasting 10 seconds.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff炽热·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升炽热造成的伤害。
+ENG: ^c3dbffBlazing Heat · Assault<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Blazing Heat.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烈焰^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成103%%基础伤害。
+ENG: ^c3dbffBlaze^ffffff<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: I<CRLF>Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Strikes the enemy quickly with swift, powerful movements.<CRLF>Deals 103%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烈焰·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升烈焰造成的伤害。
+ENG: ^c3dbffBlaze · Assault<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Blaze.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烈焰·怒意<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff烈焰有一定几率暴击。
+ENG: ^c3dbffBlaze · Fury<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBlaze has a chance to Crit.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烈焰焚身^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成247%%基础伤害。
+ENG: ^c3dbffFlame Engulfing Body^ffffff<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: III<CRLF>Requirement: Melee<CRLF>High Move<CRLF><CRLF>Gathers the strength of the whole body for a mighty strike.<CRLF>Deals 247%% base damage.
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烈焰焚身·八荒<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff烈焰焚身有几率使目标进入八荒状态，<CRLF>此状态下，若被暴击，则额外减少1000点生命，<CRLF>状态持续5秒。
+ENG: ^c3dbffFlame Engulfing Body · Eight Wastes<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffFlame Engulfing Body has a chance to put the target in an Eight Wastes state;<CRLF>in that state, when Crit Hit, the target loses an extra 1000 HP,<CRLF>lasting 
+
+### batch_008a / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烈焰焚身·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升烈焰焚身造成的伤害。
+ENG: ^c3dbffFlame Engulfing Body · Assault<CRLF><CRLF>Skill Category: Fervor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Flame Engulfing Body.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烟雨袭^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成212%%基础伤害。
+ENG: ^c3dbffMisty Rain Strike^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: II<CRLF>Learning Req: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 212%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff烟雨袭^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成212%%基础伤害。
+ENG: ^c3dbffMisty Rain Strike^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: II<CRLF>Learning Req: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 212%% base damage.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烟雨袭·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升烟雨袭造成的伤害。
+ENG: ^c3dbffMisty Rain Strike·Power Attack<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Misty Rain Strike.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff烟雨袭·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升烟雨袭造成的伤害。
+ENG: ^c3dbffMisty Rain Strike·Power Attack<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Misty Rain Strike.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烟雨袭·落魄<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff烟雨袭有几率使目标进入落魄状态，生命上限降低，<CRLF>降低效果受护卫计谋值影响，状态持续10秒。
+ENG: ^c3dbffMisty Rain Strike·Demoralize<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffMisty Rain Strike has a chance to put the target into a Demoralized state, reducing Max HP.<CRLF>The reduction is affected by the Guard's Stratagem value. State las
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff烟雨袭·落魄<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff烟雨袭有几率使目标进入落魄状态，生命上限降低，<CRLF>降低效果受护卫计谋值影响，状态持续10秒。
+ENG: ^c3dbffMisty Rain Strike·Demoralize<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffMisty Rain Strike has a chance to put the target into a Demoralized state, reducing Max HP.<CRLF>The reduction is affected by the Guard's Stratagem value. State las
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff热血·凝神<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使热血系单体伤害技能额外获得暴击加成，<CRLF>加成系数与护卫热血系数相关。
+ENG: ^c3dbffBloodlust·Focus<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: V<CRLF>Learning Req: None<CRLF><CRLF>^ffffffGrants Bloodlust single-target damage skills an additional Crit bonus.<CRLF>The bonus coefficient is tied to the Guard's Bloodlust coefficient.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff热血·凝神<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使热血系单体伤害技能额外获得暴击加成，<CRLF>加成系数与护卫热血系数相关。
+ENG: ^c3dbffBloodlust·Focus<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: V<CRLF>Learning Req: None<CRLF><CRLF>^ffffffGrants Bloodlust single-target damage skills an additional Crit bonus.<CRLF>The bonus coefficient is tied to the Guard's Bloodlust coefficient.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff热血·奋勇<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使热血系单体伤害技能基础伤害受到护卫热血系数加成。
+ENG: ^c3dbffBloodlust·Valor<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: V<CRLF>Learning Req: None<CRLF><CRLF>^ffffffBloodlust single-target damage skills have their base damage boosted by the Guard's Bloodlust coefficient.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff热血·奋勇<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff使热血系单体伤害技能基础伤害受到护卫热血系数加成。
+ENG: ^c3dbffBloodlust·Valor<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: V<CRLF>Learning Req: None<CRLF><CRLF>^ffffffBloodlust single-target damage skills have their base damage boosted by the Guard's Bloodlust coefficient.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff热血·锋羽<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff提升热血系单体伤害技能打出负面状态的几率，<CRLF>提升效果与护卫热血系数相关。
+ENG: ^c3dbffBloodlust·Fletching<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: V<CRLF>Learning Req: None<CRLF><CRLF>^ffffffBoosts the chance for Bloodlust single-target damage skills to apply debuffs.<CRLF>The increase is tied to the Guard's Bloodlust coefficient.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff热血·锋羽<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff提升热血系单体伤害技能打出负面状态的几率，<CRLF>提升效果与护卫热血系数相关。
+ENG: ^c3dbffBloodlust·Fletching<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: V<CRLF>Learning Req: None<CRLF><CRLF>^ffffffBoosts the chance for Bloodlust single-target damage skills to apply debuffs.<CRLF>The increase is tied to the Guard's Bloodlust coefficient.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烽火啸^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成206%%基础伤害。
+ENG: ^c3dbffBeacon Roar^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: II<CRLF>Learning Req: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 206%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff烽火啸^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成206%%基础伤害。
+ENG: ^c3dbffBeacon Roar^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: II<CRLF>Learning Req: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 206%% base damage.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烽火啸·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升烽火啸造成的伤害。
+ENG: ^c3dbffBeacon Roar·Power Attack<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Beacon Roar.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff烽火啸·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升烽火啸造成的伤害。
+ENG: ^c3dbffBeacon Roar·Power Attack<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Beacon Roar.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烽火啸·离乱<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff烽火啸有几率降低目标暴击附加伤害，<CRLF>状态持续10秒。
+ENG: ^c3dbffBeacon Roar·Disarray<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBeacon Roar has a chance to reduce the target's Crit Damage bonus.<CRLF>State lasts 10 seconds.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff烽火啸·离乱<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff烽火啸有几率降低目标暴击附加伤害，<CRLF>状态持续10秒。
+ENG: ^c3dbffBeacon Roar·Disarray<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBeacon Roar has a chance to reduce the target's Crit Damage bonus.<CRLF>State lasts 10 seconds.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烽火连天^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成251%%基础伤害。
+ENG: ^c3dbffBeacon Chain^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: III<CRLF>Learning Req: Ranged<CRLF>High-tier Move<CRLF><CRLF>Gathers strength through the whole body and strikes with full force.<CRLF>Deals 251%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff烽火连天^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成251%%基础伤害。
+ENG: ^c3dbffBeacon Chain^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: III<CRLF>Learning Req: Ranged<CRLF>High-tier Move<CRLF><CRLF>Gathers strength through the whole body and strikes with full force.<CRLF>Deals 251%% base damage.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烽火连天·八荒<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff烽火连天有几率使目标进入八荒状态，<CRLF>此状态下，若被暴击，则额外减少1000点生命，<CRLF>状态持续5秒。
+ENG: ^c3dbffBeacon Chain·Eight Desolations<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffBeacon Chain has a chance to put the target into an Eight Desolations state.<CRLF>In this state, if struck by a Crit, the target loses an additional 1000 HP.<
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff烽火连天·八荒<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff烽火连天有几率使目标进入八荒状态，<CRLF>此状态下，若被暴击，则额外减少1000点生命，<CRLF>状态持续5秒。
+ENG: ^c3dbffBeacon Chain·Eight Desolations<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffBeacon Chain has a chance to put the target into an Eight Desolations state.<CRLF>In this state, if struck by a Crit, the target loses an additional 1000 HP.<
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff烽火连天·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升烽火连天造成的伤害。
+ENG: ^c3dbffBeacon Chain·Power Attack<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Beacon Chain.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff烽火连天·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升烽火连天造成的伤害。
+ENG: ^c3dbffBeacon Chain·Power Attack<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Beacon Chain.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff焚城烈焰^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成87%%基础伤害。
+ENG: ^c3dbffCity-Burning Flame^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: III<CRLF>Learning Req: Melee<CRLF>High-tier Move<CRLF><CRLF>Sweeps the weapon to attack 5 nearby enemies,<CRLF>dealing 87%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff焚城烈焰^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成87%%基础伤害。
+ENG: ^c3dbffCity-Burning Flame^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: III<CRLF>Learning Req: Melee<CRLF>High-tier Move<CRLF><CRLF>Sweeps the weapon to attack 5 nearby enemies,<CRLF>dealing 87%% base damage.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff焚心^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成128%%基础伤害。
+ENG: ^c3dbffHeartfire^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: I<CRLF>Learning Req: Ranged<CRLF>Basic Move<CRLF><CRLF>Attacks the enemy quickly with swift, forceful motions.<CRLF>Deals 128%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff焚心^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成128%%基础伤害。
+ENG: ^c3dbffHeartfire^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: I<CRLF>Learning Req: Ranged<CRLF>Basic Move<CRLF><CRLF>Attacks the enemy quickly with swift, forceful motions.<CRLF>Deals 128%% base damage.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff焚心·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升焚心造成的伤害。
+ENG: ^c3dbffHeartfire·Power Attack<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Heartfire.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff焚心·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升焚心造成的伤害。
+ENG: ^c3dbffHeartfire·Power Attack<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Heartfire.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff焚心·狂猛<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff焚心有一定几率进入万壑松风状态，提升护卫暴击，<CRLF>状态持续10秒。
+ENG: ^c3dbffHeartfire·Fury<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffHeartfire has a chance to enter the Pine Wind in Ten Thousand Ravines state, boosting the Guard's Crit.<CRLF>State lasts 10 seconds.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff焚心·狂猛<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff焚心有一定几率进入万壑松风状态，提升护卫暴击，<CRLF>状态持续10秒。
+ENG: ^c3dbffHeartfire·Fury<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffHeartfire has a chance to enter the Pine Wind in Ten Thousand Ravines state, boosting the Guard's Crit.<CRLF>State lasts 10 seconds.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff狂刃破^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成56%%基础伤害。
+ENG: ^c3dbffFrenzy Blade Break^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Quality: I<CRLF>Learning Req: Melee<CRLF>Basic Move<CRLF><CRLF>Quick attack; hits 3 enemies in a straight line ahead,<CRLF>dealing 56%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff狂刃破^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成56%%基础伤害。
+ENG: ^c3dbffFrenzy Blade Break^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Quality: I<CRLF>Learning Req: Melee<CRLF>Basic Move<CRLF><CRLF>Quick attack; hits 3 enemies in a straight line ahead,<CRLF>dealing 56%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff狂暴<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff永久提升护卫暴击。
+ENG: ^c3dbffBerserk<CRLF><CRLF>Skill Quality: V<CRLF>Learning Req: None<CRLF><CRLF>^ffffffPermanently boosts the Guard's Crit.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff狂殇水击^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成276%%基础伤害。
+ENG: ^c3dbffFrenzied Grief Water Strike^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: III<CRLF>Learning Req: Melee<CRLF>High-tier Move<CRLF><CRLF>Gathers strength through the whole body and strikes with full force.<CRLF>Deals 276%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff狂殇水击^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成276%%基础伤害。
+ENG: ^c3dbffFrenzied Grief Water Strike^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: III<CRLF>Learning Req: Melee<CRLF>High-tier Move<CRLF><CRLF>Gathers strength through the whole body and strikes with full force.<CRLF>Deals 276%% base damage.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff狂殇水击·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升狂殇水击造成的伤害。
+ENG: ^c3dbffFrenzied Grief Water Strike·Power Attack<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Frenzied Grief Water Strike.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff狂殇水击·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升狂殇水击造成的伤害。
+ENG: ^c3dbffFrenzied Grief Water Strike·Power Attack<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Frenzied Grief Water Strike.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff狂殇水击·断魂<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff狂殇水击有几率牺牲自身1500点生命，<CRLF>并以一定比例减少目标斗气值，<CRLF>此比例与计谋值相关。
+ENG: ^c3dbffFrenzied Grief Water Strike·Soul Sever<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffFrenzied Grief Water Strike has a chance to sacrifice 1500 of own HP,<CRLF>reducing the target's Battle Qi by a certain proportion.<CRLF>The proportion is
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff狂殇水击·断魂<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff狂殇水击有几率牺牲自身1500点生命，<CRLF>并以一定比例减少目标斗气值，<CRLF>此比例与计谋值相关。
+ENG: ^c3dbffFrenzied Grief Water Strike·Soul Sever<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffFrenzied Grief Water Strike has a chance to sacrifice 1500 of own HP,<CRLF>reducing the target's Battle Qi by a certain proportion.<CRLF>The proportion is
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff狂沙百战^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成244%%基础伤害。
+ENG: ^c3dbffSands of a Hundred Battles^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Quality: III<CRLF>Learning Req: Melee<CRLF>High-tier Move<CRLF><CRLF>Gathers strength through the whole body and strikes with full force.<CRLF>Deals 244%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff狂沙百战^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成244%%基础伤害。
+ENG: ^c3dbffSands of a Hundred Battles^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Quality: III<CRLF>Learning Req: Melee<CRLF>High-tier Move<CRLF><CRLF>Gathers strength through the whole body and strikes with full force.<CRLF>Deals 244%% base damage.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff狂沙百战·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升狂沙百战造成的伤害。
+ENG: ^c3dbffSands of a Hundred Battles·Power Attack<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Sands of a Hundred Battles.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff狂沙百战·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升狂沙百战造成的伤害。
+ENG: ^c3dbffSands of a Hundred Battles·Power Attack<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Sands of a Hundred Battles.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff狂沙百战·神罚<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff狂沙百战有几率使目标进入神罚状态，<CRLF>神罚状态下，每次被攻击则直接抗性降低2点，<CRLF>最多叠加5层，状态持续10秒。
+ENG: ^c3dbffSands of a Hundred Battles·Divine Punishment<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffSands of a Hundred Battles has a chance to put the target into a Divine Punishment state.<CRLF>While in Divine Punishment, each time attacked, Direct
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff狂沙百战·神罚<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff狂沙百战有几率使目标进入神罚状态，<CRLF>神罚状态下，每次被攻击则直接抗性降低2点，<CRLF>最多叠加5层，状态持续10秒。
+ENG: ^c3dbffSands of a Hundred Battles·Divine Punishment<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffSands of a Hundred Battles has a chance to put the target into a Divine Punishment state.<CRLF>While in Divine Punishment, each time attacked, Direct
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff玄冥之火^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成292%%基础伤害。
+ENG: ^c3dbffNetherworld Flame^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: III<CRLF>Learning Req: Ranged<CRLF>High-tier Move<CRLF><CRLF>Gathers strength through the whole body and strikes with full force.<CRLF>Deals 292%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff玄冥之火^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成292%%基础伤害。
+ENG: ^c3dbffNetherworld Flame^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: III<CRLF>Learning Req: Ranged<CRLF>High-tier Move<CRLF><CRLF>Gathers strength through the whole body and strikes with full force.<CRLF>Deals 292%% base damage.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff玄冥之火·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升玄冥之火造成的伤害。
+ENG: ^c3dbffNetherworld Flame·Power Attack<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Netherworld Flame.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff玄冥之火·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升玄冥之火造成的伤害。
+ENG: ^c3dbffNetherworld Flame·Power Attack<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Netherworld Flame.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff玄冥之火·掠魂<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff玄冥之火有几率降低目标暴击抗性，<CRLF>并增加自身暴击，持续10秒。
+ENG: ^c3dbffNetherworld Flame·Soul Reap<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffNetherworld Flame has a chance to reduce the target's Crit Resistance<CRLF>and boost own Crit. Lasts 10 seconds.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff玄冥之火·掠魂<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff玄冥之火有几率降低目标暴击抗性，<CRLF>并增加自身暴击，持续10秒。
+ENG: ^c3dbffNetherworld Flame·Soul Reap<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Ranged<CRLF><CRLF>^ffffffNetherworld Flame has a chance to reduce the target's Crit Resistance<CRLF>and boost own Crit. Lasts 10 seconds.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff玄冰咒^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成170%%基础伤害。
+ENG: ^c3dbffNether Ice Curse^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: II<CRLF>Learning Req: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 170%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff玄冰咒^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成170%%基础伤害。
+ENG: ^c3dbffNether Ice Curse^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: II<CRLF>Learning Req: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 170%% base damage.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff玄冰咒·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升玄冰咒造成的伤害。
+ENG: ^c3dbffNether Ice Curse·Power Attack<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Nether Ice Curse.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff玄冰咒·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升玄冰咒造成的伤害。
+ENG: ^c3dbffNether Ice Curse·Power Attack<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Nether Ice Curse.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff玄冰咒·离心<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff玄冰咒有一定几率使目标进入离心状态，<CRLF>生命回复速度降低，状态持续10秒。
+ENG: ^c3dbffNether Ice Curse·Estrangement<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffNether Ice Curse has a chance to put the target into an Estranged state,<CRLF>reducing HP recovery speed. State lasts 10 seconds.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff玄冰咒·离心<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff玄冰咒有一定几率使目标进入离心状态，<CRLF>生命回复速度降低，状态持续10秒。
+ENG: ^c3dbffNether Ice Curse·Estrangement<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffNether Ice Curse has a chance to put the target into an Estranged state,<CRLF>reducing HP recovery speed. State lasts 10 seconds.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff玄武诀^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成39%%基础伤害。
+ENG: ^c3dbffBlack Tortoise Art^ffffff<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Quality: I<CRLF>Learning Req: Melee<CRLF>Basic Move<CRLF><CRLF>Quick attack; hits 3 enemies in a straight line ahead,<CRLF>dealing 39%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff玄武诀^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成39%%基础伤害。
+ENG: ^c3dbffBlack Tortoise Art^ffffff<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Quality: I<CRLF>Learning Req: Melee<CRLF>Basic Move<CRLF><CRLF>Quick attack; hits 3 enemies in a straight line ahead,<CRLF>dealing 39%% base damage.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff电光石火^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成288%%基础伤害。
+ENG: ^c3dbffLightning Spark^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: III<CRLF>Learning Req: Melee<CRLF>High-tier Move<CRLF><CRLF>Gathers strength through the whole body and strikes with full force.<CRLF>Deals 288%% base damage.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff电光石火^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成288%%基础伤害。
+ENG: ^c3dbffLightning Spark^ffffff<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: III<CRLF>Learning Req: Melee<CRLF>High-tier Move<CRLF><CRLF>Gathers strength through the whole body and strikes with full force.<CRLF>Deals 288%% base damage.
+
+### batch_008b / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff电光石火·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升电光石火造成的伤害。
+ENG: ^c3dbffLightning Spark·Power Attack<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Lightning Spark.
+
+### batch_008b / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff电光石火·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升电光石火造成的伤害。
+ENG: ^c3dbffLightning Spark·Power Attack<CRLF><CRLF>Skill Category: Bloodlust<CRLF>Skill Quality: IV<CRLF>Learning Req: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Lightning Spark.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff电光石火·掠魂<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff电光石火有几率降低目标暴击抗性，<CRLF>并增加自身暴击，持续10秒。
+ENG: ^c3dbffLightning Flash · Soul Snatch<CRLF><CRLF>Skill Category: Frenzy<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffLightning Flash has a chance to reduce the target’s Crit Resistance,<CRLF>and boost your own Crit for 10 seconds.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff疾刺^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成85%%基础伤害。
+ENG: ^c3dbffSwift Thrust^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Rank: I<CRLF>Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Attacks the enemy with speed and force.<CRLF>Deals 85%% base damage.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff疾刺·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升疾刺造成的伤害。
+ENG: ^c3dbffSwift Thrust · Fierce Attack<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Swift Thrust.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff疾风怒涛^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成299%%基础伤害。
+ENG: ^c3dbffGale Rage Wave^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Rank: III<CRLF>Requirement: Ranged<CRLF>High-Rank Move<CRLF><CRLF>Gathers the strength of your whole body for one mighty strike.<CRLF>Deals 299%% base damage.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff疾风怒涛·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升疾风怒涛造成的伤害。
+ENG: ^c3dbffGale Rage Wave · Fierce Attack<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Gale Rage Wave.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff疾风怒涛·黯灭<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff疾风怒涛有几率牺牲自身1500点生命，<CRLF>并以一定比例减少目标体力值，<CRLF>此比例受计谋值影响。
+ENG: ^c3dbffGale Rage Wave · Dark Extinction<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffGale Rage Wave has a chance to sacrifice 1500 of your own HP and<CRLF>reduce the target’s Stamina by a certain ratio.<CRLF>This ratio is affected by your Stratagem
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff疾风逆斩^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成100%%基础伤害。
+ENG: ^c3dbffGale Reversal Slash^ffffff<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks 3 enemies in front of you,<CRLF>dealing 100%% base damage.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff白虎吼^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成38%%基础伤害。
+ENG: ^c3dbffWhite Tiger Roar^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: I<CRLF>Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>A quick attack dealing 38%% base damage to 3 enemies<CRLF>in a straight line ahead.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff百花散^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成180%%基础伤害。
+ENG: ^c3dbffHundred Blossoms Scatter^ffffff<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: II<CRLF>Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 180%% base damage.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff百花散·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升百花散造成的伤害。
+ENG: ^c3dbffHundred Blossoms Scatter · Fierce Attack<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Hundred Blossoms Scatter.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff百花散·流离<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff百花散有一定几率使敌人进入流离状态，<CRLF>流失抗性降低10点，每次攻击减少生命，<CRLF>状态效果与护卫计谋值相关，状态持续10秒。
+ENG: ^c3dbffHundred Blossoms Scatter · Drift<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffHundred Blossoms Scatter has a chance to put the enemy into the Drift state,<CRLF>reducing its attrition resistance by 10; each attack drains HP.<CRLF>The state s
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff百裂伤^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成180%%基础伤害。
+ENG: ^c3dbffHundred Splinter Wounds^ffffff<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 180%% base damage.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff百裂伤·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升百裂伤造成的伤害。
+ENG: ^c3dbffHundred Splinter Wounds · Fierce Attack<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Hundred Splinter Wounds.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff百裂伤·懈怠<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff百裂伤有一定几率降低目标穿透能力，<CRLF>状态持续8秒。
+ENG: ^c3dbffHundred Splinter Wounds · Lethargy<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffHundred Splinter Wounds has a chance to reduce the target’s Penetration,<CRLF>lasting 8 seconds.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff眠袭^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成102%%基础伤害。
+ENG: ^c3dbffSlumber Strike^ffffff<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: I<CRLF>Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Attacks the enemy with speed and force.<CRLF>Deals 102%% base damage.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff眠袭·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升眠袭造成的伤害。
+ENG: ^c3dbffSlumber Strike · Fierce Attack<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Slumber Strike.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff眠袭·易创<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff眠袭有一定几率使目标进入易创状态，受伤抗性降低10点，<CRLF>并随机进入劈伤、刺伤、震伤状态，状态效果与护卫计谋值相关，<CRLF>持续10秒。
+ENG: ^c3dbffSlumber Strike · Vulnerable<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffSlumber Strike has a chance to put the target into the Vulnerable state, reducing its injury resistance by 10,<CRLF>and randomly entering the Slash, Pierce or Concussi
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff眩阳^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成87%%基础伤害。
+ENG: ^c3dbffBlinding Sun^ffffff<CRLF><CRLF>Skill Category: Frenzy<CRLF>Skill Rank: I<CRLF>Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Attacks the enemy with speed and force.<CRLF>Deals 87%% base damage.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff眩阳·冥气<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff眩阳有一定几率使敌人进入冥气状态，<CRLF>持续流失生命，状态持续10秒。
+ENG: ^c3dbffBlinding Sun · Nether Qi<CRLF><CRLF>Skill Category: Frenzy<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffBlinding Sun has a chance to put the enemy into the Nether Qi state,<CRLF>draining its HP over time; the state lasts 10 seconds.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff眩阳·强攻<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升眩阳造成的伤害。
+ENG: ^c3dbffBlinding Sun · Fierce Attack<CRLF><CRLF>Skill Category: Frenzy<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Blinding Sun.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff石流尘涛^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成92%%基础伤害。
+ENG: ^c3dbffStone Stream, Dust Wave^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: III<CRLF>Requirement: Melee<CRLF>High-Rank Move<CRLF><CRLF>Sweeps the weapon to attack 5 surrounding enemies,<CRLF>dealing 92%% base damage.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff石破天惊^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成226%%基础伤害。
+ENG: ^c3dbffShatters the Heavens^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: III<CRLF>Requirement: Melee<CRLF>High-Rank Move<CRLF><CRLF>Gathers the strength of your whole body for one mighty strike.<CRLF>Deals 226%% base damage.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff石破天惊·奇谋<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff石破天惊有几率使目标进入奇谋状态，<CRLF>奇谋状态下，每次被攻击则防御力降低10点，<CRLF>最多叠加10层，状态持续10秒。
+ENG: ^c3dbffShatters the Heavens · Stratagem<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffShatters the Heavens has a chance to put the target into the Stratagem state;<CRLF>while in the Stratagem state, each time it is attacked its Defense is reduced by 1
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff石破天惊·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升石破天惊造成的伤害。
+ENG: ^c3dbffShatters the Heavens · Fierce Attack<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Shatters the Heavens.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff破坚阵^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成50%%基础伤害。
+ENG: ^c3dbffBreak Steadfast Formation^ffffff<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: I<CRLF>Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>A quick attack dealing 50%% base damage to 3 enemies<CRLF>in a straight line ahead.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff破天击^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成200%%基础伤害。
+ENG: ^c3dbffHeaven Break Strike^ffffff<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attacks the target, dealing 200%% base damage.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff破天击·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升破天击造成的伤害。
+ENG: ^c3dbffHeaven Break Strike · Fierce Attack<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Heaven Break Strike.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff破天击·慑心<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff破天击有一定几率降低目标穿透能力，<CRLF>持续8秒。
+ENG: ^c3dbffHeaven Break Strike · Heart Shudder<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffHeaven Break Strike has a chance to reduce the target’s Penetration,<CRLF>lasting 8 seconds.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff破岩^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成94%%基础伤害。
+ENG: ^c3dbffRock Break^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: I<CRLF>Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Attacks the enemy with speed and force.<CRLF>Deals 94%% base damage.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff破岩·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升破岩造成的伤害。
+ENG: ^c3dbffRock Break · Fierce Attack<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Rock Break.
+
+### batch_009 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff破岩·裂甲<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff破岩有一定几率使目标进入裂甲状态，<CRLF>防御力降低，状态持续10秒。
+ENG: ^c3dbffRock Break · Armor Split<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffRock Break has a chance to put the target into the Armor Split state,<CRLF>reducing its Defense; the state lasts 10 seconds.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff耀光^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成85%%基础伤害。
+ENG: ^c3dbffRadiant Light^ffffff<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: I<CRLF>Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Attack the enemy with swift, forceful strikes.<CRLF>Deals 85%% base Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff耀光^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成85%%基础伤害。
+ENG: ^c3dbffRadiant Light^ffffff<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: I<CRLF>Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Attack the enemy with swift, forceful strikes.<CRLF>Deals 85%% base Damage.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff耀光·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升耀光造成的伤害。
+ENG: ^c3dbffRadiant Light · Force Attack<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the Damage dealt by Radiant Light.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff耀光·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升耀光造成的伤害。
+ENG: ^c3dbffRadiant Light · Force Attack<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the Damage dealt by Radiant Light.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff耀光·撕裂<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff耀光有几率使敌人进入撕裂状态，<CRLF>持续流失生命，状态持续10秒。
+ENG: ^c3dbffRadiant Light · Rend<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffRadiant Light has a chance to send the enemy into the Rend state,<CRLF>draining HP continuously for 10 sec.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff耀光·撕裂<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff耀光有几率使敌人进入撕裂状态，<CRLF>持续流失生命，状态持续10秒。
+ENG: ^c3dbffRadiant Light · Rend<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffRadiant Light has a chance to send the enemy into the Rend state,<CRLF>draining HP continuously for 10 sec.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff老当益壮^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>激发熊熊战意，提升主人生命值上限，<CRLF>持续1分钟。<CRLF>并有一定几率回复主人生命值，<CRLF>持续15秒。
+ENG: ^c3dbffHale and Hearty^ffffff<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: V<CRLF>Requirement: None<CRLF>Support Move<CRLF>Cool-down: 5 min<CRLF><CRLF>Ignites blazing Battle Will, boosting your master's Max HP<CRLF>for 1 min.<CRLF>Also has a chance to Recover your master's HP<CRLF>for 
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff老当益壮^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>激发熊熊战意，提升主人生命值上限，<CRLF>持续1分钟。<CRLF>并有一定几率回复主人生命值，<CRLF>持续15秒。
+ENG: ^c3dbffHale and Hearty^ffffff<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: V<CRLF>Requirement: None<CRLF>Support Move<CRLF>Cool-down: 5 min<CRLF><CRLF>Ignites blazing Battle Will, boosting your master's Max HP<CRLF>for 1 min.<CRLF>Also has a chance to Recover your master's HP<CRLF>for 
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff聚灵^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：2分钟<CRLF><CRLF>凝聚自身灵气，为主人持续恢复生命。
+ENG: ^c3dbffSpirit Convergence^ffffff<CRLF><CRLF>Skill Quality: V<CRLF>Requirement: None<CRLF>Support Move<CRLF>Cool-down: 2 min<CRLF><CRLF>Condenses your own spirit energy to continuously Recover your master's HP.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff苍煌爆炎^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成82%%基础伤害。
+ENG: ^c3dbffAzure Inferno^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the 3 enemies in front of you<CRLF>dealing 82%% base Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff苍煌爆炎^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成82%%基础伤害。
+ENG: ^c3dbffAzure Inferno^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded Line<CRLF>Skill Quality: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the 3 enemies in front of you<CRLF>dealing 82%% base Damage.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff苍雷落^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>分两段向敌人攻击，招式凶狠有力。<CRLF>第一段造成191%%基础伤害，<CRLF>第二段造成85%%基础伤害。
+ENG: ^c3dbffAzure Thunderfall^ffffff<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the enemy in two ferocious, powerful stages.<CRLF>The first stage deals 191%% base Damage,<CRLF>the second stage deals 85%% base Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff苍雷落^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>分两段向敌人攻击，招式凶狠有力。<CRLF>第一段造成191%%基础伤害，<CRLF>第二段造成85%%基础伤害。
+ENG: ^c3dbffAzure Thunderfall^ffffff<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the enemy in two ferocious, powerful stages.<CRLF>The first stage deals 191%% base Damage,<CRLF>the second stage deals 85%% base Damage.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff苍雷落·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升苍雷落造成的伤害。
+ENG: ^c3dbffAzure Thunderfall · Force Attack<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBoosts the Damage dealt by Azure Thunderfall.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff苍雷落·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升苍雷落造成的伤害。
+ENG: ^c3dbffAzure Thunderfall · Force Attack<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBoosts the Damage dealt by Azure Thunderfall.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff苍雷落·飞将<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff苍雷落有一定几率附带无视防御伤害，<CRLF>伤害值为护卫攻击力的30%%。
+ENG: ^c3dbffAzure Thunderfall · Flying General<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffAzure Thunderfall has a chance to deal Ignore-Defense Damage equal to<CRLF>30%% of your Guard's Attack Power.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff苍雷落·飞将<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff苍雷落有一定几率附带无视防御伤害，<CRLF>伤害值为护卫攻击力的30%%。
+ENG: ^c3dbffAzure Thunderfall · Flying General<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffAzure Thunderfall has a chance to deal Ignore-Defense Damage equal to<CRLF>30%% of your Guard's Attack Power.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff蓄怒<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff永久提升护卫暴击伤害。
+ENG: ^c3dbffStore Rage<CRLF><CRLF>Skill Quality: V<CRLF>Requirement: None<CRLF><CRLF>^ffffffPermanently increases your Guard's Crit Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff藏锋<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF><CRLF>^ffffff大巧不工，重剑无锋，<CRLF>永久增加自身攻击力。
+ENG: ^c3dbffHidden Edge<CRLF><CRLF>Skill Quality: V<CRLF>Requirement: None<CRLF><CRLF>^ffffffGreat skill needs no ornament; the heaviest sword has no edge.<CRLF>Permanently increases your Attack Power.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff虚空斩^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成155%%基础伤害。
+ENG: ^c3dbffVoid Slash^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 155%% base Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff虚空斩^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成155%%基础伤害。
+ENG: ^c3dbffVoid Slash^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 155%% base Damage.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff虚空斩·封锁<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff虚空斩有一定几率使敌人进入封锁状态，<CRLF>封印抗性降低10点，进入禁食状态，无法使用药品，<CRLF>并持续减少生命，状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffVoid Slash · Seal<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffVoid Slash has a chance to send the enemy into the Seal-Bound state,<CRLF>Reducing Seal Resistance by 10 points and putting them into Starvation, unable to use potions,<C
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff虚空斩·封锁<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff虚空斩有一定几率使敌人进入封锁状态，<CRLF>封印抗性降低10点，进入禁食状态，无法使用药品，<CRLF>并持续减少生命，状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffVoid Slash · Seal<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffVoid Slash has a chance to send the enemy into the Seal-Bound state,<CRLF>Reducing Seal Resistance by 10 points and putting them into Starvation, unable to use potions,<C
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff虚空斩·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升虚空斩造成的伤害。
+ENG: ^c3dbffVoid Slash · Force Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBoosts the Damage dealt by Void Slash.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff虚空斩·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升虚空斩造成的伤害。
+ENG: ^c3dbffVoid Slash · Force Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBoosts the Damage dealt by Void Slash.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff蚀日^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成105%%基础伤害。
+ENG: ^c3dbffSun Erosion^ffffff<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: I<CRLF>Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Attack the enemy with swift, forceful strikes.<CRLF>Deals 105%% base Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff蚀日^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成105%%基础伤害。
+ENG: ^c3dbffSun Erosion^ffffff<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: I<CRLF>Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Attack the enemy with swift, forceful strikes.<CRLF>Deals 105%% base Damage.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff蚀日·刚猛<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff蚀日有一定几率增加自身攻击力，<CRLF>状态持续10秒。
+ENG: ^c3dbffSun Erosion · Ferocity<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffSun Erosion has a chance to increase your Attack Power;<CRLF>the state lasts 10 sec.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff蚀日·刚猛<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff蚀日有一定几率增加自身攻击力，<CRLF>状态持续10秒。
+ENG: ^c3dbffSun Erosion · Ferocity<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffSun Erosion has a chance to increase your Attack Power;<CRLF>the state lasts 10 sec.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff蚀日·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升蚀日造成的伤害。
+ENG: ^c3dbffSun Erosion · Force Attack<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the Damage dealt by Sun Erosion.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff蚀日·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升蚀日造成的伤害。
+ENG: ^c3dbffSun Erosion · Force Attack<CRLF><CRLF>Skill Category: Valiant Line<CRLF>Skill Quality: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the Damage dealt by Sun Erosion.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff蝶舞^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成122%%基础伤害。
+ENG: ^c3dbffButterfly Dance^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: I<CRLF>Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Attack the enemy with swift, forceful strikes.<CRLF>Deals 122%% base Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff蝶舞^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成122%%基础伤害。
+ENG: ^c3dbffButterfly Dance^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: I<CRLF>Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Attack the enemy with swift, forceful strikes.<CRLF>Deals 122%% base Damage.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff蝶舞·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升蝶舞造成的伤害。
+ENG: ^c3dbffButterfly Dance · Force Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the Damage dealt by Butterfly Dance.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff蝶舞·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升蝶舞造成的伤害。
+ENG: ^c3dbffButterfly Dance · Force Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffBoosts the Damage dealt by Butterfly Dance.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff蝶舞·虚弱<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff蝶舞有一定几率使敌人进入虚弱状态，<CRLF>虚弱抗性降低10点，并随机进入钝兵、破甲、迟钝状态，<CRLF>状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffButterfly Dance · Frailty<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffButterfly Dance has a chance to send the enemy into the Frailty state,<CRLF>Reducing Frailty Resistance by 10 points and randomly entering the Blunted Weapon, Arm
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff蝶舞·虚弱<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff蝶舞有一定几率使敌人进入虚弱状态，<CRLF>虚弱抗性降低10点，并随机进入钝兵、破甲、迟钝状态，<CRLF>状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffButterfly Dance · Frailty<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffButterfly Dance has a chance to send the enemy into the Frailty state,<CRLF>Reducing Frailty Resistance by 10 points and randomly entering the Blunted Weapon, Arm
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff血之狂乱^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成88%%基础伤害。
+ENG: ^c3dbffBlood Frenzy^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: III<CRLF>Requirement: Melee<CRLF>High-Tier Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you<CRLF>dealing 88%% base Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff血之狂乱^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成88%%基础伤害。
+ENG: ^c3dbffBlood Frenzy^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: III<CRLF>Requirement: Melee<CRLF>High-Tier Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you<CRLF>dealing 88%% base Damage.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff血刹^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成116%%基础伤害。
+ENG: ^c3dbffBlood Slaughter^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: I<CRLF>Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Attack the enemy with swift, forceful strikes.<CRLF>Deals 116%% base Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff血刹^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成116%%基础伤害。
+ENG: ^c3dbffBlood Slaughter^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: I<CRLF>Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Attack the enemy with swift, forceful strikes.<CRLF>Deals 116%% base Damage.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff血刹·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升血刹造成的伤害。
+ENG: ^c3dbffBlood Slaughter · Force Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBoosts the Damage dealt by Blood Slaughter.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff血刹·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升血刹造成的伤害。
+ENG: ^c3dbffBlood Slaughter · Force Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBoosts the Damage dealt by Blood Slaughter.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff血刹·虚弱<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff血刹有一定几率使敌人进入虚弱状态，<CRLF>虚弱抗性降低10点，并随机进入钝兵、破甲、迟钝状态，<CRLF>状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffBlood Slaughter · Frailty<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBlood Slaughter has a chance to send the enemy into the Frailty state,<CRLF>Reducing Frailty Resistance by 10 points and randomly entering the Blunted Weapon, Arm
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff血刹·虚弱<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff血刹有一定几率使敌人进入虚弱状态，<CRLF>虚弱抗性降低10点，并随机进入钝兵、破甲、迟钝状态，<CRLF>状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffBlood Slaughter · Frailty<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBlood Slaughter has a chance to send the enemy into the Frailty state,<CRLF>Reducing Frailty Resistance by 10 points and randomly entering the Blunted Weapon, Arm
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff血怒^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>体内流淌着渴望战斗的热血，<CRLF>提升自身攻击力，持续1分钟。
+ENG: ^c3dbffBlood Rage^ffffff<CRLF><CRLF>Skill Quality: V<CRLF>Requirement: None<CRLF>Support Move<CRLF>Cool-down: 5 min<CRLF><CRLF>Hot blood that craves battle flows through your veins,<CRLF>increasing your Attack Power for 1 min.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff血战千军^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成78%%基础伤害。
+ENG: ^c3dbffBlood Battle Against a Thousand^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the 3 enemies in front of you<CRLF>dealing 78%% base Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff血战千军^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击面前3名敌人<CRLF>造成78%%基础伤害。
+ENG: ^c3dbffBlood Battle Against a Thousand^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the 3 enemies in front of you<CRLF>dealing 78%% base Damage.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff袭心诀^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成194%%基础伤害。
+ENG: ^c3dbffHeart-Striking Art^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 194%% base Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff袭心诀^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成194%%基础伤害。
+ENG: ^c3dbffHeart-Striking Art^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: II<CRLF>Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 194%% base Damage.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff袭心诀·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升袭心诀造成的伤害。
+ENG: ^c3dbffHeart-Striking Art · Force Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBoosts the Damage dealt by Heart-Striking Art.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff袭心诀·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升袭心诀造成的伤害。
+ENG: ^c3dbffHeart-Striking Art · Force Attack<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffBoosts the Damage dealt by Heart-Striking Art.
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff袭心诀·迟滞<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff袭心诀有一定几率使敌人进入迟滞状态，<CRLF>限制抗性降低10点，移动速度降低，<CRLF>状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffHeart-Striking Art · Hinder<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffHeart-Striking Art has a chance to send the enemy into the Hindered state,<CRLF>Reducing Restriction Resistance by 10 points and lowering Movement Speed.<CRLF>T
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff袭心诀·迟滞<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff袭心诀有一定几率使敌人进入迟滞状态，<CRLF>限制抗性降低10点，移动速度降低，<CRLF>状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffHeart-Striking Art · Hinder<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffHeart-Striking Art has a chance to send the enemy into the Hindered state,<CRLF>Reducing Restriction Resistance by 10 points and lowering Movement Speed.<CRLF>T
+
+### batch_011 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff裂土破空^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成79%%基础伤害。
+ENG: ^c3dbffEarth Rend, Sky Break^ffffff<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: III<CRLF>Requirement: Melee<CRLF>High-Tier Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you<CRLF>dealing 79%% base Damage.
+
+### batch_011 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff裂土破空^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成79%%基础伤害。
+ENG: ^c3dbffEarth Rend, Sky Break^ffffff<CRLF><CRLF>Skill Category: Focus Line<CRLF>Skill Quality: III<CRLF>Requirement: Melee<CRLF>High-Tier Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you<CRLF>dealing 79%% base Damage.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff诅咒之力^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成81%%基础伤害。
+ENG: ^c3dbffCurse's Power^ffffff<CRLF><CRLF>Skill Category: Flexibility Skill Type<CRLF>Skill Quality: Three<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you<CRLF>dealing 81%% base damage.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff诅咒之力^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成81%%基础伤害。
+ENG: ^c3dbffCurse's Power^ffffff<CRLF><CRLF>Skill Category: Flexibility Skill Type<CRLF>Skill Quality: Three<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you<CRLF>dealing 81%% base damage.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff败兵术^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>令敌人有挫败之感，无法专心战斗，<CRLF>暴击伤害降低。
+ENG: ^c3dbffDefeat Art^ffffff<CRLF><CRLF>Skill Quality: Five<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5 min<CRLF><CRLF>Instills a sense of defeat in enemies, making them unable to focus on battle,<CRLF>reducing Crit Damage.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff贯骨击^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成160%%基础伤害。
+ENG: ^c3dbffBone-Piercing Strike^ffffff<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Two<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 160%% base damage.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff贯骨击^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>攻击目标，造成160%%基础伤害。
+ENG: ^c3dbffBone-Piercing Strike^ffffff<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Two<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the target, dealing 160%% base damage.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff贯骨击·弱魂<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff贯骨击有一定几率忽略目标一定的防御力，<CRLF>对其造成巨大伤害。
+ENG: ^c3dbffBone-Piercing Strike · Soul Rend<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBone-Piercing Strike has a chance to ignore a portion of the target's Defense,<CRLF>dealing massive damage to it.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff贯骨击·弱魂<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff贯骨击有一定几率忽略目标一定的防御力，<CRLF>对其造成巨大伤害。
+ENG: ^c3dbffBone-Piercing Strike · Soul Rend<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffBone-Piercing Strike has a chance to ignore a portion of the target's Defense,<CRLF>dealing massive damage to it.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff贯骨击·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升贯骨击造成的伤害。
+ENG: ^c3dbffBone-Piercing Strike · Assault<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Bone-Piercing Strike.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff贯骨击·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升贯骨击造成的伤害。
+ENG: ^c3dbffBone-Piercing Strike · Assault<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Bone-Piercing Strike.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff连环破^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>分两段向敌人攻击，招式凶狠有力。<CRLF>第一段造成169%%基础伤害，<CRLF>第二段造成75%%基础伤害。
+ENG: ^c3dbffChained Break^ffffff<CRLF><CRLF>Skill Category: Focus Skill Type<CRLF>Skill Quality: Two<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the enemy in two segments with fierce, powerful moves.<CRLF>The first segment deals 169%% base damage,<CRLF>the second deals 75%% base
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff连环破^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：贰<CRLF>学习需求：近程<CRLF>进阶招式<CRLF><CRLF>分两段向敌人攻击，招式凶狠有力。<CRLF>第一段造成169%%基础伤害，<CRLF>第二段造成75%%基础伤害。
+ENG: ^c3dbffChained Break^ffffff<CRLF><CRLF>Skill Category: Focus Skill Type<CRLF>Skill Quality: Two<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Attack the enemy in two segments with fierce, powerful moves.<CRLF>The first segment deals 169%% base damage,<CRLF>the second deals 75%% base
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff连环破·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升连环破造成的伤害。
+ENG: ^c3dbffChained Break · Assault<CRLF><CRLF>Skill Category: Focus Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Chained Break.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff连环破·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升连环破造成的伤害。
+ENG: ^c3dbffChained Break · Assault<CRLF><CRLF>Skill Category: Focus Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Chained Break.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff连环破·飞将<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff连环破有一定几率附带无视防御伤害，<CRLF>伤害值为护卫攻击力的30%%。
+ENG: ^c3dbffChained Break · Flying General<CRLF><CRLF>Skill Category: Focus Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffChained Break has a chance to additionally deal Defense-ignoring damage,<CRLF>equal to 30%% of the guard's Attack Power.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff连环破·飞将<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff连环破有一定几率附带无视防御伤害，<CRLF>伤害值为护卫攻击力的30%%。
+ENG: ^c3dbffChained Break · Flying General<CRLF><CRLF>Skill Category: Focus Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Melee<CRLF><CRLF>^ffffffChained Break has a chance to additionally deal Defense-ignoring damage,<CRLF>equal to 30%% of the guard's Attack Power.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff追魂击^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成49%%基础伤害。
+ENG: ^c3dbffSoul-Chasing Strike^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: I<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>A quick attack that deals 49%% base damage to 3 enemies<CRLF>in a straight line ahead.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff追魂击^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成49%%基础伤害。
+ENG: ^c3dbffSoul-Chasing Strike^ffffff<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: I<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>A quick attack that deals 49%% base damage to 3 enemies<CRLF>in a straight line ahead.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff逆天残刃^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成285%%基础伤害。
+ENG: ^c3dbffHeaven-Defying Broken Blade^ffffff<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Three<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Channel all your strength into one mighty strike.<CRLF>Deals 285%% base damage.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff逆天残刃^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：叁<CRLF>学习需求：远程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成285%%基础伤害。
+ENG: ^c3dbffHeaven-Defying Broken Blade^ffffff<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Three<CRLF>Learning Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Channel all your strength into one mighty strike.<CRLF>Deals 285%% base damage.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff逆天残刃·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升逆天残刃造成的伤害。
+ENG: ^c3dbffHeaven-Defying Broken Blade · Assault<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Heaven-Defying Broken Blade.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff逆天残刃·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升逆天残刃造成的伤害。
+ENG: ^c3dbffHeaven-Defying Broken Blade · Assault<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Heaven-Defying Broken Blade.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff逆天残刃·涣神<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff逆天残刃有几率降低目标攻击强度，<CRLF>状态持续10秒。
+ENG: ^c3dbffHeaven-Defying Broken Blade · Mind Scour<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffHeaven-Defying Broken Blade has a chance to reduce the target's Attack Power,<CRLF>lasting 10 seconds.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff逆天残刃·涣神<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff逆天残刃有几率降低目标攻击强度，<CRLF>状态持续10秒。
+ENG: ^c3dbffHeaven-Defying Broken Blade · Mind Scour<CRLF><CRLF>Skill Category: Valor Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffHeaven-Defying Broken Blade has a chance to reduce the target's Attack Power,<CRLF>lasting 10 seconds.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff逆鳞^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成131%%基础伤害。
+ENG: ^c3dbffReverse Scale^ffffff<CRLF><CRLF>Skill Category: Wisdom Skill Type<CRLF>Skill Quality: One<CRLF>Learning Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Quickly attack the enemy with swift, powerful movements.<CRLF>Deals 131%% base damage.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff逆鳞^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：壹<CRLF>学习需求：远程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成131%%基础伤害。
+ENG: ^c3dbffReverse Scale^ffffff<CRLF><CRLF>Skill Category: Wisdom Skill Type<CRLF>Skill Quality: One<CRLF>Learning Requirement: Ranged<CRLF>Basic Move<CRLF><CRLF>Quickly attack the enemy with swift, powerful movements.<CRLF>Deals 131%% base damage.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff逆鳞·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升逆鳞造成的伤害。
+ENG: ^c3dbffReverse Scale · Assault<CRLF><CRLF>Skill Category: Wisdom Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Reverse Scale.
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff逆鳞·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升逆鳞造成的伤害。
+ENG: ^c3dbffReverse Scale · Assault<CRLF><CRLF>Skill Category: Wisdom Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Reverse Scale.
+
+### batch_012 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff逆鳞·聚灵<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff逆鳞有一定几率进入聚灵状态，每次攻击回复自身生命，<CRLF>回复效果与自身计谋值相关，状态持续10秒
+ENG: ^c3dbffReverse Scale · Spirit Gather<CRLF><CRLF>Skill Category: Wisdom Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffReverse Scale has a chance to enter the Spirit Gather state, restoring your HP on each attack;<CRLF>the recovery scales with your Stratagem v
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff逆鳞·聚灵<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff逆鳞有一定几率进入聚灵状态，每次攻击回复自身生命，<CRLF>回复效果与自身计谋值相关，状态持续10秒
+ENG: ^c3dbffReverse Scale · Spirit Gather<CRLF><CRLF>Skill Category: Wisdom Skill Type<CRLF>Skill Quality: Four<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffReverse Scale has a chance to enter the Spirit Gather state, restoring your HP on each attack;<CRLF>the recovery scales with your Stratagem v
+
+### batch_012 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff逍遥步^ffffff<CRLF><CRLF>技能品质：伍<CRLF>学习需求：无<CRLF>辅助招式<CRLF>冷却时间：5分钟<CRLF><CRLF>步履轻盈，逍遥从容，<CRLF>提升主人移动速度，持续30秒。
+ENG: ^c3dbffCarefree Step^ffffff<CRLF><CRLF>Skill Quality: Five<CRLF>Learning Requirement: None<CRLF>Support Move<CRLF>Cooldown: 5 min<CRLF><CRLF>Light on your feet, carefree and composed,<CRLF>boosting your master's Movement Speed for 30 seconds.
+
+### batch_013 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff速击^ffffff<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击敌人，动作迅捷有力。<CRLF>造成80%%基础伤害。
+ENG: ^c3dbffSwift Strike^ffffff<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: I<CRLF>Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>Attack the enemy quickly with swift, powerful motions.<CRLF>Deals 80%% Base Damage.
+
+### batch_013 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff速击·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升速击造成的伤害。
+ENG: ^c3dbffSwift Strike · Onslaught<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Swift Strike.
+
+### batch_013 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff速击·撕裂<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff速击有几率使敌人进入撕裂状态，<CRLF>持续流失生命，状态持续10秒。
+ENG: ^c3dbffSwift Strike · Rend<CRLF><CRLF>Skill Category: Valor<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffSwift Strike has a chance to place the enemy in a Rend state,<CRLF>draining HP continuously for 10 seconds.
+
+### batch_013 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff邪气入体^ffffff<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>积蓄全身力量，奋力一击。<CRLF>造成233%%基础伤害。
+ENG: ^c3dbffSinister Qi^ffffff<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: III<CRLF>Requirement: Melee<CRLF>Expert Move<CRLF><CRLF>Gather your full strength for a mighty strike.<CRLF>Deals 233%% Base Damage.
+
+### batch_013 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff邪气入体·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升邪气入体造成的伤害。
+ENG: ^c3dbffSinister Qi · Onslaught<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffIncreases the damage dealt by Sinister Qi.
+
+### batch_013 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff邪气入体·归元<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff邪气入体有几率使敌人进入归元状态，持续减少斗气，<CRLF>斗气减少效果与护卫计谋值相关，状态持续5秒。
+ENG: ^c3dbffSinister Qi · Reversion<CRLF><CRLF>Skill Category: Agility<CRLF>Skill Rank: IV<CRLF>Requirement: Melee<CRLF><CRLF>^ffffffSinister Qi has a chance to place the enemy in the Reversion state, draining Battle Qi continuously;<CRLF>the Battle Qi drain scales with the Guard’s Tactics value. Lasts 5
+
+### batch_013 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff醉云击^ffffff<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：贰<CRLF>学习需求：远程<CRLF>进阶招式<CRLF><CRLF>分两段向敌人攻击，招式凶狠有力。<CRLF>第一段造成176%%基础伤害，<CRLF>第二段造成81%%基础伤害。
+ENG: ^c3dbffDrunken Cloud Strike^ffffff<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: II<CRLF>Requirement: Ranged<CRLF>Advanced Move<CRLF><CRLF>Attack the enemy in two fierce, powerful strikes.<CRLF>First strike deals 176%% Base Damage,<CRLF>second strike deals 81%% Base Damage.
+
+### batch_013 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff醉云击·强攻<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升醉云击造成的伤害。
+ENG: ^c3dbffDrunken Cloud Strike · Onslaught<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffIncreases the damage dealt by Drunken Cloud Strike.
+
+### batch_013 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff醉云击·飞将<CRLF><CRLF>技能类别：专注系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff醉云击有一定几率附带无视防御伤害，<CRLF>伤害值为护卫攻击力的30%%。
+ENG: ^c3dbffDrunken Cloud Strike · Flying General<CRLF><CRLF>Skill Category: Focus<CRLF>Skill Rank: IV<CRLF>Requirement: Ranged<CRLF><CRLF>^ffffffDrunken Cloud Strike has a chance to deal extra damage that ignores Defense,<CRLF>equal to 30%% of the Guard’s Attack Power.
+
+### batch_013 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff金蛇狂舞^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成94%%基础伤害。
+ENG: ^c3dbffGolden Serpent Rampage^ffffff<CRLF><CRLF>Skill Category: Zeal<CRLF>Skill Rank: III<CRLF>Requirement: Melee<CRLF>Expert Move<CRLF><CRLF>Sweep your weapon to attack 5 enemies around you,<CRLF>Deals 94%% Base Damage.
+
+### batch_014 / cn=技能类别 / phrase='Heart-Piercing Fury'
+SRC: ^c3dbff锥心怒·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升锥心怒造成的伤害。
+ENG: ^c3dbffHeart-Piercing Fury: Assault<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Heart-Piercing Fury.
+
+### batch_014 / cn=技能品质 / phrase='Skill Category'
+SRC: ^c3dbff锥心怒·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升锥心怒造成的伤害。
+ENG: ^c3dbffHeart-Piercing Fury: Assault<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Heart-Piercing Fury.
+
+### batch_014 / cn=学习需求 / phrase='Skill Quality'
+SRC: ^c3dbff锥心怒·强攻<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升锥心怒造成的伤害。
+ENG: ^c3dbffHeart-Piercing Fury: Assault<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Heart-Piercing Fury.
+
+### batch_014 / cn=技能类别 / phrase='Heart-Piercing Fury'
+SRC: ^c3dbff锥心怒·慑心<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff锥心怒有一定几率降低目标穿透能力，<CRLF>持续8秒。
+ENG: ^c3dbffHeart-Piercing Fury: Awe<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffHeart-Piercing Fury has a chance to reduce the target's Penetration<CRLF>for 8 seconds.
+
+### batch_014 / cn=技能品质 / phrase='Skill Category'
+SRC: ^c3dbff锥心怒·慑心<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff锥心怒有一定几率降低目标穿透能力，<CRLF>持续8秒。
+ENG: ^c3dbffHeart-Piercing Fury: Awe<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffHeart-Piercing Fury has a chance to reduce the target's Penetration<CRLF>for 8 seconds.
+
+### batch_014 / cn=学习需求 / phrase='Skill Quality'
+SRC: ^c3dbff锥心怒·慑心<CRLF><CRLF>技能类别：勇猛系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff锥心怒有一定几率降低目标穿透能力，<CRLF>持续8秒。
+ENG: ^c3dbffHeart-Piercing Fury: Awe<CRLF><CRLF>Skill Category: Valor Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffHeart-Piercing Fury has a chance to reduce the target's Penetration<CRLF>for 8 seconds.
+
+### batch_014 / cn=技能类别 / phrase='Yama Strike'
+SRC: ^c3dbff阎罗杀·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升阎罗杀造成的伤害。
+ENG: ^c3dbffYama Strike: Assault<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Yama Strike.
+
+### batch_014 / cn=技能品质 / phrase='Skill Category'
+SRC: ^c3dbff阎罗杀·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升阎罗杀造成的伤害。
+ENG: ^c3dbffYama Strike: Assault<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Yama Strike.
+
+### batch_014 / cn=学习需求 / phrase='Skill Quality'
+SRC: ^c3dbff阎罗杀·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff提升阎罗杀造成的伤害。
+ENG: ^c3dbffYama Strike: Assault<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Melee<CRLF><CRLF>^ffffffBoosts the damage dealt by Yama Strike.
+
+### batch_014 / cn=技能类别 / phrase='Yama Strike'
+SRC: ^c3dbff阎罗杀·流离<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff阎罗杀有一定几率使敌人进入流离状态，<CRLF>流失抗性降低10点，每次攻击减少生命，<CRLF>状态效果与护卫计谋值相关，状态持续10秒。
+ENG: ^c3dbffYama Strike: Drift<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Melee<CRLF><CRLF>^ffffffYama Strike has a chance to send the enemy into the Drift state,<CRLF>reducing Drain Resistance by 10; each attack reduces HP.<CRLF>The state effect scales with Guard 
+
+### batch_014 / cn=技能品质 / phrase='Skill Category'
+SRC: ^c3dbff阎罗杀·流离<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff阎罗杀有一定几率使敌人进入流离状态，<CRLF>流失抗性降低10点，每次攻击减少生命，<CRLF>状态效果与护卫计谋值相关，状态持续10秒。
+ENG: ^c3dbffYama Strike: Drift<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Melee<CRLF><CRLF>^ffffffYama Strike has a chance to send the enemy into the Drift state,<CRLF>reducing Drain Resistance by 10; each attack reduces HP.<CRLF>The state effect scales with Guard 
+
+### batch_014 / cn=学习需求 / phrase='Skill Quality'
+SRC: ^c3dbff阎罗杀·流离<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：近程<CRLF><CRLF>^ffffff阎罗杀有一定几率使敌人进入流离状态，<CRLF>流失抗性降低10点，每次攻击减少生命，<CRLF>状态效果与护卫计谋值相关，状态持续10秒。
+ENG: ^c3dbffYama Strike: Drift<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Melee<CRLF><CRLF>^ffffffYama Strike has a chance to send the enemy into the Drift state,<CRLF>reducing Drain Resistance by 10; each attack reduces HP.<CRLF>The state effect scales with Guard 
+
+### batch_014 / cn=技能类别 / phrase='Snow Ruin'
+SRC: ^c3dbff雪殇·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升雪殇造成的伤害。
+ENG: ^c3dbffSnow Ruin: Assault<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Snow Ruin.
+
+### batch_014 / cn=技能品质 / phrase='Skill Category'
+SRC: ^c3dbff雪殇·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升雪殇造成的伤害。
+ENG: ^c3dbffSnow Ruin: Assault<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Snow Ruin.
+
+### batch_014 / cn=学习需求 / phrase='Skill Quality'
+SRC: ^c3dbff雪殇·强攻<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升雪殇造成的伤害。
+ENG: ^c3dbffSnow Ruin: Assault<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Snow Ruin.
+
+### batch_014 / cn=技能类别 / phrase='Snow Ruin'
+SRC: ^c3dbff雪殇·血咒<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff雪殇有一定几率使敌人进入血咒状态，<CRLF>持续流失生命，状态持续10秒。
+ENG: ^c3dbffSnow Ruin: Blood Curse<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffSnow Ruin has a chance to send the enemy into the Blood Curse state,<CRLF>continuously draining HP. The state lasts 10 seconds.
+
+### batch_014 / cn=技能品质 / phrase='Skill Category'
+SRC: ^c3dbff雪殇·血咒<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff雪殇有一定几率使敌人进入血咒状态，<CRLF>持续流失生命，状态持续10秒。
+ENG: ^c3dbffSnow Ruin: Blood Curse<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffSnow Ruin has a chance to send the enemy into the Blood Curse state,<CRLF>continuously draining HP. The state lasts 10 seconds.
+
+### batch_014 / cn=学习需求 / phrase='Skill Quality'
+SRC: ^c3dbff雪殇·血咒<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff雪殇有一定几率使敌人进入血咒状态，<CRLF>持续流失生命，状态持续10秒。
+ENG: ^c3dbffSnow Ruin: Blood Curse<CRLF><CRLF>Skill Category: Wisdom Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffSnow Ruin has a chance to send the enemy into the Blood Curse state,<CRLF>continuously draining HP. The state lasts 10 seconds.
+
+### batch_014 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff雷霆万钧·毁魂<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff雷霆万钧有几率使敌人进入毁魂状态，持续减少体力，<CRLF>体力减少效果与护卫计谋值相关，状态持续5秒。
+ENG: ^c3dbffThunderclap of Ten Thousand Pounds · Soul Ruin<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffThunderclap of Ten Thousand Pounds has a chance to put the Enemy in the Soul Ruin state, continuously draining Stamina,<CRLF>and th
+
+### batch_014 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff雷霆万钧·毁魂<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff雷霆万钧有几率使敌人进入毁魂状态，持续减少体力，<CRLF>体力减少效果与护卫计谋值相关，状态持续5秒。
+ENG: ^c3dbffThunderclap of Ten Thousand Pounds · Soul Ruin<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Requirement: Ranged<CRLF><CRLF>^ffffffThunderclap of Ten Thousand Pounds has a chance to put the Enemy in the Soul Ruin state, continuously draining Stamina,<CRLF>and th
+
+### batch_014 / cn=技能类别 / phrase='Willow Flutter'
+SRC: ^c3dbff飞柳落·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升飞柳落造成的伤害。
+ENG: ^c3dbffWillow Flutter: Assault<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Willow Flutter.
+
+### batch_014 / cn=技能品质 / phrase='Skill Category'
+SRC: ^c3dbff飞柳落·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升飞柳落造成的伤害。
+ENG: ^c3dbffWillow Flutter: Assault<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Willow Flutter.
+
+### batch_014 / cn=学习需求 / phrase='Skill Quality'
+SRC: ^c3dbff飞柳落·强攻<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff提升飞柳落造成的伤害。
+ENG: ^c3dbffWillow Flutter: Assault<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffBoosts the damage dealt by Willow Flutter.
+
+### batch_014 / cn=技能类别 / phrase='Willow Flutter'
+SRC: ^c3dbff飞柳落·迟滞<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff飞柳落有一定几率使敌人进入迟滞状态，<CRLF>限制抗性降低10点，移动速度降低，<CRLF>状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffWillow Flutter: Hesitation<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffWillow Flutter has a chance to send the enemy into the Hesitation state,<CRLF>reducing Restriction Resistance by 10 and lowering Movement Speed.<CRLF>The stat
+
+### batch_014 / cn=技能品质 / phrase='Skill Category'
+SRC: ^c3dbff飞柳落·迟滞<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff飞柳落有一定几率使敌人进入迟滞状态，<CRLF>限制抗性降低10点，移动速度降低，<CRLF>状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffWillow Flutter: Hesitation<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffWillow Flutter has a chance to send the enemy into the Hesitation state,<CRLF>reducing Restriction Resistance by 10 and lowering Movement Speed.<CRLF>The stat
+
+### batch_014 / cn=学习需求 / phrase='Skill Quality'
+SRC: ^c3dbff飞柳落·迟滞<CRLF><CRLF>技能类别：灵活系<CRLF>技能品质：肆<CRLF>学习需求：远程<CRLF><CRLF>^ffffff飞柳落有一定几率使敌人进入迟滞状态，<CRLF>限制抗性降低10点，移动速度降低，<CRLF>状态效果与护卫计谋值相关，持续10秒。
+ENG: ^c3dbffWillow Flutter: Hesitation<CRLF><CRLF>Skill Category: Agility Line<CRLF>Skill Quality: IV<CRLF>Learning Req.: Ranged<CRLF><CRLF>^ffffffWillow Flutter has a chance to send the enemy into the Hesitation state,<CRLF>reducing Restriction Resistance by 10 and lowering Movement Speed.<CRLF>The stat
+
+### batch_015 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff麒麟焰^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成41%%基础伤害。
+ENG: ^c3dbffQilin Flame^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded<CRLF>Skill Quality: I<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>A quick strike that deals 41%% base damage<CRLF>to 3 enemies in a straight line ahead.
+
+### batch_015 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff麒麟焰^ffffff<CRLF><CRLF>技能类别：热血系<CRLF>技能品质：壹<CRLF>学习需求：近程<CRLF>基础招式<CRLF><CRLF>快速攻击，对前方直线范围内3名敌人<CRLF>造成41%%基础伤害。
+ENG: ^c3dbffQilin Flame^ffffff<CRLF><CRLF>Skill Category: Hot-Blooded<CRLF>Skill Quality: I<CRLF>Learning Requirement: Melee<CRLF>Basic Move<CRLF><CRLF>A quick strike that deals 41%% base damage<CRLF>to 3 enemies in a straight line ahead.
+
+### batch_015 / cn=技能类别 / phrase='Skill Category'
+SRC: ^c3dbff龙卷气旋^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成104%%基础伤害。
+ENG: ^c3dbffTornado Cyclone^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: III<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you<CRLF>for 104%% base damage.
+
+### batch_015 / cn=技能品质 / phrase='Skill Quality'
+SRC: ^c3dbff龙卷气旋^ffffff<CRLF><CRLF>技能类别：智慧系<CRLF>技能品质：叁<CRLF>学习需求：近程<CRLF>高阶招式<CRLF><CRLF>挥动武器攻击周围5名敌人<CRLF>造成104%%基础伤害。
+ENG: ^c3dbffTornado Cyclone^ffffff<CRLF><CRLF>Skill Category: Wisdom<CRLF>Skill Quality: III<CRLF>Learning Requirement: Melee<CRLF>Advanced Move<CRLF><CRLF>Swing your weapon to attack 5 enemies around you<CRLF>for 104%% base damage.
+

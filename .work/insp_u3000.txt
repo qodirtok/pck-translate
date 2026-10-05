@@ -1,0 +1,38 @@
+### batch_000/170  u3000 16->12
+   SRC: '^ffffff兵器：不限\u3000\u3000\u3000\u3000\u3000   '
+   DST: '^ffffffWeapons: Any\u3000\u3000   '
+   SRC: '^ffffff兵法：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000'
+   DST: '^ffffffArt of War: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000'
+
+### batch_000/171  u3000 16->12
+   SRC: '^ffffff兵器：不限\u3000\u3000\u3000\u3000\u3000   '
+   DST: '^ffffffWeapons: Any\u3000\u3000   '
+   SRC: '^ffffff兵法：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000'
+   DST: '^ffffffArt of War: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000'
+
+### batch_000/172  u3000 16->12
+   SRC: '^ffffff兵器：不限\u3000\u3000\u3000\u3000\u3000   '
+   DST: '^ffffffWeapons: Any\u3000\u3000   '
+   SRC: '^ffffff兵法：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000'
+   DST: '^ffffffArt of War: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000'
+
+### batch_000/173  u3000 17->13
+   SRC: '^ffffff兵器：不限\u3000\u3000\u3000\u3000\u3000   '
+   DST: '^ffffffWeapons: Any\u3000\u3000   '
+   SRC: '^ffffff兵法：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000'
+   DST: '^ffffffArt of War: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000'
+
+### batch_000/181  u3000 0->1
+   SRC: '地恸击 苍穹乱舞'
+   DST: 'Earthshaker Strike\u3000Firmament Wild Dance'
+
+### batch_000/201  u3000 17->18
+   SRC: '^ffffff兵器：环\u3000\u3000\u3000\u3000\u3000\u3000  10斗气\u3000\u3000\u3000\u3000\u3000'
+   DST: '^ffffffWeapon: Ring Blade\u3000\u3000\u3000\u3000\u3000\u3000  10 Fighting Qi\u3000\u3000\u3000\u3000\u3000\u3000'
+
+### batch_000/203  u3000 18->17
+   SRC: '招式：持续释放\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却8秒'
+   DST: 'Move: Channeled Release\u3000\u3000\u3000\u3000\u3000\u3000Cooldown 8 sec'
+
+total color mismatches: 10
+total placeholder mismatches: 1

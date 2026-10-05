@@ -1,0 +1,17 @@
+batch_000.jsonl  records=433   ok=433   OK
+batch_001.jsonl  records=231   ok=229   BAD(2)
+batch_002.jsonl  records=240   ok=240   OK
+batch_003.jsonl  records=253   ok=253   OK
+batch_004.jsonl  records=227   ok=227   OK
+batch_005.jsonl  records=231   ok=231   OK
+batch_006.jsonl  records=232   ok=232   OK
+batch_007.jsonl  records=247   ok=247   OK
+batch_008.jsonl  records=1167  ok=1167  OK
+batch_009.jsonl  records=76    ok=76    OK
+
+==== BAD LINES DETAIL ====
+--- batch_001.jsonl ---
+  line 128: Expecting ',' delimiter: line 1 column 78 (char 77)
+    preview: '{"id": 128, "english": "^c3dbffThousand Cavalry<CRLF><CRLF>^ffffffUsing the "Wrath" or "Break"<CRLF>skill while this sta'
+  line 172: Expecting ',' delimiter: line 1 column 131 (char 130)
+    preview: '{"id": 172, "english": "^c3dbffComrades-in-Arms, Never Abandoned<CRLF><CRLF>^ffffffWith this, you automatically obtain t'

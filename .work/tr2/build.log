@@ -1,0 +1,559 @@
+PROBLEM 1 TOKENS
+   first diff at 0 '^c3dbff圆月斩' '^c3dbffFull'
+   src tail ['^c3dbff圆月斩', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffFull', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 2 TOKENS
+   first diff at 0 '^c3dbff圆月斩' '^c3dbffFull'
+   src tail ['^c3dbff圆月斩', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffFull', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 3 TOKENS
+   first diff at 0 '^c3dbff圆月斩' '^c3dbffFull'
+   src tail ['^c3dbff圆月斩', '<CRLF>', '^ffffff需要至少在力类专精上投入15点', '<CRLF>']
+   eng tail ['^c3dbffFull', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 4 TOKENS
+   first diff at 0 '^c3dbff圆月斩' '^c3dbffFull'
+   src tail ['^c3dbff圆月斩', '<CRLF>', '^ffffff需要至少在技类专精上投入15点', '<CRLF>']
+   eng tail ['^c3dbffFull', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 5 TOKENS
+   first diff at 0 '^c3dbff土灵' '^c3dbffEarth'
+   src tail ['^c3dbff土灵', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffEarth', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 6 TOKENS
+   first diff at 0 '^c3dbff土灵' '^c3dbffEarth'
+   src tail ['^c3dbff土灵', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffEarth', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 7 TOKENS
+   first diff at 0 '^c3dbff土灵' '^c3dbffEarth'
+   src tail ['^c3dbff土灵', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffEarth', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 8 TOKENS
+   first diff at 0 '^c3dbff土石崩解' '^c3dbffEarthstone'
+   src tail ['^c3dbff土石崩解', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffEarthstone', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 9 TOKENS
+   first diff at 0 '^c3dbff圣灵舞' '^c3dbffHoly'
+   src tail ['^c3dbff圣灵舞', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffHoly', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 10 TOKENS
+   first diff at 0 '^c3dbff地动山摇' '^c3dbffEarth'
+   src tail ['^c3dbff地动山摇', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffEarth', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 11 TOKENS
+   first diff at 0 '^c3dbff地恸击' '^c3dbffEarth'
+   src tail ['^c3dbff地恸击', '<CRLF>', '^ffffff需要至少在破类专精上投入20点', '<CRLF>']
+   eng tail ['^c3dbffEarth', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 12 TOKENS
+   first diff at 0 '^c3dbff地恸击' '^c3dbffEarth'
+   src tail ['^c3dbff地恸击', '<CRLF>', '^ffffff需要至少在', '<CRLF>']
+   eng tail ['^c3dbffEarth', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 13 TOKENS
+   first diff at 0 '^c3dbff坚壁' '^c3dbffBulwark'
+   src tail ['^c3dbff坚壁', '<CRLF>', '<CRLF>', '^ffffff使用快攻有一定概率使自身获得']
+   eng tail ['^c3dbffBulwark', '<CRLF>', '<CRLF>', '^ffffffQuick']
+PROBLEM 14 TOKENS
+   first diff at 0 '^c3dbff坚壁' '^c3dbffBulwark'
+   src tail ['^c3dbff坚壁', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffBulwark', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 15 TOKENS
+   first diff at 0 '^c3dbff坚壁' '^c3dbffBulwark'
+   src tail ['^c3dbff坚壁', '<CRLF>', '^ffffff需要至少在技类专精投入25点', '<CRLF>']
+   eng tail ['^c3dbffBulwark', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 16 TOKENS
+   first diff at 0 '^c3dbff坚壁' '^c3dbffBulwark'
+   src tail ['^c3dbff坚壁', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffBulwark', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 17 TOKENS
+   first diff at 0 '^c3dbff坚壁' '^c3dbffBulwark'
+   src tail ['^c3dbff坚壁', '<CRLF>', '^ffffff需要至少在技类专精上投入15点', '<CRLF>']
+   eng tail ['^c3dbffBulwark', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 18 TOKENS
+   first diff at 0 '^c3dbff坚守' '^c3dbffSteadfast'
+   src tail ['^c3dbff坚守', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffSteadfast', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 19 TOKENS
+   first diff at 0 '^c3dbff坚定心志' '^c3dbffSteadfast'
+   src tail ['^c3dbff坚定心志', '<CRLF>', '^ffffff需要至少在力类专精上投入25点', '<CRLF>']
+   eng tail ['^c3dbffSteadfast', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 20 TOKENS
+   first diff at 0 '^c3dbff坚甲' '^c3dbffSolid'
+   src tail ['^c3dbff坚甲', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng tail ['^c3dbffSolid', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 21 TOKENS
+   first diff at 0 '^c3dbff坚阵' '^c3dbffSteadfast'
+   src tail ['^c3dbff坚阵', '<CRLF>', '<CRLF>', '^ffffff结义兵法']
+   eng tail ['^c3dbffSteadfast', '<CRLF>', '<CRLF>', '^ffffffSworn']
+PROBLEM 22 TOKENS
+   first diff at 0 '^c3dbff坠碧' '^c3dbffFalling'
+   src tail ['^c3dbff坠碧', '<CRLF>', '<CRLF>', '^ffffff极寒箭有一定概率冰冻敌人3秒']
+   eng tail ['^c3dbffFalling', '<CRLF>', '<CRLF>', '^ffffffExtreme']
+PROBLEM 23 TOKENS
+   first diff at 0 '^c3dbff基本骑术' '^c3dbffBasic'
+   src tail ['^c3dbff基本骑术', '<CRLF>', '<CRLF>', '^ffffff骑术']
+   eng tail ['^c3dbffBasic', '<CRLF>', '<CRLF>', '^ffffffRiding']
+PROBLEM 24 TOKENS
+   first diff at 0 '^c3dbff壁垒' '^c3dbffRampart'
+   src tail ['^c3dbff壁垒', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffRampart', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 25 TOKENS
+   first diff at 0 '^c3dbff壁垒' '^c3dbffRampart'
+   src tail ['^c3dbff壁垒', '<CRLF>', '^ffffff需要至少在咒类专精上投入20点', '<CRLF>']
+   eng tail ['^c3dbffRampart', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 26 TOKENS
+   first diff at 0 '^c3dbff壁垒' '^c3dbffRampart'
+   src tail ['^c3dbff壁垒', '<CRLF>', '^ffffff需要至少在咒类专精上投入25点', '<CRLF>']
+   eng tail ['^c3dbffRampart', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 27 TOKENS
+   first diff at 0 '^c3dbff士气高涨' '^c3dbffRising'
+   src tail ['^c3dbff士气高涨', '<CRLF>', '^ffffff需要至少在', '<CRLF>']
+   eng tail ['^c3dbffRising', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 28 TOKENS
+   first diff at 0 '^c3dbff复仇力量' '^c3dbffPower'
+   src tail ['^c3dbff复仇力量', '<CRLF>', '^ffffff需要至少在力类专精上投入25点', '<CRLF>']
+   eng tail ['^c3dbffPower', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 29 TOKENS
+   first diff at 0 '^c3dbff夜战八方' '^c3dbffNight'
+   src tail ['^c3dbff夜战八方', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffNight', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 30 TOKENS
+   first diff at 0 '^c3dbff夜战八方' '^c3dbffNight'
+   src tail ['^c3dbff夜战八方', '<CRLF>', '^ffffff需要至少在夜战八方', '<CRLF>']
+   eng tail ['^c3dbffNight', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 31 TOKENS
+   first diff at 0 '^c3dbff夜战八方' '^c3dbffNight'
+   src tail ['^c3dbff夜战八方', '<CRLF>', '^ffffff需要至少在力类专精上投入20点', '<CRLF>']
+   eng tail ['^c3dbffNight', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 32 TOKENS
+   first diff at 0 '^c3dbff夜月凝霜' '^c3dbffMoonlit'
+   src tail ['^c3dbff夜月凝霜', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffMoonlit', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 33 TOKENS
+   first diff at 0 '^c3dbff夜月凝霜' '^c3dbffMoonlit'
+   src tail ['^c3dbff夜月凝霜', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffMoonlit', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 34 TOKENS
+   first diff at 0 '^c3dbff夜月凝霜' '^c3dbffMoonlit'
+   src tail ['^c3dbff夜月凝霜', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffMoonlit', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 35 TOKENS
+   first diff at 0 '^c3dbff夜袭' '^c3dbffNight'
+   src tail ['^c3dbff夜袭', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng tail ['^c3dbffNight', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 36 TOKENS
+   first diff at 0 '^c3dbff大卸八块' '^c3dbffDismember'
+   src tail ['^c3dbff大卸八块', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffDismember', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 37 TOKENS
+   first diff at 0 '^c3dbff大卸八块' '^c3dbffDismember'
+   src tail ['^c3dbff大卸八块', '<CRLF>', '^ffffff需要至少在力类专精上投入15点', '<CRLF>']
+   eng tail ['^c3dbffDismember', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 38 TOKENS
+   first diff at 0 '^c3dbff大卸八块' '^c3dbffDismember'
+   src tail ['^c3dbff大卸八块', '<CRLF>', '^ffffff需要至少在力类专精上投入20点', '<CRLF>']
+   eng tail ['^c3dbffDismember', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 39 TOKENS
+   first diff at 0 '^c3dbff大卸八块' '^c3dbffDismember'
+   src tail ['^c3dbff大卸八块', '<CRLF>', '^ffffff需要至少在技类专精上投入15点', '<CRLF>']
+   eng tail ['^c3dbffDismember', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 40 TOKENS
+   first diff at 0 '^c3dbff大地狂啸' '^c3dbffWild'
+   src tail ['^c3dbff大地狂啸', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffWild', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 41 TOKENS
+   first diff at 0 '^c3dbff大地狂啸' '^c3dbffWild'
+   src tail ['^c3dbff大地狂啸', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffWild', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 42 TOKENS
+   first diff at 0 '^c3dbff大开大阖' '^c3dbffMagnanimity'
+   src tail ['^c3dbff大开大阖', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffMagnanimity', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 43 TOKENS
+   first diff at 0 '^c3dbff大雅之音' '^c3dbffElegant'
+   src tail ['^c3dbff大雅之音', '<CRLF>', '<CRLF>', '^ffffff特技']
+   eng tail ['^c3dbffElegant', '<CRLF>', '<CRLF>', '^ffffffSpecialty']
+PROBLEM 44 TOKENS
+   first diff at 0 '^c3dbff大风之舞' '^c3dbffDance'
+   src tail ['^c3dbff大风之舞', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffDance', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 45 TOKENS
+   first diff at 0 '^c3dbff大风之舞' '^c3dbffDance'
+   src tail ['^c3dbff大风之舞', '<CRLF>', '^ffffff需要至少在', '<CRLF>']
+   eng tail ['^c3dbffDance', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 46 TOKENS
+   first diff at 0 '^c3dbff大风之舞' '^c3dbffDance'
+   src tail ['^c3dbff大风之舞', '<CRLF>', '^ffffff需要至少在', '<CRLF>']
+   eng tail ['^c3dbffDance', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 47 TOKENS
+   first diff at 0 '^c3dbff天下息兵' '^c3dbffTruce'
+   src tail ['^c3dbff天下息兵', '<CRLF>', '<CRLF>', '^ffffff结义兵法']
+   eng tail ['^c3dbffTruce', '<CRLF>', '<CRLF>', '^ffffffSworn']
+PROBLEM 48 TOKENS
+   first diff at 0 '^c3dbff天下无双' '^c3dbffPeerless'
+   src tail ['^c3dbff天下无双', '<CRLF>', '^ffffff需要至少在舞类专精上投入30点', '<CRLF>']
+   eng tail ['^c3dbffPeerless', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 49 TOKENS
+   first diff at 0 '^c3dbff天下无双' '^c3dbffPeerless'
+   src tail ['^c3dbff天下无双', '^ffffff', '^ffcc00等级', '%d']
+   eng tail ['^c3dbffPeerless', '^ffffff', '^ffcc00Lv', '%d']
+PROBLEM 50 TOKENS
+   first diff at 0 '^c3dbff天义' '^c3dbffHeavenly'
+   src tail ['^c3dbff天义', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng tail ['^c3dbffHeavenly', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 51 TOKENS
+   first diff at 0 '^c3dbff天佑' '^c3dbffDivine'
+   src tail ['^c3dbff天佑', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffDivine', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 52 TOKENS
+   first diff at 0 '^c3dbff天元一击' '^c3dbffPrimordial'
+   src tail ['^c3dbff天元一击', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffPrimordial', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 53 TOKENS
+   first diff at 0 '^c3dbff天元一击' '^c3dbffPrimordial'
+   src tail ['^c3dbff天元一击', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffPrimordial', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 54 TOKENS
+   first diff at 0 '^c3dbff天元一击' '^c3dbffPrimordial'
+   src tail ['^c3dbff天元一击', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffPrimordial', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 55 TOKENS
+   first diff at 0 '^c3dbff天子布诏' '^c3dbffImperial'
+   src tail ['^c3dbff天子布诏', '^ffffff', '^ffcc00等级', '%d']
+   eng tail ['^c3dbffImperial', '^ffffff', '^ffcc00Lv', '%d']
+PROBLEM 56 TOKENS
+   first diff at 0 '^c3dbff天崩斩' '^c3dbffHeaven'
+   src tail ['^c3dbff天崩斩', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffHeaven', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 57 TOKENS
+   first diff at 0 '^c3dbff天火燎原' '^c3dbffHeavenly'
+   src tail ['^c3dbff天火燎原', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffHeavenly', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 58 TOKENS
+   first diff at 0 '^c3dbff天降火' '^c3dbffFalling'
+   src tail ['^c3dbff天降火', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffFalling', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 59 TOKENS
+   first diff at 0 '^c3dbff天雷咒' '^c3dbffHeavenly'
+   src tail ['^c3dbff天雷咒', '<CRLF>', '^ffffff需要至少在', '<CRLF>']
+   eng tail ['^c3dbffHeavenly', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 60 TOKENS
+   first diff at 0 '^c3dbff天香' '^c3dbffHeavenly'
+   src tail ['^c3dbff天香', '<CRLF>', '^ffffff需要至少在影类专精上投入20点', '<CRLF>']
+   eng tail ['^c3dbffHeavenly', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 61 TOKENS
+   first diff at 0 '^c3dbff夺命' '^c3dbffLife'
+   src tail ['^c3dbff夺命', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffLife', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 61 SEGMENTS
+PROBLEM 62 TOKENS
+   first diff at 0 '^c3dbff夺命' '^c3dbffLife'
+   src tail ['^c3dbff夺命', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffLife', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 62 SEGMENTS
+PROBLEM 63 TOKENS
+   first diff at 0 '^c3dbff夺命' '^c3dbffLife'
+   src tail ['^c3dbff夺命', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffLife', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 63 SEGMENTS
+PROBLEM 64 TOKENS
+   first diff at 0 '^c3dbff夺命戟' '^c3dbffLife'
+   src tail ['^c3dbff夺命戟', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffLife', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 65 TOKENS
+   first diff at 0 '^c3dbff夺命戟' '^c3dbffLife'
+   src tail ['^c3dbff夺命戟', '<CRLF>', '^ffffff需要至少在力类专精上投入10点', '<CRLF>']
+   eng tail ['^c3dbffLife', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 66 TOKENS
+   first diff at 0 '^c3dbff奇佐' '^c3dbffStrange'
+   src tail ['^c3dbff奇佐', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng tail ['^c3dbffStrange', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 67 TOKENS
+   first diff at 0 '^c3dbff奇袭' '^c3dbffSurprise'
+   src tail ['^c3dbff奇袭', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng tail ['^c3dbffSurprise', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 68 TOKENS
+   first diff at 0 '^c3dbff奇门遁甲' '^c3dbffQimen'
+   src tail ['^c3dbff奇门遁甲', '^ffffff', '^ffcc00等级', '%d']
+   eng tail ['^c3dbffQimen', '^ffffff', '^ffcc00Lv', '%d']
+PROBLEM 69 TOKENS
+   first diff at 0 '^c3dbff奋勇' '^c3dbffInspire'
+   src tail ['^c3dbff奋勇', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffInspire', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 70 TOKENS
+   first diff at 0 '^c3dbff奋战' '^c3dbffFierce'
+   src tail ['^c3dbff奋战', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffFierce', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 71 TOKENS
+   first diff at 0 '^c3dbff奋战鼓' '^c3dbffBattle'
+   src tail ['^c3dbff奋战鼓', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffBattle', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 72 TOKENS
+   first diff at 0 '^c3dbff奋起冲击' '^c3dbffRising'
+   src tail ['^c3dbff奋起冲击', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffRising', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 73 TOKENS
+   first diff at 0 '^c3dbff奔雷激云' '^c3dbffThunder'
+   src tail ['^c3dbff奔雷激云', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffThunder', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 74 TOKENS
+   first diff at 0 '^c3dbff奔雷激云' '^c3dbffThunder'
+   src tail ['^c3dbff奔雷激云', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffThunder', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 75 TOKENS
+   first diff at 0 '^c3dbff奔雷激云' '^c3dbffThunder'
+   src tail ['^c3dbff奔雷激云', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffThunder', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 76 TOKENS
+   first diff at 0 '^c3dbff奔雷诀' '^c3dbffThunder'
+   src tail ['^c3dbff奔雷诀', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffThunder', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 77 TOKENS
+   first diff at 0 '^c3dbff奸雄' '^c3dbffHeroic'
+   src tail ['^c3dbff奸雄', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng tail ['^c3dbffHeroic', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 78 TOKENS
+   first diff at 0 '^c3dbff如玄' '^c3dbffRuxuan'
+   src tail ['^c3dbff如玄', '<CRLF>', '<CRLF>', '^ffffff在使用突袭打3秒内使用乱舞攻击']
+   eng tail ['^c3dbffRuxuan', '<CRLF>', '<CRLF>', '^ffffffUsing']
+PROBLEM 79 TOKENS
+   first diff at 0 '^c3dbff妙手回春' '^c3dbffHealing'
+   src tail ['^c3dbff妙手回春', '<CRLF>', '<CRLF>', '^ffffff特技']
+   eng tail ['^c3dbffHealing', '<CRLF>', '<CRLF>', '^ffffffSpecialty']
+PROBLEM 80 TOKENS
+   first diff at 0 '^c3dbff威伏八荒' '^c3dbffEight'
+   src tail ['^c3dbff威伏八荒', '<CRLF>', '<CRLF>', '^ffffff结义兵法']
+   eng tail ['^c3dbffEight', '<CRLF>', '<CRLF>', '^ffffffSworn']
+PROBLEM 81 TOKENS
+   first diff at 0 '^c3dbff威慑' '^c3dbffIntimidation'
+   src tail ['^c3dbff威慑', '^ffffff', '^ffcc00等级', '%d']
+   eng tail ['^c3dbffIntimidation', '^ffffff', '^ffcc00Lv', '%d']
+PROBLEM 82 TOKENS
+   first diff at 0 '^c3dbff威风八面' '^c3dbffMajestic'
+   src tail ['^c3dbff威风八面', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffMajestic', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 83 TOKENS
+   first diff at 0 '^c3dbff嬉宠趣' '^c3dbffPlayful'
+   src tail ['^c3dbff嬉宠趣', '<CRLF>', '<CRLF>', '^ffffff与这只熊猫起舞']
+   eng tail ['^c3dbffPlayful', '<CRLF>', '<CRLF>', '^ffffffDance']
+PROBLEM 84 TOKENS
+   first diff at 0 '^c3dbff孔明灯' '^c3dbffKongming'
+   src tail ['^c3dbff孔明灯']
+   eng tail ['^c3dbffKongming']
+PROBLEM 85 TOKENS
+   first diff at 0 '^c3dbff定军' '^c3dbffPacify'
+   src tail ['^c3dbff定军', '^ffffff', '^ffcc00等级', '%d']
+   eng tail ['^c3dbffPacify', '^ffffff', '^ffcc00Lv', '%d']
+PROBLEM 86 TOKENS
+   first diff at 0 '^c3dbff定军射' '^c3dbffPacifying'
+   src tail ['^c3dbff定军射', '^ffffff', '^ffcc00等级', '%d']
+   eng tail ['^c3dbffPacifying', '^ffffff', '^ffcc00Lv', '%d']
+PROBLEM 87 TOKENS
+   first diff at 0 '^c3dbff定若磐石' '^c3dbffAs'
+   src tail ['^c3dbff定若磐石', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffAs', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 88 TOKENS
+   first diff at 0 '^c3dbff宣穆轻舞' '^c3dbffXuanmu'
+   src tail ['^c3dbff宣穆轻舞', '<CRLF>', '<CRLF>', '^ffffff挥舞此剑']
+   eng tail ['^c3dbffXuanmu', '<CRLF>', '<CRLF>', '^ffffffSwing']
+PROBLEM 89 TOKENS
+   first diff at 0 '^c3dbff寂灭' '^c3dbffAnnihilation'
+   src tail ['^c3dbff寂灭', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffAnnihilation', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 90 TOKENS
+   first diff at 0 '^c3dbff寂灭' '^c3dbffAnnihilation'
+   src tail ['^c3dbff寂灭', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffAnnihilation', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 91 TOKENS
+   first diff at 0 '^c3dbff寂灭' '^c3dbffAnnihilation'
+   src tail ['^c3dbff寂灭', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffAnnihilation', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 92 TOKENS
+   first diff at 0 '^c3dbff寒冰封喉' '^c3dbffFrozen'
+   src tail ['^c3dbff寒冰封喉', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffFrozen', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 93 TOKENS
+   first diff at 0 '^c3dbff寒冰诀' '^c3dbffFrost'
+   src tail ['^c3dbff寒冰诀', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffFrost', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 94 TOKENS
+   first diff at 0 '^c3dbff寒冰诀' '^c3dbffFrost'
+   src tail ['^c3dbff寒冰诀', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffFrost', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 95 TOKENS
+   first diff at 0 '^c3dbff寒冰诀' '^c3dbffFrost'
+   src tail ['^c3dbff寒冰诀', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffFrost', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 96 TOKENS
+   first diff at 0 '^c3dbff寸绝' '^c3dbffInch'
+   src tail ['^c3dbff寸绝', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffInch', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 97 TOKENS
+   first diff at 0 '^c3dbff寸绝' '^c3dbffInch'
+   src tail ['^c3dbff寸绝', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffInch', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 98 TOKENS
+   first diff at 0 '^c3dbff寸绝' '^c3dbffInch'
+   src tail ['^c3dbff寸绝', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffInch', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 99 TOKENS
+   first diff at 0 '^c3dbff寸草不生' '^c3dbffNo'
+   src tail ['^c3dbff寸草不生', '<CRLF>', '^ffffff需要至少在技类专精上投入25点', '<CRLF>']
+   eng tail ['^c3dbffNo', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 100 TOKENS
+   first diff at 0 '^c3dbff导引箭' '^c3dbffGuided'
+   src tail ['^c3dbff导引箭', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffGuided', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 101 TOKENS
+   first diff at 0 '^c3dbff封云袭' '^c3dbffCloud'
+   src tail ['^c3dbff封云袭', '<CRLF>', '^ffffff需要至少在烈类专精上投入25点', '<CRLF>']
+   eng tail ['^c3dbffCloud', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 102 TOKENS
+   first diff at 0 '^c3dbff封云袭' '^c3dbffCloud'
+   src tail ['^c3dbff封云袭', '<CRLF>', '^ffffff需要至少在刚类专精上投入25点', '<CRLF>']
+   eng tail ['^c3dbffCloud', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 103 TOKENS
+   first diff at 0 '^c3dbff封云袭' '^c3dbffCloud'
+   src tail ['^c3dbff封云袭', '<CRLF>', '^ffffff需要至少在专精', '<CRLF>']
+   eng tail ['^c3dbffCloud', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 104 TOKENS
+   first diff at 0 '^c3dbff封咽' '^c3dbffThroat'
+   src tail ['^c3dbff封咽', '<CRLF>', '<CRLF>', '^ffffff乱影击有一定概率对敌人锁喉']
+   eng tail ['^c3dbffThroat', '<CRLF>', '<CRLF>', '^ffffffWild']
+PROBLEM 105 TOKENS
+   first diff at 0 '^c3dbff封喉刺' '^c3dbffThroat'
+   src tail ['^c3dbff封喉刺', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffThroat', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 106 TOKENS
+   first diff at 0 '^c3dbff封喉刺' '^c3dbffThroat'
+   src tail ['^c3dbff封喉刺', '<CRLF>', '^ffffff需要至少在力类专精上投入6点', '<CRLF>']
+   eng tail ['^c3dbffThroat', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 107 TOKENS
+   first diff at 0 '^c3dbff封喉刺' '^c3dbffThroat'
+   src tail ['^c3dbff封喉刺', '<CRLF>', '^ffffff需要至少在技类专精上投入8点', '<CRLF>']
+   eng tail ['^c3dbffThroat', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 108 TOKENS
+   first diff at 0 '^c3dbff封喉刺' '^c3dbffThroat'
+   src tail ['^c3dbff封喉刺', '<CRLF>', '^ffffff需要至少在', '<CRLF>']
+   eng tail ['^c3dbffThroat', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 109 TOKENS
+   first diff at 0 '^c3dbff封寒诀' '^c3dbffFrost'
+   src tail ['^c3dbff封寒诀', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffFrost', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 110 TOKENS
+   first diff at 0 '^c3dbff封寒诀' '^c3dbffFrost'
+   src tail ['^c3dbff封寒诀', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffFrost', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 111 TOKENS
+   first diff at 0 '^c3dbff封寒诀' '^c3dbffFrost'
+   src tail ['^c3dbff封寒诀', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffFrost', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 112 TOKENS
+   first diff at 0 '^c3dbff封影斩' '^c3dbffShadow'
+   src tail ['^c3dbff封影斩', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffShadow', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 113 TOKENS
+   first diff at 0 '^c3dbff封影斩' '^c3dbffShadow'
+   src tail ['^c3dbff封影斩', '<CRLF>', '^ffffff需要至少在刚类专精上投入20点', '<CRLF>']
+   eng tail ['^c3dbffShadow', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 114 TOKENS
+   first diff at 0 '^c3dbff封影斩' '^c3dbffShadow'
+   src tail ['^c3dbff封影斩', '<CRLF>', '^ffffff需要至少在烈类专精上投入20点', '<CRLF>']
+   eng tail ['^c3dbffShadow', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 115 TOKENS
+   first diff at 0 '^c3dbff封月击' '^c3dbffMoon'
+   src tail ['^c3dbff封月击', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffMoon', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 116 TOKENS
+   first diff at 0 '^c3dbff封月击' '^c3dbffMoon'
+   src tail ['^c3dbff封月击', '<CRLF>', '^ffffff需要至少在刚类专精上投入20点', '<CRLF>']
+   eng tail ['^c3dbffMoon', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 117 TOKENS
+   first diff at 0 '^c3dbff封月击' '^c3dbffMoon'
+   src tail ['^c3dbff封月击', '<CRLF>', '^ffffff需要至少在烈类专精上投入20点', '<CRLF>']
+   eng tail ['^c3dbffMoon', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 118 TOKENS
+   first diff at 0 '^c3dbff封诀' '^c3dbffSeal'
+   src tail ['^c3dbff封诀', '<CRLF>', '<CRLF>', '^ffffff使用直攻时']
+   eng tail ['^c3dbffSeal', '<CRLF>', '<CRLF>', '^ffffffDirect']
+PROBLEM 119 TOKENS
+   first diff at 0 '^c3dbff射击' '^c3dbffShoot'
+   src tail ['^c3dbff射击', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffShoot', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 120 TOKENS
+   first diff at 0 '^c3dbff射击' '^c3dbffShoot'
+   src tail ['^c3dbff射击', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffShoot', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 121 TOKENS
+   first diff at 0 '^c3dbff射破' '^c3dbffPiercing'
+   src tail ['^c3dbff射破', '<CRLF>', '^ffffff需要至少在', '<CRLF>']
+   eng tail ['^c3dbffPiercing', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 122 TOKENS
+   first diff at 0 '^c3dbff尊义降' '^c3dbffHonored'
+   src tail ['^c3dbff尊义降', '<CRLF>', '<CRLF>', '^ffffff强袭打']
+   eng tail ['^c3dbffHonored', '<CRLF>', '<CRLF>', '^ffffffIncreases']
+PROBLEM 123 TOKENS
+   first diff at 0 '^c3dbff尚武' '^c3dbffMartial'
+   src tail ['^c3dbff尚武', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffMartial', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 124 TOKENS
+   first diff at 0 '^c3dbff履仁蹈义' '^c3dbffPractice'
+   src tail ['^c3dbff履仁蹈义', '<CRLF>', '<CRLF>', '^ffffff结义兵法']
+   eng tail ['^c3dbffPractice', '<CRLF>', '<CRLF>', '^ffffffSworn']
+PROBLEM 125 TOKENS
+   first diff at 0 '^c3dbff屯云' '^c3dbffGathering'
+   src tail ['^c3dbff屯云', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffGathering', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 126 TOKENS
+   first diff at 0 '^c3dbff山崩地裂' '^c3dbffMountain'
+   src tail ['^c3dbff山崩地裂', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffMountain', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 127 TOKENS
+   first diff at 0 '^c3dbff崩山锤' '^c3dbffMountain'
+   src tail ['^c3dbff崩山锤', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffMountain', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 128 TOKENS
+   first diff at 0 '^c3dbff崩山锤' '^c3dbffMountain'
+   src tail ['^c3dbff崩山锤', '<CRLF>', '^ffffff需要至少在破类专精上投入5点', '<CRLF>']
+   eng tail ['^c3dbffMountain', '<CRLF>', '^ffffffRequires', '<CRLF>']
+PROBLEM 129 TOKENS
+   first diff at 0 '^c3dbff崩龙浩气' '^c3dbffCrashing'
+   src tail ['^c3dbff崩龙浩气', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffCrashing', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 130 TOKENS
+   first diff at 0 '^c3dbff崩龙浩气' '^c3dbffCrashing'
+   src tail ['^c3dbff崩龙浩气', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffCrashing', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 131 TOKENS
+   first diff at 0 '^c3dbff崩龙浩气' '^c3dbffCrashing'
+   src tail ['^c3dbff崩龙浩气', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffCrashing', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 132 TOKENS
+   first diff at 0 '^c3dbff川未夺' '^c3dbffUnconquered'
+   src tail ['^c3dbff川未夺', '<CRLF>', '<CRLF>', '^ffffff战法附带的效果提升']
+   eng tail ['^c3dbffUnconquered', '<CRLF>', '<CRLF>', '^ffffffIncreases']
+PROBLEM 133 TOKENS
+   first diff at 0 '^c3dbff左旋击' '^c3dbffLeft'
+   src tail ['^c3dbff左旋击', '<CRLF>', '<CRLF>', '^ffffff兵器']
+   eng tail ['^c3dbffLeft', '<CRLF>', '<CRLF>', '^ffffffWeapon']
+PROBLEM 134 TOKENS
+   first diff at 0 '^c3dbff巧言' '^c3dbffSmooth'
+   src tail ['^c3dbff巧言', '<CRLF>', '<CRLF>', '^ffffff属性']
+   eng tail ['^c3dbffSmooth', '<CRLF>', '<CRLF>', '^ffffffType']
+PROBLEM 135 TOKENS
+   first diff at 0 '^c3dbff巨力冲击' '^c3dbffTremendous'
+   src tail ['^c3dbff巨力冲击', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffTremendous', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 136 TOKENS
+   first diff at 0 '^c3dbff巨岩破' '^c3dbffBoulder'
+   src tail ['^c3dbff巨岩破', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffBoulder', '^ffffff', '<CRLF>', '<CRLF>']
+PROBLEM 137 TOKENS
+   first diff at 0 '^c3dbff巨岩破' '^c3dbffBoulder'
+   src tail ['^c3dbff巨岩破', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffBoulder', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 138 TOKENS
+   first diff at 0 '^c3dbff巨岩破' '^c3dbffBoulder'
+   src tail ['^c3dbff巨岩破', '<CRLF>', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffBoulder', '<CRLF>', '<CRLF>', '<CRLF>']
+PROBLEM 139 TOKENS
+   first diff at 0 '^c3dbff巨岩碎地' '^c3dbffBoulder'
+   src tail ['^c3dbff巨岩碎地', '^ffffff', '<CRLF>', '<CRLF>']
+   eng tail ['^c3dbffBoulder', '^ffffff', '<CRLF>', '<CRLF>']

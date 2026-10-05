@@ -1,0 +1,6 @@
+mode: APPLY
+records repaired: 2 / 2
+unfixable: 0
+violations: 0
+written: 2 files, 2 records
+exit=0

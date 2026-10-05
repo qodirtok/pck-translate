@@ -1,0 +1,7 @@
+file=skillstr.txt  target rebuilt line=646
+
+SRC line 646 repr: '282  "^ffcc00等级 %d^ffffff - 每次对目标造成%d%%、%d%%、%d%%、%d%%基础伤害，'
+DST line 646 repr: '282  "^ffcc00Level %d^ffffff - Each hit deals %d%%, %d%%, %d%%, %d%% base Damage to the target, '
+
+payload spans covering source line 646:
+exit=0

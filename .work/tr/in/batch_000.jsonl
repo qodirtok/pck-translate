@@ -1,0 +1,433 @@
+{"id": 1, "source": " 0: 物理攻击"}
+{"id": 2, "source": " 1: 物理攻击上限"}
+{"id": 3, "source": " 2: 物理攻击(%)"}
+{"id": 4, "source": " 3: 魔法攻击"}
+{"id": 5, "source": " 4: 魔法攻击上限"}
+{"id": 6, "source": " 5: 魔法攻击(%)"}
+{"id": 7, "source": " 6: +物防-物攻"}
+{"id": 8, "source": " 7: +物攻-物防"}
+{"id": 9, "source": " 8: +魔攻-魔防"}
+{"id": 10, "source": " 9: 攻击速度"}
+{"id": 11, "source": "/*  Element 附加属性表"}
+{"id": 12, "source": "//  0: 物理攻击"}
+{"id": 13, "source": "//  1: 物理攻击上限"}
+{"id": 14, "source": "//  2: 物理攻击(%)"}
+{"id": 15, "source": "//  3: 魔法攻击"}
+{"id": 16, "source": "//  4: 魔法攻击上限"}
+{"id": 17, "source": "//  5: 魔法攻击(%)"}
+{"id": 18, "source": "//  6: +物防-物功"}
+{"id": 19, "source": "//  7: +物功-物防"}
+{"id": 20, "source": "//  8: +魔功-魔防"}
+{"id": 21, "source": "//  9: 攻击速度"}
+{"id": 22, "source": "//  Zone ID 4D剧本01"}
+{"id": 23, "source": "//  Zone ID 七夕"}
+{"id": 24, "source": "//  Zone ID 七星湖"}
+{"id": 25, "source": "//  Zone ID 中军大营"}
+{"id": 26, "source": "//  Zone ID 仙人传"}
+{"id": 27, "source": "//  Zone ID 关中"}
+{"id": 28, "source": "//  Zone ID 典韦传"}
+{"id": 29, "source": "//  Zone ID 军团基地1"}
+{"id": 30, "source": "//  Zone ID 军团基地2"}
+{"id": 31, "source": "//  Zone ID 军团基地3"}
+{"id": 32, "source": "//  Zone ID 军团基地4"}
+{"id": 33, "source": "//  Zone ID 凤鸣山"}
+{"id": 34, "source": "//  Zone ID 华容道"}
+{"id": 35, "source": "//  Zone ID 单骑救主"}
+{"id": 36, "source": "//  Zone ID 南蛮"}
+{"id": 37, "source": "//  Zone ID 卧龙九天"}
+{"id": 38, "source": "//  Zone ID 卧龙九天-首领"}
+{"id": 39, "source": "//  Zone ID 合肥之战"}
+{"id": 40, "source": "//  Zone ID 吴都建业"}
+{"id": 41, "source": "//  Zone ID 国家任务"}
+{"id": 42, "source": "//  Zone ID 国战测试战场"}
+{"id": 43, "source": "//  Zone ID 外传03刘备传"}
+{"id": 44, "source": "//  Zone ID 外传04曹操传"}
+{"id": 45, "source": "//  Zone ID 外传PVE30"}
+{"id": 46, "source": "//  Zone ID 外传PVE55"}
+{"id": 47, "source": "//  Zone ID 夷陵之战"}
+{"id": 48, "source": "//  Zone ID 奇袭战奇袭战战场"}
+{"id": 49, "source": "//  Zone ID 子午谷"}
+{"id": 50, "source": "//  Zone ID 孙权传"}
+{"id": 51, "source": "//  Zone ID 官渡之战"}
+{"id": 52, "source": "//  Zone ID 定军山"}
+{"id": 53, "source": "//  Zone ID 巴蜀"}
+{"id": 54, "source": "//  Zone ID 幻想八阵1"}
+{"id": 55, "source": "//  Zone ID 幻想八阵2"}
+{"id": 56, "source": "//  Zone ID 幻想八阵3"}
+{"id": 57, "source": "//  Zone ID 幻想八阵4"}
+{"id": 58, "source": "//  Zone ID 幻想八阵5"}
+{"id": 59, "source": "//  Zone ID 携民渡江"}
+{"id": 60, "source": "//  Zone ID 擂台大会第一季1"}
+{"id": 61, "source": "//  Zone ID 擂台大会第一季2"}
+{"id": 62, "source": "//  Zone ID 擂台大会第一季3"}
+{"id": 63, "source": "//  Zone ID 擂台大会第一季4"}
+{"id": 64, "source": "//  Zone ID 擂台大会第一季5"}
+{"id": 65, "source": "//  Zone ID 擂台大会第一季6"}
+{"id": 66, "source": "//  Zone ID 擂台大会第一季7"}
+{"id": 67, "source": "//  Zone ID 擂台大会轻量级1"}
+{"id": 68, "source": "//  Zone ID 擂台大会轻量级2"}
+{"id": 69, "source": "//  Zone ID 擂台大会轻量级3"}
+{"id": 70, "source": "//  Zone ID 擂台大会轻量级4"}
+{"id": 71, "source": "//  Zone ID 擂台大会轻量级5"}
+{"id": 72, "source": "//  Zone ID 擂台大会轻量级6"}
+{"id": 73, "source": "//  Zone ID 擂台大会轻量级7"}
+{"id": 74, "source": "//  Zone ID 擂台大会轻量级8"}
+{"id": 75, "source": "//  Zone ID 新手村"}
+{"id": 76, "source": "//  Zone ID 新无双07"}
+{"id": 77, "source": "//  Zone ID 无双2PVE25"}
+{"id": 78, "source": "//  Zone ID 无双2PVE25-首领1"}
+{"id": 79, "source": "//  Zone ID 无双2PVE25-首领2"}
+{"id": 80, "source": "//  Zone ID 无双2PVE25-首领3"}
+{"id": 81, "source": "//  Zone ID 无双3PVE60"}
+{"id": 82, "source": "//  Zone ID 无双3PVE60-首领1"}
+{"id": 83, "source": "//  Zone ID 无双3PVE60-首领2"}
+{"id": 84, "source": "//  Zone ID 无双3PVE60-首领3"}
+{"id": 85, "source": "//  Zone ID 无双3PVE60-首领4"}
+{"id": 86, "source": "//  Zone ID 无双3PVE60-首领5"}
+{"id": 87, "source": "//  Zone ID 无双PVE60"}
+{"id": 88, "source": "//  Zone ID 无双PVE60-首领1"}
+{"id": 89, "source": "//  Zone ID 无双PVE60-首领2"}
+{"id": 90, "source": "//  Zone ID 无双PVE60-首领3"}
+{"id": 91, "source": "//  Zone ID 无双PVE60-首领4"}
+{"id": 92, "source": "//  Zone ID 无双PVE60-首领5"}
+{"id": 93, "source": "//  Zone ID 无差别练习场"}
+{"id": 94, "source": "//  Zone ID 曹植传"}
+{"id": 95, "source": "//  Zone ID 楼兰古殿"}
+{"id": 96, "source": "//  Zone ID 楼兰古殿-首领1"}
+{"id": 97, "source": "//  Zone ID 楼兰古殿-首领2"}
+{"id": 98, "source": "//  Zone ID 楼兰古殿-首领3"}
+{"id": 99, "source": "//  Zone ID 楼兰古殿-首领4"}
+{"id": 100, "source": "//  Zone ID 楼兰古殿-首领5"}
+{"id": 101, "source": "//  Zone ID 楼兰沙海"}
+{"id": 102, "source": "//  Zone ID 殇之雪域"}
+{"id": 103, "source": "//  Zone ID 江南"}
+{"id": 104, "source": "//  Zone ID 河北"}
+{"id": 105, "source": "//  Zone ID 测试b9"}
+{"id": 106, "source": "//  Zone ID 测试z13"}
+{"id": 107, "source": "//  Zone ID 测试场景1"}
+{"id": 108, "source": "//  Zone ID 测试场景2"}
+{"id": 109, "source": "//  Zone ID 测试场景3"}
+{"id": 110, "source": "//  Zone ID 演义15PVE-首领3"}
+{"id": 111, "source": "//  Zone ID 演义15PVE-首领4"}
+{"id": 112, "source": "//  Zone ID 演义15PVE-首领5"}
+{"id": 113, "source": "//  Zone ID 濮阳之战PVP"}
+{"id": 114, "source": "//  Zone ID 濮阳之战PVP-2-1"}
+{"id": 115, "source": "//  Zone ID 濮阳之战PVP-2-1b(备战专用)"}
+{"id": 116, "source": "//  Zone ID 濮阳之战PVP-2-2"}
+{"id": 117, "source": "//  Zone ID 濮阳之战PVP-2-2b(备战专用)"}
+{"id": 118, "source": "//  Zone ID 濮阳之战PVP-2-3"}
+{"id": 119, "source": "//  Zone ID 濮阳之战PVP-2-3b(备战专用)"}
+{"id": 120, "source": "//  Zone ID 濮阳之战PVP-2-4"}
+{"id": 121, "source": "//  Zone ID 濮阳之战PVP-2-4b(备战专用)"}
+{"id": 122, "source": "//  Zone ID 濮阳之战PVP-2-5"}
+{"id": 123, "source": "//  Zone ID 濮阳之战PVP-2-5b(备战专用)"}
+{"id": 124, "source": "//  Zone ID 濮阳之战（英雄级）"}
+{"id": 125, "source": "//  Zone ID 灵山秘道"}
+{"id": 126, "source": "//  Zone ID 留芳幽谷"}
+{"id": 127, "source": "//  Zone ID 白帝城"}
+{"id": 128, "source": "//  Zone ID 益州之战"}
+{"id": 129, "source": "//  Zone ID 竞技场12人"}
+{"id": 130, "source": "//  Zone ID 竞技场1人"}
+{"id": 131, "source": "//  Zone ID 竞技英雄战1"}
+{"id": 132, "source": "//  Zone ID 竞技英雄战2"}
+{"id": 133, "source": "//  Zone ID 竞技英雄战3"}
+{"id": 134, "source": "//  Zone ID 竞技英雄战4"}
+{"id": 135, "source": "//  Zone ID 竞技英雄战5"}
+{"id": 136, "source": "//  Zone ID 练武场"}
+{"id": 137, "source": "//  Zone ID 自由练习场"}
+{"id": 138, "source": "//  Zone ID 荆襄"}
+{"id": 139, "source": "//  Zone ID 落凤坡之战PVE50"}
+{"id": 140, "source": "//  Zone ID 蒋干盗书"}
+{"id": 141, "source": "//  Zone ID 蜀都汉中"}
+{"id": 142, "source": "//  Zone ID 西凉"}
+{"id": 143, "source": "//  Zone ID 西域蜃楼城"}
+{"id": 144, "source": "//  Zone ID 貂禅外传"}
+{"id": 145, "source": "//  Zone ID 赛马场"}
+{"id": 146, "source": "//  Zone ID 赵云传"}
+{"id": 147, "source": "//  Zone ID 跑商"}
+{"id": 148, "source": "//  Zone ID 跨服竞技•跨服赛10线"}
+{"id": 149, "source": "//  Zone ID 跨服竞技•跨服赛11线"}
+{"id": 150, "source": "//  Zone ID 跨服竞技•跨服赛3线"}
+{"id": 151, "source": "//  Zone ID 跨服竞技•跨服赛4线"}
+{"id": 152, "source": "//  Zone ID 跨服竞技•跨服赛5线"}
+{"id": 153, "source": "//  Zone ID 跨服竞技•跨服赛6线"}
+{"id": 154, "source": "//  Zone ID 跨服竞技•跨服赛7线"}
+{"id": 155, "source": "//  Zone ID 跨服竞技•跨服赛8线"}
+{"id": 156, "source": "//  Zone ID 跨服竞技•跨服赛9线"}
+{"id": 157, "source": "//  Zone ID 跨服竞技•选拔赛3线"}
+{"id": 158, "source": "//  Zone ID 跨服竞技•选拔赛4线"}
+{"id": 159, "source": "//  Zone ID 跨服竞技•选拔赛5线"}
+{"id": 160, "source": "//  Zone ID 跨服竞技•选拔赛6线"}
+{"id": 161, "source": "//  Zone ID 跨服竞技•选拔赛7线"}
+{"id": 162, "source": "//  Zone ID 跨服竞技•选拔赛8线"}
+{"id": 163, "source": "//  Zone ID 跨服竞技练习场"}
+{"id": 164, "source": "//  Zone ID 轩辕遗迹"}
+{"id": 165, "source": "//  Zone ID 轩辕遗迹-首领1"}
+{"id": 166, "source": "//  Zone ID 轩辕遗迹-首领2"}
+{"id": 167, "source": "//  Zone ID 轩辕遗迹-首领3"}
+{"id": 168, "source": "//  Zone ID 轩辕遗迹-首领4"}
+{"id": 169, "source": "//  Zone ID 轩辕遗迹-首领5"}
+{"id": 170, "source": "//  Zone ID 过关斩将1"}
+{"id": 171, "source": "//  Zone ID 过关斩将10"}
+{"id": 172, "source": "//  Zone ID 过关斩将2"}
+{"id": 173, "source": "//  Zone ID 过关斩将3"}
+{"id": 174, "source": "//  Zone ID 过关斩将4"}
+{"id": 175, "source": "//  Zone ID 过关斩将5"}
+{"id": 176, "source": "//  Zone ID 过关斩将6"}
+{"id": 177, "source": "//  Zone ID 过关斩将7"}
+{"id": 178, "source": "//  Zone ID 过关斩将8"}
+{"id": 179, "source": "//  Zone ID 过关斩将9"}
+{"id": 180, "source": "//  Zone ID 迷花雨林"}
+{"id": 181, "source": "//  Zone ID 逍遥津"}
+{"id": 182, "source": "//  Zone ID 通用寻宝"}
+{"id": 183, "source": "//  Zone ID 项王魔域"}
+{"id": 184, "source": "//  Zone ID 项王魔域-首领1"}
+{"id": 185, "source": "//  Zone ID 项王魔域-首领2"}
+{"id": 186, "source": "//  Zone ID 项王魔域-首领3"}
+{"id": 187, "source": "//  Zone ID 项王魔域-首领4"}
+{"id": 188, "source": "//  Zone ID 项王魔域-首领5"}
+{"id": 189, "source": "//  Zone ID 颖川之战PVE20"}
+{"id": 190, "source": "//  Zone ID 颖川之战PVE40"}
+{"id": 191, "source": "//  Zone ID 颖川之战PVE60"}
+{"id": 192, "source": "//  Zone ID 颖川之战PVP"}
+{"id": 193, "source": "//  Zone ID 马战教学1"}
+{"id": 194, "source": "//  Zone ID 马战教学2"}
+{"id": 195, "source": "//  Zone ID 马战教学3"}
+{"id": 196, "source": "//  Zone ID 马战教学4"}
+{"id": 197, "source": "//  Zone ID 马战教学5"}
+{"id": 198, "source": "//  Zone ID 马超传·潼关雪恨"}
+{"id": 199, "source": "//  Zone ID 马超传Ɲܥų擒曹"}
+{"id": 200, "source": "//  Zone ID 魇魂洞"}
+{"id": 201, "source": "//  Zone ID 魏都许昌"}
+{"id": 202, "source": "//  Zone ID 麦城之战"}
+{"id": 203, "source": "//  Zone ID演义15PVE-首领1"}
+{"id": 204, "source": "//  Zone ID演义15PVE-首领2"}
+{"id": 205, "source": "// 10: 攻击距离"}
+{"id": 206, "source": "// 11: 吟唱时间"}
+{"id": 207, "source": "// 12: 物理防御"}
+{"id": 208, "source": "// 13: 物理防御(%)"}
+{"id": 209, "source": "// 14: 五行防御"}
+{"id": 210, "source": "// 15: 金防"}
+{"id": 211, "source": "// 16: 金防(%)"}
+{"id": 212, "source": "// 17: 木防"}
+{"id": 213, "source": "// 18: 木防(%)"}
+{"id": 214, "source": "// 19: 水防"}
+{"id": 215, "source": "// 20: 水防(%)"}
+{"id": 216, "source": "// 21: 火防"}
+{"id": 217, "source": "// 22: 火防(%)"}
+{"id": 218, "source": "// 23: 土防"}
+{"id": 219, "source": "// 24: 土防(%)"}
+{"id": 220, "source": "// 25: +金防(%)-火防(%)"}
+{"id": 221, "source": "// 26: +木防(%)-金防(%)"}
+{"id": 222, "source": "// 27: +水防(%)-土防(%)"}
+{"id": 223, "source": "// 28: +火防(%)-水防(%)"}
+{"id": 224, "source": "// 29: +土防(%)-木防(%)"}
+{"id": 225, "source": "// 30: +金防-火防"}
+{"id": 226, "source": "// 31: +木防-金防"}
+{"id": 227, "source": "// 32: +水防-土防"}
+{"id": 228, "source": "// 33: +火防-水防"}
+{"id": 229, "source": "// 34: +土防-木防"}
+{"id": 230, "source": "// 39: HP恢复速度"}
+{"id": 231, "source": "// 40: MP恢复速度"}
+{"id": 232, "source": "// 41: 力量"}
+{"id": 233, "source": "// 42: 敏捷"}
+{"id": 234, "source": "// 43: 灵力"}
+{"id": 235, "source": "// 44: 体力"}
+{"id": 236, "source": "// 45: 致命一击率"}
+{"id": 237, "source": "// 46: 命中"}
+{"id": 238, "source": "// 47: 命中(%)"}
+{"id": 239, "source": "// 48: 移动速度"}
+{"id": 240, "source": "// 49: 移动速度(%)"}
+{"id": 241, "source": "// 50: 躲闪"}
+{"id": 242, "source": "// 51: 躲闪(%)"}
+{"id": 243, "source": "// 52: 耐久度"}
+{"id": 244, "source": "// 53: 耐久度(%)"}
+{"id": 245, "source": "// 54: 物理免疫"}
+{"id": 246, "source": "// 55: 附加技能"}
+{"id": 247, "source": "// 56: 装备需求"}
+{"id": 248, "source": "// 57: 未知属性"}
+{"id": 249, "source": "// 58: 经验值加成"}
+{"id": 250, "source": "// 状态包资源"}
+{"id": 251, "source": "10: 攻击距离"}
+{"id": 252, "source": "11: 吟唱时间"}
+{"id": 253, "source": "12: 物理防御"}
+{"id": 254, "source": "13: 物理防御(%)"}
+{"id": 255, "source": "14: 五行防御"}
+{"id": 256, "source": "15: 金防"}
+{"id": 257, "source": "16: 金防(%)"}
+{"id": 258, "source": "17: 木防"}
+{"id": 259, "source": "18: 木防(%)"}
+{"id": 260, "source": "19: 水防"}
+{"id": 261, "source": "20: 水防(%)"}
+{"id": 262, "source": "21: 火防"}
+{"id": 263, "source": "22: 火防(%)"}
+{"id": 264, "source": "23: 土防"}
+{"id": 265, "source": "24: 土防(%)"}
+{"id": 266, "source": "2553为普通破坏<CRLF>2554为加强破坏（防御破坏效果+50%）"}
+{"id": 267, "source": "25: +金防(%)-火防(%)"}
+{"id": 268, "source": "26: +木防(%)-金防(%)"}
+{"id": 269, "source": "27: +水防(%)-土防(%)"}
+{"id": 270, "source": "28: +火防(%)-水防(%)"}
+{"id": 271, "source": "29: +土防(%)-木防(%)"}
+{"id": 272, "source": "30: +金防-火防"}
+{"id": 273, "source": "31: +木防-金防"}
+{"id": 274, "source": "32: +水防-土防"}
+{"id": 275, "source": "33: +火防-水防"}
+{"id": 276, "source": "34: +土防-木防"}
+{"id": 277, "source": "39: HP恢复速度"}
+{"id": 278, "source": "40: MP恢复速度"}
+{"id": 279, "source": "41: 力量"}
+{"id": 280, "source": "42: 敏捷"}
+{"id": 281, "source": "43: 灵力"}
+{"id": 282, "source": "44: 体力"}
+{"id": 283, "source": "45: 致命一击率"}
+{"id": 284, "source": "46: 命中"}
+{"id": 285, "source": "47: 命中(%)"}
+{"id": 286, "source": "48: 移动速度"}
+{"id": 287, "source": "49: 移动速度(%)"}
+{"id": 288, "source": "4D剧本01"}
+{"id": 289, "source": "50: 躲闪"}
+{"id": 290, "source": "51: 躲闪(%)"}
+{"id": 291, "source": "52: 耐久度"}
+{"id": 292, "source": "53: 耐久度(%)"}
+{"id": 293, "source": "54: 物理免疫"}
+{"id": 294, "source": "55: 附加技能"}
+{"id": 295, "source": "56: 装备需求"}
+{"id": 296, "source": "57: 未知属性"}
+{"id": 297, "source": "58: 经验值加成"}
+{"id": 298, "source": "5分钟过去了，公獐子安息了。<CRLF>此时此刻，<CRLF>若母獐子没有死，可以获得“围猎放生”的奖励。<CRLF>若母獐子也死了，只能获得二块獐子肉。"}
+{"id": 299, "source": "GM重置冷却1"}
+{"id": 300, "source": "GM重置冷却3"}
+{"id": 301, "source": "PVE剧本活动04战车试驾"}
+{"id": 302, "source": "PVP战场2-1"}
+{"id": 303, "source": "PVP战场2-2"}
+{"id": 304, "source": "PVP战场2-3"}
+{"id": 305, "source": "PVP战场2-4"}
+{"id": 306, "source": "PVP战场2-5"}
+{"id": 307, "source": "PVP战车战场1"}
+{"id": 308, "source": "PVP战车战场10"}
+{"id": 309, "source": "PVP战车战场2"}
+{"id": 310, "source": "PVP战车战场3"}
+{"id": 311, "source": "PVP战车战场4"}
+{"id": 312, "source": "PVP战车战场5"}
+{"id": 313, "source": "PVP战车战场6"}
+{"id": 314, "source": "PVP战车战场7"}
+{"id": 315, "source": "PVP战车战场8"}
+{"id": 316, "source": "PVP战车战场9"}
+{"id": 317, "source": "^c3dbffGM加速剂<CRLF><CRLF>^ffffff传说中只有世界和平维护者专用。"}
+{"id": 318, "source": "^c3dbffVIP<CRLF>今天我生日！"}
+{"id": 319, "source": "^c3dbff【老玩家勋章】<CRLF><CRLF>^ffffff荣归赤壁，为民除害！<CRLF>攻击力+30<CRLF>防御力+30<CRLF>体质+1000<CRLF>获得历练与阅历增加。"}
+{"id": 320, "source": "^c3dbff一人之下<CRLF><CRLF>^ffffff将获得高额奖励！"}
+{"id": 321, "source": "^c3dbff一剑凌风<CRLF><CRLF>^ffffff伤害抗性大幅提升"}
+{"id": 322, "source": "^c3dbff一气呵成<CRLF><CRLF>^ffffff在战场上行云流水般的战斗，<CRLF>切换骑战和步战时可获短时增强状态。"}
+{"id": 323, "source": "^c3dbff一气呵成<CRLF><CRLF>^ffffff在战场上行云流水般的战斗，<CRLF>切换骑战和步战时可获短时增强状态。<CRLF>8秒内直抗、限制抗提升，并按斗气增加攻击力。"}
+{"id": 324, "source": "^c3dbff一醉方休<CRLF><CRLF>^ffffff有人在你的空酒碗中斟满了美酒！<CRLF>单身万岁！为了自由，干杯！"}
+{"id": 325, "source": "^c3dbff一龙<CRLF><CRLF>^ffffff间接抗性提升"}
+{"id": 326, "source": "^c3dbff丁<CRLF>^ffffff去攻击木人-猜。"}
+{"id": 327, "source": "^c3dbff丁<CRLF>^ffffff害怕有壳状态的玩家。"}
+{"id": 328, "source": "^c3dbff七星<CRLF><CRLF>^ffffff七星法阵开启，生命上限提升"}
+{"id": 329, "source": "^c3dbff七步诗<CRLF><CRLF>^ffffff5秒内将包裹里的七步诗对曹丕使用，<CRLF>否则会死亡"}
+{"id": 330, "source": "^c3dbff七步诗<CRLF><CRLF>^ffffff5秒内将包裹里的七步诗对玩家使用，<CRLF>否则会死亡"}
+{"id": 331, "source": "^c3dbff七步诗<CRLF><CRLF>^ffffff曹丕对曹植造成了打击"}
+{"id": 332, "source": "^c3dbff万壑松风<CRLF><CRLF>暴击提升"}
+{"id": 333, "source": "^c3dbff万蛊攻心<CRLF>^ffffff受木鹿蛊毒的侵蚀，行路方向完全相反，可进入解蛊区域解除剧毒。"}
+{"id": 334, "source": "^c3dbff三叹<CRLF><CRLF>^ffffff治疗效果提升"}
+{"id": 335, "source": "^c3dbff三思<CRLF><CRLF>^ffffff被击中时概率获得制衡、<CRLF>连闪、坚盾状态中的一种。"}
+{"id": 336, "source": "^c3dbff三略<CRLF><CRLF>^ffffff在安全区可以阅读此书，每5分钟获得一定的武勋。"}
+{"id": 337, "source": "^c3dbff下雪了<CRLF><CRLF>^ffffff圣诞快乐！"}
+{"id": 338, "source": "^c3dbff不倒<CRLF><CRLF>^ffffff免受绝大多数伤害"}
+{"id": 339, "source": "^c3dbff不动<CRLF><CRLF>^ffffff减轻地动天气影响的效果。"}
+{"id": 340, "source": "^c3dbff不动<CRLF><CRLF>^ffffff减轻地动天气的影响"}
+{"id": 341, "source": "^c3dbff不动尊<CRLF><CRLF>^ffffff将部分攻击力转化为自身的防御力和暴抗。"}
+{"id": 342, "source": "^c3dbff不可侵犯<CRLF><CRLF>^ffffff攻击者的每次攻击都会遭受减速影响"}
+{"id": 343, "source": "^c3dbff不可侵犯<CRLF><CRLF>^ffffff每受到一次攻击，即可获得一点怒气积攒"}
+{"id": 344, "source": "^c3dbff不妙<CRLF><CRLF>^ffffff足轻死亡"}
+{"id": 345, "source": "^c3dbff不屈<CRLF><CRLF>^ffffff所受间接伤害最终值降低"}
+{"id": 346, "source": "^c3dbff不屈！<CRLF><CRLF>^ffffff角色获得10点直抗和间抗加成，<CRLF>该效果在生命值高于50%时结束。"}
+{"id": 347, "source": "^c3dbff不洁狂热<CRLF><CRLF>^ffffff以不能被治疗为代价，换取攻击力的大幅提升"}
+{"id": 348, "source": "^c3dbff不瞬之目<CRLF><CRLF>^ffffff在长年累月的钓鱼训练中，<CRLF>以极大的集中力和忍耐力修炼出的特技，<CRLF>能够提高5%生命值上限和5命中。"}
+{"id": 349, "source": "^c3dbff业火天气<CRLF><CRLF>^ffffff持续损失生命值。"}
+{"id": 350, "source": "^c3dbff东据点奖励<CRLF><CRLF>^ffffff精骑令牌发放"}
+{"id": 351, "source": "^c3dbff丢失武器<CRLF><CRLF>^ffffff武器已丢失，无法攻击目标。"}
+{"id": 352, "source": "^c3dbff严重崩坏<CRLF><CRLF>^ffffff防御能力大幅降低。"}
+{"id": 353, "source": "^c3dbff中彩<CRLF><CRLF>^ffffff你刚刚被一个鸡蛋击中了！"}
+{"id": 354, "source": "^c3dbff中心据点奖励<CRLF><CRLF>^ffffff精骑令牌发放"}
+{"id": 355, "source": "^c3dbff中心箭塔击破<CRLF><CRLF>^ffffff奖励发放"}
+{"id": 356, "source": "^c3dbff中毒<CRLF><CRLF>^ffffff你中毒了，移动速度降低了。"}
+{"id": 357, "source": "^c3dbff中毒<CRLF><CRLF>^ffffff持续损失生命。"}
+{"id": 358, "source": "^c3dbff中毒<CRLF>^ffffff你中毒，张角吸掉你的毒血会怎么样。"}
+{"id": 359, "source": "^c3dbff中毒<CRLF>^ffffff毒气侵蚀。"}
+{"id": 360, "source": "^c3dbff中等难度<CRLF>^ffffff推荐英雄31-47挑战"}
+{"id": 361, "source": "^c3dbff中箭<CRLF><CRLF>^ffffff稻草人的膝盖中了一箭，注意及时收取。"}
+{"id": 362, "source": "^c3dbff临危受命<CRLF><CRLF>^ffffff真忠臣也！！！"}
+{"id": 363, "source": "^c3dbff临危授命<CRLF>^ffffff看来只有你才能及时消灭偷袭的山贼了！。"}
+{"id": 364, "source": "^c3dbff乏力<CRLF><CRLF>^ffffff双臂有些乏力，<CRLF>定身与免疫打断的概率降低30%。"}
+{"id": 365, "source": "^c3dbff乏力<CRLF><CRLF>^ffffff攻击力降低。"}
+{"id": 366, "source": "^c3dbff乏力于战<CRLF><CRLF>暴击附加伤害降低"}
+{"id": 367, "source": "^c3dbff乐于助人<CRLF>^ffffff在参与黄忠传时，队伍中<CRLF>英雄48级以下玩家人数<CRLF>大于2人时，将获得团结<CRLF>互助奖。"}
+{"id": 368, "source": "^c3dbff乐善<CRLF><CRLF>^ffffff持续回复生命"}
+{"id": 369, "source": "^c3dbff乘胜追击<CRLF>^ffffff军师肯定已经知道破坏了敌方的防御工事被破坏了，增援很快就到！"}
+{"id": 370, "source": "^c3dbff九剑<CRLF><CRLF>^ffffff此时你正激荡起无数剑气围绕在身边旋转攻击，无多余精力进行其他攻击"}
+{"id": 371, "source": "^c3dbff九天猪小宝的祝福<CRLF><CRLF>^ffffff攻击力、攻击强度、暴击、生命上限、治疗效果提升"}
+{"id": 372, "source": "^c3dbff九天神雷<CRLF><CRLF>^ffffff上古的奇术，中招之人无法移动且难以攻击。"}
+{"id": 373, "source": "^c3dbff九玄乱魂咒<CRLF><CRLF>^ffffff魂魄混乱，精力狂减，攻击提升。"}
+{"id": 374, "source": "^c3dbff乱刃<CRLF><CRLF>^ffffff群攻技能攻击人数上限增加2"}
+{"id": 375, "source": "^c3dbff乱心<CRLF><CRLF>^ffffff每次击中均降低自身攻击力。"}
+{"id": 376, "source": "^c3dbff乱心<CRLF>^ffffff被火焰侵扰心神"}
+{"id": 377, "source": "^c3dbff乱羽遮眼<CRLF><CRLF>^ffffff命中度下降。"}
+{"id": 378, "source": "^c3dbff乱舞<CRLF><CRLF>^ffffff攻击速度提升"}
+{"id": 379, "source": "^c3dbff乱舞战法<CRLF><CRLF>^ffffff使用锤的武将采用的一种战法<CRLF>激活后使用双锤攻击可以获得乱舞点数"}
+{"id": 380, "source": "^c3dbff乱舞点数<CRLF><CRLF>^ffffff移动速度和近战攻击速度提升<CRLF>部分锤招式效果提升<CRLF>最多累积10点"}
+{"id": 381, "source": "^c3dbff乾天罡气<CRLF><CRLF>附加伤害提升"}
+{"id": 382, "source": "^c3dbff云游之志<CRLF><CRLF>^ffffff左慈要去云游了。"}
+{"id": 383, "source": "^c3dbff五丈原参战士兵<CRLF><CRLF>"}
+{"id": 384, "source": "^c3dbff仁德<CRLF><CRLF>^ffffff以仁德得天下，每3秒回复2%的生命"}
+{"id": 385, "source": "^c3dbff仁德<CRLF><CRLF>^ffffff被击中有概率获得民心状态。"}
+{"id": 386, "source": "^c3dbff仁德<CRLF><CRLF>^ffffff被治疗效果提升"}
+{"id": 387, "source": "^c3dbff仇恨潜伏<CRLF><CRLF>^ffffff对敌人的仇恨深深潜伏在心里，在合适的时机将会爆发"}
+{"id": 388, "source": "^c3dbff仙才<CRLF><CRLF>^ffffff击中目标可触发急智状态。"}
+{"id": 389, "source": "^c3dbff仙果<CRLF><CRLF>^ffffff提升生命值和防御。"}
+{"id": 390, "source": "^c3dbff仙酒<CRLF><CRLF>^ffffff提升生命值和攻击。"}
+{"id": 391, "source": "^c3dbff以逸待劳<CRLF><CRLF>减少受到的伤害"}
+{"id": 392, "source": "^c3dbff休息<CRLF><CRLF>^ffffff一段时间没有战斗，体力回复速度提升。"}
+{"id": 393, "source": "^c3dbff休息<CRLF><CRLF>^ffffff该单位处于休息状态，体力回复速度和<CRLF>食物造成的回复效果均得到提升。<CRLF>休息状态会在受到攻击或伤害时取消。"}
+{"id": 394, "source": "^c3dbff会心<CRLF><CRLF>^ffffff暴击几率提升<CRLF>"}
+{"id": 395, "source": "^c3dbff会心<CRLF><CRLF>^ffffff致命一击机率提升。"}
+{"id": 396, "source": "^c3dbff传送保护<CRLF><CRLF>^ffffff攻击翻倍，防御提高一半，神挡杀神！<CRLF>"}
+{"id": 397, "source": "^c3dbff伤逝<CRLF><CRLF>^ffffff受到的伤害降低。"}
+{"id": 398, "source": "^c3dbff伪击转杀<CRLF><CRLF>^ffffff闪避和间接抗性提升。"}
+{"id": 399, "source": "^c3dbff伪报"}
+{"id": 400, "source": "^c3dbff伪装<CRLF><CRLF>^ffffff你变成了一个木头，<CRLF>无法自由移动。"}
+{"id": 401, "source": "^c3dbff伪装<CRLF><CRLF>^ffffff遮住脸后看起来与月荷一般无二，<CRLF>短时间内不可能被人发现破绽。"}
+{"id": 402, "source": "^c3dbff体力之盾<CRLF><CRLF>^ffffff每点体力可以抵御5点伤害"}
+{"id": 403, "source": "^c3dbff体力值上限提升"}
+{"id": 404, "source": "^c3dbff体力值上限降低"}
+{"id": 405, "source": "^c3dbff体力回复速度提升"}
+{"id": 406, "source": "^c3dbff体力回复速度降低"}
+{"id": 407, "source": "^c3dbff体力盾<CRLF><CRLF>^ffffff吸收伤害。"}
+{"id": 408, "source": "^c3dbff余波<CRLF><CRLF>^ffffff眩晕、减速并且直接伤害降低"}
+{"id": 409, "source": "^c3dbff余音绕梁<CRLF><CRLF>^ffffff圣诞之曲，余音绕梁<CRLF>听后精神振奋，体力上限增加<CRLF><CRLF>"}
+{"id": 410, "source": "^c3dbff你得到了洛阳守护的感谢！"}
+{"id": 411, "source": "^c3dbff你获得了藏在大信鸟羽翼下的鸡毛信！"}
+{"id": 412, "source": "^c3dbff佳酿<CRLF><CRLF>^ffffff每杀1只怪恢复斗气。<CRLF>饮品效果只能同时有一个。"}
+{"id": 413, "source": "^c3dbff依人之利<CRLF><CRLF>^ffffff天罗地网全部躲避者"}
+{"id": 414, "source": "^c3dbff侦察<CRLF><CRLF>^ffffff目标由于生命值低于20%而被侦察出，<CRLF>直接抗性、间接抗性下降。"}
+{"id": 415, "source": "^c3dbff侵袭<CRLF><CRLF>^ffffff身体略有异常。"}
+{"id": 416, "source": "^c3dbff保卫者！<CRLF><CRLF>^ffffff在徐庶妙计房间中成功阻止了一批曹仁军成员逃跑"}
+{"id": 417, "source": "^c3dbff修养<CRLF><CRLF>^ffffff缓慢回复马匹耐力。"}
+{"id": 418, "source": "^c3dbff倒地<CRLF><CRLF>^ffffff被重击倒地，无法移动和攻击，<CRLF>直接抗性降低。"}
+{"id": 419, "source": "^c3dbff倚天<CRLF><CRLF>^ffffff受到的治疗效果降低"}
+{"id": 420, "source": "^c3dbff倾国<CRLF><CRLF>^ffffff暴击伤害大幅提升。"}
+{"id": 421, "source": "^c3dbff倾国倾城<CRLF><CRLF>^ffffff每次击中敌人均可获得提升。"}
+{"id": 422, "source": "^c3dbff倾国衰竭<CRLF><CRLF>^ffffff花费了太多精力，需要休<CRLF>息，目前无法集中精力。"}
+{"id": 423, "source": "^c3dbff倾城<CRLF><CRLF>^ffffff暴击伤害提升。"}
+{"id": 424, "source": "^c3dbff偏将击破<CRLF><CRLF>^ffffff奖励发放"}
+{"id": 425, "source": "^c3dbff健体术<CRLF><CRLF>体质提升"}
+{"id": 426, "source": "^c3dbff先攻<CRLF><CRLF>^ffffff触发先攻状态，可于2秒内使用<CRLF>先攻疾连招。"}
+{"id": 427, "source": "^c3dbff光之照射<CRLF><CRLF>^ffffff自身被强光照射，下三次攻击会得到加强"}
+{"id": 428, "source": "^c3dbff克制<CRLF><CRLF>^ffffff叠加三层后将落马。"}
+{"id": 429, "source": "^c3dbff克敌<CRLF><CRLF>^ffffff增加破胆袭的击中人数。"}
+{"id": 430, "source": "^c3dbff免疫<CRLF><CRLF>^ffffff你免疫钉刺机关的伤害。<CRLF>"}
+{"id": 431, "source": "^c3dbff免疫状态<CRLF><CRLF>^ffffff免疫负面状态。"}
+{"id": 432, "source": "^c3dbff免疫限制<CRLF><CRLF>^ffffff免疫限制效果。"}
+{"id": 433, "source": "^c3dbff兔爷顺从了！<CRLF><CRLF>^ffffff您真是武艺超群！<CRLF>兔爷服了您了！<CRLF>"}

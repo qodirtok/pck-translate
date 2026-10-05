@@ -1,0 +1,30 @@
+======================================================================
+batch_000 / 181
+  L4   src_texts=1 src_pads=0 | dst_texts=2 dst_pads=1
+    SRC: 地恸击.苍穹乱舞
+    DST: Earthshaker.Strike[U3000]Firmament.Wild.Dance
+
+======================================================================
+batch_002 / 29
+  L2   src_texts=3 src_pads=2 | dst_texts=2 dst_pads=1
+    SRC: ^ffffff兵器：刀[U3000][U3000][U3000][U3000][U3000][U3000][U3000][U3000]20斗气[U3000]5体力
+    DST: ^ffffffWeapon:.Saber..................20.Battle.Qi,.5.Stamina
+
+======================================================================
+batch_002 / 56
+  L2   src_texts=3 src_pads=2 | dst_texts=2 dst_pads=1
+    SRC: ^ffffff兵器：爪[U3000][U3000][U3000][U3000][U3000][U3000][U3000][U3000]60斗气[U3000]5体力
+    DST: ^ffffffWeapon:.Claw..................60.Battle.Qi,.5.Stamina
+
+======================================================================
+batch_002 / 117
+  L2   src_texts=3 src_pads=2 | dst_texts=2 dst_pads=1
+    SRC: ^ffffff兵器：钺[U3000][U3000][U3000][U3000][U3000][U3000][U3000][U3000]5斗气[U3000]10体力
+    DST: Weapon:.Battleaxe..................5.Battle.Qi,.10.Stamina
+
+======================================================================
+batch_005 / 110
+  L2   src_texts=3 src_pads=2 | dst_texts=2 dst_pads=1
+    SRC: ^ffffff兵器：爪[U3000][U3000][U3000][U3000][U3000][U3000][U3000][U3000]5斗气[U3000]5体力
+    DST: ^ffffffWeapon:.Claws[U3000][U3000][U3000][U3000]5.Battle.Qi.5.Stamina
+

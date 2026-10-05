@@ -1,0 +1,50 @@
+Martial Art              total=30    files=4  Translate/configs/questlist_type.txt; Translate/configs/title_def.lua; Translate/script/config/title_def.lua; Translate/script/text.lua
+Martial Skill            total=0     files=0  -
+Skill Quality            total=0     files=0  -
+Skill Rank               total=0     files=0  -
+Skill Grade              total=0     files=0  -
+Skill Tier               total=0     files=0  -
+Learning Requirement     total=0     files=0  -
+Learning Req             total=0     files=0  -
+Learn Requirement        total=0     files=0  -
+Requirement              total=5     files=2  Translate/configs/item_ext_prop.txt; Translate/script/text.lua
+Skill Category           total=0     files=0  -
+Skill Class              total=0     files=0  -
+Category                 total=1     files=1  Translate/script/interfaces/consolebox.lua
+Cool-down                total=0     files=0  -
+Cooldown                 total=1     files=1  Translate/script/text.lua
+Soul Skill Type          total=0     files=0  -
+Soul Art Type            total=0     files=0  -
+Required Level           total=0     files=0  -
+Level Requirement        total=0     files=0  -
+Learning Level           total=0     files=0  -
+Horsemanship             total=2     files=1  Translate/script/text.lua
+Riding                   total=10    files=3  Translate/configs/title_def.lua; Translate/script/config/title_def.lua; Translate/script/text.lua
+Mounted                  total=1     files=1  Translate/script/config/skillscswitch.lua
+Mounted Art              total=0     files=0  -
+Riding Art               total=0     files=0  -
+Tactic                   total=0     files=0  -
+Strategy                 total=10    files=2  Translate/script/config/title_def.lua; Translate/script/text.lua
+Tactics                  total=0     files=0  -
+War Art                  total=1     files=1  Translate/script/text.lua
+Battle Art               total=0     files=0  -
+Stratagem                total=9     files=3  Translate/configs/title_def.lua; Translate/script/config/title_def.lua; Translate/script/text.lua
+Finisher                 total=0     files=0  -
+Fatal                    total=0     files=0  -
+Ultimate                 total=1     files=1  Translate/script/config/title_def.lua
+Finishing Move           total=0     files=0  -
+Special                  total=35    files=4  Translate/script/config/title_def.lua; Translate/script/interfaces/guidehint.lua; Translate/script/secretarydata.lua; Translate/script/text.lua
+Specialty                total=0     files=0  -
+Trait                    total=0     files=0  -
+Special Skill            total=0     files=0  -
+Prerequisite Achievement total=0     files=0  -
+Learning Cost            total=0     files=0  -
+Ancestral Home           total=0     files=0  -
+Origin Restriction       total=0     files=0  -
+Weapon                   total=68    files=8  Translate/configs/actions_player.txt; Translate/configs/extract_equip_model.txt; Translate/configs/typedef_initial.xml; Translate/configs/weapon_transform.txt
+Weapons                  total=4     files=1  Translate/script/text.lua
+Type                     total=627   files=8  Translate/configs/item_ext_prop.txt; Translate/configs/typedef_initial.xml; Translate/interfaces/leveltip.lua; Translate/script/config/petenchant.lua
+Attribute                total=25    files=6  Translate/configs/item_ext_prop.txt; Translate/configs/item_order.txt; Translate/script/config/petenchant.lua; Translate/script/interfaces/gearscoreguide4.lua
+Mastery                  total=0     files=0  -
+Assassination            total=0     files=0  -
+Assassin                 total=2     files=2  Translate/configs/title_def.lua; Translate/script/config/title_def.lua

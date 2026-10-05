@@ -1,0 +1,9 @@
+batches checked : 78
+records checked : 882
+
+HARD failures:
+  out_missing              75   e.g. batch_002.jsonl
+
+SOFT observations (informational):
+  straight_quotes          167
+exit=1

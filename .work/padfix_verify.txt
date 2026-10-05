@@ -1,0 +1,12 @@
+### batch_000 / 181   U+3000 src=0 dst=0
+
+### batch_002 / 29   U+3000 src=16 dst=16
+
+### batch_002 / 56   U+3000 src=17 dst=17
+
+### batch_002 / 117   U+3000 src=9 dst=9
+
+### batch_005 / 110   U+3000 src=17 dst=17
+
+records verified: 5 / 5
+missing: none

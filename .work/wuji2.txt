@@ -1,0 +1,41 @@
+source stat labels (CJK word + colon):
+  武器类型 = 12
+  招式类型 = 12
+  攻击方式 = 12
+  攻击范围 = 12
+  招式消耗 = 12
+  攻击间隔 = 10
+  专精影响 = 2
+  使用间隔 = 2
+
+english label forms used in tr2:
+  Skill Category = 282
+  Requirement = 279
+  Move = 206
+  Skill Quality = 171
+  Skill Rank = 102
+  Learning Requirement = 100
+  Martial Art = 94
+  Tactic = 84
+  Strategy = 76
+  Cost = 68
+  Achievement = 54
+  Soul Skill Type = 47
+  Skill Grade = 45
+  Level = 44
+  Quality = 40
+  Cooldown = 39
+  Skill Effect = 39
+  Martial Skill = 37
+  Category = 37
+  Learning Req = 33
+  Skill Tier = 30
+  Mastery = 27
+  Learn Requirement = 27
+  Skill Class = 26
+  Weapon = 22
+  Skill grade = 22
+  Level Requirement = 20
+  Skill category = 20
+  Art = 18
+  Assassination = 18

@@ -1,0 +1,18 @@
+=== buff_str.txt ===
+  num='1' delim=' '  line='1  ""'
+  num='3' delim=' '  line='3  "^c3dbff劈伤'
+  num='4' delim=' '  line='4  "^c3dbff刺伤'
+  num='5' delim=' '  line='5  "^c3dbff震伤'
+  rows starting num+TAB=0  num+SPACE=3965
+=== toptable.txt ===
+  num='6' delim='\t'  line='6\t"个人排行榜"\t\t'
+  num='6' delim='\t'  line='6\t"军团排行榜"\t\t'
+  num='4' delim='\t'  line='4\t"阵营排行榜"\t\t'
+  num='2' delim='\t'  line='2\t"竞技排行榜"\t\t'
+  rows starting num+TAB=6  num+SPACE=0
+=== instance.txt ===
+  num='1' delim='\t'  line='1\t\t//  ID'
+  num='0' delim='\t'  line='0\t\t//  Zone ID 河北'
+  num='1,' delim=' '  line='1, 1\t\t//  row, column'
+  num='36,' delim=' '  line='36, 72, 64\t//  water color 1'
+  rows starting num+TAB=2344  num+SPACE=5258

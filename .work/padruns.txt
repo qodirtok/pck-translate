@@ -1,0 +1,31 @@
+records with padding-run mismatch: 3
+
+========================================================================
+batch_000 / 202
+  L2  pads src=3 dst=3
+    SRC: ^ffffff兵器：环UUUUUU..30斗气UUUUU
+    DST: ^ffffffWeapon:.Ring.BladeUUUUUU..30.Fighting.QiUUUUUU
+    src pads: ['UUUUUU', '..', 'UUUUU']
+    dst pads: ['UUUUUU', '..', 'UUUUUU']
+  L3  pads src=1 dst=1
+    SRC: 招式：持续释放UUUUUU冷却15秒
+    DST: Move:.Channeled.ReleaseUUUUUCooldown.15.sec
+    src pads: ['UUUUUU']
+    dst pads: ['UUUUU']
+
+========================================================================
+batch_001 / 114
+  L37 pads src=1 dst=0
+    SRC: 剑罡御剑.9段，恢复..9%%的生命值。
+    DST: Sword.Aura.·.Sword.Ward.9.hits:.restores.9%%.HP.
+    src pads: ['..']
+    dst pads: []
+
+========================================================================
+batch_002 / 64
+  L2  pads src=1 dst=0
+    SRC: 变身专用.............冷却时间：1秒
+    DST: Transformation.Only.Cool-down:.1.sec
+    src pads: ['.............']
+    dst pads: []
+

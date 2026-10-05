@@ -1,0 +1,227 @@
+{"id": 1, "english": "^c3dbffGeneral Slaying Merit<CRLF>^ffffffParticipated in slaying an important enemy figure in the Chibi Decisive Battle.<CRLF>Slay 1 important figure to earn General Slaying Merit after the battle ends.<CRLF>Slay 2 important figures to earn Formation Breaker Merit after the battle ends.<CRLF>Slay 3 to 5 important figures to earn Nation Conqueror Merit after the battle ends.<CRLF>Slay 6 important figures to earn Unparalleled Merit after the battle ends."}
+{"id": 2, "english": "^c3dbffGeneral Slaying Merit<CRLF>^ffffffParticipated in slaying an important enemy figure in the Chibi Skirmish.<CRLF>Slay 1 important figure to earn General Slaying Merit after the skirmish ends.<CRLF>Slay 2 important figures to earn Formation Breaker Merit after the skirmish ends.<CRLF>Slay 3 to 5 important figures to earn Nation Conqueror Merit after the skirmish ends.<CRLF>Slay 6 important figures to earn Unparalleled Merit after the skirmish ends."}
+{"id": 3, "english": "^c3dbffMountain Cleave<CRLF>^ffffffEach stack increases the damage of your next Mountain Cleave by 30%."}
+{"id": 4, "english": "^c3dbffCleaving Intent<CRLF><CRLF>^ffffffReduces Fierce Cleave preparation time."}
+{"id": 5, "english": "^c3dbffCleave Break<CRLF><CRLF>^ffffffEvasion reduced."}
+{"id": 6, "english": "^c3dbffWeapon Break<CRLF><CRLF>^ffffffAttack Power and Attack Strength reduced."}
+{"id": 7, "english": "^c3dbffWeapon Break<CRLF><CRLF>^ffffffHP cap reduced."}
+{"id": 8, "english": "^c3dbffMoon Sever<CRLF><CRLF>^ffffffHeavily wounded by Moon Sever Slash."}
+{"id": 9, "english": "^c3dbffMetal-Splitting Power<CRLF><CRLF>^ffffffMounted Combat Attack increased."}
+{"id": 10, "english": "^c3dbffSoul Sever<CRLF><CRLF>^ffffffCannot deal critical hits."}
+{"id": 11, "english": "^c3dbffNovice Pouch Reward<CRLF><CRLF>^ffffffHP, Stamina, and Fighting Spirit are restored."}
+{"id": 12, "english": "^c3dbffNovice Difficulty<CRLF>^ffffffRecommended for heroes level 10-30."}
+{"id": 13, "english": "^c3dbffSquare Formation<CRLF><CRLF>^ffffffAttack, Defense, Hit, and Evasion increased."}
+{"id": 14, "english": "^c3dbffWhirlwind Axe<CRLF><CRLF>^ffffffGreatly increases attack speed."}
+{"id": 15, "english": "^c3dbffVictory at First Battle<CRLF><CRLF>^ffffffSuccessfully eliminated an enemy general!"}
+{"id": 16, "english": "^c3dbffUnparalleled<CRLF><CRLF>^ffffffThe greatest warrior of the Three Kingdoms, unparalleled under heaven.<CRLF>Pierce Break points increased."}
+{"id": 17, "english": "^c3dbffUnparalleled<CRLF><CRLF>^ffffffAttack and Defense increased."}
+{"id": 18, "english": "^c3dbffUnparalleled<CRLF><CRLF>^ffffffCritical hit and critical damage increased."}
+{"id": 19, "english": "^c3dbffUnparalleled<CRLF><CRLF>^ffffffCrowd control resistance increased."}
+{"id": 20, "english": "^c3dbffUnparalleled Merit<CRLF>^ffffffParticipated in slaying 6 important enemy figures in the Chibi Decisive Battle.<CRLF>Slay 1 important figure to earn General Slaying Merit after the battle ends.<CRLF>Slay 2 important figures to earn Formation Breaker Merit after the battle ends.<CRLF>Slay 3 to 5 important figures to earn Nation Conqueror Merit after the battle ends.<CRLF>Slay 6 important figures to earn Unparalleled Merit after the battle ends."}
+{"id": 21, "english": "^c3dbffUnparalleled Merit<CRLF>^ffffffParticipated in slaying 6 important enemy figures in the Chibi Skirmish.<CRLF>Slay 1 important figure to earn General Slaying Merit after the skirmish ends.<CRLF>Slay 2 important figures to earn Formation Breaker Merit after the skirmish ends.<CRLF>Slay 3 to 5 important figures to earn Nation Conqueror Merit after the skirmish ends.<CRLF>Slay 6 important figures to earn Unparalleled Merit after the skirmish ends."}
+{"id": 22, "english": "^c3dbffMatchless<CRLF><CRLF>^ffffffAttack Strength and Hit reduced."}
+{"id": 23, "english": "^c3dbffInvincible<CRLF><CRLF>^ffffffImmune to all damage."}
+{"id": 24, "english": "^c3dbffFearless<CRLF><CRLF>^ffffffDirect damage taken reduced."}
+{"id": 25, "english": "^c3dbffFearless<CRLF><CRLF>^ffffffAttack increases when attacked."}
+{"id": 26, "english": "^c3dbffFearless<CRLF><CRLF>^ffffffChance to dispel Slow and Immobilize when attacked."}
+{"id": 27, "english": "^c3dbffFearless Fortitude<CRLF><CRLF>^ffffffHP cap increased."}
+{"id": 28, "english": "^c3dbffBoundless Fury<CRLF><CRLF>^ffffffQuick, splash water!!"}
+{"id": 29, "english": "^c3dbffUnhindered<CRLF><CRLF>^ffffffImmune to Slow and Immobilize effects."}
+{"id": 30, "english": "^c3dbffInfinite Spring<CRLF><CRLF>^ffffffStamina recovers rapidly."}
+{"id": 31, "english": "^c3dbffTime Imprisonment<CRLF><CRLF>^ffffffCannot receive positive status effects."}
+{"id": 32, "english": "^c3dbffBright King<CRLF><CRLF>^ffffffGain a stack of Focus each time you are hit."}
+{"id": 33, "english": "^c3dbffStun"}
+{"id": 34, "english": "^c3dbffStun<CRLF><CRLF>^ffffffCannot attack. Damage taken interrupts."}
+{"id": 35, "english": "^c3dbffVulnerable<CRLF><CRLF>^ffffffDamage resistance reduced."}
+{"id": 36, "english": "^c3dbffStar Spirit<CRLF>^ffffffGain bonus Star Value reward.<CRLF>Can only receive the bonus once every 30 seconds."}
+{"id": 37, "english": "^c3dbffStar Whisper<CRLF>^ffffffPray for your teammates."}
+{"id": 38, "english": "^c3dbffStar Thunder Art<CRLF><CRLF>^ffffffThe higher the stacks of Star Thunder Art, the denser the Meteor Shower!"}
+{"id": 39, "english": "^c3dbffDizzy<CRLF><CRLF>^ffffffStun and Slow."}
+{"id": 40, "english": "^c3dbffUniversal Celebration<CRLF>^ffffffA celebration for all, with many rewards."}
+{"id": 41, "english": "^c3dbffAway Status<CRLF><CRLF>^ffffffIn a prolonged rest state. Cannot receive some battlefield rewards."}
+{"id": 42, "english": "^c3dbffHidden Fragrance<CRLF><CRLF>^ffffffStamina drained every second."}
+{"id": 43, "english": "^c3dbffCritical Damage Boost"}
+{"id": 44, "english": "^c3dbffCritical Damage Reduction"}
+{"id": 45, "english": "^c3dbffCritical Resistance Boost"}
+{"id": 46, "english": "^c3dbffCritical Resistance Boost<CRLF>"}
+{"id": 47, "english": "^c3dbffCritical Resistance Reduction"}
+{"id": 48, "english": "^c3dbffCritical Rate Boost"}
+{"id": 49, "english": "^c3dbffCritical Rate Boost<CRLF>High-level Focus increases critical bonus damage."}
+{"id": 50, "english": "^c3dbffCritical Reduction"}
+{"id": 51, "english": "^c3dbffFury<CRLF><CRLF>^ffffffUnder the Fury aura, critical hit increased."}
+{"id": 52, "english": "^c3dbffBrutality<CRLF><CRLF>^ffffffEach attack drains HP<CRLF>and increases critical hit."}
+{"id": 53, "english": "^c3dbffIrritable<CRLF><CRLF>^ffffffHuang Zhong is increasingly irritated by raptor feathers."}
+{"id": 54, "english": "^c3dbffCao Pi's Mark<CRLF><CRLF>^ffffffYou have been locked by Cao Pi. Stay away from him,<CRLF>or you will get hurt."}
+{"id": 55, "english": "^c3dbffCao Cao Laughs"}
+{"id": 56, "english": "^c3dbffCao Cao's Mark<CRLF><CRLF>^ffffffYou have been locked by Cao Cao. Stay away from him,<CRLF>or you will get hurt."}
+{"id": 57, "english": "^c3dbffCao Zhi's Mark<CRLF><CRLF>^ffffffYou have been locked by Cao Zhi. Stay away from him,<CRLF>or you will get hurt."}
+{"id": 58, "english": "^c3dbffA friend has visited you!"}
+{"id": 59, "english": "^c3dbffWooden Ox<CRLF><CRLF>^ffffffTight armor protects the body.<CRLF>Defense increased."}
+{"id": 60, "english": "^c3dbffNot Activated<CRLF>^ffffffThis wooden man has not been activated."}
+{"id": 61, "english": "^c3dbffDoomsday<CRLF><CRLF>^ffffffDelayed damage after several seconds."}
+{"id": 62, "english": "^c3dbffMechanical Unit<CRLF><CRLF>^ffffffCannot be healed by bandages or weapon skills."}
+{"id": 63, "english": "^c3dbffKill Enemy General"}
+{"id": 64, "english": "^c3dbffExtreme Charge<CRLF><CRLF>^ffffffSpeed at its limit. Returns to normal speed when attacked."}
+{"id": 65, "english": "^c3dbffOverlord<CRLF><CRLF>^ffffffChance to trigger Feint status when hit."}
+{"id": 66, "english": "^c3dbffWithered Tree Revives<CRLF><CRLF>Healing effect increased."}
+{"id": 67, "english": "^c3dbffWithered Tree Revives<CRLF>Healing effect increased"}
+{"id": 68, "english": "^c3dbffFragile<CRLF>^ffffffAttack, Defense, and HP reduced to very low.<CRLF>Needs hero protection.<CRLF>Rumor has it: leaning on each other is really popular lately!"}
+{"id": 69, "english": "^c3dbffMark<CRLF><CRLF>^ffffffYou have been marked and will be Sun Ce's next target.<CRLF>Run, or you will be insta-killed."}
+{"id": 70, "english": "^c3dbffMark<CRLF><CRLF>^ffffffYou have been locked as an attack target."}
+{"id": 71, "english": "^c3dbffBlock<CRLF><CRLF>^ffffffDamage taken reduced."}
+{"id": 72, "english": "^c3dbffBlock<CRLF><CRLF>^ffffffSuccessful block increases Fighting Spirit."}
+{"id": 73, "english": "^c3dbffParry<CRLF><CRLF>^ffffffBlock damage and resist stun and crowd control effects."}
+{"id": 74, "english": "^c3dbffPeach Garden Hero<CRLF><CRLF>^ffffffYou defeated Flower Moon Qin!<CRLF>You are the hero who saved the Peach Garden!<CRLF>"}
+{"id": 75, "english": "^c3dbffSweeping Fury<CRLF><CRLF>^c3dbffQuick Slash and Cross Cleave damage increased to 100%."}
+{"id": 76, "english": "^c3dbffMarquis Wu's Golden Drum <CRLF><CRLF>^ffffffFighting Spirit recovers quickly."}
+{"id": 77, "english": "^c3dbffWar Saint<CRLF><CRLF>^ffffffReflect a portion of damage!"}
+{"id": 78, "english": "^c3dbffWar Saint<CRLF><CRLF>^ffffffPossessed by the War Saint, gaining berserk power.<CRLF>Critical damage greatly increased."}
+{"id": 79, "english": "^c3dbffWar Saint<CRLF><CRLF>^ffffffUnder the War Saint aura, all defenses cease to exist.<CRLF>Damage resistance reduced."}
+{"id": 80, "english": "^c3dbffMartial Virtue Blessing<CRLF><CRLF>^ffffffDefense +30, Critical Resistance +10, HP cap +200"}
+{"id": 81, "english": "^c3dbffDance of Death<CRLF><CRLF>^ffffffGain 50 bonus Attack for each kill."}
+{"id": 82, "english": "^c3dbffBloodlust of Death<CRLF><CRLF>^ffffffEach stack increases Attack. Stackable."}
+{"id": 83, "english": "^c3dbffNarrow Escape<CRLF>^ffffffAfter a fierce battle, Cao Cao finally escaped death!"}
+{"id": 84, "english": "^c3dbffCrippled<CRLF><CRLF>^ffffffHP cap greatly reduced."}
+{"id": 85, "english": "^c3dbffCrippled<CRLF><CRLF>^ffffffThis unit is in an incapacitated state."}
+{"id": 86, "english": "^c3dbffSoul Ruin<CRLF><CRLF>^ffffffStamina continuously drains."}
+{"id": 87, "english": "^c3dbffSteadfast<CRLF><CRLF>^ffffffFinal direct damage taken reduced."}
+{"id": 88, "english": "^c3dbffEach dodge grants bonus Fighting Spirit"}
+{"id": 89, "english": "^c3dbffVenom Scholar<CRLF><CRLF>^ffffffHealing received reduced."}
+{"id": 90, "english": "^c3dbffPoison Arrow<CRLF><CRLF>^ffffffHit by a poison arrow. Lose 1000 HP every 5 seconds for 1 minute."}
+{"id": 91, "english": "^c3dbffPoison Flower Toxin<CRLF><CRLF>^ffffffThough the toxicity is weak, it reduces healing received."}
+{"id": 92, "english": "^c3dbffVenom Dragon Coil<CRLF><CRLF>Pierce Break points reduced."}
+{"id": 93, "english": "^c3dbffPopular Support<CRLF><CRLF>^ffffffDamage taken reduced."}
+{"id": 94, "english": "^c3dbffQi Stagnation<CRLF><CRLF>^ffffffAttack speed and cast speed reduced."}
+{"id": 95, "english": "^c3dbffQi Pierces the Sky<CRLF><CRLF>Critical damage increased."}
+{"id": 96, "english": "^c3dbffNavy<CRLF><CRLF>^ffffffA member of the navy. Takes damage from cannon fire."}
+{"id": 97, "english": "^c3dbffNavy<CRLF>^ffffffA soldier who fought in the Chibi Battle"}
+{"id": 98, "english": "^c3dbffNavy Great Shield<CRLF><CRLF>^ffffffReduced damage from Repeating Crossbows and Fire Oil Bombs."}
+{"id": 99, "english": "^c3dbffFlooded<CRLF><CRLF>^ffffffThis unit is flooded. Movement speed and attack speed greatly reduced.<CRLF>Continuously takes water damage, losing HP every 3 seconds. If hit by Muddy Waves Surge again while flooded,<CRLF>lose a massive amount of HP."}
+{"id": 100, "english": "^c3dbffArmy Flooded<CRLF><CRLF>^ffffffMovement speed reduced."}
+{"id": 101, "english": "^c3dbffSplash<CRLF><CRLF>^ffffffIf hit by the skill “Wave Treading”, take double damage."}
+{"id": 102, "english": "^c3dbffSinking<CRLF><CRLF>^ffffffWhen not mounted, legs are immobilized and nearly unable to move.<CRLF>^ffffffBrotherhood, Mounted Combat, and other mount speed skills are disabled.<CRLF>^ffffffUsing some ground dash skills causes stun."}
+{"id": 103, "english": "^c3dbffSteady<CRLF><CRLF>Hit increased."}
+{"id": 104, "english": "^c3dbffSilence<CRLF><CRLF>^ffffffCannot use skills."}
+{"id": 105, "english": "^c3dbffSilence<CRLF><CRLF>^ffffffCannot attack or use skills."}
+{"id": 106, "english": "^c3dbffHealing Effect Boost"}
+{"id": 107, "english": "^c3dbffHealing Effect Boost<CRLF>"}
+{"id": 108, "english": "^c3dbffBubble Snowball<CRLF><CRLF>^ffffffYou have been hit by a Bubble Snowball!"}
+{"id": 109, "english": "^c3dbffMuddy Going<CRLF><CRLF>^ffffffMovement speed reduced."}
+{"id": 110, "english": "^c3dbffMire<CRLF><CRLF>^ffffffCannot move."}
+{"id": 111, "english": "^c3dbffTear Sorrow<CRLF><CRLF>^ffffffStamina and Fighting Spirit continuously drain."}
+{"id": 112, "english": "^c3dbffMysterious Blessing of the Luo River Dragon God!<CRLF><CRLF>The owner can receive the daily “Nine Heavens Dragon Roar” quest reward!"}
+{"id": 113, "english": "^c3dbffLuo Shen Fu<CRLF><CRLF>^ffffffUse the Luo Shen Fu from your inventory on another player within 5 seconds,<CRLF>or you will die."}
+{"id": 114, "english": "^c3dbffLuo Shen Fu<CRLF><CRLF>^ffffffUse the Luo Shen Fu from your inventory on Cao Pi within 5 seconds,<CRLF>or you will die."}
+{"id": 115, "english": "^c3dbffLuo Shen Fu<CRLF><CRLF>^ffffffCao Zhi dealt damage to Cao Pi."}
+{"id": 116, "english": "^c3dbffInsight<CRLF><CRLF>^ffffffAttack greatly reduced."}
+{"id": 117, "english": "^c3dbffInsight<CRLF>^ffffffIncreases teammates' ranged damage resistance."}
+{"id": 118, "english": "^c3dbffCave Spirit Protection<CRLF><CRLF>^ffffffHealing received increased by 50%."}
+{"id": 119, "english": "^c3dbffLiving Armor<CRLF><CRLF>^ffffffImmune to Guan Ping's HP drain status."}
+{"id": 120, "english": "^c3dbffLiving Art<CRLF><CRLF>^ffffffUnleash inner potential. Skill damage increased."}
+{"id": 121, "english": "^c3dbffVitality Boost<CRLF><CRLF>^ffffffHP cap greatly increased."}
+{"id": 122, "english": "^c3dbffActive<CRLF><CRLF>^ffffffHit increased, and gain HP on each successful<CRLF>kill."}
+{"id": 123, "english": "^c3dbffFlowing Light Art<CRLF><CRLF>^ffffffAttack speed becomes increasingly slower, but each hit deals greatly increased damage."}
+{"id": 124, "english": "^c3dbffDrain Resistance Reduction"}
+{"id": 125, "english": "^c3dbffMeteor Shield<CRLF><CRLF>^ffffffYou are safe. Meteors can no longer damage you!"}
+{"id": 126, "english": "^c3dbffMeteor Aim<CRLF><CRLF>^ffffffIncreases Chain Volley's critical hit and accuracy."}
+{"id": 127, "english": "^c3dbffFlowing Water Power<CRLF><CRLF>^ffffffMounted Combat Pierce increased."}
+{"id": 128, "english": "^c3dbffDisplacement<CRLF><CRLF>^ffffffDrain resistance reduced."}
+{"id": 129, "english": "^c3dbffDisplacement<CRLF><CRLF>^ffffffDefense increased. Critical damage taken reduced."}
+{"id": 130, "english": "^c3dbffBleeding<CRLF><CRLF>^ffffffContinuously lose HP."}
+{"id": 131, "english": "^c3dbffBleeding<CRLF><CRLF>^ffffffContinuously lose HP"}
+{"id": 132, "english": "^c3dbffBleeding<CRLF><CRLF>^ffffffContinuously lose HP."}
+{"id": 133, "english": "^c3dbffFlowing Horse<CRLF><CRLF>^ffffffPerfectly grasps the battle rhythm.<CRLF>Stamina recovery increased during combat."}
+{"id": 134, "english": "^c3dbffMuddy Waves Destroy Clouds<CRLF>Next hit always lands."}
+{"id": 135, "english": "^c3dbffTest<CRLF>^ffffffMagic damage reduction 50<CRLF>Mount magic damage reduction 50<CRLF>"}
+{"id": 136, "english": "^c3dbffTest Magic Status<CRLF>^ffffffMagic damage 50 <CRLF>Mount magic damage 50<CRLF>Test_Magic Penetration 1    <CRLF>Mount magic penetration<CRLF>Test_Magic Power 1% "}
+{"id": 137, "english": "^c3dbffSpray<CRLF><CRLF>^ffffffSlow 2.5 m/s. If hit by the skill “Water Spray”,<CRLF>take double damage."}
+{"id": 138, "english": "^c3dbffAirborne<CRLF><CRLF>^ffffffCannot attack. Cannot move."}
+{"id": 139, "english": "^c3dbffBathing in Fire<CRLF><CRLF>^ffffffLike bathing in fierce flames. Immune to Immobilize and Slow.<CRLF>Direct resistance increased."}
+{"id": 140, "english": "^c3dbffA Friend Afar<CRLF><CRLF>^ffffffYou received a Christmas gift from a friend!"}
+{"id": 141, "english": "^c3dbffHeart of the Ocean<CRLF><CRLF>^ffffffThe glow of the Heart of the Ocean sapphire necklace.<CRLF>Attack, Defense, and HP cap increased."}
+{"id": 142, "english": "^c3dbffTrickling Dance<CRLF><CRLF>^c3dbffMelee and ranged resistance increased."}
+{"id": 143, "english": "^c3dbffMoist Earth Power<CRLF><CRLF>^ffffffMounted Combat Defense increased."}
+{"id": 144, "english": "^c3dbffDeep in Tunnel<CRLF><CRLF>^ffffffDeep inside the tunnel. Cannot mount. Movement speed reduced."}
+{"id": 145, "english": "^c3dbffDeep Destruction<CRLF><CRLF>^ffffffEquipment destroyed. Lose some effects.<CRLF>Defense and Critical Resistance reduced."}
+{"id": 146, "english": "^c3dbffConfusion<CRLF><CRLF>^ffffffChance to hit enemies reduced!"}
+{"id": 147, "english": "^c3dbffConfusion<CRLF><CRLF>^ffffffIn a confused state, unable to tell direction."}
+{"id": 148, "english": "^c3dbffClear Stream Wound<CRLF><CRLF>^ffffffContinuous HP loss for 30 seconds."}
+{"id": 149, "english": "^c3dbffWarmth<CRLF><CRLF>^ffffffYou feel much better."}
+{"id": 150, "english": "^c3dbffSplash<CRLF><CRLF>^ffffffReduces magic resistance, defense points, and healing effect."}
+{"id": 151, "english": "^c3dbffSlide Step<CRLF><CRLF>^ffffffMovement speed and mount speed increased.<CRLF>"}
+{"id": 152, "english": "^c3dbffStagnant<CRLF><CRLF>^ffffffMovement speed reduced."}
+{"id": 153, "english": "^c3dbffFully Loaded<CRLF><CRLF>^ffffffThe straw man is covered in arrows. Collect them immediately."}
+{"id": 154, "english": "^c3dbffLurking Tactic<CRLF><CRLF>^ffffffA tactic used by hook-wielding generals.<CRLF>After activation, movement speed is reduced out of combat,<CRLF>but gains automatic Fighting Spirit recovery."}
+{"id": 155, "english": "^c3dbffDragon Lurking in Abyss<CRLF><CRLF>^ffffffThe next Fighting Spirit release skill causes stun (backflip causes slow)."}
+{"id": 156, "english": "^c3dbffInspire<CRLF><CRLF>^ffffffWeakness resistance increased."}
+{"id": 157, "english": "^c3dbffStimulate<CRLF><CRLF>^ffffffSkill cast speed increased."}
+{"id": 158, "english": "^c3dbffFierce Battle<CRLF><CRLF>^ffffffEach hit randomly increases critical."}
+{"id": 159, "english": "^c3dbffRally!<CRLF><CRLF>^ffffffCharacter gains 30 Fighting Spirit and 10 more every 5 seconds.<CRLF>This effect ends when HP is above 50%."}
+{"id": 160, "english": "^c3dbffRapid Current<CRLF><CRLF>^ffffffContinuously lose HP."}
+{"id": 161, "english": "^c3dbffStartled<CRLF><CRLF>^ffffffWoke up."}
+{"id": 162, "english": "^c3dbffCaptured at Puyang<CRLF>^ffffffChen Gong tricked Cao Cao into Puyang city.<CRLF>The Cao army was ambushed and scattered. Protect Cao Cao!"}
+{"id": 163, "english": "^c3dbffAdding Fuel to Fire<CRLF>^ffffffYou take increased damage."}
+{"id": 164, "english": "^c3dbffFire Momentum<CRLF><CRLF>^c3dbffWildfire Spreads skill preparation time reduced by 1 second."}
+{"id": 165, "english": "^c3dbffFire Attack<CRLF><CRLF>^ffffffAttack reduced!"}
+{"id": 166, "english": "^c3dbffFlame<CRLF><CRLF>^ffffffDrain resistance reduced."}
+{"id": 167, "english": "^c3dbffBurning<CRLF><CRLF>^ffffffDefense soldier takes fire attack. Defense formation broken."}
+{"id": 168, "english": "^c3dbffBurning Palace<CRLF><CRLF>^ffffffBurning the palace."}
+{"id": 169, "english": "^c3dbffFire Armor<CRLF><CRLF>^ffffffBlazing flames inject new vitality into the body.<CRLF>Recover HP when attacked."}
+{"id": 170, "english": "^c3dbffFire Armor Art<CRLF><CRLF>^ffffffAn armor art used by staff-wielding scholars.<CRLF>After activation, Fighting Spirit drain is reduced out of combat.<CRLF>Chance to increase Critical Resistance when attacked."}
+{"id": 171, "english": "^c3dbffFire Shield<CRLF>^ffffffWhen hit, reflect 3 stacks of Ignite status."}
+{"id": 172, "english": "^c3dbffFire Seed<CRLF><CRLF>^ffffffTarget takes damage after several seconds."}
+{"id": 173, "english": "^c3dbffFire Seed<CRLF><CRLF>^ffffffTarget takes damage and is broken after several seconds."}
+{"id": 174, "english": "^c3dbffFire Raid<CRLF><CRLF>^ffffffContinuously lose HP and speed reduced."}
+{"id": 175, "english": "^c3dbffFire Thunder Nemesis<CRLF><CRLF>^ffffffAutomatically grants the “Fire Thunder Nemesis” title."}
+{"id": 176, "english": "^c3dbffTurkey Finished<CRLF><CRLF>^ffffffThe delicious turkey is gone.<CRLF>Go find the next target.<CRLF>"}
+{"id": 177, "english": "^c3dbffAnnihilation<CRLF><CRLF>^ffffffPiercing Volley and Chain Volley damage increased."}
+{"id": 178, "english": "^c3dbffAgile<CRLF><CRLF>^ffffffImmune to mounted restriction status."}
+{"id": 179, "english": "^c3dbffAgile Tactic<CRLF><CRLF>^ffffffA tactic used by hook-wielding generals.<CRLF>After activation, Stamina recovery increased.<CRLF>After causing Bleed to enemies,<CRLF>Gain Agility points."}
+{"id": 180, "english": "^c3dbffNimble<CRLF><CRLF>^ffffffLike a nimble figure, evade all attacks."}
+{"id": 181, "english": "^c3dbffNimble<CRLF>^ffffffImmune to Slow and Immobilize effects."}
+{"id": 182, "english": "^c3dbffSensitive<CRLF><CRLF>^ffffffRiding sensitivity increased."}
+{"id": 183, "english": "^c3dbffSpirit Monkey Pill<CRLF><CRLF>^ffffffStamina cap +50, Hit +5, Crowd Control Resistance +5"}
+{"id": 184, "english": "^c3dbffSpirit Exhausted<CRLF><CRLF>Healing effect reduced."}
+{"id": 185, "english": "^c3dbffSpirit Charm<CRLF><CRLF>^ffffffSpiritual energy from the awakened battle soul.<CRLF>Awaken the instinct to heal. Healing points increased."}
+{"id": 186, "english": "^c3dbffSpirit Charm<CRLF><CRLF>^ffffffAll resistances increased!"}
+{"id": 187, "english": "^c3dbffScorch<CRLF><CRLF>^ffffffCritical resistance and drain resistance reduced."}
+{"id": 188, "english": "^c3dbffBurning<CRLF><CRLF>^ffffffYour life is being continuously burned."}
+{"id": 189, "english": "^c3dbffBurning<CRLF><CRLF>^ffffffContinuously lose HP."}
+{"id": 190, "english": "^c3dbffBurning<CRLF><CRLF>^ffffffStunned after being hit 4 times."}
+{"id": 191, "english": "^c3dbffScorching<CRLF><CRLF>^ffffffContinuously lose HP."}
+{"id": 192, "english": "^c3dbffFlame Ghost<CRLF><CRLF>^ffffffThe next Flame Ghost Flying Slash deals bonus damage to the target."}
+{"id": 193, "english": "^c3dbffBlast Wound<CRLF>^ffffffKeep going, the iron armor is about to break."}
+{"id": 194, "english": "^c3dbffRoll Call<CRLF>^ffffffPerseverance."}
+{"id": 195, "english": "^c3dbffIgnite<CRLF><CRLF>^ffffffContinuous burning. Direct resistance reduced."}
+{"id": 196, "english": "^c3dbffFireproof<CRLF><CRLF>^ffffffYou will not be burned by fire."}
+{"id": 197, "english": "^c3dbffFlames Burn Heart<CRLF><CRLF>^ffffffContinuously lose HP.<CRLF>"}
+{"id": 198, "english": "^c3dbffFierce Brilliance<CRLF><CRLF>^ffffffA violent aura erupts.<CRLF>Chance to enter Dominance status on each attack."}
+{"id": 199, "english": "^c3dbffGale Heavy Slash<CRLF>^ffffffCan use the Gale Heavy Slash skill."}
+{"id": 200, "english": "^c3dbffSear<CRLF><CRLF>^ffffffSurrounded by flames. Severe pain prevents focus.<CRLF>Hit reduced and continuously lose HP.<CRLF>"}
+{"id": 201, "english": "^c3dbffIncinerate<CRLF><CRLF>^ffffffBurned by Fire Oil Bomb. Continuously lose HP<CRLF>and Attack Strength reduced."}
+{"id": 202, "english": "^c3dbffScorched and Helpless<CRLF>^ffffffScorched and helpless, can't even take care of yourself!"}
+{"id": 203, "english": "^c3dbffSerene Spirit<CRLF>Healing effect enhanced."}
+{"id": 204, "english": "^c3dbffFuel<CRLF>^ffffffYou are wounded by artillery fire. Be careful, or you will take even more damage."}
+{"id": 205, "english": "^c3dbffBurning"}
+{"id": 206, "english": "^c3dbffBurning<CRLF><CRLF>^ffffffContinuously lose HP."}
+{"id": 207, "english": "^c3dbffBurning<CRLF><CRLF>^ffffffBurning continuously loses HP."}
+{"id": 208, "english": "^c3dbffBurning<CRLF>^ffffffThe fence is ignited. With the wind's help, the fire may spread to other fences!"}
+{"id": 209, "english": "^c3dbffBurning<CRLF>^ffffffA burning fence."}
+{"id": 210, "english": "^c3dbffBurning<CRLF>^ffffffA burning fence damages surrounding enemies."}
+{"id": 211, "english": "^c3dbffBracelet of Love<CRLF><CRLF>^ffffffThe Bracelet of Love glows."}
+{"id": 212, "english": "^c3dbffRed Rose of Love<CRLF><CRLF>^ffffffHappy Valentine's Day!"}
+{"id": 213, "english": "^c3dbffBlue Rose of Love<CRLF><CRLF>^ffffffMay all lovers find happiness!!"}
+{"id": 214, "english": "^c3dbffLove Luo Shen Soup<CRLF><CRLF>^ffffffConsumed immortal food. Evasion greatly increased for 5 minutes."}
+{"id": 215, "english": "^c3dbffPeony<CRLF><CRLF>^ffffffNational beauty, leading all flowers."}
+{"id": 216, "english": "^c3dbffShepherd 1<CRLF><CRLF>^ffffffReturn 3 sheep to claim the scenario reward."}
+{"id": 217, "english": "^c3dbffShepherd 2<CRLF><CRLF>^ffffffReturn 3 sheep to claim the scenario reward."}
+{"id": 218, "english": "^c3dbffShepherd 3<CRLF><CRLF>^ffffffSuccessfully returned 3 sheep.<CRLF><CRLF>^ffffffClaim reward at scenario end."}
+{"id": 219, "english": "^c3dbffContainment Tactic<CRLF><CRLF>^ffffffA tactic used by halberd-wielding generals.<CRLF>After activation, movement speed slightly increased,<CRLF>and enhances some moves' containment ability."}
+{"id": 220, "english": "^c3dbffExtra Spicy Boiled Fish<CRLF><CRLF>^ffffffConsumed immortal food. Attack greatly increased for 5 minutes."}
+{"id": 221, "english": "^c3dbffMadness<CRLF><CRLF>^ffffffGreatly increases attack speed and critical. Defense reduced."}
+{"id": 222, "english": "^c3dbffFrenzy<CRLF><CRLF>^ffffffAttack recklessly.<CRLF>Attack and movement speed slightly increased, but Hit and Evasion reduced.<CRLF>Easier to take damage."}
+{"id": 223, "english": "^c3dbffMad Heart Stance<CRLF><CRLF>^ffffffTrade massive Defense loss for high attack and critical."}
+{"id": 224, "english": "^c3dbffBerserker<CRLF><CRLF>^ffffffCritical rate and movement speed increased. Defense reduced."}
+{"id": 225, "english": "^c3dbffBerserker's Fury<CRLF><CRLF>^ffffffAttack increased."}
+{"id": 226, "english": "^c3dbffFrenzy Attack<CRLF><CRLF>^ffffffAttack increased."}
+{"id": 227, "english": "^c3dbffBerserk<CRLF><CRLF>^ffffffHe is enraged. All abilities greatly increased!<CRLF>"}

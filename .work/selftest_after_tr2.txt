@@ -1,0 +1,16 @@
+  [ok] control (unmodified)             exit=0 passed
+  [ok] CJK reintroduced                 exit=1 rejected
+  [ok] one line dropped                 exit=1 rejected
+  [ok] ID renumbered                    exit=1 rejected
+  [ok] placeholder %d removed           exit=1 rejected
+  [ok] extra %s added                   exit=1 rejected
+  [ok] %s and %d swapped                exit=1 rejected
+  [ok] CRLF converted to LF             exit=1 rejected
+  [ok] stray ASCII quote                exit=1 rejected
+  [ok] trailing space added             exit=1 rejected
+  [ok] color code mangled               exit=1 rejected
+  [ok] BOM stripped                     exit=1 rejected
+  [ok] destination with no source       exit=1 rejected
+
+all 13 cases behaved as expected
+exit=0

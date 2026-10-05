@@ -1,0 +1,12 @@
+{
+ "fix_order": [
+  "fix_000"
+ ],
+ "batches": [
+  {
+   "batch": "fix_000",
+   "count": 31,
+   "chars": 4283
+  }
+ ]
+}

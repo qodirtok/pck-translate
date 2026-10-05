@@ -1,0 +1,335 @@
+=== 商票
+  Translate/script/interfaces/qshop.lua :: [1] = "^ff5a00商票商城、汉铢商城已全面开启，欢迎玩家购买！",
+  Translate/script/interfaces/qshop.lua :: [3] = "^ff5a00商票商城可购买与元宝商城相同的物品，商票可在游戏内与官方网站获得！",
+=== 元宝
+  Translate/script/interfaces/qshop.lua :: [3] = "^ff5a00商票商城可购买与元宝商城相同的物品，商票可在游戏内与官方网站获得！",
+=== 汉铢
+  Translate/script/interfaces/qshop.lua :: [1] = "^ff5a00商票商城、汉铢商城已全面开启，欢迎玩家购买！",
+  Translate/script/interfaces/qshop.lua :: [4] = "^ff5a00汉铢商城可购买药品、传送旗、时装等，欢迎购买。",
+=== 声望
+  Translate/script/text.lua :: 9,护卫提高声望服务指引
+  Translate/script/text.lua :: PetGuide[9] = {text="^ff6fb3Increase Guard Reputation\r\r^ffffffGuard reputation is currently divided into six tiers: Unknown Talent, ^72fe00Slightly Known^ffffff, ^0184ffRenowned in One Region^ffffff, ^a800ffFamous Far and Wide^f
+  Translate/script/config/title_def.lua :: title_definition['称号_中原族系声望01'] = {id = 3001 , note = "^72fe00Rookie of Central Plains" , desc = "0^72fe00Permanent Effect:\r^ffffffStamina +10\r^ffc556ClanRenownTitle only shows the highest level owned" , desc_1 = "" , desc_2 = "
+=== 名望
+  Translate/script/config/title_def.lua :: title_definition['军团名望每周排行魏国第2'] = {id = 7315 , note = "^a800ff【Great Wei Heroic Lord】" , desc = "0^a800ffWei 2nd Ranked Legion Commander\rThis week Legion orders increase by 80.\rMembers may visit Huangfu Yan to claim strategic o
+  Translate/script/config/title_def.lua :: title_definition['军团名望每周排行魏国第3'] = {id = 7316 , note = "^a800ff【Great Wei Wise Lord】" , desc = "0^a800ffWei 3rd Ranked Legion Commander\rThis week Legion orders increase by 70.\rMembers may visit Huangfu Yan to claim strategic ord
+  Translate/script/config/title_def.lua :: title_definition['军团名望每周排行魏国第4'] = {id = 7317 , note = "^a800ff【Great Wei Mighty Lord】" , desc = "0^a800ffWei 4th Ranked Legion Commander\rThis week Legion orders increase by 60.\rMembers may visit Huangfu Yan to claim strategic o
+=== 武勋
+  Translate/script/config/title_def.lua :: title_definition['魏国武勋排行1'] = {id = 7145 , note = "^ff7d2f【Great Wei Commander-in-Chief】" , desc = "1^ff7d2fTitle earned by the meritorious general of Kingdom of Wei\rQualification: Wei Military Merit Ranking 1place" , desc_1 = ""
+  Translate/script/config/title_def.lua :: title_definition['魏国武勋排行2-5'] = {id = 7146 , note = "^a800ff【Great Wei Supreme General】" , desc = "1^a800ffTitle earned by the meritorious general of Kingdom of Wei\rQualification: Wei Military Merit Ranking 2-5place" , desc_1 = "
+  Translate/script/config/title_def.lua :: title_definition['魏国武勋排行6-20'] = {id = 7147 , note = "^0184ff【Great Wei Renowned General】" , desc = "1^0184ffTitle earned by the meritorious general of Kingdom of Wei\rQualification: Wei Military Merit Ranking 6-20place" , desc_1 
+=== 文勋
+  Translate/script/config/title_def.lua :: title_definition['魏国文勋排行1'] = {id = 7150 , note = "^ff7d2f【Great Wei Chief Minister】" , desc = "1^ff7d2fTitle earned by the outstanding civil minister of Kingdom of Wei\rQualification: Wei Civil Merit Ranking 1place" , desc_1 = ""
+  Translate/script/config/title_def.lua :: title_definition['魏国文勋排行2-5'] = {id = 7151 , note = "^a800ff【Great Wei Capable Minister】" , desc = "1^a800ffTitle earned by the outstanding civil minister of Kingdom of Wei\rQualification: Wei Civil Merit Ranking 2-5place" , desc_
+  Translate/script/config/title_def.lua :: title_definition['魏国文勋排行6-20'] = {id = 7152 , note = "^0184ff【Great Wei Renowned Minister】" , desc = "1^0184ffTitle earned by the outstanding civil minister of Kingdom of Wei\rQualification: Wei Civil Merit Ranking 6-20place" , de
+=== 功勋
+  Translate/configs/title_def.lua :: title_definition['白帝城文官称号'] = {id = 7370 , note = "^d181ff【智谋贯通】" , desc = "0^d181ff获得了所有八枚文官列传图鉴的嘉奖，\r可向长安图鉴使者张华一次性领取10000点文勋和10000点功勋。" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['白帝城武官称号'] = {id = 7371 , note = "^d181ff【兵法透彻】" , desc = "0^d181ff获得了所有八枚武官列传图鉴的嘉奖，\r可向长安图鉴使者张华一次性领取10000点武勋和10000点功勋。" , desc_1 = "" , desc_2 = ""}
+=== 历练
+  Translate/script/interfaces/gearscoreguide4.lua :: GameApi.CovertTextArea(self.this, "Txt_TextArea", "^ffffffYou can use the Escort Encyclopedia on the Escort interface to view detailed guidance.\r\r^ff6fb3How to Obtain an Escort:^ffffff\r\rAfter reaching Level 40, go to #69294# t
+  Translate/configs/title_def.lua :: title_definition['仁义值排行1'] = {id = 7107 , note = "^ff7d2f【天下第一仁君】" , desc = "0^ff7d2f仁义值排行榜第一的奖励称号\r为头顶称号时生效:\r^ffffff攻击力 +10\r历练值 +20%\r生命值 +200" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['仁义值排行2-4'] = {id = 7108 , note = "^ff7d2f【三君贤师】" , desc = "0^ff7d2f仁义值排行榜第二到第四的奖励称号\r为头顶称号时生效:\r^ffffff攻击力 +8\r历练值 +10%\r生命值 +100" , desc_1 = "" , desc_2 = ""}
+=== 体力
+  Translate/script/interfaces/gearscoreguide2.lua :: GearScoreGuide2[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升防御评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文镶
+  Translate/configs/title_def.lua :: title_definition['演义逆旅河山03'] = {id = 7361 , note = "^a800ff【三千世界万行具足觉妙如来逆时自在法王】" , desc = "0^a800ff演义战场“逆旅河山”中获得的称号\r攻击力+5,防御值+2，体力值+5" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['白帝城跑商6'] = {id = 7377 , note = "^ff4ca4【被忽悠了的善良商人】" , desc = "0^ff4ca4白帝城跑商中获得的称号\r体力值+5" , desc_1 = "" , desc_2 = ""}
+=== 暴击
+  Translate/script/interfaces/gearscoreguide1.lua :: GearScoreGuide1[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+  Translate/script/interfaces/gearscoreguide2.lua :: GearScoreGuide2[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升防御评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文镶
+  Translate/script/interfaces/gearscoreguide6.lua :: GearScoreGuide6[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+=== 攻击强度
+  Translate/script/interfaces/gearscoreguide1.lua :: GearScoreGuide1[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+  Translate/script/interfaces/gearscoreguide6.lua :: GearScoreGuide6[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+  Translate/script/interfaces/gearscoreguide5.lua :: GearScoreGuide5[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+=== 生命上限
+  Translate/configs/title_def.lua :: title_definition['媒体9月新手卡'] = {id = 7483 , note = "^8d76ff【傲视三军新英雄】" ,desc = "0^72fe00限时7天:\r^ffffff生命上限 +100" , desc_1 = "" , desc_2 = ""}
+=== Max HP
+  Translate/script/config/title_def.lua :: title_definition['称号_剧情河北5'] = {id = 2103 , note = "^72fe00【Long and Far Is the Road】" , desc = "0^72fe00Permanent Effect:\r^ffffffMax HP +30\rAttack +2" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['称号_剧情西凉6'] = {id = 2201 , note = "^72fe00【Gold Medal Gardener】" , desc = "0^72fe00Permanent Effect:\r^ffffffMax HP +15\rAttack +1" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['称号_剧情西凉7'] = {id = 2202 , note = "^72fe00【Red Ink Mohist】" , desc = "0^72fe00Permanent Effect:\r^ffffffMax HP +10\rAttack +1\rDefense +1" , desc_1 = "" , desc_2 = ""}
+=== Merit
+  Translate/script/text.lua :: GNR_POSITION_EXPLOIT1 = "Civil Merit"
+  Translate/script/text.lua :: GNR_POSITION_EXPLOIT2 = "Military Merit"
+  Translate/script/text.lua :: petst[23]="$name, if my reputation has not reached its maximum yet, you can use the Merit Book at the Whispers on Yun Terrace in Chang'an to raise my reputation."
+=== Civil
+  Translate/script/text.lua :: GNR_POSITION_TYPE1 = "Civil Official"
+  Translate/script/text.lua :: GNR_POSITION_EXPLOIT1 = "Civil Merit"
+  Translate/script/text.lua :: PositionHelp = "^ff6fb3Detailed Explanation of the Official Rank System:^ffffff\r\r^ff6fb3Level 10^ffffff：\rJoin as a Recruit at #2484#; joining as a Recruit requires first completing the “Receive Rank - Recruit” quest. The quest-
+=== Military
+  Translate/script/text.lua :: GNR_POSITION_TYPE0 = "Military Rank"
+  Translate/script/text.lua :: GNR_POSITION_TYPE2 = "Military Official"
+  Translate/script/text.lua :: GNR_POSITION_EXPLOIT2 = "Military Merit"
+=== Renown
+  Translate/script/text.lua :: ConsoleList[35] = {title = "Add Renown Increment", cate = "Other", command = "d_c2scmd 2020 ", parameter = 1, desc = "Parameter 1: value"}
+  Translate/script/text.lua :: ConsoleList[36] = {title = "Add Renown", cate = "Other", command = "d_c2scmd 7002 ", parameter = 1, desc = "Parameter 1: value. Items: 13141 adds Legion Command; 21818 adds 10000 Renown."}
+  Translate/script/text.lua :: PetGuide[9] = {text="^ff6fb3Increase Guard Reputation\r\r^ffffffGuard reputation is currently divided into six tiers: Unknown Talent, ^72fe00Slightly Known^ffffff, ^0184ffRenowned in One Region^ffffff, ^a800ffFamous Far and Wide^f
+=== Reputation
+  Translate/script/text.lua :: ConsoleList[19] = {title = "Obtain Personal Reputation", cate = "Common", command = "d_c2scmd 7000 ", parameter = 2, desc = "Parameter 1: Reputation index; Parameter 2: value"}
+  Translate/script/text.lua :: PetGuide[9] = {text="^ff6fb3Increase Guard Reputation\r\r^ffffffGuard reputation is currently divided into six tiers: Unknown Talent, ^72fe00Slightly Known^ffffff, ^0184ffRenowned in One Region^ffffff, ^a800ffFamous Far and Wide^f
+  Translate/script/text.lua :: PetGuide[11] = {text="^ff6fb3Guard Inheritance\r\r^ffffffGuard inheritance transfers a portion of one guard's (the donor) attributes to another guard (the recipient), using different items to transfer different attributes. Both th
+=== Stamina
+  Translate/script/text.lua :: "Drinking fine wine restores Stamina outside of combat, and after drinking the wine you also gain an effect that boosts your Combat Power when killing enemies.",
+  Translate/script/text.lua :: "Drinking tea restores Stamina outside of combat, and after drinking the tea you also gain an effect that boosts your Stamina when killing enemies.",
+  Translate/script/config/title_def.lua :: title_definition['称号_中原族系声望01'] = {id = 3001 , note = "^72fe00Rookie of Central Plains" , desc = "0^72fe00Permanent Effect:\r^ffffffStamina +10\r^ffc556ClanRenownTitle only shows the highest level owned" , desc_1 = "" , desc_2 = "
+=== Crit
+  Translate/script/text.lua :: ConsoleList[4] = {title = "Obtain One Item", cate = "Common", command = "d_c2scmd 2001 ", parameter = 1, desc = "Parameter 1: Item ID\rCommon items: GM weapons 134-151, Thousand-Flash Leather Coat 153, Ten-Thousand-Blood Ring 166,
+  Translate/script/config/title_def.lua :: title_definition['称号_中原族系声望03'] = {id = 3003 , note = "^a800ffRenowned Hero of Central Plains" , desc = "0^a800ffPermanent Effect:\r^ffffffStamina +20\rDefense +4\rCrit Bonus Damage +10\r^ffc556ClanRenownTitle only shows the highe
+  Translate/script/config/title_def.lua :: title_definition['称号_中原族系声望04'] = {id = 3004 , note = "^ff7d2fElite of Central Plains" , desc = "0^ff7d2fPermanent Effect:\r^ffffffStamina +20\rDefense +6\rCrit Bonus Damage +10\rAccuracy +1\r^ffc556ClanRenownTitle only shows the 
+=== Attack
+  Translate/script/text.lua :: "Attacking players of other nations will not incur a PK penalty.",
+  Translate/script/text.lua :: "Attacking players of your own nation will increase your PK points.",
+  Translate/script/text.lua :: "Attacking Side",
+=== Defense
+  Translate/script/text.lua :: "Type: Score Accumulation, Tower Defense\rDifficulty:★★★\rLevel:Hero Level 1+\rFoes:Eight Formation Mechanism VS Charging Enemy Forces\rObjective:Control the mechanism to defeat the enemy\rStory:\r      Zhuge Kongming once set up 
+  Translate/script/text.lua :: "Type: Score Accumulation, Tower Defense\rDifficulty:★★★\rLevel:Hero Level 1+\rFoes:Eight Formation Mechanism VS Charging Enemy Forces\rObjective:Control the mechanism to defeat the enemy\rStory:\r      Zhuge Kongming once set up 
+  Translate/script/text.lua :: "Tower Defense Side",
+=== Movement
+  Translate/script/text.lua :: ConsoleList[3] = {title = "Movement Speed Boost", cate = "Common", command = "d_runspeed ", parameter = 1, desc = "Parameter 1: movement speed. The default speed is 5."}
+  Translate/configs/item_ext_prop.txt :: 48: Movement Speed
+  Translate/configs/item_ext_prop.txt :: 49: Movement Speed (%)
+=== Cool-down
+  Translate/configs/skillgbk.txt :: Tactic: InstantCool-down 8s
+  Translate/configs/skillgbk.txt :: Move: InstantCool-down 5s
+  Translate/configs/skillgbk.txt :: Move: 1.5 second wind-upCool-down 8 seconds
+=== Cost
+  Translate/script/secretarydata.lua :: [30893] = 1,--Male Costume
+  Translate/script/secretarydata.lua :: [30895] = 2,--Female Costume
+  Translate/script/secretarydata.lua :: [30893] = 3,--Male Costume
+=== Constitution
+  Translate/script/text.lua :: petst[24]="The Glory Stone restores my Attack, Strategy, and HP, while the Metamorphosis Elixir restores my Martial, Intellect, and Constitution attributes — don't confuse the two!"
+  Translate/script/text.lua :: petst[36]="Each point of Constitution increases my HP; the amount is determined by my Constitution attribute."
+  Translate/configs/skillgbk.txt :: 37270  "Test_Add Constitution"
+=== Aptitude
+  Translate/script/text.lua :: TEXT_PROFHELP_TITLE4 = "\r4. Suggested Aptitude Points:"
+  Translate/script/text.lua :: TEXT_PROFHELP_INTDOWER1 = "Your total Aptitude Points: %d."
+  Translate/script/text.lua :: TEXT_PROFHELP_INTDOWER2 = "Currently, each time your character gains one level, you receive five Aptitude Points."
+=== Specialization
+  Translate/script/text.lua :: "Each time your Main Troop Level rises by one, you gain one Specialization Point.",
+  Translate/script/text.lua :: "Press the K key to open the Skills and Specialization interface.",
+  Translate/script/text.lua :: "Click the “Specialization” button at the bottom of the Skills interface to switch to the Specialization interface.",
+=== 秘文
+  Translate/script/interfaces/gearscoreguide1.lua :: --秘文
+  Translate/script/interfaces/gearscoreguide1.lua :: GearScoreGuide1[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+  Translate/script/interfaces/gearscoreguide3.lua :: --秘文
+=== 符玉
+  Translate/script/interfaces/gearscoreguide1.lua :: --符玉
+  Translate/script/interfaces/gearscoreguide3.lua :: --符玉
+  Translate/script/interfaces/gearscoreguide2.lua :: --符玉
+=== 图鉴
+  Translate/configs/title_def.lua :: title_definition['征战03濮阳霸主'] = {id = 7224 , note = "^ff7d2f【濮阳霸主】" , desc = "0^72fe00获得濮阳之战贰所有图鉴后，获得的称号。\r^72fe00永久生效\r^ffffff攻击力 +20\r附加伤害 +15\r暴击抗性 +3\r限制抗性 +3" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['七星湖南中蛮王'] = {id = 7343 , note = "^d181ff【南中蛮王】" , desc = "0^d181ff在七星湖得到孟获军所有人物图鉴获得的珍贵称号，\r完成孟获友好度相关战术任务时可以获得双倍名望加成。" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['白帝城文官称号'] = {id = 7370 , note = "^d181ff【智谋贯通】" , desc = "0^d181ff获得了所有八枚文官列传图鉴的嘉奖，\r可向长安图鉴使者张华一次性领取10000点文勋和10000点功勋。" , desc_1 = "" , desc_2 = ""}
+=== 礼包
+  Translate/script/config/title_def.lua :: title_definition['赵云补偿礼包称号'] = {id = 9603 , note = "^ff4ca4【Zhao Yun's Lord】" , desc = "0^ff4ca4Operations Exclusive Title" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['17173战天下礼包'] = {id = 9651 , note = "^a800ff【17173 Fierce Battle for the World】" , desc = "0^ff0000Operations Beginner Card Title" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['新浪战天下礼包'] = {id = 9652 , note = "^a800ff【Sina Fierce Battle for the World】" , desc = "0^ff0000Operations Beginner Card Title" , desc_1 = "" , desc_2 = ""}
+=== 传送旗
+  Translate/script/interfaces/qshop.lua :: [4] = "^ff5a00汉铢商城可购买药品、传送旗、时装等，欢迎购买。",
+=== 朱砂笔
+  Translate/script/interfaces/gearscoreguide1.lua :: GearScoreGuide1[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+  Translate/script/interfaces/gearscoreguide2.lua :: GearScoreGuide2[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升防御评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文镶
+  Translate/script/interfaces/gearscoreguide6.lua :: GearScoreGuide6[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+=== 开光石
+  Translate/script/interfaces/gearscoreguide1.lua :: GearScoreGuide1[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+  Translate/script/interfaces/gearscoreguide2.lua :: GearScoreGuide2[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升防御评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文镶
+  Translate/script/interfaces/gearscoreguide6.lua :: GearScoreGuide6[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+=== 秘文灵珠
+  Translate/script/interfaces/gearscoreguide1.lua :: GearScoreGuide1[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+  Translate/script/interfaces/gearscoreguide2.lua :: GearScoreGuide2[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升防御评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文镶
+  Translate/script/interfaces/gearscoreguide6.lua :: GearScoreGuide6[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+=== 秘文琼珠
+  Translate/script/interfaces/gearscoreguide1.lua :: GearScoreGuide1[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+  Translate/script/interfaces/gearscoreguide2.lua :: GearScoreGuide2[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升防御评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文镶
+  Translate/script/interfaces/gearscoreguide6.lua :: GearScoreGuide6[2] = {text="^ff6fb3什么是秘文：^ffffff通过在装备上镶嵌秘文可以提升战斗力评分，秘文是一种充满力量的秘文灵珠或秘文琼珠，本身带有附加的属性，同时通过不同装备部位上的秘文，可形成秘咒，产生额外的属性加成。\r\r^ff6fb3如何获取和装备秘文：^ffffff可以通过参加战场，使用朱砂笔对低级秘文灵珠进行点化来获得秘文。可以在#19589#处购买开光石，在#20286#激活装备上的秘文孔后，即可进行秘文
+=== 逆旅河山
+  Translate/script/config/title_def.lua :: title_definition['演义逆旅河山01'] = {id = 7359 , note = "^72fe00【Wanderer of the Reversing Journey】" , desc = "0^72fe00Romance Battlefield“Journey Through Rivers and Mountains”Title Earned in\rAttack +2" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['演义逆旅河山02'] = {id = 7360 , note = "^0184ff【A Thousand Years a Wanderer, Idly Asking Flowers】" , desc = "0^0184ffTitle earned in Chronicle Battlefield "Reversing Rivers and Mountains"\rAttack +3, Defense +1" , desc
+  Translate/script/config/title_def.lua :: title_definition['演义逆旅河山03'] = {id = 7361 , note = "^a800ff【Thirty Thousand Worlds, All Practices Complete, Awakened Wondrous Tathagata, Dharma King of Timeless Freedom】" , desc = "0^a800ffRomance Battlefield“Journey Through River
+=== 演义剧本
+  Translate/configs/title_def.lua :: title_definition['演义12低级称号'] = {id = 7274 , note = "^72fe00【The Unyielding】" , desc = "0^a800ff来自演义剧本麦城之战\r^72fe00永久生效\r^ffffff攻击力 +2" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['演义12中级称号'] = {id = 7275 , note = "^0184ff【Three Hundred Warriors of Mai City】" , desc = "0^a800ff来自演义剧本麦城之战\r^72fe00永久生效\r^ffffff攻击力 +3，暴击伤害 +1%" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['演义12高级称号'] = {id = 7276 , note = "^a800ff【武圣之手】" , desc = "0^a800ff来自演义剧本麦城之战\r^72fe00永久生效\r^ffffff攻击力 +5，暴击伤害 +2%" , desc_1 = "" , desc_2 = ""}
+=== 华容道
+  Translate/script/config/title_def.lua :: title_definition['华容道过关称号1'] = {id = 7507 , note = "^00FF00【Narrow Escape at Huarong Pass】" ,desc = "0^00FF00A Soldier Who Successfully Crossed the Perils of Huarong Pass.\r^72fe00Permanent Effect: \r^ffffffStamina+10" , desc_1 = 
+  Translate/script/config/title_def.lua :: title_definition['华容道过关称号2'] = {id = 7508 , note = "^0066CC【Brave Gatebreaker General】" ,desc = "0^0066CCA Fearless Soldier Charging Forward.\r^72fe00Permanent Effect: \r^ffffffStamina+30 Attack+5" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['华容道过关称号3'] = {id = 7509 , note = "^6666CC【Golden Dragon Unbound by Peril】" ,desc = "0^6666CCA Hero Who Soared Over the Perils of Huarong Like a Flood Dragon.\r^72fe00Permanent Effect: \r^ffffffStamina+80 Attack+1
+=== 合肥之战
+  Translate/script/config/title_def.lua :: title_definition['合肥之战（英雄级）1'] = {id = 9586 , note = "^ffffff【In Plain Clothes, Joining the Army】" , desc = "0^ffffffHP+100" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['合肥之战（英雄级）2'] = {id = 9587 , note = "^72fe00【Guarding the General Before and After the Saddle】" , desc = "0^72fe00HP+300" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['合肥之战（英雄级）3'] = {id = 9588 , note = "^0184ff【Fury on the Battlefield Shatters Iron Armor】" , desc = "0^0184ffHP+600" , desc_1 = "" , desc_2 = ""}
+=== 濮阳之战
+  Translate/script/config/title_def.lua :: title_definition['称号_濮阳之战英雄级低'] = {id = 7484 , note = "^0184ff【Cold-Blooded Elite】" ,desc = "0^72fe00Permanent Effect:\r^ffffffMax HP +120" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['称号_濮阳之战英雄级高'] = {id = 7485 , note = "^a800ff【Defy Heaven, Change Fate】" ,desc = "0^72fe00Permanent Effect:\r^ffffffMax HP +200\rCrit Resist +1" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['征战03濮阳霸主'] = {id = 7224 , note = "^ff7d2f【濮阳霸主】" , desc = "0^72fe00获得濮阳之战贰所有图鉴后，获得的称号。\r^72fe00永久生效\r^ffffff攻击力 +20\r附加伤害 +15\r暴击抗性 +3\r限制抗性 +3" , desc_1 = "" , desc_2 = ""}
+=== 隆中奇情
+  Translate/script/config/title_def.lua :: title_definition['无双隆中奇情称号01'] = {id = 7327 , note = "^72fe00【How Many Times in Dreams With You】" , desc = "0Title earned in Peerless Battlefield "Romance at Longzhong"\rAttack +3" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['无双隆中奇情称号02'] = {id = 7328 , note = "^0184ff【Fearing This Meeting Is a Dream】" , desc = "0Title earned in Peerless Battlefield "Romance at Longzhong"\rAttack +5, Max HP +20" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['无双隆中奇情称号03'] = {id = 7329 , note = "^a800ff【Strong Love in Wind and Moon; A Passionate Soul】" , desc = "0Title earned in Peerless Battlefield "Romance at Longzhong"\rAttack +10, Max HP +50" , desc_1 = "" , desc_2
+=== 白帝城
+  Translate/script/config/title_def.lua :: title_definition['白帝城文官称号'] = {id = 7370 , note = "^d181ff【Strategic Wisdom Pervading】" , desc = "0^d181ffHonored for Collecting All Eight Civil Official Biographical Codex Entries;\rClaim 10,000 Civil Merit and 10,000 Merit in On
+  Translate/script/config/title_def.lua :: title_definition['白帝城武官称号'] = {id = 7371 , note = "^d181ff【Thorough in the Art of War】" , desc = "0^d181ffHonored for Collecting All Eight Military Official Biographical Codex Entries;\rClaim 10,000 Military Merit and 10,000 Merit
+  Translate/script/config/title_def.lua :: title_definition['白帝城跑商1'] = {id = 7372 , note = "^72fe00【Wandering Mountain Peddler】" , desc = "0^72fe00Title earned in Baidi City Trade Caravan\rAttack +2，Defense+1" , desc_1 = "" , desc_2 = ""}
+=== 楼兰沙海
+  Translate/script/interfaces/helplv71.lua :: HelpText71[1] = {text="主线任务：现在你可以通过#23030#前往楼兰沙海，探索新的地图，发现新的故事。\r\r酒馆任务：达到沙海后，找到#21352#，或其他酒馆的老板，完成酒馆任务，获得经验和代币奖励。酒馆任务可重复完成。\r\r和亲任务：找到#24529#，购买和亲所需的物品，找到#27505#，完成和亲任务，每日可完成四次。\r\r桃园告急：每日14:00、16:00、18:00、20:00、22:00、找到#72651#，完
+=== 留芳幽谷
+  Translate/script/interfaces/helplv67.lua :: HelpText67[1] = {text="主线任务：现在你可以通过#23030#前往留芳幽谷，探索新的地图，发现新的故事。\r\r酒馆任务：达到幽谷后，找到#19531#，或其他酒馆的老板，完成酒馆任务，获得经验和代币奖励。酒馆任务可重复完成。\r\r和亲任务：找到#24529#，购买和亲所需的物品，找到#27504#，完成和亲任务，每日可完成四次。\r\r桃园告急：每日14:00、16:00、18:00、20:00、22:00、找到#72651#，完
+=== 迷花雨林
+  Translate/script/interfaces/helplv77.lua :: HelpText77[1] = {text="主线任务：现在你可以通过#23030#前往迷花雨林，探索新的地图，发现新的故事。\r\r酒馆任务：达到雨林后，找到#19647#，或其他酒馆的老板，完成酒馆任务，获得经验和代币奖励。酒馆任务可重复完成。\r\r和亲任务：找到#24529#，购买和亲所需的物品，找到#27506#，完成和亲任务，每日可完成四次。\r\r桃园告急：每日14:00、16:00、18:00、20:00、22:00、找到#72651#，完
+=== 云台
+  Translate/script/interfaces/gearscoreguide4.lua :: GameApi.CovertTextArea(self.this, "Txt_TextArea", "^ffffffYou can use the Escort Encyclopedia on the Escort interface to view detailed guidance.\r\r^ff6fb3How to Obtain an Escort:^ffffff\r\rAfter reaching Level 40, go to #69294# t
+=== 绑定
+  Translate/script/text.lua :: 2,护卫绑定指引
+  Translate/script/text.lua :: PetGuide[2] = {text="^ff6fb3Bind Guard\r\r^ffffffUnbound guards can be converted into Guard Contracts to trade with others, but cannot promote in official rank.\r\rBound guards cannot be converted into Guard Contracts, so they can
+  Translate/script/interfaces/gearscoreguide4.lua :: GameApi.CovertTextArea(self.this, "Txt_TextArea", "^ffffffYou can use the Escort Encyclopedia on the Escort interface to view detailed guidance.\r\r^ff6fb3How to Obtain an Escort:^ffffff\r\rAfter reaching Level 40, go to #69294# t
+=== 开启
+  Translate/script/interfaces/eventmsg2.lua :: GameApi.CovertTextArea (self.this, "Txt_Content", "^ff9090英雄之路：^ffffff河北出现很多奇怪的女子，还有大批的贼人，又赶上鼹鼠灾，天灾人祸民不聊生！#74817#希望各位英雄和朋友们一起来拯救村民！\r^ff9090活动时间：^ffffff每周日15点、17点、19点、21点、23点\r^ff9090等级：^ffffff英雄级\r^ff9090注意：^ffffff活动持续时间1小时，1小时后所
+  Translate/script/interfaces/qshop.lua :: [1] = "^ff5a00商票商城、汉铢商城已全面开启，欢迎玩家购买！",
+  Translate/script/interfaces/eventmsg.lua :: GameApi.CovertTextArea (self.this, "Txt_Content", "^ff9090桃园告急：^ffffff不明身份的叛乱分子乔装打扮，从清凉驿潜入，一直到桃园村都有他们的踪迹。有的化妆成杂耍团，有的化妆成道士，偷袭村民，#72651#希望有英雄和朋友们一起来拯救村民！\r^ff9090活动时间：^ffffff每天14点、16点、18点、20点、22点\r^ff9090等级：^ffffff16-80级\r^ff9090活动线
+=== 领取
+  Translate/script/interfaces/helplv67.lua :: HelpText67[1] = {text="主线任务：现在你可以通过#23030#前往留芳幽谷，探索新的地图，发现新的故事。\r\r酒馆任务：达到幽谷后，找到#19531#，或其他酒馆的老板，完成酒馆任务，获得经验和代币奖励。酒馆任务可重复完成。\r\r和亲任务：找到#24529#，购买和亲所需的物品，找到#27504#，完成和亲任务，每日可完成四次。\r\r桃园告急：每日14:00、16:00、18:00、20:00、22:00、找到#72651#，完
+  Translate/script/interfaces/helplv71.lua :: HelpText71[1] = {text="主线任务：现在你可以通过#23030#前往楼兰沙海，探索新的地图，发现新的故事。\r\r酒馆任务：达到沙海后，找到#21352#，或其他酒馆的老板，完成酒馆任务，获得经验和代币奖励。酒馆任务可重复完成。\r\r和亲任务：找到#24529#，购买和亲所需的物品，找到#27505#，完成和亲任务，每日可完成四次。\r\r桃园告急：每日14:00、16:00、18:00、20:00、22:00、找到#72651#，完
+  Translate/script/interfaces/helplv77.lua :: HelpText77[1] = {text="主线任务：现在你可以通过#23030#前往迷花雨林，探索新的地图，发现新的故事。\r\r酒馆任务：达到雨林后，找到#19647#，或其他酒馆的老板，完成酒馆任务，获得经验和代币奖励。酒馆任务可重复完成。\r\r和亲任务：找到#24529#，购买和亲所需的物品，找到#27506#，完成和亲任务，每日可完成四次。\r\r桃园告急：每日14:00、16:00、18:00、20:00、22:00、找到#72651#，完
+=== 兑换
+  Translate/script/config/title_def.lua :: title_definition['圣诞声望兑换称号1'] = {id = 7215 , note = "^72fe00【Christmas Snow Baby】" , desc = "During the 12.25-1.8 Christmas Event, claim 20 normal snowballs daily from the Perfect Gift Envoy." , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['圣诞声望兑换称号2'] = {id = 7216 , note = "^72fe00【Christmas Snow Sprite】" , desc = "During the 12.25-1.8 Christmas Event, claim 40 normal snowballs daily from the Perfect Gift Envoy." , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['圣诞声望兑换称号3'] = {id = 7217 , note = "^72fe00【Snow-Treading Plum Seeker】" , desc = "During the 12.25-1.8 Christmas Event, claim 60 normal snowballs daily from the Perfect Gift Envoy." , desc_1 = "" , desc_2 = ""}
+=== 奖励
+  Translate/script/config/title_def.lua :: --title_definition['周排行榜个人奖励01魏名次1] = {id = 7294 , note = "^ff7d2fFamous Scholar of Kingdom of Wei" , desc = "0^72fe00Kingdom of Wei last week's Renown Ranking: 1 place title." , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: --title_definition['周排行榜个人奖励02魏名次2-10] = {id = 7295 , note = "^a800ffFamous Scholar of Kingdom of Wei" , desc = "0^72fe00Kingdom of Wei last week's Renown Ranking: 2-10 place title." , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: --title_definition['周排行榜个人奖励03魏名次11-50] = {id = 7296 , note = "^a800ffFamous Scholar of Kingdom of Wei" , desc = "0^72fe00Kingdom of Wei last week's Renown Ranking: 11-50 place title." , desc_1 = "" , desc_2 = ""}
+=== 长安
+  Translate/script/interfaces/gearscoreguide4.lua :: GameApi.CovertTextArea(self.this, "Txt_TextArea", "^ffffffYou can use the Escort Encyclopedia on the Escort interface to view detailed guidance.\r\r^ff6fb3How to Obtain an Escort:^ffffff\r\rAfter reaching Level 40, go to #69294# t
+  Translate/configs/title_def.lua :: title_definition['白帝城文官称号'] = {id = 7370 , note = "^d181ff【智谋贯通】" , desc = "0^d181ff获得了所有八枚文官列传图鉴的嘉奖，\r可向长安图鉴使者张华一次性领取10000点文勋和10000点功勋。" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['白帝城武官称号'] = {id = 7371 , note = "^d181ff【兵法透彻】" , desc = "0^d181ff获得了所有八枚武官列传图鉴的嘉奖，\r可向长安图鉴使者张华一次性领取10000点武勋和10000点功勋。" , desc_1 = "" , desc_2 = ""}
+=== 洛阳
+  Translate/script/config/title_def.lua :: title_definition['2010资料片洛阳剧情称号1'] = {id = 7417 , note = "^ff7d2f【Hero's Fate】" , desc = "0^ff7d2fFate earned when any martial art reaches Venerable Rank 9，\rYou may seek Old Hu in Chang'an City to embark on a new hero's path。\rPe
+  Translate/script/config/title_def.lua :: title_definition['2010资料片洛阳剧情称号2'] = {id = 7418 , note = "^72fe00【Great Detective】" , desc = "0^72fe00Permanent Effect:\r^ffffffAttack+2\rStamina+10\rDodge+1" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['2010资料片洛阳剧情称号3'] = {id = 7419 , note = "^72fe00【Red Ink Elder】" , desc = "0^72fe00Permanent Effect:\r^ffffffAttack+2\rStamina+30\rHealing+10\rAccuracy+1" , desc_1 = "" , desc_2 = ""}
+=== 赤壁
+  Translate/script/config/title_def.lua :: title_definition['2010资料片赤壁之战1'] = {id = 7452 , note = "^72fe00【Chibi Oarsman】" , desc = "0^72fe00Permanent Effect:\r^ffffffAttack+2\rCrit Resist+1\rDefense+1" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['2010资料片赤壁之战2'] = {id = 7453 , note = "^0184ff【Chibi Archer】" , desc = "0^0184ffPermanent Effect:\r^ffffffAttack+5\rCrit Resist+2\rDefense+2" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['2010资料片赤壁之战3'] = {id = 7454 , note = "^0184ff【Chibi Cannoneer】" , desc = "0^0184ffPermanent Effect:\r^ffffffAttack+10\rCrit Resist+3\rDefense+5" , desc_1 = "" , desc_2 = ""}
+=== Chibi
+  Translate/script/config/title_def.lua :: title_definition['称号_活动2'] = {id = 7102 , note = "^72fe00【Splash Dark Ink, Paint Three Kingdoms Sorrow】" , desc = "0^72fe00First time won the Chibi Side Story Battlefield Planner Grand Prize reward title" , desc_1 = "" , desc_2 = 
+  Translate/script/config/title_def.lua :: title_definition['称号_活动3'] = {id = 7103 , note = "^0184ff【With Heavy Brush, Speak of the Great River】" , desc = "0^72fe00Second time won the Chibi Side Story Battlefield Planner Grand Prize reward title" , desc_1 = "" , desc_2 = "
+  Translate/script/config/title_def.lua :: title_definition['称号_活动4'] = {id = 7104 , note = "^a800ff【Painting with Vivid Colors the Glorious Blood and Fire】" , desc = "0^72fe00Third time won the Chibi Side Story Battlefield Planner Grand Prize reward title" , desc_1 = "" ,
+=== Weiyang
+  Translate/script/text.lua :: "Type: Co-op, Accumulate Points\rDifficulty:★★★★★\rLevel: Hero 31+\rStory:\r   A tower of a thousand floors, layer upon layer of myriad visions; an endless road, silently awaiting exploration.\r   Beyond Weiyang Palace and Qingfen
+=== Luoyang
+  Translate/script/text.lua :: "Type: Confrontation, Boss Kill\rDifficulty:★★★\rLevel:58+\rMatchup:Yellow Turban Army VS Eastern Han Army\rYellow Turban Objective:Defeat Huangfu Song\rEastern Han Objective:Defeat Zhang Jue\rStory:\r    In the first year of Zhon
+  Translate/script/text.lua :: "Type: Co-op, Defeat Boss\rDifficulty:★★★★★★★\rLevel:60+\rConflict:Allied Army VS Dong Zhuo's Army (NPC)\rObjective:Defeat Dong Zhuo within 120 minutes\rStory:\r    In the first year of Chuping (AD 189), Dong Zhuo seized power, de
+  Translate/script/text.lua :: "Type: Co-op, Defeat Boss\rDifficulty:★★★★★★★\rLevel:60+\rConflict:Allied Army VS Dong Zhuo's Army (NPC)\rObjective:Defeat Dong Zhuo within 120 minutes\rStory:\r    In the first year of Chuping (AD 189), Dong Zhuo seized power, de
+=== Chang'an
+  Translate/script/text.lua :: "Once your character reaches level 15, it can learn Combat Skills from the Martial Arts Master in Chang'an.",
+  Translate/script/text.lua :: "Once your character reaches level 20, it can learn Riding from the Riding Master in Chang'an city.",
+  Translate/script/text.lua :: "The Engineering Skill Master in Chang'an city provides Socket Mystery Rune and Remove Mystery Rune services.",
+=== Wooden Ox
+  Translate/configs/skillgbk.txt :: 49980  "Wooden Ox and Flowing Horse"
+  Translate/configs/skillgbk.txt :: 49981  "^c3dbffWooden Ox and Flowing Horse^ffffff                                        ^ffcc00Level %d^ffffff
+  Translate/configs/skillgbk.txt :: Summon the hero soul fused into your body to cast the Wooden Ox or Flowing Horse state on yourself.
+=== Red Hare
+  Translate/script/config/title_def.lua :: title_definition['剧情关中称号1'] = {id = 2607 , note = "^72fe00【Red Hare Among Horses, Lu Bu Among Men】" , desc = "0^72fe00Permanent Effect:\r^ffffffAttack +1\rDefense +3" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/skillgbk.txt :: 35380  "Lu Bu Red Hare's Might"
+  Translate/configs/title_def.lua :: title_definition['剧情关中称号1'] = {id = 2607 , note = "^72fe00【Red Hare Among Horses, Lu Bu Among Men】" , desc = "0^72fe00Permanent Effect:\r^ffffffAttack +1\rDefense +3" , desc_1 = "" , desc_2 = ""}
+=== Merchant
+  Translate/script/text.lua :: "General Goods Merchants in every region provide Socket Enchant Jade and Remove Enchant Jade services.",
+  Translate/script/text.lua :: "Artificers and Jewelry Merchants in every region provide Equipment Enhancement and Equipment Disassembly services.",
+  Translate/script/text.lua :: "Most of the raw materials required for Crafting Skills can be purchased from General Goods Merchants in every region.",
+=== Token
+  Translate/script/config/title_def.lua :: title_definition['20151202双12活动1'] = {id = 10014 , note = "^ffc556【Three Kingdoms Division · Tianguan Army Breaker】" , desc = "0^ffc556Permanent Effect:\r^ffffffMax HP +1000\rAttack +30\rDefense +10\rPierce +1\rPierce +1\rAttack P
+  Translate/script/config/title_def.lua :: title_definition['20151202双12活动2'] = {id = 10015 , note = "^ffc556【Three Kingdoms Division · Xuanming Wenqu】" , desc = "0^ffc556Permanent Effect:\r^ffffffMax HP +1000\rAttack +20\rDefense +20\rCrit Resist +2\rSpell Resist +2\rHeal
+  Translate/script/config/title_def.lua :: title_definition['20151202双12活动3'] = {id = 10016 , note = "^ffc556【Three Kingdoms Division · Danyuan Lianzhen】" , desc = "0^ffc556Permanent Effect:\r^ffffffMax HP +1000\rAttack +30\rDefense +10\rDirect DMG Resist +1\rIndirect DMG 
+=== Codex
+  Translate/script/config/title_def.lua :: title_definition['白帝城文官称号'] = {id = 7370 , note = "^d181ff【Strategic Wisdom Pervading】" , desc = "0^d181ffHonored for Collecting All Eight Civil Official Biographical Codex Entries;\rClaim 10,000 Civil Merit and 10,000 Merit in On
+  Translate/script/config/title_def.lua :: title_definition['白帝城武官称号'] = {id = 7371 , note = "^d181ff【Thorough in the Art of War】" , desc = "0^d181ffHonored for Collecting All Eight Military Official Biographical Codex Entries;\rClaim 10,000 Military Merit and 10,000 Merit
+  Translate/configs/skillgbk.txt :: A passive skill unlocked after growing the Military Officer Codex.
+=== Secret Text
+  Translate/script/text.lua :: LEVELHELP_TEXT1 = "^ff6fb3In-game security features:^ffffff\r^fedc40Safety Lock Feature^ffffff\rRecommended rating: ★★★★\rWhile Safety Lock is active, the following restrictions apply:\rCannot trade with other players, cannot stal
+  Translate/script/interfaces/qshop.lua :: [2] = { text = "^ff5a00New arrivals in the Merchant Token Shop: "Secret Text Related" items. Secret Text·Heart to Secret Text Weapon now available. Players welcome!", startTime = "2012-9-10 0:0:0", endTime = "2012-9-30 23:59:59" }
+  Translate/configs/skillgbk.txt :: 47280  "Common Secret Text"
+=== Skill Jade
+  Translate/configs/skillgbk.txt :: 51740  "Skill Jade Axe Generate Silence"
+  Translate/configs/skillgbk.txt :: 51840  "Skill Jade Halberd Generate Crit"
+  Translate/configs/skillgbk.txt :: 52010  "Skill Jade Halberd Reflect HP Recovery"
+=== Battle Qi
+  Translate/configs/skillgbk.txt :: the move is swift but deals low damage. Generates 5 Battle Qi.
+  Translate/configs/skillgbk.txt :: The Move is vicious and powerful. Generates 25 Battle Qi.
+  Translate/configs/skillgbk.txt :: ^ffffffWeapon: Saber40 Battle Qi 5 Stamina
+=== Gift Pack
+  Translate/script/interfaces/qshop.lua :: [3] = { text = "^ff5a00"Guard Ruyi Gift Pack", "Guard Auspicious Gift Pack", "Master Manual" from Sep 10 to Sep 16开始销售，请查看限时促销处购买。", startTime = "2012-9-10 0:0:0", endTime = "2012-9-16 23:59:59" },
+  Translate/configs/skillgbk.txt :: 24520  "Event 09 GM Lucky Gift Pack"
+  Translate/configs/skillgbk.txt :: 26650  "Tiger's Might Gift Pack Skill"
+=== Right-click
+  Translate/script/text.lua :: "Right-clicking a target will automatically attack that target.",
+  Translate/script/text.lua :: "Right-click an NPC to talk to that NPC.",
+  Translate/script/text.lua :: FightGuide[2] = {text="^ff6fb3Requirements:^ffffff\rFrom 0 o'clock Monday to 0 o'clock Saturday each week, any player ranked in the top 500 of the Personal Overall Rating Leaderboard who has reached Hero level is eligible to creat
+=== Hero
+  Translate/script/text.lua :: "The Nation War Battlefield requires Hero Level to participate.",
+  Translate/script/text.lua :: --ID:335 Hero Arena Battlefield
+  Translate/script/text.lua :: "Type: Arena\rTime:15 min\rLevel:60-69\rObjective:Within 15 minutes, exceed the opponent's kill count, or seize the Hero's Summit at the center.",
+=== Quest
+  Translate/script/secretarydata.lua :: --	[Quest ID] = Storage index (sequentially numbered from 1, cannot insert in the middle; quest IDs across different tables are assigned storage indices uniformly)
+  Translate/script/secretarydata.lua :: ["ACCEPT"] =		-- Accept Quest
+  Translate/script/secretarydata.lua :: ["FINISH"] = 		-- Complete Quest
+=== Title
+  Translate/script/constant.lua :: GUIDE_SET_TITLE				=		40009	--Equip Title
+  Translate/script/text.lua :: TitlePList = {
+  Translate/script/text.lua :: LEVELTIP_TYPELIST = {"All", "Quest", "Guide", "Title"}
+=== Bound
+  Translate/script/text.lua :: PetGuide[2] = {text="^ff6fb3Bind Guard\r\r^ffffffUnbound guards can be converted into Guard Contracts to trade with others, but cannot promote in official rank.\r\rBound guards cannot be converted into Guard Contracts, so they can
+  Translate/script/text.lua :: PetGuide[5] = {text="^ff6fb3Convert Guard to Contract\r\r^ffffffA guard must be converted into a Guard Contract before it can be traded with others.\r\rAfter conversion, the guard's attributes will not change, and its name will re
+  Translate/script/text.lua :: PetGuide[8] = {text="^ff6fb3Promote Guard Official Rank\r\r^ffffffGuards start at Ninth Rank. After that, each time a guard reaches level 100, they can promote.\r\rAfter promoting in official rank, the guard's attribute growth wil
+=== 一品
+  Translate/script/config/title_def.lua :: title_definition['称号_武官一品蜀国1'] = {id = 5306 , note = "^ffbc3c〓Sub-Grade 1 Guard General〓" , desc = "2^ffbc3cPermanent Effect:\r^ffffffMax HP +10\rFaction: Shu\rSource: Shu Military Officer earned last monthRenownLeaderboard Rank 2
+  Translate/script/config/title_def.lua :: title_definition['称号_武官一品蜀国2'] = {id = 5307 , note = "^ffbc3c〓Sub-Grade 1 Chariot & Cavalry General〓" , desc = "2^ffbc3cPermanent Effect:\r^ffffffMax HP +10\rFaction: Shu\rSource: Shu Military Officer earned last monthRenownLeader
+  Translate/script/config/title_def.lua :: title_definition['称号_武官一品蜀国3'] = {id = 5308 , note = "^ffbc3c〓Sub-Grade 1 Cavalry General〓" , desc = "2^ffbc3cPermanent Effect:\r^ffffffMax HP +10\rFaction: Shu\rSource: Shu Military Officer earned last monthRenownLeaderboard Rank
+=== 二品
+  Translate/script/config/title_def.lua :: title_definition['称号_武官二品蜀国1'] = {id = 5267 , note = "^ffbc3c〓Sub-Grade 2 General Who Guards the North〓" , desc = "2^ffbc3cPermanent Effect:\r^ffffffMax HP +10\rFaction: Shu\rSource: Shu Military Officer earned last monthRenownLea
+  Translate/script/config/title_def.lua :: title_definition['称号_武官二品蜀国2'] = {id = 5268 , note = "^ffbc3c〓Sub-Grade 2 General Who Guards the West〓" , desc = "2^ffbc3cPermanent Effect:\r^ffffffMax HP +10\rFaction: Shu\rSource: Shu Military Officer earned last monthRenownLead
+  Translate/script/config/title_def.lua :: title_definition['称号_武官二品蜀国3'] = {id = 5269 , note = "^ffbc3c〓Sub-Grade 2 General Who Guards the South〓" , desc = "2^ffbc3cPermanent Effect:\r^ffffffMax HP +10\rFaction: Shu\rSource: Shu Military Officer earned last monthRenownLea
+=== 九品
+  Translate/script/interfaces/gearscoreguide4.lua :: GameApi.CovertTextArea(self.this, "Txt_TextArea", "^ffffffYou can use the Escort Encyclopedia on the Escort interface to view detailed guidance.\r\r^ff6fb3How to Obtain an Escort:^ffffff\r\rAfter reaching Level 40, go to #69294# t
+=== Rank
+  Translate/script/level_tip_u.lua :: "Level", "Troop Type","Official Rank","Mentorship","Sworn Brotherhood",
+  Translate/script/level_tip_u.lua :: -- Official Rank
+  Translate/script/level_tip_u.lua :: {level = 10,maxlevel=130, Ptype = "Official Rank", taskid = 24961},
+=== Official
+  Translate/script/constant.lua :: GUIDE_LIST_POSITION			=		40008	--View Official Position
+  Translate/script/level_tip_u.lua :: "Level", "Troop Type","Official Rank","Mentorship","Sworn Brotherhood",
+  Translate/script/level_tip_u.lua :: -- Official Rank
+=== General
+  Translate/script/text.lua :: --General text		GNR_* -> General String
+  Translate/script/text.lua :: "General Goods Merchants in every region provide Socket Enchant Jade and Remove Enchant Jade services.",
+  Translate/script/text.lua :: "Most of the raw materials required for Crafting Skills can be purchased from General Goods Merchants in every region.",
+=== Minister
+  Translate/script/config/title_def.lua :: --title_definition['称号_阵营魏国排行榜4'] = {id = 1108 , note = "^a800ffHigh Minister of Kingdom of Wei" , desc = "0" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: --title_definition['称号_阵营魏国排行榜6'] = {id = 1110 , note = "^0184ffLoyal Minister of Kingdom of Wei" , desc = "0" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: --title_definition['称号_阵营蜀国排行榜4'] = {id = 1208 , note = "^a800ffHigh Minister of Kingdom of Shu" , desc = "0" , desc_1 = "" , desc_2 = ""}
+=== 孟获
+  Translate/configs/title_def.lua :: title_definition['七星湖南中蛮王'] = {id = 7343 , note = "^d181ff【南中蛮王】" , desc = "0^d181ff在七星湖得到孟获军所有人物图鉴获得的珍贵称号，\r完成孟获友好度相关战术任务时可以获得双倍名望加成。" , desc_1 = "" , desc_2 = ""}
+=== 虎年
+  Translate/script/config/title_def.lua :: title_definition['虎年高级VIP称号'] = {id = 7394 , note = "^ff7d2f【Five Lakes and Four Seas All in Spring Colors; Ten Thousand Waters and a Thousand Mountains Bathed in Brilliance】" , desc = "0^a800ffSymbol of High-level VIP" , desc_1 =
+  Translate/script/config/title_def.lua :: title_definition['虎年四月资料片送水称号'] = {id = 7412, note = "^ff7d2f【I Have More Love Than a Star】" , desc = "0^ff7d2fExclusive Title Obtained by Submitting a Total of 20 Love Dewdrops!" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['虎年高级VIP称号'] = {id = 7394 , note = "^ff7d2f【五湖四海皆春色万水千山尽得辉】" , desc = "0^a800ff高级VIP的象征" , desc_1 = "" , desc_2 = ""}
+=== 春节
+  Translate/script/config/title_def.lua :: title_definition['春节活动称号'] = {id = 7225 , note = "^ff4ca4【Awe-inspiring Spirit Soaring to the Sky】" , desc = "0^72fe00Effective during Spring Festival Event Jan 23 - Feb 26, 2009\r^ffffffAttack +5\rDefense +5\rMax HP +5%" , desc_1
+  Translate/script/config/title_def.lua :: title_definition['羊年春节专属称号1'] = {id = 9970 , note = "^ff0000【Spring Breeze Blows; The Leader Sheep Ascends Mount Tai Again】" , desc = "0^ff0000Year of the Sheep Spring Festival Exclusive Title" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['羊年春节专属称号2'] = {id = 9971 , note = "^ff0000【Victory Songs Ring; The Thousand-li Horse Has Long Passed Jade Gate Pass】" , desc = "0^ff0000Year of the Sheep Spring Festival Exclusive Title" , desc_1 = "" , desc_2 = 
+=== 七夕
+  Translate/script/config/title_def.lua :: title_definition['台湾_七夕称号01'] = {id = 7362 , note = "^a800ff【In Heaven, We Shall Be Birds Flying Wing to Wing】" , desc = "0Title earned in Qixi Event!" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['台湾_七夕称号02'] = {id = 7363 , note = "^a800ff【On Earth, We Shall Be Intertwined Branches】" , desc = "0Title earned in Qixi Event!" , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['09七夕称号01'] = {id = 7364 , note = "^a800ff【A Thousand Charms Return via the Magpie Bridge】" , desc = "0^fff600Obtained from the Qixi Event. Possessing 999 Blue Demon Roses; The Peerless Beauty Loved by All!" , des
+=== 镖头
+  Translate/configs/title_def.lua :: title_definition['护送称号3'] = {id = 7205 , note = "^a800ff【总镖头】" , desc = "0^a800ff每天第一次参与护送可以额外获得较多历练。" , desc_1 = "" , desc_2 = ""}
+=== 烟花
+  Translate/script/config/title_def.lua :: title_definition['2015烟花称号1'] = {id = 10017 , note = "^72fe00【Loulan Fireworks Page】" , desc = "0^ffc556Permanent Effect:\r^ffffffMax HP +100\rAttack +4\rDefense +2\r^ffc5562015Year Fireworks Event Exclusive Title！" , desc_1 = "" 
+  Translate/script/config/title_def.lua :: title_definition['2015烟花称号2'] = {id = 10018 , note = "^0184ff【Loulan Fireworks Envoy】" , desc = "0^ffc556Permanent Effect:\r^ffffffMax HP +200\rAttack +10\rDefense +5\r^ffc5562015Year Fireworks Event Exclusive Title！" , desc_1 = "
+  Translate/script/config/title_def.lua :: title_definition['2015烟花称号3'] = {id = 10019 , note = "^a800ff【Loulan Fireworks Ambassador】" , desc = "0^ffc556Permanent Effect:\r^ffffffMax HP +500\rAttack +20\rDefense +10\rCrit Bonus Damage +25\r^ffc5562015Year Fireworks Event E
+=== 庆典
+  Translate/script/config/title_def.lua :: title_definition['二周年庆典称号01'] = {id = 7392 , note = "^a800ff【Pilgrim of the Three Kingdoms】" , desc = "0^ff7d2fChibi 2nd Anniversary Exclusive Title! With this title, claim high Training rewards once daily after completing the Dra
+  Translate/script/config/title_def.lua :: title_definition['二周年庆典称号02'] = {id = 7393 , note = "^ff7d2f【Witness of History】" , desc = "0^a800ffThe Vicissitudes and Glory of History; Chibi's Storms and Growth; All Visible to the Mindful Eye." , desc_1 = "" , desc_2 = ""}
+  Translate/script/config/title_def.lua :: title_definition['二周年庆典称号03'] = {id = 7397 , note = "^ff7d2f【Climbing the Cliff, One Howl Makes a Thousand Peaks Ring】" , desc = "0^a800ffCarry Forward the Past, Break the Old, Establish the New, Create a New Era." , desc_1 = "" ,
+=== 完美
+  Translate/configs/title_def.lua :: title_definition['圣诞声望兑换称号1'] = {id = 7215 , note = "^72fe00【Christmas Snow Baby】" , desc = "012.25－1.8圣诞活动期间，每天可以在完美礼品使者处领取20个普通雪球。" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['圣诞声望兑换称号2'] = {id = 7216 , note = "^72fe00【Christmas Snow Sprite】" , desc = "012.25－1.8圣诞活动期间，每天可以在完美礼品使者处领取40个普通雪球。" , desc_1 = "" , desc_2 = ""}
+  Translate/configs/title_def.lua :: title_definition['圣诞声望兑换称号3'] = {id = 7217 , note = "^72fe00【Snow-Treading Plum Seeker】" , desc = "012.25－1.8圣诞活动期间，每天可以在完美礼品使者处领取60个普通雪球。" , desc_1 = "" , desc_2 = ""}

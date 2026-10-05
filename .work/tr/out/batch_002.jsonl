@@ -1,0 +1,240 @@
+{"id": 1, "english": "^c3dbffUnited We Stand<CRLF>^ffffffRewards in the Xu Chu Legend challenge<CRLF>depend on your party size.<CRLF>Party size <4: 3 chests<CRLF>3< party size <6: 6 chests<CRLF>Party size =6: 9 chests<CRLF>To ensure the chests open properly,<CRLF>keep your party at full strength."}
+{"id": 2, "english": "^c3dbffDesperate Struggle<CRLF><CRLF>^ffffffDong Zhuo is prepared to fight to the death!!!"}
+{"id": 3, "english": "^c3dbffImpregnable<CRLF><CRLF>^ffffffHe looks pretty tough. Think of a way to drive him off.<CRLF>"}
+{"id": 4, "english": "^c3dbffImpregnable<CRLF>^ffffffSuccessfully defended your own base camp. Rewards incoming!"}
+{"id": 5, "english": "^c3dbffNational War Draw<CRLF><CRLF>^ffffffThis National War ends in a three-way tie!"}
+{"id": 6, "english": "^c3dbffNational War Over<CRLF><CRLF>^ffffffThe National War has ended."}
+{"id": 7, "english": "^c3dbffNational Beauty<CRLF><CRLF>^ffffffStun Resistance and Movement Speed increased."}
+{"id": 8, "english": "^c3dbffNational Beauty and Heavenly Fragrance<CRLF><CRLF>^ffffffHealing Effect increased!"}
+{"id": 9, "english": "^c3dbffCircular Formation<CRLF><CRLF>^ffffffDefense, HP, and Direct Damage Resistance increased;<CRLF>Movement Speed decreased.<CRLF>"}
+{"id": 10, "english": "^c3dbffHoly Judgment<CRLF><CRLF>^ffffffBeing attacked reduces Indirect Resistance."}
+{"id": 11, "english": "^c3dbffChristmas Erguotou<CRLF>^ffffffBlessing status. Gain EXP, Guard EXP, and Insight every 5 minutes."}
+{"id": 12, "english": "^c3dbffChristmas Transformation!<CRLF><CRLF>^ffffffTransform into Santa Claus.<CRLF>Receive 20 Christmas Gifts from the Christmas Messenger to give to others."}
+{"id": 13, "english": "^c3dbffChristmas Blessing<CRLF><CRLF>^ffffffSanta Claus has just granted you a Christmas blessing. Merry Christmas!<CRLF>^ffffffEach player may receive a reward from the Christmas Blessing only once per day.<CRLF>"}
+{"id": 14, "english": "^c3dbffChristmas Snowball"}
+{"id": 15, "english": "^c3dbffInspire<CRLF>^ffffffAn inspiring art that boosts war chariot stats."}
+{"id": 16, "english": "^c3dbffEarth Spikes<CRLF>"}
+{"id": 17, "english": "^c3dbffEarthquake Weather<CRLF><CRLF>^ffffffAttack Power and Critical greatly reduced; Resistance massively reduced"}
+{"id": 18, "english": "^c3dbffThe Underground Palace's Evil Fire Rages Across Luoyang's Outer City<CRLF><CRLF>Affected by continuous HP loss, slowing, and other debuffs"}
+{"id": 19, "english": "^c3dbffRamparts"}
+{"id": 20, "english": "^c3dbffRamparts<CRLF><CRLF>^c3dbffDefense points increased"}
+{"id": 21, "english": "^c3dbffRampart Inspiration<CRLF>^ffffffIncreases the Defense of all nearby allies"}
+{"id": 22, "english": "^c3dbffHold Fast<CRLF><CRLF>^ffffffA tactic exclusive to mounted combat. Defense and Indirect Resistance increased"}
+{"id": 23, "english": "^c3dbffHold Fast<CRLF>^ffffffUnited as one, hold the line!"}
+{"id": 24, "english": "^c3dbffOverly Defensive<CRLF>^ffffffYou cannot gain any further Power boosts."}
+{"id": 25, "english": "^c3dbffHardened Armor<CRLF><CRLF>^ffffffDefense increased"}
+{"id": 26, "english": "^c3dbffHardened Armor<CRLF><CRLF>^ffffffDon a layer of hardened armor. Direct and Indirect Resistance increased"}
+{"id": 27, "english": "^c3dbffHardened Armor<CRLF><CRLF>^ffffffDefense increased. Restore HP each time you are attacked."}
+{"id": 28, "english": "^c3dbffSturdy Shield<CRLF><CRLF>^ffffffDamage taken reduced."}
+{"id": 29, "english": "^c3dbffSturdy Shield<CRLF><CRLF>^ffffffDirect Damage taken reduced."}
+{"id": 30, "english": "^c3dbffSturdy Shield<CRLF><CRLF>^ffffffAbsorbs damage taken"}
+{"id": 31, "english": "^c3dbffSturdy Shield<CRLF><CRLF>^ffffffReflects a portion of Direct Damage taken."}
+{"id": 32, "english": "^c3dbffSturdy Shield<CRLF>^ffffffDirect Resistance increased"}
+{"id": 33, "english": "^c3dbffSolid Formation<CRLF><CRLF>^ffffffDirect and Indirect Damage Resistance increased."}
+{"id": 34, "english": "^c3dbffSolid Formation<CRLF><CRLF>^ffffffDefense increased."}
+{"id": 35, "english": "^c3dbffBulwark<CRLF><CRLF>^ffffffAbsorbs damage"}
+{"id": 36, "english": "^c3dbffMorale Up<CRLF><CRLF>^ffffffSoldiers with rising Morale gain stat correction effects."}
+{"id": 37, "english": "^c3dbffMorale Up<CRLF><CRLF>^ffffffAttack Power increased."}
+{"id": 38, "english": "^c3dbffMorale Down<CRLF><CRLF>^ffffffAttack Power reduced."}
+{"id": 39, "english": "^c3dbffMorale Slump<CRLF><CRLF>^ffffffMorale is low. Direct Damage taken increased;<CRLF>lose HP every second."}
+{"id": 40, "english": "^c3dbffMorale Slump<CRLF><CRLF>^ffffffMorale is low. Indirect Damage taken increased;<CRLF>lose HP every second."}
+{"id": 41, "english": "^c3dbffMorale Slump<CRLF><CRLF>^ffffffMorale is low. Defense greatly reduced;<CRLF>lose large amounts of HP every second."}
+{"id": 42, "english": "^c3dbffMorale Crushed<CRLF><CRLF>^ffffffAttack Power reduced."}
+{"id": 43, "english": "^c3dbffHigh Morale<CRLF><CRLF>^ffffffAttack Power increased."}
+{"id": 44, "english": "^c3dbffAwe<CRLF><CRLF>^ffffffLanding a hit or being hit<CRLF>may trigger the Five Tigers status."}
+{"id": 45, "english": "^c3dbffAwe<CRLF><CRLF>^ffffffAttack Power and Defense increased."}
+{"id": 46, "english": "^c3dbffShell<CRLF>^ffffffGo attack Wooden Dummy-Ding."}
+{"id": 47, "english": "^c3dbffShell<CRLF>^ffffffAfraid of players with the Guess status."}
+{"id": 48, "english": "^c3dbffRevenge<CRLF><CRLF>^ffffffBeing killed fills you with vengeful fury,<CRLF>raising Defense and max HP.<CRLF><CRLF>This status disappears after you kill someone."}
+{"id": 49, "english": "^c3dbffRevive Protection<CRLF><CRLF>^ffffffDirect and Indirect Resistance greatly increased"}
+{"id": 50, "english": "^c3dbffRevive Protection<CRLF><CRLF>^ffffffImmune to most damage for a short time."}
+{"id": 51, "english": "^c3dbffRevive Point Protection<CRLF><CRLF>^ffffffQuickly recover and return to battle,<CRLF>immune to most damage and debuffs."}
+{"id": 52, "english": "^c3dbffNight Battle on All Fronts<CRLF><CRLF>^ffffffPierce Points increased"}
+{"id": 53, "english": "^c3dbffNight Battle on All Fronts<CRLF>^ffffffDeals damage to all surrounding enemies"}
+{"id": 54, "english": "^c3dbffThunderous Shout<CRLF><CRLF>^ffffffScares nearby enemies, lowering their Critical briefly."}
+{"id": 55, "english": "^c3dbffThunderous Shout<CRLF><CRLF>^ffffffWhile stunned, Melee Resistance reduced"}
+{"id": 56, "english": "^c3dbffGrand Character Burn<CRLF>^ffffff BOSS is about to unleash a finishing move!"}
+{"id": 57, "english": "^c3dbffSweeping Assault<CRLF>^ffffffIncreases allies' Attack Power"}
+{"id": 58, "english": "^c3dbffBattle Imminent<CRLF><CRLF>^ffffffHordes of Xiongnu soldiers have gathered, preparing to raid the Black Market."}
+{"id": 59, "english": "^c3dbffThree-Year Drought<CRLF><CRLF>^ffffffGain EXP every 30 seconds.<CRLF>Ends when you go offline or switch scenes."}
+{"id": 60, "english": "^c3dbffElite Soldier of the Great Han<CRLF><CRLF>^ffffffAttack, Defense, max HP, and Damage Resistance increased"}
+{"id": 61, "english": "^c3dbffReward the Realm<CRLF><CRLF>^ffffffRemain active to earn ￥. Not restricted to safe zones."}
+{"id": 62, "english": "^c3dbffSound of Elegance <CRLF><CRLF>^ffffffStamina recovers quickly."}
+{"id": 63, "english": "^c3dbffRealm Arena<CRLF><CRLF>^ffffffWarriors, to battle!"}
+{"id": 64, "english": "^c3dbffHeavenly Righteousness<CRLF><CRLF>^ffffffImmune to Slow and Immobilize"}
+{"id": 65, "english": "^c3dbffHeaven's Blessing<CRLF>^ffffffDamage taken reduced."}
+{"id": 66, "english": "^c3dbffHeavenly Tribulation<CRLF><CRLF>^ffffffThis unit is paralyzed and cannot move or attack,<CRLF>taking continuous lightning damage"}
+{"id": 67, "english": "^c3dbffHeaven and Earth Bagua Formation<CRLF><CRLF>^ffffffAttack Power, Defense, Accuracy,<CRLF>Evasion, and Movement Speed increased."}
+{"id": 68, "english": "^c3dbffCelestial Maiden Scatters Blossoms<CRLF><CRLF>You have received a GM's blessing!"}
+{"id": 69, "english": "^c3dbffHeavenly Mirror Armor<CRLF><CRLF>^ffffffReflects statuses back at attackers"}
+{"id": 70, "english": "^c3dbffDivine Protection<CRLF><CRLF>^ffffffIncreases all of your Resistances"}
+{"id": 71, "english": "^c3dbffHeavenly Spirits<CRLF>^ffffffDefense increased; Knockout Resistance increased.<CRLF>"}
+{"id": 72, "english": "^c3dbffHeavenly Motion<CRLF><CRLF>^ffffffAn awakened battle spirit unlocks your hidden potential,<CRLF>increasing Damage Resistance"}
+{"id": 73, "english": "^c3dbffFlawless<CRLF><CRLF>^ffffffImmune to stun for 3 seconds when using an Ultimate skill."}
+{"id": 74, "english": "^c3dbffGod of Fortune Descends<CRLF><CRLF>^ffffffYou have received the God of Fortune's blessing!<CRLF>"}
+{"id": 75, "english": "^c3dbffHeavenly Thunder Charm<CRLF><CRLF>^ffffffWhile under the Heavenly Thunder Charm, your next Swift Lightning casts faster,<CRLF>and will always cause the Electric Stun status."}
+{"id": 76, "english": "^c3dbffHeavenly Fragrance<CRLF><CRLF>^ffffffCritical and Movement Speed increased."}
+{"id": 77, "english": "^c3dbffGrand Preceptor's Question<CRLF><CRLF>^ffffffThe Grand Preceptor is asking you a question. Go answer quickly!"}
+{"id": 78, "english": "^c3dbffRemarkable Advisor<CRLF><CRLF>^ffffffAbsorbs part of the damage"}
+{"id": 79, "english": "^c3dbffSurprise Attack<CRLF><CRLF>^ffffffAttack Power increased"}
+{"id": 80, "english": "^c3dbffCunning Stratagem<CRLF><CRLF>^ffffffBeing attacked reduces Defense."}
+{"id": 81, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffNot One Missing"}
+{"id": 82, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffFamily Reunited"}
+{"id": 83, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffBest to Return Home"}
+{"id": 84, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffFighting Retreat"}
+{"id": 85, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffEmergency Conscription"}
+{"id": 86, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffA Dying Request"}
+{"id": 87, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffProfiteering"}
+{"id": 88, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffSon Rescued"}
+{"id": 89, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffThe Guard's Request"}
+{"id": 90, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffHer Again"}
+{"id": 91, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffAnti-Pickpocket Expert"}
+{"id": 92, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffGood Deeds Rewarded"}
+{"id": 93, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffEndless Hardships"}
+{"id": 94, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffEndless Hardships<CRLF>"}
+{"id": 95, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffDaughter Rescued"}
+{"id": 96, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffWorkers' Uprising"}
+{"id": 97, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffBandits Appear"}
+{"id": 98, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffA Necessary Sacrifice"}
+{"id": 99, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffFalling to Pieces"}
+{"id": 100, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffLife-Saving Grace"}
+{"id": 101, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffBandits on the Road!"}
+{"id": 102, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffSomeone Needs Help"}
+{"id": 103, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffThere's a Thief!"}
+{"id": 104, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffAll Are Welcome"}
+{"id": 105, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffThe Dead Speak"}
+{"id": 106, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffThe Warm Corpse"}
+{"id": 107, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffA Familiar Voice"}
+{"id": 108, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffUnable to Help"}
+{"id": 109, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffReturned to Its Owner"}
+{"id": 110, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffA Choice Between Life and Death"}
+{"id": 111, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffSeverely Damaged"}
+{"id": 112, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffSlip Away"}
+{"id": 113, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffA Desperate Plea for Help"}
+{"id": 114, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffVisitor from the Grasslands"}
+{"id": 115, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffRebel Leader"}
+{"id": 116, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffThe Cart Owner's Thanks"}
+{"id": 117, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffThe Cart Intact"}
+{"id": 118, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffTrap!"}
+{"id": 119, "english": "^c3dbffEncounter<CRLF><CRLF>^ffffffThieves Robbing Thieves?"}
+{"id": 120, "english": "^c3dbffDedication<CRLF><CRLF>^ffffffSacrifice yourself to save the world"}
+{"id": 121, "english": "^c3dbffValiant<CRLF><CRLF>^ffffffIncreases allies' Fighting Spirit"}
+{"id": 122, "english": "^c3dbffValiant<CRLF><CRLF>^ffffffStatus gained after charging. Each stack grants 15 Accuracy<CRLF>and 2 Critical, stacking up to 3 times.<CRLF>Some mounted combat skills have special effects under this status."}
+{"id": 123, "english": "^c3dbffBattle Drum<CRLF><CRLF>^ffffffWar Chariot Attack Power greatly increased!"}
+{"id": 124, "english": "^c3dbffRise Up!<CRLF><CRLF>^ffffffCharacter gains 15 extra Critical Rate.<CRLF>This effect ends when HP exceeds 50%."}
+{"id": 125, "english": "^c3dbffReward<CRLF>^ffffffConsume Purple Cloud Flash Beads to receive a Reward."}
+{"id": 126, "english": "^c3dbffSet Bonus<CRLF><CRLF>^ffffffSet bonus active. HP, Stamina, Attack, Defense, and Critical increased<CRLF>"}
+{"id": 127, "english": "^c3dbffCunning Hero<CRLF><CRLF>^ffffffReflects Indirect Damage taken"}
+{"id": 128, "english": "^c3dbffCunning Hero<CRLF><CRLF>^ffffffBetter I betray the world than the world betray me.<CRLF>Anyone who tries to harm me will be punished."}
+{"id": 129, "english": "^c3dbffGift from a Friend"}
+{"id": 130, "english": "^c3dbffKindly Taken In<CRLF>^ffffffLü Boshe, an old friend of Cao Cao's father,<CRLF>kindly took you in."}
+{"id": 131, "english": "^c3dbffBlazing Fierce<CRLF><CRLF>^ffffffThe battle rages fiercely. Your Attack Power increased."}
+{"id": 132, "english": "^c3dbffLike the Wind<CRLF><CRLF>^ffffffImmune to the Dismounted status."}
+{"id": 133, "english": "^c3dbffDemonic Aura<CRLF><CRLF>^ffffffAffected by a demonist's aura. You will be<CRLF>Immobilized in 3 seconds. Find somewhere private and hide!"}
+{"id": 134, "english": "^c3dbffDeft Hand<CRLF><CRLF>^ffffffDrain Resistance increased."}
+{"id": 135, "english": "^c3dbffMiraculous Hands<CRLF><CRLF>^ffffffBeing attacked within a certain time increases Defense."}
+{"id": 136, "english": "^c3dbffBrilliant Stratagem<CRLF><CRLF>^ffffffMax Stamina greatly increased!"}
+{"id": 137, "english": "^c3dbffIntimidation<CRLF><CRLF>^ffffffOverwhelming pressure. Attack Speed and Attack Power reduced!"}
+{"id": 138, "english": "^c3dbffMenace<CRLF><CRLF>^ffffffScares nearby enemies, lowering their Status Resistance briefly."}
+{"id": 139, "english": "^c3dbffDeterrence<CRLF><CRLF>^ffffffOverwhelming deterrent power. Immune to stun effects"}
+{"id": 140, "english": "^c3dbffDeterrence<CRLF><CRLF>^ffffffOverwhelming deterrent power. Being attacked may trigger the Heavenly Motion status,<CRLF>granting immunity to stun"}
+{"id": 141, "english": "^c3dbffDeterrence<CRLF><CRLF>^ffffffUnable to move. Evasion reduced."}
+{"id": 142, "english": "^c3dbffDeterrence<CRLF><CRLF>^ffffffDefense reduced!"}
+{"id": 143, "english": "^c3dbffMajestic Ferocity<CRLF><CRLF>^ffffffAttack Power increased."}
+{"id": 144, "english": "^c3dbffThreatening Roar<CRLF><CRLF>^ffffffCast time increased under fear"}
+{"id": 145, "english": "^c3dbffProficient<CRLF><CRLF>^ffffffHitting a target increases your own Defense."}
+{"id": 146, "english": "^c3dbffKongming Lantern<CRLF>^ffffffRelease a Kongming Lantern that hovers beside you.<CRLF>Enemies within 15 meters cannot hide or go invisible.<CRLF>Consumes 10 Stamina per second."}
+{"id": 147, "english": "^c3dbffMengde's Great Laugh<CRLF>"}
+{"id": 148, "english": "^c3dbffMeng Huo's Axe Spirit<CRLF><CRLF>^ffffffMeng Huo has been blessed by the Axe Spirit.<CRLF>If he is Critically struck, he will go berserk!"}
+{"id": 149, "english": "^c3dbffAll or Nothing<CRLF><CRLF>^ffffffThe battle nears its end. Your Attack Power increased."}
+{"id": 150, "english": "^c3dbffBetter I Betray Others Than They Betray Me <CRLF>^ffffffAfter wrongly killing Lü Boshe's entire family,<CRLF>Cao Cao and Chen Gong continued their flight."}
+{"id": 151, "english": "^c3dbffDefend Wuchao<CRLF><CRLF>^ffffffPoints Reward earned!<CRLF>"}
+{"id": 152, "english": "^c3dbffDefend Yuanwu Camp<CRLF><CRLF>^ffffffPoints Reward earned!<CRLF>"}
+{"id": 153, "english": "^c3dbffDefend Yanjin Camp<CRLF><CRLF>^ffffffPoints Reward earned!<CRLF>"}
+{"id": 154, "english": "^c3dbffDefend Bima Slope<CRLF><CRLF>^ffffffPoints Reward earned!<CRLF>"}
+{"id": 155, "english": "^c3dbffDefend the Mining Zone<CRLF><CRLF>^ffffffPoints Reward earned!<CRLF>"}
+{"id": 156, "english": "^c3dbffCompleted the Graduation Quest"}
+{"id": 157, "english": "^c3dbffCompleted the Mentor-Disciple Quest"}
+{"id": 158, "english": "^c3dbffBattle of Guandu<CRLF><CRLF>^ffffffCompleted the Battle of Guandu battlefield!<CRLF>"}
+{"id": 159, "english": "^c3dbffSteady as a Rock<CRLF><CRLF>Defense increased"}
+{"id": 160, "english": "^c3dbffImmobilize<CRLF><CRLF>^ffffffUnable to move."}
+{"id": 161, "english": "^c3dbffSoul-Anchor Shield<CRLF><CRLF>^ffffffAttack Power noticeably reduced; Resistance greatly increased."}
+{"id": 162, "english": "^c3dbffTreasure Chest<CRLF><CRLF>^ffffffFight for the treasure chest!"}
+{"id": 163, "english": "^c3dbffAnnihilation<CRLF><CRLF>^ffffffReflects Direct Damage."}
+{"id": 164, "english": "^c3dbffCold<CRLF><CRLF>^ffffffThe cold steadily drains your HP.<CRLF>Find somewhere warm quickly!"}
+{"id": 165, "english": "^c3dbffNot a Blade of Grass Survives<CRLF><CRLF>^ffffffAttack Power of all fan-shaped attack skills increased<CRLF>(does not apply to Green Dragon Crescent)"}
+{"id": 166, "english": "^c3dbffSeal<CRLF><CRLF>^ffffffAccuracy greatly reduced."}
+{"id": 167, "english": "^c3dbffSeal<CRLF><CRLF>^ffffffCannot use any skills to attack."}
+{"id": 168, "english": "^c3dbffSeal<CRLF><CRLF>^ffffffCannot use skills."}
+{"id": 169, "english": "^c3dbffSeal<CRLF><CRLF>^ffffffCannot use skills or Normal Attacks"}
+{"id": 170, "english": "^c3dbffSeal, Drain, and Weakness Resistance reduced"}
+{"id": 171, "english": "^c3dbffPower of Sealing<CRLF><CRLF>^ffffffGain the Power of Sealing.<CRLF>Your next Shield Smash will Silence the target"}
+{"id": 172, "english": "^c3dbffSeal Resistance increased"}
+{"id": 173, "english": "^c3dbffSeal Resistance reduced"}
+{"id": 174, "english": "^c3dbffSealed Throat<CRLF><CRLF>^ffffffDismounted targets cannot use skills"}
+{"id": 175, "english": "^c3dbffSealed Throat<CRLF><CRLF>^ffffffUnable to move or attack."}
+{"id": 176, "english": "^c3dbffSealed Shadow<CRLF><CRLF>^ffffffYour next Combo Skill will Silence the enemy."}
+{"id": 177, "english": "^c3dbffSealed Shadow<CRLF><CRLF>^ffffffYour next Combo Skill will Stun the enemy."}
+{"id": 178, "english": "^c3dbffSealed Moon<CRLF><CRLF>^ffffffContinuously drains HP."}
+{"id": 179, "english": "^c3dbffPiercing Shot<CRLF><CRLF>^ffffffIndirect Resistance reduced."}
+{"id": 180, "english": "^c3dbffGeneral's Chant<CRLF><CRLF>^ffffffDefense+30, Critical Resistance+5"}
+{"id": 181, "english": "^c3dbffGeneral's Seal<CRLF><CRLF>^ffffffIncreases Attack Power, Critical Rate, and max HP."}
+{"id": 182, "english": "^c3dbffLittle Brother Ma<CRLF><CRLF>^ffffffHas been with you for 6 years."}
+{"id": 183, "english": "^c3dbffMartial Spirit<CRLF><CRLF>Attack increased"}
+{"id": 184, "english": "^c3dbffPosition Advantage<CRLF><CRLF>^ffffffSlender Waist in Palm catches all evading targets"}
+{"id": 185, "english": "^c3dbffThe corpse spirit's bones have turned brittle……"}
+{"id": 186, "english": "^c3dbffAttribute Boost<CRLF><CRLF>^ffffffIncreases max HP, Attack Power, and Accuracy"}
+{"id": 187, "english": "^c3dbffDong Chariot Blessing<CRLF><CRLF>^ffffffCritical and Critical Damage increased"}
+{"id": 188, "english": "^c3dbffCollapse and Chaos<CRLF><CRLF>^ffffffBeing Critically hit reduces Critical Resistance."}
+{"id": 189, "english": "^c3dbffCollapse<CRLF><CRLF>^ffffffDefense reduced."}
+{"id": 190, "english": "^c3dbffShattered Armor<CRLF><CRLF>^ffffffDirect Resistance, Indirect Resistance, and Injury Resistance reduced"}
+{"id": 191, "english": "^c3dbffSkillful Capture<CRLF><CRLF>^ffffffHoping to catch it!"}
+{"id": 192, "english": "^c3dbffSkillful Break<CRLF><CRLF>^ffffffIndirect Damage taken reduced."}
+{"id": 193, "english": "^c3dbffSilver Tongue<CRLF><CRLF>^ffffffEvasion increased"}
+{"id": 194, "english": "^c3dbffCommander's Seal<CRLF><CRLF>^ffffffIncreases Defense, Critical Resistance, and max HP."}
+{"id": 195, "english": "^c3dbffMastermind<CRLF><CRLF>^ffffffThe mastermind has appeared!"}
+{"id": 196, "english": "^c3dbffGeneral's Token: Pacify the East<CRLF><CRLF>^ffffffBlessing status. Gain EXP every 5 minutes.<CRLF>Wearing it at Levels 16-59 grants more EXP.<CRLF>Wearing it at Level 60 or above also grants extra Prestige.<CRLF>"}
+{"id": 197, "english": "^c3dbffGeneral's Token: Pacify the North<CRLF><CRLF>^ffffffBlessing status. Gain EXP every 5 minutes.<CRLF>Wearing it also grants extra Martial Merit.<CRLF>"}
+{"id": 198, "english": "^c3dbffGeneral's Token: Pacify the South<CRLF><CRLF>^ffffffBlessing status. Gain EXP every 5 minutes.<CRLF>Wearing it also grants extra Merit.<CRLF>"}
+{"id": 199, "english": "^c3dbffSound of Sincerity<CRLF><CRLF>An ancient fisher's song sung by the fisherwoman Lan Xiang (Mid)"}
+{"id": 200, "english": "^c3dbffDraw<CRLF>^ffffffNo victor in the Wuzhangyuan contest!<CRLF>"}
+{"id": 201, "english": "^c3dbffGeneral's Token: Pacify the West<CRLF><CRLF>^ffffffBlessing status. Gain EXP every 5 minutes.<CRLF>Wearing it also grants extra Civil Merit.<CRLF>"}
+{"id": 202, "english": "^c3dbffPhantom<CRLF><CRLF>^ffffffHarder to take damage.<CRLF>Evasion, Defense, and Critical Resistance increased"}
+{"id": 203, "english": "^c3dbffPhantom Formation Challenge<CRLF><CRLF>^ffffffYou have selected a challenge."}
+{"id": 204, "english": "^c3dbffPhantom Formation Fog<CRLF><CRLF>^ffffffYou are currently inside the Phantom Formation Fog. Do not ride forward."}
+{"id": 205, "english": "^c3dbffPhantom Formation Challenge Invite<CRLF><CRLF>^ffffffYou have entered the Phantom Eight Trigrams Formation.<CRLF>If this round's challenge has not yet been decided, you may vote at the Formation Stone.<CRLF>If it has been decided, you may join the challenge on your own."}
+{"id": 206, "english": "^c3dbffSerpent Mossling<CRLF><CRLF>^ffffffIf hit by Crimson-striped Snake Venom, max HP is reduced by 50%."}
+{"id": 207, "english": "^c3dbffYoung Qilin<CRLF><CRLF>^ffffffEvasion and Indirect Resistance increased"}
+{"id": 208, "english": "^c3dbffObsolete Extra Immunity<CRLF><CRLF>^ffffffImmune to crowd control while using Sword Chasing Wind."}
+{"id": 209, "english": "^c3dbffDelayed Injury<CRLF><CRLF>^ffffffThe Injury effect occurs after 30 seconds"}
+{"id": 210, "english": "^c3dbffDelayed Vigor<CRLF><CRLF>^ffffffA max HP increase effect occurs after 30 seconds"}
+{"id": 211, "english": "^c3dbffDelayed Stun<CRLF><CRLF>^ffffffThe Stun effect occurs after 30 seconds"}
+{"id": 212, "english": "^c3dbffExtended Bleed<CRLF><CRLF>^ffffffAdditionally drains HP every 2 seconds"}
+{"id": 213, "english": "^c3dbffExtended Immobilize<CRLF><CRLF>^ffffffImmobilized for an extra 5 seconds"}
+{"id": 214, "english": "^c3dbffFrontier Expansion<CRLF><CRLF>^ffffffAttack Power and Critical greatly increased"}
+{"id": 215, "english": "^c3dbffExpand the Empire<CRLF>^ffffffSuccessfully captured two enemy Cities. Rewards incoming!"}
+{"id": 216, "english": "^c3dbffAbandoned Armor<CRLF><CRLF>^ffffffWill to fight completely gone.<CRLF>Critical Resistance and Defense reduced"}
+{"id": 217, "english": "^c3dbffMight of Regicide"}
+{"id": 218, "english": "^c3dbffPower of Regicide<CRLF><CRLF>^ffffffCompleted the Power of Regicide quest."}
+{"id": 219, "english": "^c3dbffGod of the Bow<CRLF><CRLF>^ffffffAccuracy and Attack increased!"}
+{"id": 220, "english": "^c3dbffLure the Prey into the Trap<CRLF><CRLF>^ffffffDong Zhuo has been successfully trapped!"}
+{"id": 221, "english": "^c3dbffIgnite<CRLF>^ffffffYou are burning badly. When Ignite reaches 20 stacks, you will die.<CRLF>An Injury status that can be dispelled."}
+{"id": 222, "english": "^c3dbffIgnite<CRLF>^ffffffScorched by great fire, taking continuous damage."}
+{"id": 223, "english": "^c3dbffDetonate<CRLF>^ffffffCareful. The wooden dummy you hit is about to self-destruct."}
+{"id": 224, "english": "^c3dbffWeakened Troops<CRLF><CRLF>^ffffffEntered the Weakened Troops status. Attack Power reduced."}
+{"id": 225, "english": "^c3dbffWeaken<CRLF><CRLF>^ffffffCritical power reduced."}
+{"id": 226, "english": "^c3dbffWeakening Poison Gas<CRLF><CRLF>^ffffffDirect Resistance reduced"}
+{"id": 227, "english": "^c3dbffAid to the Weak Nation<CRLF><CRLF>^ffffffIncreases Attack and Defense. This effect varies with your nation's Cities.<CRLF>When your nation holds fewer than 10 Cities, the fewer Cities it holds, the stronger the effect.<CRLF><CRLF>City count 6~9: +30 Attack Power, +5 Resistance<CRLF>City count 3~5: +50 Attack Power, +10 Resistance<CRLF>City count 1~2: +70 Attack Power, +15 Resistance<CRLF>City count 0: +90 Attack Power, +20 Resistance<CRLF>"}
+{"id": 228, "english": "^c3dbffWeakened in Battle<CRLF><CRLF>^ffffffBeing healed additionally reduces HP"}
+{"id": 229, "english": "^c3dbffWeakened in Battle<CRLF>Attack Power reduced with each attack"}
+{"id": 230, "english": "^c3dbffWeak Point<CRLF><CRLF>^ffffffYour weakness is fully exposed and your strength greatly drops. Now is the perfect time to strike!"}
+{"id": 231, "english": "^c3dbffWeak Soul<CRLF><CRLF>^ffffffAttack Power reduced. If 5 stacks accumulate, you will die.<CRLF>Zhao Yun can dispel this status."}
+{"id": 232, "english": "^c3dbffStrengthened Body<CRLF>^ffffffIndirect Resistance increased"}
+{"id": 233, "english": "^c3dbffBody-Fortifying Tactic<CRLF><CRLF>^ffffffA tactic used by generals who wield the trident.<CRLF>When activated, max Stamina increases,<CRLF>and Stamina is restored when using charged attacks."}
+{"id": 234, "english": "^c3dbffBody-Fortifying Art<CRLF><CRLF>^ffffffDamage taken reduced"}
+{"id": 235, "english": "^c3dbffVigor Potion<CRLF><CRLF>^ffffffIncreases max HP."}
+{"id": 236, "english": "^c3dbffStrengthened Troops<CRLF><CRLF>^ffffffEntered the Strengthened Troops status. Attack Power increased."}
+{"id": 237, "english": "^c3dbffMomentum<CRLF>^ffffffAttack the enemy"}
+{"id": 238, "english": "^c3dbffEnhancement<CRLF><CRLF>^ffffffAttributes increased"}
+{"id": 239, "english": "^c3dbffEnhancement<CRLF><CRLF>^ffffffBlazing fury ignites within you. Power greatly increased"}
+{"id": 240, "english": "^c3dbffEnhanced Strong Crossbow<CRLF><CRLF>^ffffffYour next skill use will carry a special effect."}

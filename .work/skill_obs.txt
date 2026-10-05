@@ -1,0 +1,10 @@
+total 8
+drwxr-xr-x   4 zlns  staff  128 Oct  3 23:49 .
+drwxr-xr-x  12 zlns  staff  384 Oct  3 23:49 ..
+-rw-r--r--   1 zlns  staff    6 Oct  3 23:49 last-review-date.txt
+drwxr-xr-x   3 zlns  staff   96 Oct  3 23:49 observation-log
+---
+a78570e Translate script/text.lua to English (VN+ZH player text, ConsoleList, comments); preserve tokens/encoding/CRLF
+991b044 Add PRD.md, update .gitignore and push tooling
+72d00f3 Add formal PRD.md, complete 24-section AGENTS.md, and add reproducible benchmark suite
+exit=0

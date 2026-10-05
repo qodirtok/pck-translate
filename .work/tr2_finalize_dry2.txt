@@ -1,0 +1,7 @@
+glossary filled 12 / 0 still missing
+translations available: 8959
+AUDIT FAIL skillstr.txt: {'src_lines': 33604, 'dst_lines': 33604, 'src_crlf': 33603, 'dst_crlf': 33603, 'id_mismatch': 91, 'ph_mismatch': 166, 'cjk_remaining': 33, 'quote_parity_bad': 5104, 'lines_changed': 21950, 'quote_rel_bad': 0, 'id_real_bad': 0}
+AUDIT FAIL skillgbk.txt: {'src_lines': 33547, 'dst_lines': 33547, 'src_crlf': 33546, 'dst_crlf': 33546, 'id_mismatch': 91, 'ph_mismatch': 166, 'cjk_remaining': 33, 'quote_parity_bad': 5084, 'lines_changed': 21903, 'quote_rel_bad': 0, 'id_real_bad': 0}
+
+promoted 0 file(s); all_ok=False
+exit=1

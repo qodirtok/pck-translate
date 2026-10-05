@@ -1,0 +1,247 @@
+{"id": 1, "english": "^c3dbffKey Figure<CRLF><CRLF>^ffffffHealing received reduced by 70%."}
+{"id": 2, "english": "^c3dbffIron Chariot Anchor<CRLF>Immune to Root"}
+{"id": 3, "english": "^c3dbffHeavy Cavalry Charge <CRLF><CRLF>^ffffffMounted movement speed slightly increased while constantly draining Stamina.<CRLF>Immune to all slow and root effects.<CRLF>Ends when Stamina drops below 10%.<CRLF>Attacking also ends this status.<CRLF>"}
+{"id": 4, "english": "^c3dbffAdamantine Armor<CRLF><CRLF>^ffffffDefense increased."}
+{"id": 5, "english": "^c3dbffAdamantine Heave<CRLF><CRLF>^ffffffRaises a massive shield, becoming immune to the stun and damage of boulder shots."}
+{"id": 6, "english": "^c3dbffGolden Sound, Jade Resonance<CRLF><CRLF>Critical bonus damage increased"}
+{"id": 7, "english": "^c3dbffGold-Spotted Snake Venom<CRLF><CRLF>^ffffffAffected by gold-spotted snake venom,<CRLF>movement speed reduced. Use Golden Leaf Herb to remove this status"}
+{"id": 8, "english": "^c3dbffGolden Snake Deadly Poison<CRLF><CRLF>^ffffffYou've been poisoned by the golden snake - cure it fast!<CRLF>Otherwise you'll die in 30 seconds.<CRLF>Use the Golden Snake Gallbladder to remove this status."}
+{"id": 9, "english": "^c3dbffGolden Wind Slip<CRLF>^ffffffAmid the unseen, a wish lies hidden."}
+{"id": 10, "english": "^c3dbffGolden Drums Shake the Earth<CRLF>Immune to Stun"}
+{"id": 11, "english": "^c3dbffFishing<CRLF><CRLF>^ffffffBig fish can only be caught while in the Fishing status."}
+{"id": 12, "english": "^c3dbffDull Blade<CRLF><CRLF>^ffffffCarefully observes the enemy's movements, lowering their Evasion for a short time."}
+{"id": 13, "english": "^c3dbffDull Blade<CRLF><CRLF>^ffffffReduces Attack Power and Attack Strength."}
+{"id": 14, "english": "^c3dbffIron Guard<CRLF><CRLF>^ffffffReduces final direct damage taken"}
+{"id": 15, "english": "^c3dbffIron Wall<CRLF><CRLF>^ffffffMax HP and damage resistance increased."}
+{"id": 16, "english": "^c3dbffIron Wall<CRLF><CRLF>^ffffffDefense increased"}
+{"id": 17, "english": "^c3dbffIron Armor<CRLF><CRLF>^ffffffDefense increased by 15"}
+{"id": 18, "english": "^c3dbffIron Armor<CRLF>^ffffffUse an explosion to blow away his Iron Armor status."}
+{"id": 19, "english": "^c3dbffIron Boss's Blessing<CRLF><CRLF>^ffffffAttack Power and Attack Strength increased"}
+{"id": 20, "english": "^c3dbffIron Blood Token<CRLF><CRLF>^ffffffAttack +50, Crit Resistance +10, Max HP +200"}
+{"id": 21, "english": "^c3dbffIron Treads Across Mountains and Rivers<CRLF><CRLF>^ffffffAutomatically grants the Title “Iron Treads Across Mountains and Rivers”"}
+{"id": 22, "english": "^c3dbffIron Cavalry<CRLF><CRLF>^ffffffStandard attack damage increased"}
+{"id": 23, "english": "^c3dbffInscribed Sorrow<CRLF>^ffffffDirect resistance reduced, Evasion reduced,<CRLF>unable to enter Stealth!<CRLF>"}
+{"id": 24, "english": "^c3dbffClanging Dance"}
+{"id": 25, "english": "^c3dbffLocked On<CRLF><CRLF>^ffffffYou have been locked on and are about to be attacked."}
+{"id": 26, "english": "^c3dbffLock On"}
+{"id": 27, "english": "^c3dbffLock On<CRLF><CRLF>^ffffffCrit increased"}
+{"id": 28, "english": "^c3dbffSpirit Lock<CRLF><CRLF>Stamina recovery reduced"}
+{"id": 29, "english": "^c3dbffFootlock<CRLF><CRLF>^ffffffChance to lose Stamina when hit."}
+{"id": 30, "english": "^c3dbffSharp Thrust<CRLF><CRLF>^ffffffCan chain into Rising Strike and Reverse Strike."}
+{"id": 31, "english": "^c3dbffSharp<CRLF><CRLF>^ffffffAttack +30"}
+{"id": 32, "english": "^c3dbffSharp<CRLF><CRLF>^ffffffHP recovery speed +15"}
+{"id": 33, "english": "^c3dbffSharpened Metal<CRLF><CRLF>^c3dbffAttack Points increased along with Attack Strength"}
+{"id": 34, "english": "^c3dbffBrilliant Stratagem<CRLF>^ffffffThe strategist's secret letter gives you a flash of insight!"}
+{"id": 35, "english": "^c3dbffBrocade Sail Strike<CRLF><CRLF>^ffffffDirect resistance reduced!"}
+{"id": 36, "english": "^c3dbffBrocade Sail Strike<CRLF><CRLF>^ffffffMovement speed reduced!"}
+{"id": 37, "english": "^c3dbffBorder Guard<CRLF><CRLF>^ffffffAbsorbs some damage"}
+{"id": 38, "english": "^c3dbffEvery Dart Delivers"}
+{"id": 39, "english": "^c3dbffMirror Refraction<CRLF><CRLF>^ffffffWhile Mirror Armor is active, each hit taken grants you a certain amount of Attack Power"}
+{"id": 40, "english": "^c3dbffMirror Armor<CRLF><CRLF>^ffffffReflects enemy attacks"}
+{"id": 41, "english": "^c3dbffMirror Armor Attack Boost<CRLF><CRLF>^ffffffEach stack of this effect increases Attack Power"}
+{"id": 42, "english": "^c3dbffLong Drive<CRLF><CRLF>^ffffffMovement Speed and Snare Resistance increased"}
+{"id": 43, "english": "^c3dbffLightning Wound<CRLF><CRLF>^ffffffSlowed and internally wounded by lightning; phantom attacks worsen the injury"}
+{"id": 44, "english": "^c3dbffEvasion Increased"}
+{"id": 45, "english": "^c3dbffEvasion Increased<CRLF>"}
+{"id": 46, "english": "^c3dbffEvasion Reduced"}
+{"id": 47, "english": "^c3dbffEvasion increased; high-level Windwalk also increases Defense"}
+{"id": 48, "english": "^c3dbffEvasion Reduced"}
+{"id": 49, "english": "^c3dbffMoonhide<CRLF><CRLF>^ffffffHitting the target may trigger the Passion status."}
+{"id": 50, "english": "^c3dbffMoonhide<CRLF><CRLF>^ffffffReduces final indirect damage taken"}
+{"id": 51, "english": "^c3dbffIndirect Resistance Reduced"}
+{"id": 52, "english": "^c3dbffDefense increased."}
+{"id": 53, "english": "^c3dbffDefensive Tactic<CRLF><CRLF>^ffffffA tactic used by shield-wielding generals.<CRLF>Once activated, grants bonus Defense<CRLF>and greatly increases indirect damage resistance."}
+{"id": 54, "english": "^c3dbffDefense Points Increased"}
+{"id": 55, "english": "^c3dbffDefense Points Increased<CRLF>"}
+{"id": 56, "english": "^c3dbffDefense Reduced"}
+{"id": 57, "english": "^c3dbffProtection<CRLF>^ffffffIncreases allies' Max HP"}
+{"id": 58, "english": "^c3dbffShadow<CRLF><CRLF>^ffffffHealing received reduced by 40%"}
+{"id": 59, "english": "^c3dbffRainy Weather<CRLF><CRLF>^ffffffStamina recovery reduced, resistance reduced."}
+{"id": 60, "english": "^c3dbffFormation<CRLF>^ffffffAn inspiring art that enhances chariot stats."}
+{"id": 61, "english": "^c3dbffFaction Adjustment"}
+{"id": 62, "english": "^c3dbffEarthen Possession<CRLF><CRLF>^ffffffDefense greatly increased"}
+{"id": 63, "english": "^c3dbffFiery Possession<CRLF><CRLF>^ffffffAttack Strength greatly increased"}
+{"id": 64, "english": "^c3dbffSpirit Possession<CRLF><CRLF>^ffffffAll resistances greatly increased"}
+{"id": 65, "english": "^c3dbffWindy Possession<CRLF><CRLF>^ffffffAttack Speed greatly increased<CRLF>"}
+{"id": 66, "english": "^c3dbffChen Gong's Stratagem<CRLF><CRLF>^ffffffLu Bu's fury will deal devastating damage to you"}
+{"id": 67, "english": "^c3dbffSnare<CRLF><CRLF>^ffffffYour movement speed has been restricted."}
+{"id": 68, "english": "^c3dbffSnare Resistance Increased"}
+{"id": 69, "english": "^c3dbffSnare Resistance Reduced"}
+{"id": 70, "english": "^c3dbffStealth<CRLF><CRLF>Conceals your presence."}
+{"id": 71, "english": "^c3dbffConcealment<CRLF><CRLF>Hidden in dust and sand, +100 Evasion."}
+{"id": 72, "english": "^c3dbffConcealment<CRLF><CRLF>Hidden in dust and sand, leaving no trace."}
+{"id": 73, "english": "^c3dbffHeld in Reserve<CRLF><CRLF>^ffffffContinuously restores Stamina"}
+{"id": 74, "english": "^c3dbffHeat Insulation<CRLF><CRLF>^ffffffReduces the effect of Inferno weather."}
+{"id": 75, "english": "^c3dbffIndescribable Flavor<CRLF>^ffffffThis smell makes you so sick you can barely move!"}
+{"id": 76, "english": "^c3dbffGreat Talent<CRLF><CRLF>^ffffffIncreases final indirect damage taken"}
+{"id": 77, "english": "^c3dbffFierce Valor<CRLF><CRLF>^ffffffCrit and Crit Damage increased"}
+{"id": 78, "english": "^c3dbffGrand Strategy<CRLF><CRLF>^ffffffSuccessfully eliminated all enemy generals!"}
+{"id": 79, "english": "^c3dbffFocused<CRLF><CRLF>^ffffffThis target is under attack and urgently needs healing."}
+{"id": 80, "english": "^c3dbffFocus Fire<CRLF><CRLF>^ffffffReduces attack interval by 0.5s, lasting up to 10 seconds or 5 hits"}
+{"id": 81, "english": "^c3dbffFocus Fire<CRLF><CRLF>^ffffffBonus damage increased"}
+{"id": 82, "english": "^c3dbffSoul-Collecting Chest<CRLF><CRLF>^ffffffSouls gather within the chest"}
+{"id": 83, "english": "^c3dbffAdd Frost to Snow<CRLF><CRLF>^ffffffTakes extra damage when HP is below 50%"}
+{"id": 84, "english": "^c3dbffBlessing of Snow<CRLF><CRLF>^ffffffPure white snowflakes give you their happiest wishes."}
+{"id": 85, "english": "^c3dbffSnow's Beauty<CRLF><CRLF>^ffffffPure white snowflakes give you their finest wishes."}
+{"id": 86, "english": "^c3dbffSnowball<CRLF><CRLF>^ffffffSnowballs are awesome!"}
+{"id": 87, "english": "^c3dbffSnowball Blessing<CRLF><CRLF>^ffffffYou were just hit by a blessing snowball!<CRLF>You cannot gain Blessed Snowflakes for ten minutes."}
+{"id": 88, "english": "^c3dbffFreezing Point<CRLF><CRLF>^ffffffFrozen"}
+{"id": 89, "english": "^c3dbffRain of Souls<CRLF>Next hit is a guaranteed crit"}
+{"id": 90, "english": "^c3dbffThunder God's Wrath<CRLF><CRLF>^ffffffGet away from the crowd!!!"}
+{"id": 91, "english": "^c3dbffLightning Strike Target<CRLF><CRLF>^ffffffYou have become the target of Lu Meng's Lightning Strike.<CRLF>You and nearby allies will suffer its effects."}
+{"id": 92, "english": "^c3dbffThunder Shakes the Nine Heavens<CRLF><CRLF>^ffffffNext use of Thunder Shakes the Nine Heavens has reduced cooldown and increased damage"}
+{"id": 93, "english": "^c3dbffThunder Tribulation<CRLF><CRLF>^ffffffContinuously loses HP."}
+{"id": 94, "english": "^c3dbffThunder Armor<CRLF><CRLF>^ffffffWild lightning shields the body, negating damage.<CRLF>Attacking Zhang Chunhua while she has Thunder Armor will paralyze you."}
+{"id": 95, "english": "^c3dbffThunder Armor Art<CRLF><CRLF>^ffffffAn armor art used by staff-wielding strategists.<CRLF>Once activated, all skills cast faster."}
+{"id": 96, "english": "^c3dbffNeed Rest<CRLF><CRLF>^ffffffThe stone is too heavy; you need to conserve Stamina."}
+{"id": 97, "english": "^c3dbffShock Wound<CRLF><CRLF>^ffffffAttack Strength reduced and Attack Points lowered."}
+{"id": 98, "english": "^c3dbffShock Wound<CRLF><CRLF>^ffffffReduces Attack Strength, Attack Points, and healing effect."}
+{"id": 99, "english": "^c3dbffEarthshake Anchor<CRLF><CRLF>^ffffffBriefly stuns and reduces movement speed."}
+{"id": 100, "english": "^c3dbffSky-Shaking Roar<CRLF><CRLF>^ffffffStartled, your Combat Energy and Stamina rapidly drop.<CRLF>Immediately use this unit's buff skill to cancel this status."}
+{"id": 101, "english": "^c3dbffIntimidation<CRLF><CRLF>^ffffffHit and Attack Power reduced.<CRLF><CRLF><CRLF>"}
+{"id": 102, "english": "^c3dbffShock Break<CRLF><CRLF>^ffffffDirect damage taken increased."}
+{"id": 103, "english": "^c3dbffUnstoppable Body<CRLF><CRLF>^ffffffEnters a damage-immune status."}
+{"id": 104, "english": "^c3dbffDominance<CRLF><CRLF>^ffffffWhile active, each attack generates 5 points of Combat Energy."}
+{"id": 105, "english": "^c3dbffDominance<CRLF><CRLF>^ffffffBeing hit may trigger the Rage status."}
+{"id": 106, "english": "^c3dbffOverlord<CRLF><CRLF>^ffffffAttack Power and Hit increased"}
+{"id": 107, "english": "^c3dbffGreen-Ringed Snake Venom<CRLF><CRLF>^ffffffAffected by green-ringed snake venom and unable to move.<CRLF>Use Green Leaf Herb to remove this status"}
+{"id": 108, "english": "^c3dbffGreen Snake Deadly Poison<CRLF><CRLF>^ffffffAffected by green snake venom;<CRLF>Attack Speed reduced, stacking up to 9 times.<CRLF>Use the Green Snake Gallbladder to remove this status."}
+{"id": 109, "english": "^c3dbffBronze Broken<CRLF>^ffffffCongratulations on clearing the Bronze Hall!<CRLF>You will be awarded the Continue Title!"}
+{"id": 110, "english": "^c3dbffAzure Dragon Entwine<CRLF><CRLF>^ffffffEvasion reduced!"}
+{"id": 111, "english": "^c3dbffSilence Curse<CRLF><CRLF>^ffffffYour spirit takes continuous damage until you use a skill"}
+{"id": 112, "english": "^c3dbffWhip Parry<CRLF><CRLF>^ffffffBlocks damage and resists stun and snare effects."}
+{"id": 113, "english": "^c3dbffFirecracker Mark<CRLF><CRLF>^ffffffYou've been marked by a brat - watch out!<CRLF>If hit by the juggler's flame, you'll be badly hurt"}
+{"id": 114, "english": "^c3dbffWhiplash<CRLF><CRLF>^ffffffAttacked while parrying with the whip, you ignite with fury and strike back."}
+{"id": 115, "english": "^c3dbffTailwind Weather<CRLF><CRLF>^ffffffMovement Speed and Attack Speed increased."}
+{"id": 116, "english": "^c3dbffGlancing Gaze<CRLF><CRLF>^ffffffAttack Power and Hit increased.<CRLF>"}
+{"id": 117, "english": "^c3dbffDance of Omens<CRLF><CRLF>^ffffffEnter the dream of the Dance of Omens; each hit restores your HP"}
+{"id": 118, "english": "^c3dbffExtra 2<CRLF><CRLF>^ffffffExtra."}
+{"id": 119, "english": "^c3dbffExtra Codex Reward<CRLF><CRLF>^ffffffExtra Reward"}
+{"id": 120, "english": "^c3dbffExtra Reward<CRLF>^ffffffReceived an extra reward!"}
+{"id": 121, "english": "^c3dbffAid of the Wind<CRLF><CRLF>^ffffffReduces movement speed and attack speed"}
+{"id": 122, "english": "^c3dbffAid of the Wind<CRLF><CRLF>^ffffffIncreases movement speed"}
+{"id": 123, "english": "^c3dbffWind Accord<CRLF><CRLF>^ffffffIncreases Hit rate"}
+{"id": 124, "english": "^c3dbffWind Sweeps the Clouds<CRLF><CRLF>^ffffffYou were hit by Wind Sweeps the Clouds,<CRLF>losing 30% of your max HP.<CRLF>If hit by Wind Sweeps the Clouds again while in this status,<CRLF>you lose 60% of your max HP.<CRLF>"}
+{"id": 125, "english": "^c3dbffWind Sweeps the Clouds<CRLF><CRLF>^ffffffEvasion increased"}
+{"id": 126, "english": "^c3dbffWind Guard<CRLF><CRLF>^ffffffIncreases melee attack speed"}
+{"id": 127, "english": "^c3dbffWind Guard<CRLF><CRLF>^ffffffIncreases ranged attack speed"}
+{"id": 128, "english": "^c3dbffWind Shield<CRLF><CRLF>^ffffffIncreases Evasion"}
+{"id": 129, "english": "^c3dbffWind Spirit Protection<CRLF><CRLF>^ffffffWhile Wind Spirit Protection is active, each enemy attack may root for 3 seconds"}
+{"id": 130, "english": "^c3dbffWind Spirit Bind<CRLF><CRLF>^ffffffBound by the wind spirit; rooted for 3 seconds"}
+{"id": 131, "english": "^c3dbffWind Armor<CRLF><CRLF>^ffffffSurrounded by whirlwinds, negating damage."}
+{"id": 132, "english": "^c3dbffWind Armor Art<CRLF><CRLF>^ffffffAn armor art used by fan-wielding strategists.<CRLF>Once activated, Stamina recovery and Evasion are increased."}
+{"id": 133, "english": "^c3dbffWind Shield<CRLF><CRLF>^ffffffWhile the wind shield protects you, enemy attacks grant you extra effects"}
+{"id": 134, "english": "^c3dbffWindwalk<CRLF><CRLF>^ffffffIncreases movement speed"}
+{"id": 135, "english": "^c3dbffWindwalk<CRLF><CRLF>^ffffffIgnores all statuses that impede movement"}
+{"id": 136, "english": "^c3dbffWindwalk<CRLF><CRLF>^ffffffEvasion increased"}
+{"id": 137, "english": "^c3dbffWindwalk<CRLF><CRLF>Evasion increased"}
+{"id": 138, "english": "^c3dbffWindwalk<CRLF>^ffffffIncreases allies' Evasion"}
+{"id": 139, "english": "^c3dbffWind Strike<CRLF><CRLF>^ffffffAttack Speed and Hit reduced"}
+{"id": 140, "english": "^c3dbffWind Strike<CRLF><CRLF>^ffffffMovement Speed, Attack Speed, and Cast Speed reduced"}
+{"id": 141, "english": "^c3dbffWind Formation<CRLF><CRLF>^ffffffPierce Points increased"}
+{"id": 142, "english": "^c3dbffWind Formation<CRLF><CRLF>^ffffffIncreases allies' Pierce Points"}
+{"id": 143, "english": "^c3dbffWind Drag<CRLF><CRLF>^ffffffReduces movement speed"}
+{"id": 144, "english": "^c3dbffStorm<CRLF><CRLF>^ffffffThe enemy has captured the Seven-Star Altar and is manipulating the weather to hinder our side.<CRLF><CRLF>"}
+{"id": 145, "english": "^c3dbffHurricane's Sorrow<CRLF><CRLF>^ffffffStruck by consecutive hurricanes, stunned for 4 seconds"}
+{"id": 146, "english": "^c3dbffFlying Sand and Stones<CRLF><CRLF>^ffffffAn ancient arcane art; those struck cannot move and struggle to attack."}
+{"id": 147, "english": "^c3dbffPower of Flying Fire<CRLF><CRLF>^ffffffMounted Combat Pierce increased"}
+{"id": 148, "english": "^c3dbffFlying Swallow<CRLF><CRLF>^ffffffEvasion increased"}
+{"id": 149, "english": "^c3dbffFlying Swallow Allure<CRLF><CRLF>^ffffffDamage resistance increased"}
+{"id": 150, "english": "^c3dbffFlying Grapple<CRLF><CRLF>^ffffffAgile as a flying grapple;<CRLF>when attacked, you have a chance to gain the Nimble status, dodging all attacks"}
+{"id": 151, "english": "^c3dbffFood<CRLF><CRLF>^ffffffRestores HP."}
+{"id": 152, "english": "^c3dbffFood Chain<CRLF>^ffffffAn irresistible instinct."}
+{"id": 153, "english": "^c3dbffHunger<CRLF><CRLF>^ffffffOh no - the army rations have been plundered!"}
+{"id": 154, "english": "^c3dbffDrink<CRLF><CRLF>^ffffffRestores Stamina."}
+{"id": 155, "english": "^c3dbffSaturated<CRLF>^ffffffYour condition is already at its best; it cannot be boosted further!"}
+{"id": 156, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffHit increased.<CRLF>Only one food effect can be active at a time."}
+{"id": 157, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffHP recovery outside combat increased.<CRLF>Only one food effect can be active at a time."}
+{"id": 158, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffAttack Power and HP recovery speed increased,<CRLF>only one food effect can be active at a time."}
+{"id": 159, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffAttack Power and Defense increased,<CRLF>only one food effect can be active at a time."}
+{"id": 160, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffAttack Power increased.<CRLF>Only one food effect can be active at a time."}
+{"id": 161, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffAttack Power increased,<CRLF>only one food effect can be active at a time."}
+{"id": 162, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffCritical hit stats increased.<CRLF>Only one food effect can be active at a time."}
+{"id": 163, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffHP recovery speed increased"}
+{"id": 164, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffHP recovery speed increased,<CRLF>only one food effect can be active at a time."}
+{"id": 165, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffMax HP and Attack Power increased,<CRLF>only one food effect can be active at a time."}
+{"id": 166, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffMax HP and HP recovery speed increased,<CRLF>only one food effect can be active at a time."}
+{"id": 167, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffMax HP and Defense increased,<CRLF>only one food effect can be active at a time."}
+{"id": 168, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffMax HP increased.<CRLF>Only one food effect can be active at a time."}
+{"id": 169, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffMax HP increased,<CRLF>only one food effect can be active at a time."}
+{"id": 170, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffWith ample rations, you feel more energetic."}
+{"id": 171, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffEvasion increased.<CRLF>Only one food effect can be active at a time."}
+{"id": 172, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffDefense and HP recovery speed increased,<CRLF>only one food effect can be active at a time."}
+{"id": 173, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffDefense increased.<CRLF>Only one food effect can be active at a time."}
+{"id": 174, "english": "^c3dbffWell Fed<CRLF><CRLF>^ffffffDefense increased,<CRLF>only one food effect can be active at a time."}
+{"id": 175, "english": "^c3dbffWell Fed<CRLF>^ffffffWith abundant army rations, the officers and soldiers of your faction have grown stronger!"}
+{"id": 176, "english": "^c3dbffMounted Combat Mastery<CRLF><CRLF>^ffffffYou dismounted while in Mounted Combat status;<CRLF>next time you mount, you will automatically enter Mounted Combat status."}
+{"id": 177, "english": "^c3dbffCarriage Appears<CRLF><CRLF>^ffffffThe carriage has appeared."}
+{"id": 178, "english": "^c3dbffWater Mastery<CRLF><CRLF>^ffffffReduces final critical damage taken"}
+{"id": 179, "english": "^c3dbffDispel<CRLF><CRLF>^ffffffDispels Shield Bash"}
+{"id": 180, "english": "^c3dbffValiant<CRLF><CRLF>^ffffffAttack Power greatly increased"}
+{"id": 181, "english": "^c3dbffMounted Haste<CRLF><CRLF>^ffffffThis unit is in Mounted Haste, increasing movement speed."}
+{"id": 182, "english": "^c3dbffAttacked While Mounted<CRLF><CRLF>^ffffffAttacked while mounted!"}
+{"id": 183, "english": "^c3dbffMounted<CRLF><CRLF>^ffffffThis unit is mounted, increasing movement speed."}
+{"id": 184, "english": "^c3dbffMounted Combat Haste<CRLF><CRLF>^ffffffThis unit is in Mounted Combat Haste, increasing movement speed."}
+{"id": 185, "english": "^c3dbffMounted Combat<CRLF><CRLF>^ffffffThis unit is in Mounted Combat, increasing movement speed,<CRLF>but the horse's resistance to all damage is reduced.<CRLF>^ffffffWhile in this status, you cannot use the whip to speed up."}
+{"id": 186, "english": "^c3dbffExpert Difficulty<CRLF>^ffffffRecommended for heroes at Level 50."}
+{"id": 187, "english": "^c3dbffGreater Dispel"}
+{"id": 188, "english": "^c3dbffGhost Gate Art<CRLF><CRLF>^ffffffHealing effect reduced to 0, Defense reduced to 0."}
+{"id": 189, "english": "^c3dbffPhantom Counter<CRLF><CRLF>^ffffffBeing hit grants bonus direct resistance"}
+{"id": 190, "english": "^c3dbffPhantom Movement<CRLF><CRLF>^ffffffGuaranteed to dodge one enemy attack"}
+{"id": 191, "english": "^c3dbffPhantom Exhaustion<CRLF><CRLF>^ffffffToo much energy spent; you need to rest<CRLF>and cannot concentrate right now.<CRLF><CRLF>"}
+{"id": 192, "english": "^c3dbffSouldepth<CRLF>Increases Max HP"}
+{"id": 193, "english": "^c3dbffSoul Armor<CRLF><CRLF>^ffffffSacrifices Attack for Defense!"}
+{"id": 194, "english": "^c3dbffPhantom Shadow<CRLF><CRLF>^ffffffCrit resistance increased."}
+{"id": 195, "english": "^c3dbffCharm<CRLF><CRLF>^ffffffAttack Strength and Hit reduced"}
+{"id": 196, "english": "^c3dbffCharm<CRLF><CRLF>^ffffffUnable to attack; interrupted by damage."}
+{"id": 197, "english": "^c3dbffCharm<CRLF><CRLF>^ffffffUnable to act; broken after taking several hits."}
+{"id": 198, "english": "^c3dbffCharm<CRLF><CRLF>^ffffffDiaochan's charm is irresistible - if healed, you fall asleep!"}
+{"id": 199, "english": "^c3dbffWei Defeat<CRLF><CRLF>^ffffffWei has been defeated in this kingdom war"}
+{"id": 200, "english": "^c3dbffWei Soldier<CRLF><CRLF>^ffffffElite soldiers of Wei."}
+{"id": 201, "english": "^c3dbffWei Victory<CRLF><CRLF>^ffffffWei has won the kingdom war."}
+{"id": 202, "english": "^c3dbffWei Victory<CRLF>^ffffffShu defeated at Wuzhang Plains<CRLF>^ffffffWu defeated at Wuzhang Plains"}
+{"id": 203, "english": "^c3dbffLuan Chases the Moon<CRLF>Increases Attack Power"}
+{"id": 204, "english": "^c3dbffParalyzed<CRLF><CRLF>^ffffffYou lose control of yourself;<CRLF>unable to attack or use skills."}
+{"id": 205, "english": "^c3dbffParalyzed<CRLF><CRLF>^ffffffUnable to move or attack, and continuously losing HP."}
+{"id": 206, "english": "^c3dbffParalyzed<CRLF><CRLF>^ffffffHP recovery reduced."}
+{"id": 207, "english": "^c3dbffParalyzed<CRLF><CRLF>^ffffffThis unit is paralyzed and cannot move or attack,<CRLF>taking continuous damage"}
+{"id": 208, "english": "^c3dbffYellow Turban<CRLF><CRLF>^ffffffThis isn't good"}
+{"id": 209, "english": "^c3dbffHuang Zhong Trial Victory<CRLF>^ffffffCongratulations on defeating Huang Zhong!<CRLF>"}
+{"id": 210, "english": "^c3dbffBraised Python Gall<CRLF><CRLF>^ffffffConsumed immortal-realm cuisine; Defense greatly increased for five minutes"}
+{"id": 211, "english": "^c3dbffGolden Hall<CRLF>^ffffffExtraordinary power."}
+{"id": 212, "english": "^c3dbffMuted<CRLF><CRLF>^ffffffUnable to use skills"}
+{"id": 213, "english": "^c3dbffDrum of Life<CRLF>^ffffffIncreases the healing effect on allies"}
+{"id": 214, "english": "^c3dbffDrum Boost<CRLF><CRLF>^c3dbffIncreases Max HP and Max Stamina"}
+{"id": 215, "english": "^c3dbffInspire<CRLF><CRLF>^ffffffAttack Power greatly increased"}
+{"id": 216, "english": "^c3dbffInspire<CRLF><CRLF>^ffffffThis target is inspired;<CRLF>Max HP increased."}
+{"id": 217, "english": "^c3dbffInspire<CRLF><CRLF>^ffffffHorse's direct damage resistance increased."}
+{"id": 218, "english": "^c3dbffDragon's Courage<CRLF><CRLF>^ffffffImmune to slow and root effects"}
+{"id": 219, "english": "^c3dbffDragon's Courage<CRLF><CRLF>^ffffffBeing hit may grant the Fearless status"}
+{"id": 220, "english": "^c3dbffDragon's Stride<CRLF><CRLF>^ffffffAttack Power increased"}
+{"id": 221, "english": "^ffcb4aRanking Notes: ^ffffffLegions ranked in the top 50 of last week's overall Activity leaderboard may apply for a legion base from Zhou Minglei at Cloud                         Terrace in Chang'an City."}
+{"id": 222, "english": "^ffcb4aRanking Notes: ^ffffffThis leaderboard unlocks only after 30 or more players on the server have obtained the Merchant Guild Master Title. It refreshes every Monday."}
+{"id": 223, "english": "^ffcb4aRanking Notes: ^ffffffThis leaderboard refreshes every Monday. Participate in the Wuzhang Plains battlefield and complete in-battlefield quests to earn Contribution."}
+{"id": 224, "english": "^ffcb4aRanking Notes: ^ffffffThis leaderboard refreshes on the first Monday of each month; ranking statistics                      cutoff on the last day of the previous month."}
+{"id": 225, "english": "^ffcb4aRanking Notes: ^ffffffThis leaderboard refreshes on the first Monday of each month; ranking statistics                    cutoff on the last day of the previous month."}
+{"id": 226, "english": "^ffcb4aRanking Notes: ^ffffffThis leaderboard refreshes on the first Monday of each month; statistics cutoff on the last day of the previous month."}
+{"id": 227, "english": "^ffcb4aRanking Notes: ^ffffffThis leaderboard refreshes once a day; statistics cutoff at 6:00 on August 27."}
+{"id": 228, "english": "^ffffffThe fairy scatters flowers; everyone in the valley is full of spirit.<CRLF>Max HP increased by 500"}
+{"id": 229, "english": "^ffffffYou have gained the power of the armored zombie!"}
+{"id": 230, "english": "^ffffffUsing Ice Spike costs nothing"}
+{"id": 231, "english": "^ffffffUsing Wind Orb costs nothing"}
+{"id": 232, "english": "^ffffffReflects stun"}
+{"id": 233, "english": "^ffffffNearby units and yourself continuously lose HP"}
+{"id": 234, "english": "^ffffffThe treasure tree drops loot<CRLF>Only the destined may obtain its treasure<CRLF>Hold the “Tree-Chopping Token” and this status to claim the treasure"}
+{"id": 235, "english": "^ffffffReceived the Defender's Blessing once!<CRLF>Collect 3 Defender's Blessings to claim your Battle Merit reward!"}
+{"id": 236, "english": "^ffffffReceived the Defender's Blessing twice!<CRLF>Collect 3 Defender's Blessings to claim your Battle Merit reward!"}
+{"id": 237, "english": "^ffffffReceived the Defender's Blessing three times!<CRLF>Collect 3 Defender's Blessings to claim your Battle Merit reward!"}
+{"id": 238, "english": "^ffffffThe Nian Beast will no longer take damage from firecrackers."}
+{"id": 239, "english": "^ffffffCongratulations on your victory!"}
+{"id": 240, "english": "^ffffffCongratulations on winning!"}
+{"id": 241, "english": "^ffffffYou have defeated the Juggler Captain!"}
+{"id": 242, "english": "^ffffffDamage taken increased"}
+{"id": 243, "english": "^ffffffAttack Power and Defense greatly increased"}
+{"id": 244, "english": "^ffffffAttack Strength and Attack Speed reduced"}
+{"id": 245, "english": "^ffffffUnable to use ointment"}
+{"id": 246, "english": "^ffffffThe Star Thunder Art has been dispelled."}
+{"id": 247, "english": "^ffffffCrit resistance increased"}

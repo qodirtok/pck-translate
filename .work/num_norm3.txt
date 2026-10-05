@@ -1,0 +1,38 @@
+records with a real numeric defect: 1032 of 8947
+   231 x  missing=[('1', 1)] added=[]
+   122 x  missing=[('4', 1)] added=[]
+    82 x  missing=[] added=[('1', 1)]
+    79 x  missing=[('1000', 1)] added=[]
+    70 x  missing=[] added=[('2', 1)]
+    46 x  missing=[('5', 1)] added=[]
+    45 x  missing=[('100', 1)] added=[]
+    44 x  missing=[('2', 1)] added=[]
+    33 x  missing=[] added=[('5', 1)]
+    22 x  missing=[('1', 2)] added=[]
+    22 x  missing=[('3', 1)] added=[]
+    19 x  missing=[] added=[('1', 1), ('2', 1)]
+
+### batch_000/4  missing={'1': 1} added={}
+   SRC: ' ^c3dbff火种<CRLF><CRLF>^ffffff兵器：杖\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300015体力<CRLF>招式：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却10秒<CRLF><CRLF>向前方敌人扔出一颗火种，<CRLF>对其造成较小伤害并减速1.5米/秒，持续5秒。<CRLF>击中可以获得5点斗气。<CRLF>一定几率对目标造成溅射效果。'
+   DST: ' ^c3dbffFire Seed<CRLF><CRLF>^ffffffWeapon: Staff\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300015 Stamina<CRLF>Move: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000Cooldown 10 sec<CRLF><CRLF>Hurl a Fire Seed at the enemies ahead,<CRLF>deali'
+### batch_000/35  missing={'15': 1} added={'2015': 1}
+   SRC: '15年五一劳动节奖励'
+   DST: '2015 Labor Day Reward'
+### batch_000/109  missing={'1': 1} added={}
+   SRC: 'NPC-一剑凌风'
+   DST: 'NPC - Sword of the Gale'
+### batch_000/132  missing={} added={'1': 1}
+   SRC: 'PVP战车第一次开矿军械'
+   DST: 'PVP Chariot First Mining Ordnance'
+### batch_000/133  missing={} added={'1': 1}
+   SRC: 'PVP战车第一次开矿发矿'
+   DST: 'PVP Chariot First Mining Ore Grant'
+### batch_000/145  missing={'1': 2} added={}
+   SRC: '^c3dbff一剑凌风<CRLF><CRLF>^ffffff兵器：剑\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300060斗气\u30005体力<CRLF>必杀：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却2分钟<CRLF><CRLF>剑锋指向，威力非凡。<CRLF>快速展动身形，对周围多个随机目标<CRLF>造成375%%基础伤害。<CRLF>给所有遭受攻击的敌人造成刺伤效果。<CRLF><CRLF'
+   DST: '^c3dbffSword of the Gale<CRLF><CRLF>^ffffffWeapon: Sword\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300060 Fighting Qi\u30005 Stamina<CRLF>Finisher: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Cooldown 2 min<CRLF><CRLF>Sword-point aimed true, p'
+### batch_000/146  missing={'1': 2} added={}
+   SRC: '^c3dbff一剑凌风<CRLF><CRLF>^ffffff兵器：剑\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300060斗气\u30005体力<CRLF>必杀：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却2分钟<CRLF><CRLF>剑锋指向，威力非凡。<CRLF>快速展动身形，对周围多个随机目标<CRLF>造成375%%基础伤害。<CRLF>给所有遭受攻击的敌人造成溅射效果，持续15秒。<CRLF'
+   DST: '^c3dbffSword of the Gale<CRLF><CRLF>^ffffffWeapon: Sword\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300060 Fighting Qi\u30005 Stamina<CRLF>Finisher: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Cooldown 2 min<CRLF><CRLF>Sword-point aimed true, p'
+### batch_000/147  missing={'1': 1} added={}
+   SRC: '^c3dbff一剑凌风<CRLF><CRLF>^ffffff兵器：剑\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300075斗气\u30005体力<CRLF>必杀：瞬发\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冷却2分钟<CRLF><CRLF>剑锋指向，威力非凡。<CRLF>释放所有怒气攻击身前直线范围内的多个敌人，<CRLF>造成375%%基础伤害。<CRLF>给所有遭受攻击的敌人造成刺伤效果。'
+   DST: '^c3dbffSword of the Gale<CRLF><CRLF>^ffffffWeapon: Sword\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u300075 Fighting Qi\u30005 Stamina<CRLF>Finisher: Instant\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Cooldown 2 min<CRLF><CRLF>Sword-point aimed true, p'
